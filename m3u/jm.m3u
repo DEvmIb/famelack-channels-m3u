@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="UoDD2CPivGLf3H" tvg-chno="1" group-title="famelack (jm) [jm] [False]" tvg-logo="", MTM TV
+https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
+#EXTINF:0001 tvg-id="BeW3PAeEGZgHvP" tvg-chno="2" group-title="famelack (jm) [jm] [False]" tvg-logo="", TVJ
+https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8

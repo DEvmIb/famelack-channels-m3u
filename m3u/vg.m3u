@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="efuDySoKxpVOBQ" tvg-chno="1" group-title="famelack (vg) [vg] [False]" tvg-logo="", CBN Gospel
+https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
+#EXTINF:0001 tvg-id="BIFUNmxz0Kk7LC" tvg-chno="2" group-title="famelack (vg) [vg] [False]" tvg-logo="", CBN TV
+https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8

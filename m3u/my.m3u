@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="xJcplFZvvoAwWP" tvg-chno="1" group-title="famelack (my) [my] [False]" tvg-logo="", Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:0001 tvg-id="hliOSpRjIJIon0" tvg-chno="2" group-title="famelack (my) [my] [False]" tvg-logo="", PRO Sport International
+https://proshls.wns.live/hls/stream.m3u8

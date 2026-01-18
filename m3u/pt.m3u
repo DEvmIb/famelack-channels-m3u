@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="MYnHsDG9stKwV8" tvg-chno="1" group-title="famelack (pt) [pt] [False]" tvg-logo="", ARTV Canal Parlamento
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:0001 tvg-id="xoEKmYJhUCh2jH" tvg-chno="2" group-title="famelack (pt) [pt] [False]" tvg-logo="", Famatv
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:0001 tvg-id="b7x9FsdKa3CXRR" tvg-chno="3" group-title="famelack (pt) [pt] [False]" tvg-logo="", Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="Mi17BkbSFMtULi" tvg-chno="4" group-title="famelack (pt) [pt] [False]" tvg-logo="", Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="FvVFbOQRNLjmw4" tvg-chno="5" group-title="famelack (pt) [pt] [False]" tvg-logo="", Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="fBFq4m9K2qmDVa" tvg-chno="6" group-title="famelack (pt) [pt] [False]" tvg-logo="", Maná Church Online
+https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="TrC35T74Zxe5uK" tvg-chno="7" group-title="famelack (pt) [pt] [False]" tvg-logo="", Maná Cirkev Online
+https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="6a0uMnCPmvoNNv" tvg-chno="8" group-title="famelack (pt) [pt] [False]" tvg-logo="", Maná Église Online
+https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="L7FZh6x4RpxcuN" tvg-chno="9" group-title="famelack (pt) [pt] [False]" tvg-logo="", Maná Iglesia Online
+https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="YoDeMa770rI1x3" tvg-chno="10" group-title="famelack (pt) [pt] [False]" tvg-logo="", Maná Igreja Online
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="T0peL8PwNvsJdS" tvg-chno="11" group-title="famelack (pt) [pt] [False]" tvg-logo="", Maná Tserkov' Onlayn
+https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="IZQODhKSC8M8Bj" tvg-chno="12" group-title="famelack (pt) [pt] [False]" tvg-logo="", NPC Radio e TV
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
+#EXTINF:0001 tvg-id="oGBDTLuvXcCKsV" tvg-chno="13" group-title="famelack (pt) [pt] [False]" tvg-logo="", ON FM
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:0001 tvg-id="xjxSZKwVluReVC" tvg-chno="14" group-title="famelack (pt) [pt] [False]" tvg-logo="", Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="2BcOyELn5Fzp9Z" tvg-chno="15" group-title="famelack (pt) [pt] [False]" tvg-logo="", Rádio Sines
+https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="Fv8cd5HoZ9hOmr" tvg-chno="16" group-title="famelack (pt) [pt] [False]" tvg-logo="", Rakuten Documentários
+https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
+#EXTINF:0001 tvg-id="f3d5bwXA32dvOT" tvg-chno="17" group-title="famelack (pt) [pt] [False]" tvg-logo="", Rakuten Família
+https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
+#EXTINF:0001 tvg-id="PUdpiv6E36htAt" tvg-chno="18" group-title="famelack (pt) [pt] [False]" tvg-logo="", RFPtv
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+#EXTINF:0001 tvg-id="ysSEMiqN72tgpi" tvg-chno="19" group-title="famelack (pt) [pt] [False]" tvg-logo="", RTP Internacional
+https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
+#EXTINF:0001 tvg-id="wviT8L1evQdgaR" tvg-chno="20" group-title="famelack (pt) [pt] [False]" tvg-logo="", SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:0001 tvg-id="BBK4hly6KfFfCg" tvg-chno="21" group-title="famelack (pt) [pt] [False]" tvg-logo="", TV Maná 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="JlHryQxDwVLHg0" tvg-chno="22" group-title="famelack (pt) [pt] [False]" tvg-logo="", TV Maná 2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="DL3EgvbZO9lWun" tvg-chno="23" group-title="famelack (pt) [pt] [False]" tvg-logo="", TV Maná Brasil
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="AYfwJJv9lFTrbg" tvg-chno="24" group-title="famelack (pt) [pt] [False]" tvg-logo="", TV Maná English
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="FgMKnYJCkoFkke" tvg-chno="25" group-title="famelack (pt) [pt] [False]" tvg-logo="", TV Maná Español
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="AK8TPo31eEvVw4" tvg-chno="26" group-title="famelack (pt) [pt] [False]" tvg-logo="", TV Maná Russkiy
+https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="8Zval48r5m3T99" tvg-chno="27" group-title="famelack (pt) [pt] [False]" tvg-logo="", TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:0001 tvg-id="UwFMaejHQHC8jC" tvg-chno="28" group-title="famelack (pt) [pt] [False]" tvg-logo="", TVI África
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:0001 tvg-id="YLH7tSL9ZYL5tA" tvg-chno="29" group-title="famelack (pt) [pt] [False]" tvg-logo="", TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:0001 tvg-id="tGv4j2p1NLefx4" tvg-chno="30" group-title="famelack (pt) [pt] [False]" tvg-logo="", TVI Reality
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:0001 tvg-id="T3Gkrq05ByAYXs" tvg-chno="31" group-title="famelack (pt) [pt] [False]" tvg-logo="", V+ TVI
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8

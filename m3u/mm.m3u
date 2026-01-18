@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="cdsVyojNjKqygk" tvg-chno="1" group-title="famelack (mm) [mm] [False]" tvg-logo="", Mahar TV
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:0001 tvg-id="9u1e1mR4BwFrA1" tvg-chno="2" group-title="famelack (mm) [mm] [False]" tvg-logo="", MRTV 4
+https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/manifest.m3u8

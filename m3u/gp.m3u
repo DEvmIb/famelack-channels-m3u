@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="5FpDtkfHBqWmGc" tvg-chno="1" group-title="famelack (gp) [gp] [False]" tvg-logo="", ETV
+https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
+#EXTINF:0001 tvg-id="QxPzLGnZPWA96s" tvg-chno="2" group-title="famelack (gp) [gp] [False]" tvg-logo="", Madras FM TV
+https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+#EXTINF:0001 tvg-id="wyglbGJXWbBKjH" tvg-chno="3" group-title="famelack (gp) [gp] [False]" tvg-logo="", Radio TV Basse-Terre
+https://vdo.ssl-stream.com:3412/stream/play.m3u8
+#EXTINF:0001 tvg-id="d9hZfLvD7LqKMb" tvg-chno="4" group-title="famelack (gp) [gp] [False]" tvg-logo="", RHT Guadeloupe
+https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8

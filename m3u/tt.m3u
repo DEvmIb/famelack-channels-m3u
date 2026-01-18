@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="1OpiVT5iq4hK2S" tvg-chno="1" group-title="famelack (tt) [tt] [False]" tvg-logo="", Sankhya TV
+https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8
+#EXTINF:0001 tvg-id="SqSfmV0O3IXxv0" tvg-chno="2" group-title="famelack (tt) [tt] [False]" tvg-logo="", The Islamic Network
+https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8

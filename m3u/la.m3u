@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="GDQQWclV0N9VoZ" tvg-chno="1" group-title="famelack (la) [la] [False]" tvg-logo="", Brian TV
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="QJYWAeervR0pdM" tvg-chno="2" group-title="famelack (la) [la] [False]" tvg-logo="", Dao Lane Xang
+https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="dQDL6kdDKRmIMz" tvg-chno="3" group-title="famelack (la) [la] [False]" tvg-logo="", Hmong Star TV
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="GPPVD5irGB7ygk" tvg-chno="4" group-title="famelack (la) [la] [False]" tvg-logo="", ISTV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="izQmXYhKIm9HK3" tvg-chno="5" group-title="famelack (la) [la] [False]" tvg-logo="", Lao Net TV
+https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="oMhYmCaf0w71Vh" tvg-chno="6" group-title="famelack (la) [la] [False]" tvg-logo="", Look Thoong TV
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="mVxVh0IAxmzQFX" tvg-chno="7" group-title="famelack (la) [la] [False]" tvg-logo="", LS TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="Qdkmra0BcLu5AY" tvg-chno="8" group-title="famelack (la) [la] [False]" tvg-logo="", MV Lao TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
+#EXTINF:0001 tvg-id="tWHtH7rPvgGlIk" tvg-chno="9" group-title="famelack (la) [la] [False]" tvg-logo="", NAT TV
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="ZHvB1aVYlbRtJ0" tvg-chno="10" group-title="famelack (la) [la] [False]" tvg-logo="", Ning TV
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="yJwVz4Y5vEHQFr" tvg-chno="11" group-title="famelack (la) [la] [False]" tvg-logo="", Oh Muang Lao TV
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+#EXTINF:0001 tvg-id="o1y4uHjF70VfBg" tvg-chno="12" group-title="famelack (la) [la] [False]" tvg-logo="", Vati Lao TV
+https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8

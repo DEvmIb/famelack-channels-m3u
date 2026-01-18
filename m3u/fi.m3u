@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="Wd5LQK7QYkvnE1" tvg-chno="1" group-title="famelack (fi) [fi] [False]" tvg-logo="", 5-Minute Craft
+https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="ZsOJRyJmqi98FC" tvg-chno="2" group-title="famelack (fi) [fi] [False]" tvg-logo="", BBC Top Gear Finland
+https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="LFEZiBCKA07F1H" tvg-chno="3" group-title="famelack (fi) [fi] [False]" tvg-logo="", Come Dine With Me
+https://amg00654-itv-amg00654c2-rakuten-uk-1281.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-rakutenuk/playlist.m3u8
+#EXTINF:0001 tvg-id="f0wcRTXZi1OLrF" tvg-chno="4" group-title="famelack (fi) [fi] [False]" tvg-logo="", Eveo
+https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
+#EXTINF:0001 tvg-id="6K6oFgTHq5fj7V" tvg-chno="5" group-title="famelack (fi) [fi] [False]" tvg-logo="", Hero
+https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
+#EXTINF:0001 tvg-id="RXkTjTqpb8UDSl" tvg-chno="6" group-title="famelack (fi) [fi] [False]" tvg-logo="", Himlen TV7
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="Ll5s2H0UCXnUdm" tvg-chno="7" group-title="famelack (fi) [fi] [False]" tvg-logo="", InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="plB7keRPLB8ziF" tvg-chno="8" group-title="famelack (fi) [fi] [False]" tvg-logo="", Jim
+https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
+#EXTINF:0001 tvg-id="f8OcMZj8nk12cd" tvg-chno="9" group-title="famelack (fi) [fi] [False]" tvg-logo="", JRTV Järviradio
+https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
+#EXTINF:0001 tvg-id="vXBPuMXUanBxnj" tvg-chno="10" group-title="famelack (fi) [fi] [False]" tvg-logo="", MTV Ava
+https://live-fi.tvkaista.net/ava/live.m3u8
+#EXTINF:0001 tvg-id="XIT46ZkepuHyd7" tvg-chno="11" group-title="famelack (fi) [fi] [False]" tvg-logo="", MTV Sub
+https://live-fi.tvkaista.net/sub/live.m3u8
+#EXTINF:0001 tvg-id="ymyzvymgU1533k" tvg-chno="12" group-title="famelack (fi) [fi] [False]" tvg-logo="", MTV Uutiset
+https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+#EXTINF:0001 tvg-id="sJ0IwCxQ3PFQw5" tvg-chno="13" group-title="famelack (fi) [fi] [False]" tvg-logo="", MTV3
+https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:0001 tvg-id="z3QTyvg0mqUEif" tvg-chno="14" group-title="famelack (fi) [fi] [False]" tvg-logo="", NärTV
+https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
+#EXTINF:0001 tvg-id="sC5wiasOvc6i5v" tvg-chno="15" group-title="famelack (fi) [fi] [False]" tvg-logo="", NatureTime Finland
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="ic6PikdPKAa3mo" tvg-chno="16" group-title="famelack (fi) [fi] [False]" tvg-logo="", Nelonen
+https://live-fi.tvkaista.net/nelonen/live.m3u8
+#EXTINF:0001 tvg-id="2woYjnnnE6JSW8" tvg-chno="17" group-title="famelack (fi) [fi] [False]" tvg-logo="", Nopola News
+https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="knoFkqODtHFsAU" tvg-chno="18" group-title="famelack (fi) [fi] [False]" tvg-logo="", Onni TV
+https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
+#EXTINF:0001 tvg-id="WJxJB7lKSKz27v" tvg-chno="19" group-title="famelack (fi) [fi] [False]" tvg-logo="", Rakuten TV Romance Movies Finland
+https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
+#EXTINF:0001 tvg-id="EDWW7TL07yMVj8" tvg-chno="20" group-title="famelack (fi) [fi] [False]" tvg-logo="", STAR Channel (Finland)
+https://live-fi.tvkaista.net/star-channel/live.m3u8
+#EXTINF:0001 tvg-id="5kldbIEO7owMXN" tvg-chno="21" group-title="famelack (fi) [fi] [False]" tvg-logo="", Taevas TV7
+https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="xqKdOYRVMSVleX" tvg-chno="22" group-title="famelack (fi) [fi] [False]" tvg-logo="", Taivas TV7
+https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="VwGLdAillsoWR5" tvg-chno="23" group-title="famelack (fi) [fi] [False]" tvg-logo="", Viaplay TV (Finland)
+https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
+#EXTINF:0001 tvg-id="3kvMeRQNc7yJgV" tvg-chno="24" group-title="famelack (fi) [fi] [False]" tvg-logo="", World of Love Island
+https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="QkAeXYqD57Cduc" tvg-chno="25" group-title="famelack (fi) [fi] [False]" tvg-logo="", YLE TV 1
+https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+#EXTINF:0001 tvg-id="532XJLmRxgJkDu" tvg-chno="26" group-title="famelack (fi) [fi] [False]" tvg-logo="", YLE TV 2
+https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
+#EXTINF:0001 tvg-id="gAbt2rH6T2mSLN" tvg-chno="27" group-title="famelack (fi) [fi] [False]" tvg-logo="", YLE TV Teema & Fem
+https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8

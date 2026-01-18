@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="TTouu2o6in2aZA" tvg-chno="1" group-title="famelack (nz) [nz] [False]" tvg-logo="", Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="UBejUkhfoGj9RS" tvg-chno="2" group-title="famelack (nz) [nz] [False]" tvg-logo="", Breaking News by LeadStory
+https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="ZseoLWz1LbCAxF" tvg-chno="3" group-title="famelack (nz) [nz] [False]" tvg-logo="", Eggheads
+https://amg00654-itv-amg00654c18-samsung-nz-4373.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="zkAekWAGGWBgbZ" tvg-chno="4" group-title="famelack (nz) [nz] [False]" tvg-logo="", Entertainment Hub
+https://amg01447-samsungau-enthubnz-samsungnz-t9rkn.amagi.tv/playlist/amg01447-samsungau-enthubnz-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="7GsqLCu38zi9PB" tvg-chno="5" group-title="famelack (nz) [nz] [False]" tvg-logo="", Firstlight
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="6NKvoY5xbsHEyj" tvg-chno="6" group-title="famelack (nz) [nz] [False]" tvg-logo="", Hardcore Pawn
+https://amg00627-banijay-amg00627c8-samsung-nz-1828.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="8FBxRm171TZZyE" tvg-chno="7" group-title="famelack (nz) [nz] [False]" tvg-logo="", Highway Thru Hell
+https://amg00627-amg00627c15-samsung-nz-2900.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="hClUsdjhQ4yY2B" tvg-chno="8" group-title="famelack (nz) [nz] [False]" tvg-logo="", History and Warfare Now
+https://amg00376-magellan-amg00376c19-samsung-nz-1735.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="PmpoxKSEByeCTX" tvg-chno="9" group-title="famelack (nz) [nz] [False]" tvg-logo="", Homeful
+https://amg00090-blueantcanada-amg00090c4-samsung-nz-820.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="Dqgwi0HQE4Shzw" tvg-chno="10" group-title="famelack (nz) [nz] [False]" tvg-logo="", Juice TV
+https://juicex.nz/hls/mystream.m3u8
+#EXTINF:0001 tvg-id="etg1QtG5OKYo2P" tvg-chno="11" group-title="famelack (nz) [nz] [False]" tvg-logo="", Kordia TV
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:0001 tvg-id="NYxRHRurPqD1da" tvg-chno="12" group-title="famelack (nz) [nz] [False]" tvg-logo="", MovieSphere
+https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="CVUA5DaLC3fN5Z" tvg-chno="13" group-title="famelack (nz) [nz] [False]" tvg-logo="", MTRSPT 1
+https://amg02873-kravemedia-mtrspt1-samsungnz-k70ln.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="pGZdS7NMq1FAlR" tvg-chno="14" group-title="famelack (nz) [nz] [False]" tvg-logo="", Parliament TV
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:0001 tvg-id="yJ4R92JMABBqmT" tvg-chno="15" group-title="famelack (nz) [nz] [False]" tvg-logo="", PBS History
+https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="q5ytSz7PQc6Szu" tvg-chno="16" group-title="famelack (nz) [nz] [False]" tvg-logo="", Pulse TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="0GZZkK8psoYAhJ" tvg-chno="17" group-title="famelack (nz) [nz] [False]" tvg-logo="", RCM
+https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="lag0MGGjGbDlqN" tvg-chno="18" group-title="famelack (nz) [nz] [False]" tvg-logo="", Surf Cinema
+https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="LASorJSceND6kL" tvg-chno="19" group-title="famelack (nz) [nz] [False]" tvg-logo="", The Chat Show Channel
+https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="1jOpKreG2aLlwA" tvg-chno="20" group-title="famelack (nz) [nz] [False]" tvg-logo="", Wairarapa TV
+https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8

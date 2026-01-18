@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="8W6k7lrcWYDap4" tvg-chno="1" group-title="famelack (lu) [lu] [False]" tvg-logo="", apart TV
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:0001 tvg-id="udSOaNy3d31JFB" tvg-chno="2" group-title="famelack (lu) [lu] [False]" tvg-logo="", Chamber TV
+https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="MBd7UC3OR31Tht" tvg-chno="3" group-title="famelack (lu) [lu] [False]" tvg-logo="", Dudelange TV
+https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
+#EXTINF:0001 tvg-id="9H4bSz1MtWbjCt" tvg-chno="4" group-title="famelack (lu) [lu] [False]" tvg-logo="", eldo.TV
+https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+#EXTINF:0001 tvg-id="ye8TvkvdzwW6pe" tvg-chno="5" group-title="famelack (lu) [lu] [False]" tvg-logo="", Hesper TV
+https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8
+#EXTINF:0001 tvg-id="32L8oauWbYm9hm" tvg-chno="6" group-title="famelack (lu) [lu] [False]" tvg-logo="", Mamer TV
+https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8
+#EXTINF:0001 tvg-id="45ac4CoF7bAaFa" tvg-chno="7" group-title="famelack (lu) [lu] [False]" tvg-logo="", MierschTV
+https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8
+#EXTINF:0001 tvg-id="Ss7BtnV17e1lLX" tvg-chno="8" group-title="famelack (lu) [lu] [False]" tvg-logo="", Pétange Info TV
+https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8
+#EXTINF:0001 tvg-id="uOiBx0AcUgb3bN" tvg-chno="9" group-title="famelack (lu) [lu] [False]" tvg-logo="", RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:0001 tvg-id="BQkvnkP2YeryWb" tvg-chno="10" group-title="famelack (lu) [lu] [False]" tvg-logo="", RTL Today Radio
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+#EXTINF:0001 tvg-id="nAnI0b1T3v96EJ" tvg-chno="11" group-title="famelack (lu) [lu] [False]" tvg-logo="", RTL9
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8

@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="v8Zzxjpx6SD9DW" tvg-chno="1" group-title="famelack (se) [se] [False]" tvg-logo="", ATG Live
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:0001 tvg-id="xr1LfFDuhPVb7E" tvg-chno="2" group-title="famelack (se) [se] [False]" tvg-logo="", Di TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
+#EXTINF:0001 tvg-id="vVfgeuE3MFU5jS" tvg-chno="3" group-title="famelack (se) [se] [False]" tvg-logo="", Expressen TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
+#EXTINF:0001 tvg-id="MFBhdF22oHPsQx" tvg-chno="4" group-title="famelack (se) [se] [False]" tvg-logo="", Komala TV
+https://live.tvkomala.com/live/komala/playlist.m3u8
+#EXTINF:0001 tvg-id="04GOTYhpn6ZcuB" tvg-chno="5" group-title="famelack (se) [se] [False]" tvg-logo="", Love Magazine
+https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
+#EXTINF:0001 tvg-id="K6jDHU82waG31p" tvg-chno="6" group-title="famelack (se) [se] [False]" tvg-logo="", Love Pets
+https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
+#EXTINF:0001 tvg-id="An1Is33qOccMLw" tvg-chno="7" group-title="famelack (se) [se] [False]" tvg-logo="", Miracle TV
+https://live.miracleonline.org/hls/miracle1.m3u8
+#EXTINF:0001 tvg-id="f1FE4Gf8btdGNS" tvg-chno="8" group-title="famelack (se) [se] [False]" tvg-logo="", Mission Asia
+https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
+#EXTINF:0001 tvg-id="LWXmSBrEE8B8bT" tvg-chno="9" group-title="famelack (se) [se] [False]" tvg-logo="", Myzen Fit
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungse/playlist.m3u8
+#EXTINF:0001 tvg-id="G98RV2eeyHyp1d" tvg-chno="10" group-title="famelack (se) [se] [False]" tvg-logo="", The Chat Show Channel
+https://amg00426-littledotstudio-thechatshow-samsungse-n39q0.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungse/playlist.m3u8
+#EXTINF:0001 tvg-id="yRFpQt0Uge4TEm" tvg-chno="11" group-title="famelack (se) [se] [False]" tvg-logo="", The Wicked Tuna Channel
+https://amg00353-lionsgatestudio-wickedtunase-samsungse-w4kcr.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtunase-samsungse/playlist.m3u8
+#EXTINF:0001 tvg-id="wETjJuUNWWDAGH" tvg-chno="12" group-title="famelack (se) [se] [False]" tvg-logo="", Waterbear
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8

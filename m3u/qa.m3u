@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="2H7AGmwfBbb0P2" tvg-chno="1" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Araby TV
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+#EXTINF:0001 tvg-id="VyhE2uMDKGWvi8" tvg-chno="2" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Araby TV 2
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="mIaAqLMCDH73r4" tvg-chno="3" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Jazeera
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:0001 tvg-id="RT940A59Teonvk" tvg-chno="4" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:0001 tvg-id="zXY3iyHS9joFvJ" tvg-chno="5" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Jazeera Mubasher
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+#EXTINF:0001 tvg-id="WVCjkBMypSAImO" tvg-chno="6" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Jazeera Mubasher 24
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+#EXTINF:0001 tvg-id="pPCtUkOMoSQ0hW" tvg-chno="7" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Jazeera Mubasher Broadcast 2
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+#EXTINF:0001 tvg-id="3oEkfbMs80CkkJ" tvg-chno="8" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Rayyan
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:0001 tvg-id="br7PukOLzlx3Tu" tvg-chno="9" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Rayyan Al Qadeem
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+#EXTINF:0001 tvg-id="pHGRN6No5y3yuk" tvg-chno="10" group-title="famelack (qa) [qa] [False]" tvg-logo="", Alkass Three
+https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8

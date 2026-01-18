@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="gype1Rdsg8nVpE" tvg-chno="1" group-title="famelack (no) [no] [False]" tvg-logo="", Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:0001 tvg-id="0ZKqPaQpJfT5Pe" tvg-chno="2" group-title="famelack (no) [no] [False]" tvg-logo="", Frikanalen
+https://frikanalen.no/stream/index.m3u8
+#EXTINF:0001 tvg-id="3k90CtKPqTFnro" tvg-chno="3" group-title="famelack (no) [no] [False]" tvg-logo="", TV Østfold
+https://streamnorge.com:8088/hls/tvo.m3u8

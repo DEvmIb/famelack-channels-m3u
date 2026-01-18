@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="fKbltvx8aLsHQT" tvg-chno="1" group-title="famelack (hr) [hr] [False]" tvg-logo="", Bravo! TV
+https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
+#EXTINF:0001 tvg-id="Krnvg7lhNu9QZe" tvg-chno="2" group-title="famelack (hr) [hr] [False]" tvg-logo="", Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:0001 tvg-id="enIKIkknsZ9r2w" tvg-chno="3" group-title="famelack (hr) [hr] [False]" tvg-logo="", Extra TV
+https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+#EXTINF:0001 tvg-id="slWlDUbLMcYHFX" tvg-chno="4" group-title="famelack (hr) [hr] [False]" tvg-logo="", HRT 1
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:0001 tvg-id="QFU5ZJnYCQuugW" tvg-chno="5" group-title="famelack (hr) [hr] [False]" tvg-logo="", HRT 2
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:0001 tvg-id="T7TXmLpBD9IwXz" tvg-chno="6" group-title="famelack (hr) [hr] [False]" tvg-logo="", HRT 3
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:0001 tvg-id="Gt7ai637m4G99w" tvg-chno="7" group-title="famelack (hr) [hr] [False]" tvg-logo="", Libertas TV
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:0001 tvg-id="vwVV88p4oCjCFy" tvg-chno="8" group-title="famelack (hr) [hr] [False]" tvg-logo="", Radio Televizija Banovina
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:0001 tvg-id="N20HHEdGRq23oN" tvg-chno="9" group-title="famelack (hr) [hr] [False]" tvg-logo="", SBTV
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:0001 tvg-id="J3nEPCNB7tfIfa" tvg-chno="10" group-title="famelack (hr) [hr] [False]" tvg-logo="", TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:0001 tvg-id="YYX03S5xOVCpAS" tvg-chno="11" group-title="famelack (hr) [hr] [False]" tvg-logo="", TV Nova
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8

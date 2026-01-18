@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="C7oEv16dfu5JbY" tvg-chno="1" group-title="famelack (lt) [lt] [False]" tvg-logo="", Lietuvos Rytas TV
+https://live.lietuvosryto.tv/live/hls/eteris.m3u8
+#EXTINF:0001 tvg-id="b9QdwOWvuoD0L1" tvg-chno="2" group-title="famelack (lt) [lt] [False]" tvg-logo="", LRT Klasika
+https://stream-live.lrt.lt/klasika/master.m3u8
+#EXTINF:0001 tvg-id="OGTxaWnBlezwNQ" tvg-chno="3" group-title="famelack (lt) [lt] [False]" tvg-logo="", LRT Lituanica
+https://stream-live.lrt.lt/lituanica/master.m3u8
+#EXTINF:0001 tvg-id="n9ltANAvf9McB6" tvg-chno="4" group-title="famelack (lt) [lt] [False]" tvg-logo="", LRT Opus
+https://stream-live.lrt.lt/opus/master.m3u8
+#EXTINF:0001 tvg-id="zUGGz2dbNzhVAw" tvg-chno="5" group-title="famelack (lt) [lt] [False]" tvg-logo="", LRT Plius
+https://stream-live.lrt.lt/plius/master.m3u8
+#EXTINF:0001 tvg-id="KOfOkbRRfb8Nzi" tvg-chno="6" group-title="famelack (lt) [lt] [False]" tvg-logo="", LRT Radijas
+https://stream-live.lrt.lt/radijas/master.m3u8
+#EXTINF:0001 tvg-id="X0EAtKzIAlLWzS" tvg-chno="7" group-title="famelack (lt) [lt] [False]" tvg-logo="", LRT TV
+https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8
+#EXTINF:0001 tvg-id="TD6r7rS9yoQWgK" tvg-chno="8" group-title="famelack (lt) [lt] [False]" tvg-logo="", M-1
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8

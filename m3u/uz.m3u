@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="FWhDbCLuy2F57c" tvg-chno="1" group-title="famelack (uz) [uz] [False]" tvg-logo="", BIZ Cinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+#EXTINF:0001 tvg-id="Xmm3LX5dLU22wn" tvg-chno="2" group-title="famelack (uz) [uz] [False]" tvg-logo="", BIZ Music
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
+#EXTINF:0001 tvg-id="B57EXBA3NLspPl" tvg-chno="3" group-title="famelack (uz) [uz] [False]" tvg-logo="", BIZ TV
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
+#EXTINF:0001 tvg-id="cJnlIEpP8bVOtB" tvg-chno="4" group-title="famelack (uz) [uz] [False]" tvg-logo="", MY5
+https://st.my5.media/hls/hd/index.m3u8

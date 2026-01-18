@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="RZFhmijgzHhbdg" tvg-chno="1" group-title="famelack (be) [be] [False]" tvg-logo="", AB3 HD
+https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
+#EXTINF:0001 tvg-id="OjULEJEZVhhZ9N" tvg-chno="2" group-title="famelack (be) [be] [False]" tvg-logo="", ATV
+https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
+#EXTINF:0001 tvg-id="lsn2po0NoORfy7" tvg-chno="3" group-title="famelack (be) [be] [False]" tvg-logo="", Bel RTL
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:0001 tvg-id="xCsQ7dJnPDumil" tvg-chno="4" group-title="famelack (be) [be] [False]" tvg-logo="", BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:0001 tvg-id="1ov4rKCt7xdyVW" tvg-chno="5" group-title="famelack (be) [be] [False]" tvg-logo="", Japanim TV
+https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:0001 tvg-id="ZH3cJ0x61gRh14" tvg-chno="6" group-title="famelack (be) [be] [False]" tvg-logo="", La Une
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:0001 tvg-id="gjVf4nNywCuqcL" tvg-chno="7" group-title="famelack (be) [be] [False]" tvg-logo="", LN24
+https://live-ln24.digiteka.com/1911668011/index.m3u8
+#EXTINF:0001 tvg-id="8NTileZb0uFTPL" tvg-chno="8" group-title="famelack (be) [be] [False]" tvg-logo="", MaTele
+https://live.matele.be/hls/live.m3u8
+#EXTINF:0001 tvg-id="VaXjiVOr6bKqVn" tvg-chno="9" group-title="famelack (be) [be] [False]" tvg-logo="", Notele
+https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
+#EXTINF:0001 tvg-id="KWEE7C3XgKSvyt" tvg-chno="10" group-title="famelack (be) [be] [False]" tvg-logo="", Q-Music (Belgium)
+https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
+#EXTINF:0001 tvg-id="ZBGk2hfKslTEiC" tvg-chno="11" group-title="famelack (be) [be] [False]" tvg-logo="", Radio Contact
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+#EXTINF:0001 tvg-id="Nawp6hUkpbwpTg" tvg-chno="12" group-title="famelack (be) [be] [False]" tvg-logo="", RTL-TVI
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8

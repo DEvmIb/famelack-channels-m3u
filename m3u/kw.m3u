@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="k3uVSHUiaj69hZ" tvg-chno="1" group-title="famelack (kw) [kw] [False]" tvg-logo="", Bahry
+https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="IEZUnNbmJOqVVw" tvg-chno="2" group-title="famelack (kw) [kw] [False]" tvg-logo="", Ch4Teen
+https://ch14.tv/live/ch4teenclip/playlist.m3u8
+#EXTINF:0001 tvg-id="qmnARgUFZrDat0" tvg-chno="3" group-title="famelack (kw) [kw] [False]" tvg-logo="", KTV 1
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:0001 tvg-id="wlRG0aqJ5L1mdG" tvg-chno="4" group-title="famelack (kw) [kw] [False]" tvg-logo="", KTV 2
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:0001 tvg-id="NIQOtoyZQ8vFBv" tvg-chno="5" group-title="famelack (kw) [kw] [False]" tvg-logo="", KTV Al Qurain
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+#EXTINF:0001 tvg-id="x84vEYjClS3UTx" tvg-chno="6" group-title="famelack (kw) [kw] [False]" tvg-logo="", KTV Arabe
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTINF:0001 tvg-id="bOv9uULNJkqzNN" tvg-chno="7" group-title="famelack (kw) [kw] [False]" tvg-logo="", KTV Ethraa
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+#EXTINF:0001 tvg-id="gut5k2zpuhXsW8" tvg-chno="8" group-title="famelack (kw) [kw] [False]" tvg-logo="", KTV News
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+#EXTINF:0001 tvg-id="wry8kPUipkC3Ee" tvg-chno="9" group-title="famelack (kw) [kw] [False]" tvg-logo="", KTV Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:0001 tvg-id="u6GFOdoySx8qXc" tvg-chno="10" group-title="famelack (kw) [kw] [False]" tvg-logo="", KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:0001 tvg-id="e1v76QQ8jEJlyU" tvg-chno="11" group-title="famelack (kw) [kw] [False]" tvg-logo="", Marina TV
+https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8

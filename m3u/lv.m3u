@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="dxwZXJVYQ15ezx" tvg-chno="1" group-title="famelack (lv) [lv] [False]" tvg-logo="", Latvijas Radio 3 Klasika
+https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
+#EXTINF:0001 tvg-id="YQjVrcxLsl4KlI" tvg-chno="2" group-title="famelack (lv) [lv] [False]" tvg-logo="", Pingvīns
+https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+#EXTINF:0001 tvg-id="LHzrqD9sr7EPlw" tvg-chno="3" group-title="famelack (lv) [lv] [False]" tvg-logo="", Radio SWH TV
+https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="YigI7cZVQDDBuz" tvg-chno="4" group-title="famelack (lv) [lv] [False]" tvg-logo="", Re TV
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="sgMHs1obQ8lL7A" tvg-chno="5" group-title="famelack (lv) [lv] [False]" tvg-logo="", TVNET
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+#EXTINF:0001 tvg-id="tzBwiH8m1MLrzP" tvg-chno="6" group-title="famelack (lv) [lv] [False]" tvg-logo="", Vidusdaugavas Televīzija
+https://straume.vdtv.lv/vdtv2/index.m3u8

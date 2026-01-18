@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="VxUtYwqDVhXoLP" tvg-chno="1" group-title="famelack (mn) [mn] [False]" tvg-logo="", AsianBox
+https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+#EXTINF:0001 tvg-id="N9rHPml7fLFXYP" tvg-chno="2" group-title="famelack (mn) [mn] [False]" tvg-logo="", Auto TV
+https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8
+#EXTINF:0001 tvg-id="JPDh3cfdNqA9Zf" tvg-chno="3" group-title="famelack (mn) [mn] [False]" tvg-logo="", Bloomberg TV Mongolia HD
+https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
+#EXTINF:0001 tvg-id="MZSmpR0btvR5bt" tvg-chno="4" group-title="famelack (mn) [mn] [False]" tvg-logo="", C1
+https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8
+#EXTINF:0001 tvg-id="TkAa6zF0DZybam" tvg-chno="5" group-title="famelack (mn) [mn] [False]" tvg-logo="", Central TV
+https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8
+#EXTINF:0001 tvg-id="QJ1I2SLXHDZn4H" tvg-chno="6" group-title="famelack (mn) [mn] [False]" tvg-logo="", Channel 11
+https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8
+#EXTINF:0001 tvg-id="0pCaJvUQjUH7zI" tvg-chno="7" group-title="famelack (mn) [mn] [False]" tvg-logo="", Cinema
+https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
+#EXTINF:0001 tvg-id="PMx8mD596CoAhI" tvg-chno="8" group-title="famelack (mn) [mn] [False]" tvg-logo="", CNBC MGL
+https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
+#EXTINF:0001 tvg-id="P7g6QNTVCdx38r" tvg-chno="9" group-title="famelack (mn) [mn] [False]" tvg-logo="", Dream TV
+https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
+#EXTINF:0001 tvg-id="5s29Di3swvzCYp" tvg-chno="10" group-title="famelack (mn) [mn] [False]" tvg-logo="", Eagle News HD
+https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
+#EXTINF:0001 tvg-id="avcRNsWqoTWnAw" tvg-chno="11" group-title="famelack (mn) [mn] [False]" tvg-logo="", Education
+https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8
+#EXTINF:0001 tvg-id="MBL5qNFICt6NUl" tvg-chno="12" group-title="famelack (mn) [mn] [False]" tvg-logo="", ETV
+https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
+#EXTINF:0001 tvg-id="9jsrn3Q21NY0Uq" tvg-chno="13" group-title="famelack (mn) [mn] [False]" tvg-logo="", Gandan TV
+https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8
+#EXTINF:0001 tvg-id="rUnpHDwxv9Xjmv" tvg-chno="14" group-title="famelack (mn) [mn] [False]" tvg-logo="", Global TV
+https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8
+#EXTINF:0001 tvg-id="HS1ymLCkui3RQB" tvg-chno="15" group-title="famelack (mn) [mn] [False]" tvg-logo="", Malchin TV
+https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
+#EXTINF:0001 tvg-id="5rOxHUaAFQGVdg" tvg-chno="16" group-title="famelack (mn) [mn] [False]" tvg-logo="", MN25
+https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8
+#EXTINF:0001 tvg-id="q40BblBPhjUxxM" tvg-chno="17" group-title="famelack (mn) [mn] [False]" tvg-logo="", MNB
+https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8
+#EXTINF:0001 tvg-id="WjzlJmHsxUPxpZ" tvg-chno="18" group-title="famelack (mn) [mn] [False]" tvg-logo="", MNB Sport
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:0001 tvg-id="zpHGQwdKXcbDlt" tvg-chno="19" group-title="famelack (mn) [mn] [False]" tvg-logo="", MNB World
+https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8
+#EXTINF:0001 tvg-id="mZE53UrX28LXJ5" tvg-chno="20" group-title="famelack (mn) [mn] [False]" tvg-logo="", MNB Гэр бүл
+https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8
+#EXTINF:0001 tvg-id="aRQ1y8w3hHJJTt" tvg-chno="21" group-title="famelack (mn) [mn] [False]" tvg-logo="", MNB Монголын Мэдээ
+https://cdn4.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2.m3u8
+#EXTINF:0001 tvg-id="jucVnMU27FdjUZ" tvg-chno="22" group-title="famelack (mn) [mn] [False]" tvg-logo="", MNC
+https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
+#EXTINF:0001 tvg-id="U9RR25VRV55FfP" tvg-chno="23" group-title="famelack (mn) [mn] [False]" tvg-logo="", MovieBox
+https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+#EXTINF:0001 tvg-id="ynjjr6Xd4H7uEB" tvg-chno="24" group-title="famelack (mn) [mn] [False]" tvg-logo="", NTV
+https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8
+#EXTINF:0001 tvg-id="UYCZwOTEJFUTLA" tvg-chno="25" group-title="famelack (mn) [mn] [False]" tvg-logo="", ONTV
+https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8
+#EXTINF:0001 tvg-id="UIPjkMitEOuZ0j" tvg-chno="26" group-title="famelack (mn) [mn] [False]" tvg-logo="", Parliament TV
+https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
+#EXTINF:0001 tvg-id="9twy8Ei9D8tHDB" tvg-chno="27" group-title="famelack (mn) [mn] [False]" tvg-logo="", Popcorn
+https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
+#EXTINF:0001 tvg-id="lOpd3ZkmgFFc4A" tvg-chno="28" group-title="famelack (mn) [mn] [False]" tvg-logo="", SBN
+https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8
+#EXTINF:0001 tvg-id="DMVI0k2mujP636" tvg-chno="29" group-title="famelack (mn) [mn] [False]" tvg-logo="", Seven Channel
+https://cdn4.skygo.mn/live/disk1/TV7/HLS-FTA/TV7.m3u8
+#EXTINF:0001 tvg-id="8mAz6PQe6dOkxu" tvg-chno="30" group-title="famelack (mn) [mn] [False]" tvg-logo="", Star TV
+https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8
+#EXTINF:0001 tvg-id="yMkVj5lgbJvxaR" tvg-chno="31" group-title="famelack (mn) [mn] [False]" tvg-logo="", Suld TV
+https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8
+#EXTINF:0001 tvg-id="RzQaWb1yvEsxpq" tvg-chno="32" group-title="famelack (mn) [mn] [False]" tvg-logo="", TenGer TV
+https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8
+#EXTINF:0001 tvg-id="6hGNq3v4uBYDqM" tvg-chno="33" group-title="famelack (mn) [mn] [False]" tvg-logo="", TM TV
+https://cdn4.skygo.mn/live/disk1/TM/HLSv3-FTA/TM.m3u8
+#EXTINF:0001 tvg-id="Cekgx2D7gq7q2s" tvg-chno="34" group-title="famelack (mn) [mn] [False]" tvg-logo="", TV 4
+https://cdn4.skygo.mn/live/disk1/TV4/HLSv3-FTA/TV4.m3u8
+#EXTINF:0001 tvg-id="zUpP954YCR2OBL" tvg-chno="35" group-title="famelack (mn) [mn] [False]" tvg-logo="", TV5
+https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
+#EXTINF:0001 tvg-id="MOjnZWaWykZnWF" tvg-chno="36" group-title="famelack (mn) [mn] [False]" tvg-logo="", TV7
+https://cdn4.skygo.mn/live/disk1/TV7/HLSv3-FTA/TV7.m3u8
+#EXTINF:0001 tvg-id="Ul5fNF6EOAnI7C" tvg-chno="37" group-title="famelack (mn) [mn] [False]" tvg-logo="", TV8
+https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8
+#EXTINF:0001 tvg-id="8SsVY1ECEode41" tvg-chno="38" group-title="famelack (mn) [mn] [False]" tvg-logo="", TV9
+https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8
+#EXTINF:0001 tvg-id="yRtxXNRanqtYe0" tvg-chno="39" group-title="famelack (mn) [mn] [False]" tvg-logo="", UBS
+https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8
+#EXTINF:0001 tvg-id="qZC6B3yb78AI6y" tvg-chno="40" group-title="famelack (mn) [mn] [False]" tvg-logo="", Өлзий ТВ
+https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8
+#EXTINF:0001 tvg-id="NmhuFST69LaUSA" tvg-chno="41" group-title="famelack (mn) [mn] [False]" tvg-logo="", Соён Гэгээрүүлэгч
+https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8
+#EXTINF:0001 tvg-id="zhKdhTkgLUovVm" tvg-chno="42" group-title="famelack (mn) [mn] [False]" tvg-logo="", Хөгжим
+https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8

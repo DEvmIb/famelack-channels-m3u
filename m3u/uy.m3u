@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="wOuKcaJXWEMKNa" tvg-chno="1" group-title="famelack (uy) [uy] [False]" tvg-logo="", UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:0001 tvg-id="ASe7q9C6waVLXN" tvg-chno="2" group-title="famelack (uy) [uy] [False]" tvg-logo="", VIVO TV
+https://stream.vivotv.uy/hls/stream.m3u8

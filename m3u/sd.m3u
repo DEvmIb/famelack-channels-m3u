@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="VOHSPgP61uCg6D" tvg-chno="1" group-title="famelack (sd) [sd] [False]" tvg-logo="", Dabanga TV
+https://hls.dabangasudan.org/hls/stream.m3u8
+#EXTINF:0001 tvg-id="TueVq4VT5SxXdP" tvg-chno="2" group-title="famelack (sd) [sd] [False]" tvg-logo="", Sudan TV
+https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
