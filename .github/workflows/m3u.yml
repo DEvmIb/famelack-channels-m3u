@@ -22,7 +22,7 @@ jobs:
             echo "update=false" >> $GITHUB_OUTPUT
           else
             echo "update=true" >> $GITHUB_OUTPUT
-            echo "$_latest" > .latest
+            echo "$_latest_remote" > .latest
           fi
 
       - name: checkout new channels
