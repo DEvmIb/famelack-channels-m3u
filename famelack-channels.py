@@ -8,8 +8,8 @@ try:
     m3u_all = "#EXTM3U\n"
     num_dach = 1
     num_all = 1
-    if not os.path.isdir('m3u'):
-        os.makedirs('m3u',exist_ok=True)
+    if not os.path.isdir("m3u"):
+        os.makedirs("m3u", exist_ok=True)
     if os.path.isdir("famelack-channels/channels/raw/countries"):
         for file in Path("famelack-channels/channels/raw/countries").glob("*.json"):
             if not file.is_file():
@@ -36,9 +36,9 @@ try:
                         if country == "de" or country == "ad" or country == "ch":
                             m3u_dach += f'#EXTINF:0001 tvg-id="{channel["nanoid"]}" tvg-chno="{num_dach}" group-title="famelack ({file.stem}) [{channel["country"]}] [{channel["isGeoBlocked"]}]" tvg-logo="", {channel["name"]}\n'
                             m3u_dach += f'{channel["iptv_urls"][0]}\n'
-                            num_dach + 1
+                            num_dach += 1
                         num += 1
-                        num_all + 1
+                        num_all += 1
             with open(f"m3u/{file.stem}.m3u", "w") as f:
                 f.write(m3u)
         with open(f"m3u/_dach.m3u", "w") as f:
