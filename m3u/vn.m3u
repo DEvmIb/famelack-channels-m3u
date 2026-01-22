@@ -7,15 +7,25 @@ https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="MO8deGVLY2zQ9f" tvg-chno="4" group-title="famelack (vn) [vn] [False]" tvg-logo="", HanoiTV2
 https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
-#EXTINF:0001 tvg-id="nfUMYUgBEhhJaP" tvg-chno="5" group-title="famelack (vn) [vn] [False]" tvg-logo="", Lao SV TV
+#EXTINF:0001 tvg-id="rttScvWUnetgoy" tvg-chno="5" group-title="famelack (vn) [vn] [False]" tvg-logo="", HTV Sports
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:0001 tvg-id="IzIeB6PQT3Mcyn" tvg-chno="6" group-title="famelack (vn) [vn] [False]" tvg-logo="", HTV3
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+#EXTINF:0001 tvg-id="h4MGIwpzx9uuOj" tvg-chno="7" group-title="famelack (vn) [vn] [False]" tvg-logo="", LA34 Long An TV
+https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8
+#EXTINF:0001 tvg-id="nfUMYUgBEhhJaP" tvg-chno="8" group-title="famelack (vn) [vn] [False]" tvg-logo="", Lao SV TV
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="P3wFK2is4nhE2c" tvg-chno="6" group-title="famelack (vn) [vn] [False]" tvg-logo="", Tea TV
+#EXTINF:0001 tvg-id="8kdpWxJQ1i1LcH" tvg-chno="9" group-title="famelack (vn) [vn] [False]" tvg-logo="", SCTV6
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+#EXTINF:0001 tvg-id="P3wFK2is4nhE2c" tvg-chno="10" group-title="famelack (vn) [vn] [False]" tvg-logo="", Tea TV
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="TxKRcL8oCX3WJY" tvg-chno="7" group-title="famelack (vn) [vn] [False]" tvg-logo="", Thai Nguyen TV
+#EXTINF:0001 tvg-id="TxKRcL8oCX3WJY" tvg-chno="11" group-title="famelack (vn) [vn] [False]" tvg-logo="", Thai Nguyen TV
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:0001 tvg-id="gh2TkRWTUyBId2" tvg-chno="8" group-title="famelack (vn) [vn] [False]" tvg-logo="", Uniquely Thai
+#EXTINF:0001 tvg-id="gh2TkRWTUyBId2" tvg-chno="12" group-title="famelack (vn) [vn] [False]" tvg-logo="", Uniquely Thai
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="HBy4lC3zLumpGr" tvg-chno="9" group-title="famelack (vn) [vn] [False]" tvg-logo="", VTV5 Tây Nam Bộ HD
+#EXTINF:0001 tvg-id="HBy4lC3zLumpGr" tvg-chno="13" group-title="famelack (vn) [vn] [False]" tvg-logo="", VTV5 Tây Nam Bộ HD
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/04.m3u8
-#EXTINF:0001 tvg-id="LnNxUYwOX2EV41" tvg-chno="10" group-title="famelack (vn) [vn] [False]" tvg-logo="", VTV5 Tây Nguyên HD
+#EXTINF:0001 tvg-id="LnNxUYwOX2EV41" tvg-chno="14" group-title="famelack (vn) [vn] [False]" tvg-logo="", VTV5 Tây Nguyên HD
 https://liveh12.vtvprime.vn/hls/VTV5_TN/03.m3u8
+#EXTINF:0001 tvg-id="PELW8NWV0rEPfd" tvg-chno="15" group-title="famelack (vn) [vn] [False]" tvg-logo="", VTV7 HD
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8

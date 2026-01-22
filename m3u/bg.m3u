@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="aYAhxfge3884Ci" tvg-chno="1" group-title="famelack (bg) [bg] [False]" tvg-logo="", Agro TV
-https://restr2.bgtv.bg/agro/hls/agro.m3u8
-#EXTINF:0001 tvg-id="YeiuDAKOIv93Jj" tvg-chno="2" group-title="famelack (bg) [bg] [False]" tvg-logo="", BNT 4
+#EXTINF:0001 tvg-id="YeiuDAKOIv93Jj" tvg-chno="1" group-title="famelack (bg) [bg] [False]" tvg-logo="", BNT 4
 https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8
-#EXTINF:0001 tvg-id="S1ZYN7hADGka8A" tvg-chno="3" group-title="famelack (bg) [bg] [False]" tvg-logo="", City TV
+#EXTINF:0001 tvg-id="S1ZYN7hADGka8A" tvg-chno="2" group-title="famelack (bg) [bg] [False]" tvg-logo="", City TV
 https://tv.city.bg/play/tshls/citytv/index.m3u8
-#EXTINF:0001 tvg-id="z7zMm8Am4tFsxt" tvg-chno="4" group-title="famelack (bg) [bg] [False]" tvg-logo="", Evrokom
+#EXTINF:0001 tvg-id="z7zMm8Am4tFsxt" tvg-chno="3" group-title="famelack (bg) [bg] [False]" tvg-logo="", Evrokom
 https://live.ecomservice.bg/hls/stream.m3u8
-#EXTINF:0001 tvg-id="xb56fwuwQyeFpw" tvg-chno="5" group-title="famelack (bg) [bg] [False]" tvg-logo="", Hope Channel Bulgaria
+#EXTINF:0001 tvg-id="xb56fwuwQyeFpw" tvg-chno="4" group-title="famelack (bg) [bg] [False]" tvg-logo="", Hope Channel Bulgaria
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="baxC7ZNvKlaeR7" tvg-chno="6" group-title="famelack (bg) [bg] [False]" tvg-logo="", Light Channel
+#EXTINF:0001 tvg-id="baxC7ZNvKlaeR7" tvg-chno="5" group-title="famelack (bg) [bg] [False]" tvg-logo="", Light Channel
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:0001 tvg-id="rq3OJITyKdZXB9" tvg-chno="6" group-title="famelack (bg) [bg] [False]" tvg-logo="", Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:0001 tvg-id="dFVfkSRxGNsYew" tvg-chno="7" group-title="famelack (bg) [bg] [False]" tvg-logo="", The Voice TV
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:0001 tvg-id="GEk43COrT9omtb" tvg-chno="8" group-title="famelack (bg) [bg] [False]" tvg-logo="", This is Bulgaria HD

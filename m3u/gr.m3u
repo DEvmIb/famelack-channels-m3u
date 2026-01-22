@@ -39,27 +39,29 @@ https://stream-188125.castr.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83
 https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:0001 tvg-id="va1T6JmoihYIa4" tvg-chno="20" group-title="famelack (gr) [gr] [False]" tvg-logo="", Notioi TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:0001 tvg-id="NRZMBeU73QGtG9" tvg-chno="21" group-title="famelack (gr) [gr] [False]" tvg-logo="", One Channel
+#EXTINF:0001 tvg-id="pjEgd6IVJGjdu8" tvg-chno="21" group-title="famelack (gr) [gr] [False]" tvg-logo="", NRG TV
+https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#EXTINF:0001 tvg-id="NRZMBeU73QGtG9" tvg-chno="22" group-title="famelack (gr) [gr] [False]" tvg-logo="", One Channel
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8
-#EXTINF:0001 tvg-id="L3j1vKGF6lnpfD" tvg-chno="22" group-title="famelack (gr) [gr] [False]" tvg-logo="", Panik TV
+#EXTINF:0001 tvg-id="L3j1vKGF6lnpfD" tvg-chno="23" group-title="famelack (gr) [gr] [False]" tvg-logo="", Panik TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-#EXTINF:0001 tvg-id="PbQQ9Uu2aVWAvl" tvg-chno="23" group-title="famelack (gr) [gr] [False]" tvg-logo="", Pella TV
+#EXTINF:0001 tvg-id="PbQQ9Uu2aVWAvl" tvg-chno="24" group-title="famelack (gr) [gr] [False]" tvg-logo="", Pella TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
-#EXTINF:0001 tvg-id="tIsI0Q7tcEru0t" tvg-chno="24" group-title="famelack (gr) [gr] [False]" tvg-logo="", Skai TV
+#EXTINF:0001 tvg-id="tIsI0Q7tcEru0t" tvg-chno="25" group-title="famelack (gr) [gr] [False]" tvg-logo="", Skai TV
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:0001 tvg-id="Bvo4qWR2BxTVV4" tvg-chno="25" group-title="famelack (gr) [gr] [False]" tvg-logo="", STAR HD [Non geo blocked]
+#EXTINF:0001 tvg-id="Bvo4qWR2BxTVV4" tvg-chno="26" group-title="famelack (gr) [gr] [False]" tvg-logo="", STAR HD [Non geo blocked]
 https://livestar.siliconweb.com/starvod/star4/star4.m3u8
-#EXTINF:0001 tvg-id="AB50H5YfbCXfVv" tvg-chno="26" group-title="famelack (gr) [gr] [False]" tvg-logo="", STAR International
+#EXTINF:0001 tvg-id="AB50H5YfbCXfVv" tvg-chno="27" group-title="famelack (gr) [gr] [False]" tvg-logo="", STAR International
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-#EXTINF:0001 tvg-id="axcim7j9dTO22W" tvg-chno="27" group-title="famelack (gr) [gr] [False]" tvg-logo="", Start TV
+#EXTINF:0001 tvg-id="axcim7j9dTO22W" tvg-chno="28" group-title="famelack (gr) [gr] [False]" tvg-logo="", Start TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:0001 tvg-id="lH4dJFZ2RLNxKP" tvg-chno="28" group-title="famelack (gr) [gr] [False]" tvg-logo="", Syros TV1
+#EXTINF:0001 tvg-id="lH4dJFZ2RLNxKP" tvg-chno="29" group-title="famelack (gr) [gr] [False]" tvg-logo="", Syros TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:0001 tvg-id="ExXGZtUJaG1vOi" tvg-chno="29" group-title="famelack (gr) [gr] [False]" tvg-logo="", Telekriti
+#EXTINF:0001 tvg-id="ExXGZtUJaG1vOi" tvg-chno="30" group-title="famelack (gr) [gr] [False]" tvg-logo="", Telekriti
 https://neon.streams.gr:8081/telekriti/index.m3u8
-#EXTINF:0001 tvg-id="Nhov9FRmWvJ4cy" tvg-chno="30" group-title="famelack (gr) [gr] [False]" tvg-logo="", Thraki Net TV
+#EXTINF:0001 tvg-id="Nhov9FRmWvJ4cy" tvg-chno="31" group-title="famelack (gr) [gr] [False]" tvg-logo="", Thraki Net TV
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:0001 tvg-id="Xstsz3HxvmyGSQ" tvg-chno="31" group-title="famelack (gr) [gr] [False]" tvg-logo="", TV Creta
+#EXTINF:0001 tvg-id="Xstsz3HxvmyGSQ" tvg-chno="32" group-title="famelack (gr) [gr] [False]" tvg-logo="", TV Creta
 https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
-#EXTINF:0001 tvg-id="D9a6Bz5bh6RDhY" tvg-chno="32" group-title="famelack (gr) [gr] [False]" tvg-logo="", Βουλή Τηλεόραση
+#EXTINF:0001 tvg-id="D9a6Bz5bh6RDhY" tvg-chno="33" group-title="famelack (gr) [gr] [False]" tvg-logo="", Βουλή Τηλεόραση
 https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8

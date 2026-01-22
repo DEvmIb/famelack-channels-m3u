@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="rQCUYAoMNgWUYP" tvg-chno="1" group-title="famelack (xk) [xk] [False]" tvg-logo="", RTK 1
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
-#EXTINF:0001 tvg-id="n3OYO4UHAtEIt1" tvg-chno="2" group-title="famelack (xk) [xk] [False]" tvg-logo="", RTK 3
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
-#EXTINF:0001 tvg-id="0lQNeuBrNhWBbz" tvg-chno="3" group-title="famelack (xk) [xk] [False]" tvg-logo="", RTV21
+#EXTINF:0001 tvg-id="0lQNeuBrNhWBbz" tvg-chno="2" group-title="famelack (xk) [xk] [False]" tvg-logo="", RTV21
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
-#EXTINF:0001 tvg-id="Q38B5NxxNbNjJy" tvg-chno="4" group-title="famelack (xk) [xk] [False]" tvg-logo="", T7
+#EXTINF:0001 tvg-id="Q38B5NxxNbNjJy" tvg-chno="3" group-title="famelack (xk) [xk] [False]" tvg-logo="", T7
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
-#EXTINF:0001 tvg-id="GzDhNZojlw6cWJ" tvg-chno="5" group-title="famelack (xk) [xk] [False]" tvg-logo="", TV Arbëria 1
+#EXTINF:0001 tvg-id="GzDhNZojlw6cWJ" tvg-chno="4" group-title="famelack (xk) [xk] [False]" tvg-logo="", TV Arbëria 1
 https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
-#EXTINF:0001 tvg-id="es1xD8awbwELHS" tvg-chno="6" group-title="famelack (xk) [xk] [False]" tvg-logo="", TV Arta
+#EXTINF:0001 tvg-id="es1xD8awbwELHS" tvg-chno="5" group-title="famelack (xk) [xk] [False]" tvg-logo="", TV Arta
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
-#EXTINF:0001 tvg-id="K7EjioStSyXmA8" tvg-chno="7" group-title="famelack (xk) [xk] [False]" tvg-logo="", TV Syri
+#EXTINF:0001 tvg-id="K7EjioStSyXmA8" tvg-chno="6" group-title="famelack (xk) [xk] [False]" tvg-logo="", TV Syri
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8

@@ -59,9 +59,9 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 #EXTINF:0001 tvg-id="VllabPXOUbWxCn" tvg-chno="30" group-title="famelack (hu) [hu] [False]" tvg-logo="", Vásárhelyi Televízió
 https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
-#EXTINF:0001 tvg-id="JyxPOf8oRL0K0y" tvg-chno="31" group-title="famelack (hu) [hu] [False]" tvg-logo="", VTV Mór
-https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="2SBZd0F52NzMui" tvg-chno="32" group-title="famelack (hu) [hu] [False]" tvg-logo="", XV TV
+#EXTINF:0001 tvg-id="2SBZd0F52NzMui" tvg-chno="31" group-title="famelack (hu) [hu] [False]" tvg-logo="", XV TV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="CV0Wnf3LNtBbuS" tvg-chno="33" group-title="famelack (hu) [hu] [False]" tvg-logo="", Zalaegerszegi TV
+#EXTINF:0001 tvg-id="CV0Wnf3LNtBbuS" tvg-chno="32" group-title="famelack (hu) [hu] [False]" tvg-logo="", Zalaegerszegi TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="VR6QfXQAolyoFB" tvg-chno="33" group-title="famelack (hu) [hu] [False]" tvg-logo="", Zuglo TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8

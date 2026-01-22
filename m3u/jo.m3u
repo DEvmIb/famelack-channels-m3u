@@ -33,3 +33,5 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 #EXTINF:0001 tvg-id="6AoHYDpnv89YBf" tvg-chno="17" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Kitchen
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
+#EXTINF:0001 tvg-id="EgkvX9kJOJxMoC" tvg-chno="18" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya TV
+https://royatv-live.daioncdn.net/royatv/royatv.m3u8

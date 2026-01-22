@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="sJ5NPPXXLzcoh1" tvg-chno="1" group-title="famelack (mz) [mz] [False]" tvg-logo="", TV Maná Moçambique
-https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="TjkNKbnMhRjIfx" tvg-chno="2" group-title="famelack (mz) [mz] [False]" tvg-logo="", TV Vitória
+#EXTINF:0001 tvg-id="TjkNKbnMhRjIfx" tvg-chno="1" group-title="famelack (mz) [mz] [False]" tvg-logo="", TV Vitória
 https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8

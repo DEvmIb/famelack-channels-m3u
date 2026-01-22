@@ -1,59 +1,53 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="BWaFZgSUSFWAMm" tvg-chno="1" group-title="famelack (th) [th] [False]" tvg-logo="", Boonniyom TV
-https://live.x2.co.th/live/bntv.m3u8
-#EXTINF:0001 tvg-id="Lf5XxACaHEAHOt" tvg-chno="2" group-title="famelack (th) [th] [False]" tvg-logo="", Channel 5
+#EXTINF:0001 tvg-id="Lf5XxACaHEAHOt" tvg-chno="1" group-title="famelack (th) [th] [False]" tvg-logo="", Channel 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:0001 tvg-id="Y8LGD9jwVauVkj" tvg-chno="3" group-title="famelack (th) [th] [False]" tvg-logo="", Cool Channel
+#EXTINF:0001 tvg-id="Y8LGD9jwVauVkj" tvg-chno="2" group-title="famelack (th) [th] [False]" tvg-logo="", Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
-#EXTINF:0001 tvg-id="ZPk578ujZjTXPa" tvg-chno="4" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 1
+#EXTINF:0001 tvg-id="ZPk578ujZjTXPa" tvg-chno="3" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
-#EXTINF:0001 tvg-id="FH7NvrC8IdGbek" tvg-chno="5" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 2
+#EXTINF:0001 tvg-id="FH7NvrC8IdGbek" tvg-chno="4" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 2
 https://cdn-live.dltv.ac.th/dltv02.m3u8
-#EXTINF:0001 tvg-id="Z2nBboETrkSzIa" tvg-chno="6" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 3
+#EXTINF:0001 tvg-id="Z2nBboETrkSzIa" tvg-chno="5" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 3
 https://cdn-live.dltv.ac.th/dltv03.m3u8
-#EXTINF:0001 tvg-id="28rjnzXjPjea82" tvg-chno="7" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 4
+#EXTINF:0001 tvg-id="28rjnzXjPjea82" tvg-chno="6" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 4
 https://cdn-live.dltv.ac.th/dltv04.m3u8
-#EXTINF:0001 tvg-id="RfFYZpw2B1Tu6O" tvg-chno="8" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 5
+#EXTINF:0001 tvg-id="RfFYZpw2B1Tu6O" tvg-chno="7" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 5
 https://cdn-live.dltv.ac.th/dltv05.m3u8
-#EXTINF:0001 tvg-id="SBNkYWrTHUHlU6" tvg-chno="9" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 6
+#EXTINF:0001 tvg-id="SBNkYWrTHUHlU6" tvg-chno="8" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 6
 https://cdn-live.dltv.ac.th/dltv06.m3u8
-#EXTINF:0001 tvg-id="5n7uTj1v7KJgAK" tvg-chno="10" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 7
+#EXTINF:0001 tvg-id="5n7uTj1v7KJgAK" tvg-chno="9" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 7
 https://cdn-live.dltv.ac.th/dltv07.m3u8
-#EXTINF:0001 tvg-id="AtqNekEK9bqlpP" tvg-chno="11" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 8
+#EXTINF:0001 tvg-id="AtqNekEK9bqlpP" tvg-chno="10" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 8
 https://cdn-live.dltv.ac.th/dltv08.m3u8
-#EXTINF:0001 tvg-id="ReBKejReML00hL" tvg-chno="12" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 9
+#EXTINF:0001 tvg-id="ReBKejReML00hL" tvg-chno="11" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 9
 https://cdn-live.dltv.ac.th/dltv09.m3u8
-#EXTINF:0001 tvg-id="J2tWh2yACsVBKq" tvg-chno="13" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 10
+#EXTINF:0001 tvg-id="J2tWh2yACsVBKq" tvg-chno="12" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 10
 https://cdn-live.dltv.ac.th/dltv10.m3u8
-#EXTINF:0001 tvg-id="1UZOek5lIzCih6" tvg-chno="14" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 11
+#EXTINF:0001 tvg-id="1UZOek5lIzCih6" tvg-chno="13" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 11
 https://cdn-live.dltv.ac.th/dltv11.m3u8
-#EXTINF:0001 tvg-id="9tRf46L4LZNOGa" tvg-chno="15" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 12
+#EXTINF:0001 tvg-id="9tRf46L4LZNOGa" tvg-chno="14" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 12
 https://cdn-live.dltv.ac.th/dltv12.m3u8
-#EXTINF:0001 tvg-id="ZPUnfb9kCWJfnO" tvg-chno="16" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 13
+#EXTINF:0001 tvg-id="ZPUnfb9kCWJfnO" tvg-chno="15" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 13
 https://cdn-live.dltv.ac.th/dltv13.m3u8
-#EXTINF:0001 tvg-id="i5UXCyXzVkJ6Kf" tvg-chno="17" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 14
+#EXTINF:0001 tvg-id="i5UXCyXzVkJ6Kf" tvg-chno="16" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 14
 https://cdn-live.dltv.ac.th/dltv14.m3u8
-#EXTINF:0001 tvg-id="sfr4boA9nNaI9M" tvg-chno="18" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 15
+#EXTINF:0001 tvg-id="sfr4boA9nNaI9M" tvg-chno="17" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
-#EXTINF:0001 tvg-id="229FKBkhihgZiC" tvg-chno="19" group-title="famelack (th) [th] [False]" tvg-logo="", Lanthung TV
+#EXTINF:0001 tvg-id="229FKBkhihgZiC" tvg-chno="18" group-title="famelack (th) [th] [False]" tvg-logo="", Lanthung TV
 https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
-#EXTINF:0001 tvg-id="7Y9OONvhoyZDMD" tvg-chno="20" group-title="famelack (th) [th] [False]" tvg-logo="", MCOT HD
+#EXTINF:0001 tvg-id="7Y9OONvhoyZDMD" tvg-chno="19" group-title="famelack (th) [th] [False]" tvg-logo="", MCOT HD
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="txJF8huRbSMhOz" tvg-chno="21" group-title="famelack (th) [th] [False]" tvg-logo="", MONO 29
+#EXTINF:0001 tvg-id="txJF8huRbSMhOz" tvg-chno="20" group-title="famelack (th) [th] [False]" tvg-logo="", MONO 29
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
-#EXTINF:0001 tvg-id="S3kr4s7IIN5nb2" tvg-chno="22" group-title="famelack (th) [th] [False]" tvg-logo="", MV Mall DD
-https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
-#EXTINF:0001 tvg-id="3GZ46w4Jr2xtDE" tvg-chno="23" group-title="famelack (th) [th] [False]" tvg-logo="", Rama Channel
+#EXTINF:0001 tvg-id="3GZ46w4Jr2xtDE" tvg-chno="21" group-title="famelack (th) [th] [False]" tvg-logo="", Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
-#EXTINF:0001 tvg-id="tvrptnaG6ItFq0" tvg-chno="24" group-title="famelack (th) [th] [False]" tvg-logo="", STOU Channel
+#EXTINF:0001 tvg-id="tvrptnaG6ItFq0" tvg-chno="22" group-title="famelack (th) [th] [False]" tvg-logo="", STOU Channel
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
-#EXTINF:0001 tvg-id="bvkcq09Cd3U8lf" tvg-chno="25" group-title="famelack (th) [th] [False]" tvg-logo="", Suwannabhumi Channel
+#EXTINF:0001 tvg-id="bvkcq09Cd3U8lf" tvg-chno="23" group-title="famelack (th) [th] [False]" tvg-logo="", Suwannabhumi Channel
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:0001 tvg-id="2ascmCxsHrQTUI" tvg-chno="26" group-title="famelack (th) [th] [False]" tvg-logo="", Thai Chaiyo
+#EXTINF:0001 tvg-id="2ascmCxsHrQTUI" tvg-chno="24" group-title="famelack (th) [th] [False]" tvg-logo="", Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
-#EXTINF:0001 tvg-id="RErWNfh4idOsdr" tvg-chno="27" group-title="famelack (th) [th] [False]" tvg-logo="", Thai Parliament TV
+#EXTINF:0001 tvg-id="RErWNfh4idOsdr" tvg-chno="25" group-title="famelack (th) [th] [False]" tvg-logo="", Thai Parliament TV
 https://tv-live.tpchannel.org/live/tv.m3u8
-#EXTINF:0001 tvg-id="SpJ9uMs0SG4rE2" tvg-chno="28" group-title="famelack (th) [th] [False]" tvg-logo="", Thaiban 83
-https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
-#EXTINF:0001 tvg-id="NKLScQ6EvdyLLB" tvg-chno="29" group-title="famelack (th) [th] [False]" tvg-logo="", Top News
+#EXTINF:0001 tvg-id="NKLScQ6EvdyLLB" tvg-chno="26" group-title="famelack (th) [th] [False]" tvg-logo="", Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
