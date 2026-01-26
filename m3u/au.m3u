@@ -53,17 +53,19 @@ https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8
 https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 #EXTINF:0001 tvg-id="t3FRxzQWFcum3k" tvg-chno="27" group-title="famelack (au) [au] [False]" tvg-logo="", RCM
 https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8
-#EXTINF:0001 tvg-id="86AfUT4ix8tXB4" tvg-chno="28" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 1
+#EXTINF:0001 tvg-id="Rh2TMvjYLEWCNX" tvg-chno="28" group-title="famelack (au) [au] [False]" tvg-logo="", Real Crime
+https://lds-realcrime-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="86AfUT4ix8tXB4" tvg-chno="29" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:0001 tvg-id="XhdBZ8hLIsYvg1" tvg-chno="29" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 2
+#EXTINF:0001 tvg-id="XhdBZ8hLIsYvg1" tvg-chno="30" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:0001 tvg-id="FKERcaDza45HDL" tvg-chno="30" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 3
+#EXTINF:0001 tvg-id="FKERcaDza45HDL" tvg-chno="31" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:0001 tvg-id="gP0EIOZBWJnKLv" tvg-chno="31" group-title="famelack (au) [au] [False]" tvg-logo="", Surf Cinema
+#EXTINF:0001 tvg-id="gP0EIOZBWJnKLv" tvg-chno="32" group-title="famelack (au) [au] [False]" tvg-logo="", Surf Cinema
 https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="3Z4cb3zJdbljQO" tvg-chno="32" group-title="famelack (au) [au] [False]" tvg-logo="", The Hotel Inspector
+#EXTINF:0001 tvg-id="3Z4cb3zJdbljQO" tvg-chno="33" group-title="famelack (au) [au] [False]" tvg-logo="", The Hotel Inspector
 https://amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="EpPKil5HdOVKkk" tvg-chno="33" group-title="famelack (au) [au] [False]" tvg-logo="", The Wicked Tuna Channel
+#EXTINF:0001 tvg-id="EpPKil5HdOVKkk" tvg-chno="34" group-title="famelack (au) [au] [False]" tvg-logo="", The Wicked Tuna Channel
 https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="I3kjTb3ubS1fvS" tvg-chno="34" group-title="famelack (au) [au] [False]" tvg-logo="", TVSN
+#EXTINF:0001 tvg-id="I3kjTb3ubS1fvS" tvg-chno="35" group-title="famelack (au) [au] [False]" tvg-logo="", TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8

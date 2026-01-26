@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="PJNGWLztLvRiLZ" tvg-chno="1" group-title="famelack (tn) [tn] [False]" tvg-logo="", Jawhara TV
-https://streaming.toutech.net/live/jtv/index.m3u8
-#EXTINF:0001 tvg-id="0vWRP5qYJXkBiC" tvg-chno="2" group-title="famelack (tn) [tn] [False]" tvg-logo="", Mosaique FM
+#EXTINF:0001 tvg-id="0vWRP5qYJXkBiC" tvg-chno="1" group-title="famelack (tn) [tn] [False]" tvg-logo="", Mosaique FM
 https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR

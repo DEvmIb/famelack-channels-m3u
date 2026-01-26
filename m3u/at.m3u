@@ -31,16 +31,16 @@ https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:0001 tvg-id="EwM9NzIhL3N3PZ" tvg-chno="16" group-title="famelack (at) [at] [False]" tvg-logo="", ORF 2 Tirol HD
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
-#EXTINF:0001 tvg-id="5xY9cw7ypbOud1" tvg-chno="17" group-title="famelack (at) [at] [False]" tvg-logo="", R9
+#EXTINF:0001 tvg-id="RiifWdXjWLsqP4" tvg-chno="17" group-title="famelack (at) [at] [False]" tvg-logo="", ORF III HD
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:0001 tvg-id="5xY9cw7ypbOud1" tvg-chno="18" group-title="famelack (at) [at] [False]" tvg-logo="", R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="K8THRi8hdcH82I" tvg-chno="18" group-title="famelack (at) [at] [False]" tvg-logo="", Schladming-Dachstein TV
+#EXTINF:0001 tvg-id="K8THRi8hdcH82I" tvg-chno="19" group-title="famelack (at) [at] [False]" tvg-logo="", Schladming-Dachstein TV
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="H2qb0hwWTVm9bz" tvg-chno="19" group-title="famelack (at) [at] [False]" tvg-logo="", ServusTV HD
+#EXTINF:0001 tvg-id="H2qb0hwWTVm9bz" tvg-chno="20" group-title="famelack (at) [at] [False]" tvg-logo="", ServusTV HD
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
-#EXTINF:0001 tvg-id="FprwnAkCKvi17W" tvg-chno="20" group-title="famelack (at) [at] [False]" tvg-logo="", Steiermark TV
+#EXTINF:0001 tvg-id="FprwnAkCKvi17W" tvg-chno="21" group-title="famelack (at) [at] [False]" tvg-logo="", Steiermark TV
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
-#EXTINF:0001 tvg-id="dHIKj0PT3rIpW8" tvg-chno="21" group-title="famelack (at) [at] [False]" tvg-logo="", Stimmungsgarten TV
-https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
 #EXTINF:0001 tvg-id="0mEe54Ekw1mj61" tvg-chno="22" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV American
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="5ZPKeEUbFRktME" tvg-chno="23" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV Australian

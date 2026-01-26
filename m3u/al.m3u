@@ -11,5 +11,3 @@ https://live1.mediadesk.al/oranews.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0001 tvg-id="nKRKgWmp0ZuIb0" tvg-chno="6" group-title="famelack (al) [al] [False]" tvg-logo="", Syri
 https://stream.syritv.al/live/syritv/playlist.m3u8
-#EXTINF:0001 tvg-id="16gGAjZZtes1Qk" tvg-chno="7" group-title="famelack (al) [al] [False]" tvg-logo="", Zjarr TV
-https://zjarr.future.al/hls/playlist.m3u8
