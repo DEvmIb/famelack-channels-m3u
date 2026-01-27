@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="H0fTRstAnfWOk3" tvg-chno="1" group-title="famelack (ua) [ua] [False]" tvg-logo="", Avers
-https://avers.pp.ua/hls/efir.m3u8
-#EXTINF:0001 tvg-id="1noDMwg9YAlG9Y" tvg-chno="2" group-title="famelack (ua) [ua] [False]" tvg-logo="", Espreso TV
+#EXTINF:0001 tvg-id="1noDMwg9YAlG9Y" tvg-chno="1" group-title="famelack (ua) [ua] [False]" tvg-logo="", Espreso TV
 https://dash4.antik.sk/live/test_espresso/playlist.m3u8
-#EXTINF:0001 tvg-id="mIGSyXqUZvMvq1" tvg-chno="3" group-title="famelack (ua) [ua] [False]" tvg-logo="", EWTN Ukraine
+#EXTINF:0001 tvg-id="mIGSyXqUZvMvq1" tvg-chno="2" group-title="famelack (ua) [ua] [False]" tvg-logo="", EWTN Ukraine
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
-#EXTINF:0001 tvg-id="iK2kLMwkLCeU8A" tvg-chno="4" group-title="famelack (ua) [ua] [False]" tvg-logo="", Freedom (FREEДOM) (UATV)
+#EXTINF:0001 tvg-id="iK2kLMwkLCeU8A" tvg-chno="3" group-title="famelack (ua) [ua] [False]" tvg-logo="", Freedom (FREEДOM) (UATV)
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:0001 tvg-id="2ijBxrnqlhILuI" tvg-chno="4" group-title="famelack (ua) [ua] [False]" tvg-logo="", ITV
+https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
 #EXTINF:0001 tvg-id="WoGHZ2NiobEniJ" tvg-chno="5" group-title="famelack (ua) [ua] [False]" tvg-logo="", Izmail TV
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 #EXTINF:0001 tvg-id="tw81DnoVlplmdm" tvg-chno="6" group-title="famelack (ua) [ua] [False]" tvg-logo="", M2

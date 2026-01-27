@@ -61,19 +61,13 @@ https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 #EXTINF:0001 tvg-id="Gl4ZYknUeX07MF" tvg-chno="31" group-title="famelack (ch) [ch] [False]" tvg-logo="", Star TV
 https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8
-#EXTINF:0001 tvg-id="LKln2KCTgGGW0o" tvg-chno="32" group-title="famelack (ch) [ch] [False]" tvg-logo="", Tele 1
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
-#EXTINF:0001 tvg-id="DSMeS4qDum96H6" tvg-chno="33" group-title="famelack (ch) [ch] [False]" tvg-logo="", Tele M1
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
-#EXTINF:0001 tvg-id="9inSrRGCyLN9fv" tvg-chno="34" group-title="famelack (ch) [ch] [False]" tvg-logo="", TeleBarn
+#EXTINF:0001 tvg-id="9inSrRGCyLN9fv" tvg-chno="32" group-title="famelack (ch) [ch] [False]" tvg-logo="", TeleBarn
 https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
-#EXTINF:0001 tvg-id="jSUKExZugJJpgn" tvg-chno="35" group-title="famelack (ch) [ch] [False]" tvg-logo="", TeleBielingue
+#EXTINF:0001 tvg-id="jSUKExZugJJpgn" tvg-chno="33" group-title="famelack (ch) [ch] [False]" tvg-logo="", TeleBielingue
 https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
-#EXTINF:0001 tvg-id="OeC5ZVzNRndtBe" tvg-chno="36" group-title="famelack (ch) [ch] [False]" tvg-logo="", TeleTicino
+#EXTINF:0001 tvg-id="OeC5ZVzNRndtBe" tvg-chno="34" group-title="famelack (ch) [ch] [False]" tvg-logo="", TeleTicino
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:0001 tvg-id="qWtYbKLu3rOshF" tvg-chno="37" group-title="famelack (ch) [ch] [False]" tvg-logo="", TeleZüri
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8
-#EXTINF:0001 tvg-id="p2FtOD8SiN31rW" tvg-chno="38" group-title="famelack (ch) [ch] [False]" tvg-logo="", TV 24
+#EXTINF:0001 tvg-id="p2FtOD8SiN31rW" tvg-chno="35" group-title="famelack (ch) [ch] [False]" tvg-logo="", TV 24
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
-#EXTINF:0001 tvg-id="xZQHlEpImFJ1As" tvg-chno="39" group-title="famelack (ch) [ch] [False]" tvg-logo="", TVO (CH)
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
+#EXTINF:0001 tvg-id="WbRuzq9zl8hxl0" tvg-chno="36" group-title="famelack (ch) [ch] [False]" tvg-logo="", TV Rheintal
+https://rtmp-vm.fidion.de/live/tvrt.m3u8

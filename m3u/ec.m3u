@@ -43,10 +43,10 @@ https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 #EXTINF:0001 tvg-id="IpJn6TkjLhDwxt" tvg-chno="22" group-title="famelack (ec) [ec] [False]" tvg-logo="", IeanJesus Ecuador
 https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
-#EXTINF:0001 tvg-id="2m0gEtXYdWeCIN" tvg-chno="23" group-title="famelack (ec) [ec] [False]" tvg-logo="", Infinita TV
+#EXTINF:0001 tvg-id="7JtXS4icmdPuca" tvg-chno="23" group-title="famelack (ec) [ec] [False]" tvg-logo="", Imperio TV Canal 6
+https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8
+#EXTINF:0001 tvg-id="2m0gEtXYdWeCIN" tvg-chno="24" group-title="famelack (ec) [ec] [False]" tvg-logo="", Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
-#EXTINF:0001 tvg-id="ClCRN0leNua6OR" tvg-chno="24" group-title="famelack (ec) [ec] [False]" tvg-logo="", KCH TV
-https://www.kchtv.com/stream/hls/stream.m3u8
 #EXTINF:0001 tvg-id="BQiZCJpf4JlMdt" tvg-chno="25" group-title="famelack (ec) [ec] [False]" tvg-logo="", La Nueva Radio TV 97.7
 https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
 #EXTINF:0001 tvg-id="L7QnCoaelggBZN" tvg-chno="26" group-title="famelack (ec) [ec] [False]" tvg-logo="", La Perla Radio TV
@@ -87,37 +87,33 @@ https://video.compuwebecuador.com:3880/stream/play.m3u8
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
 #EXTINF:0001 tvg-id="LlQAZHVUJoGSEm" tvg-chno="44" group-title="famelack (ec) [ec] [False]" tvg-logo="", Radio Cuenca Estéreo
 https://eu1.servers10.com:8081/8074/index.m3u8
-#EXTINF:0001 tvg-id="PZkl1QNtloGB1B" tvg-chno="45" group-title="famelack (ec) [ec] [False]" tvg-logo="", Radio Impacto 2
-https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8
-#EXTINF:0001 tvg-id="QpaipzMOWMjyyR" tvg-chno="46" group-title="famelack (ec) [ec] [False]" tvg-logo="", Radio Monumental TV
+#EXTINF:0001 tvg-id="QpaipzMOWMjyyR" tvg-chno="45" group-title="famelack (ec) [ec] [False]" tvg-logo="", Radio Monumental TV
 https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
-#EXTINF:0001 tvg-id="xVqW7TFhiaRWy0" tvg-chno="47" group-title="famelack (ec) [ec] [False]" tvg-logo="", Red TVE Ventanas
+#EXTINF:0001 tvg-id="xVqW7TFhiaRWy0" tvg-chno="46" group-title="famelack (ec) [ec] [False]" tvg-logo="", Red TVE Ventanas
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8
-#EXTINF:0001 tvg-id="SaGLTOGoC0bQPx" tvg-chno="48" group-title="famelack (ec) [ec] [False]" tvg-logo="", RTRTV
+#EXTINF:0001 tvg-id="SaGLTOGoC0bQPx" tvg-chno="47" group-title="famelack (ec) [ec] [False]" tvg-logo="", RTRTV
 https://tv3ecuador.site/hls/stream/index.m3u8
-#EXTINF:0001 tvg-id="0Vw6NdTRGURL25" tvg-chno="49" group-title="famelack (ec) [ec] [False]" tvg-logo="", RTU
-https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
-#EXTINF:0001 tvg-id="GMkpwotjB860aV" tvg-chno="50" group-title="famelack (ec) [ec] [False]" tvg-logo="", RTV Riobamba
+#EXTINF:0001 tvg-id="GMkpwotjB860aV" tvg-chno="48" group-title="famelack (ec) [ec] [False]" tvg-logo="", RTV Riobamba
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
-#EXTINF:0001 tvg-id="WCNgs5Fvq7rKOn" tvg-chno="51" group-title="famelack (ec) [ec] [False]" tvg-logo="", Señal Positiva TV
+#EXTINF:0001 tvg-id="WCNgs5Fvq7rKOn" tvg-chno="49" group-title="famelack (ec) [ec] [False]" tvg-logo="", Señal Positiva TV
 https://eu1.servers10.com:8081/8108/index.m3u8
-#EXTINF:0001 tvg-id="gU9qpItJjz9ZDd" tvg-chno="52" group-title="famelack (ec) [ec] [False]" tvg-logo="", Sono Onda TV
+#EXTINF:0001 tvg-id="gU9qpItJjz9ZDd" tvg-chno="50" group-title="famelack (ec) [ec] [False]" tvg-logo="", Sono Onda TV
 https://live.obslivestream.com/sonoondatv/index.m3u8
-#EXTINF:0001 tvg-id="3TCmSy7n4qBhND" tvg-chno="53" group-title="famelack (ec) [ec] [False]" tvg-logo="", Telemar
+#EXTINF:0001 tvg-id="3TCmSy7n4qBhND" tvg-chno="51" group-title="famelack (ec) [ec] [False]" tvg-logo="", Telemar
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
-#EXTINF:0001 tvg-id="LX5wXVXTxx5iPK" tvg-chno="54" group-title="famelack (ec) [ec] [False]" tvg-logo="", Telerama
+#EXTINF:0001 tvg-id="LX5wXVXTxx5iPK" tvg-chno="52" group-title="famelack (ec) [ec] [False]" tvg-logo="", Telerama
 https://play.once.net.ec/telerama/live.tv/538.m3u8
-#EXTINF:0001 tvg-id="CY38SV2i5DFUTV" tvg-chno="55" group-title="famelack (ec) [ec] [False]" tvg-logo="", TV Cisne
-https://video2.lhdserver.es/tvcisne/live.m3u8
-#EXTINF:0001 tvg-id="7rCpyg4PCpPsco" tvg-chno="56" group-title="famelack (ec) [ec] [False]" tvg-logo="", TV Color Canal 36
+#EXTINF:0001 tvg-id="7rCpyg4PCpPsco" tvg-chno="53" group-title="famelack (ec) [ec] [False]" tvg-logo="", TV Color Canal 36
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-#EXTINF:0001 tvg-id="LfL7xtgZtyuyhr" tvg-chno="57" group-title="famelack (ec) [ec] [False]" tvg-logo="", TV Universal Ecuador
+#EXTINF:0001 tvg-id="LfL7xtgZtyuyhr" tvg-chno="54" group-title="famelack (ec) [ec] [False]" tvg-logo="", TV Universal Ecuador
 https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
-#EXTINF:0001 tvg-id="uhXaKy0zwMPJAb" tvg-chno="58" group-title="famelack (ec) [ec] [False]" tvg-logo="", UNIANDES TV
+#EXTINF:0001 tvg-id="OlaokC4Os8hK8W" tvg-chno="55" group-title="famelack (ec) [ec] [False]" tvg-logo="", UEBI TV Online
+https://ventaxtv.com:3575/live/uebilive.m3u8
+#EXTINF:0001 tvg-id="uhXaKy0zwMPJAb" tvg-chno="56" group-title="famelack (ec) [ec] [False]" tvg-logo="", UNIANDES TV
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-#EXTINF:0001 tvg-id="9TUqw93GWA6FwZ" tvg-chno="59" group-title="famelack (ec) [ec] [False]" tvg-logo="", Vos y TV
+#EXTINF:0001 tvg-id="9TUqw93GWA6FwZ" tvg-chno="57" group-title="famelack (ec) [ec] [False]" tvg-logo="", Vos y TV
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-#EXTINF:0001 tvg-id="0JIsuSxBK3riKE" tvg-chno="60" group-title="famelack (ec) [ec] [False]" tvg-logo="", Wuan+
+#EXTINF:0001 tvg-id="0JIsuSxBK3riKE" tvg-chno="58" group-title="famelack (ec) [ec] [False]" tvg-logo="", Wuan+
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
-#EXTINF:0001 tvg-id="M10FM4kxvf869B" tvg-chno="61" group-title="famelack (ec) [ec] [False]" tvg-logo="", Zaracay TV
+#EXTINF:0001 tvg-id="M10FM4kxvf869B" tvg-chno="59" group-title="famelack (ec) [ec] [False]" tvg-logo="", Zaracay TV
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8

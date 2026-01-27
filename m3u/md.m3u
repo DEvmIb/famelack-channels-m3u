@@ -9,3 +9,5 @@ https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 https://stream.protv.md/live/sursa-1/index.m3u8
 #EXTINF:0001 tvg-id="HCXSb3xpk25kNM" tvg-chno="5" group-title="famelack (md) [md] [False]" tvg-logo="", Rlive TV
 https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:0001 tvg-id="sI0ew6lEh5sEPV" tvg-chno="6" group-title="famelack (md) [md] [False]" tvg-logo="", TV-Nord
+https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8

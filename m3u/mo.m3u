@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="34ae3uHdQyClQW" tvg-chno="1" group-title="famelack (mo) [mo] [False]" tvg-logo="", Canal Macau Ch. 92
-https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:0001 tvg-id="63wWdxaoQWzfVD" tvg-chno="1" group-title="famelack (mo) [mo] [False]" tvg-logo="", TDM Entertainment Ch. 95
+https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:0001 tvg-id="7kcVPnBcZfevvy" tvg-chno="2" group-title="famelack (mo) [mo] [False]" tvg-logo="", TDM Ou Mun Macau Ch. 91
+https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8

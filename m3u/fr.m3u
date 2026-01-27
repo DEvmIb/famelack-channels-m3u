@@ -169,26 +169,26 @@ https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 #EXTINF:0001 tvg-id="5oNNwRbeufUj8K" tvg-chno="85" group-title="famelack (fr) [fr] [False]" tvg-logo="", Monte Carlo Digital Television
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
-#EXTINF:0001 tvg-id="kD5MBV5ey6hKbh" tvg-chno="86" group-title="famelack (fr) [fr] [False]" tvg-logo="", Motus La Chaîne
+#EXTINF:0001 tvg-id="BoupFeA3cv43aA" tvg-chno="86" group-title="famelack (fr) [fr] [False]" tvg-logo="", Motorvision.tv (French)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:0001 tvg-id="kD5MBV5ey6hKbh" tvg-chno="87" group-title="famelack (fr) [fr] [False]" tvg-logo="", Motus La Chaîne
 https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
-#EXTINF:0001 tvg-id="CpZZCNRPTXaipO" tvg-chno="87" group-title="famelack (fr) [fr] [False]" tvg-logo="", MTV
+#EXTINF:0001 tvg-id="CpZZCNRPTXaipO" tvg-chno="88" group-title="famelack (fr) [fr] [False]" tvg-logo="", MTV
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
-#EXTINF:0001 tvg-id="aRYM4hJmBP444c" tvg-chno="88" group-title="famelack (fr) [fr] [False]" tvg-logo="", My Gospel TV
+#EXTINF:0001 tvg-id="aRYM4hJmBP444c" tvg-chno="89" group-title="famelack (fr) [fr] [False]" tvg-logo="", My Gospel TV
 https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8
-#EXTINF:0001 tvg-id="frxoUV6KIlJwd1" tvg-chno="89" group-title="famelack (fr) [fr] [False]" tvg-logo="", MyTime Movie Network France
+#EXTINF:0001 tvg-id="frxoUV6KIlJwd1" tvg-chno="90" group-title="famelack (fr) [fr] [False]" tvg-logo="", MyTime Movie Network France
 https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="hDKihfnR1gIzAi" tvg-chno="90" group-title="famelack (fr) [fr] [False]" tvg-logo="", Myzen TV
+#EXTINF:0001 tvg-id="hDKihfnR1gIzAi" tvg-chno="91" group-title="famelack (fr) [fr] [False]" tvg-logo="", Myzen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
-#EXTINF:0001 tvg-id="9skZE5NCmBDvbB" tvg-chno="91" group-title="famelack (fr) [fr] [False]" tvg-logo="", Nature Time France
+#EXTINF:0001 tvg-id="9skZE5NCmBDvbB" tvg-chno="92" group-title="famelack (fr) [fr] [False]" tvg-logo="", Nature Time France
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="MzIWGoIHxnWjqg" tvg-chno="92" group-title="famelack (fr) [fr] [False]" tvg-logo="", NewsWorld
+#EXTINF:0001 tvg-id="MzIWGoIHxnWjqg" tvg-chno="93" group-title="famelack (fr) [fr] [False]" tvg-logo="", NewsWorld
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
-#EXTINF:0001 tvg-id="kTuIaBZvnaLqV1" tvg-chno="93" group-title="famelack (fr) [fr] [False]" tvg-logo="", NOVO19
+#EXTINF:0001 tvg-id="kTuIaBZvnaLqV1" tvg-chno="94" group-title="famelack (fr) [fr] [False]" tvg-logo="", NOVO19
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
-#EXTINF:0001 tvg-id="UV2K3Inr6FlKvf" tvg-chno="94" group-title="famelack (fr) [fr] [False]" tvg-logo="", P2M TV
+#EXTINF:0001 tvg-id="UV2K3Inr6FlKvf" tvg-chno="95" group-title="famelack (fr) [fr] [False]" tvg-logo="", P2M TV
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
-#EXTINF:0001 tvg-id="G4MF2teF38UV6O" tvg-chno="95" group-title="famelack (fr) [fr] [False]" tvg-logo="", Paramount Channel
-https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
 #EXTINF:0001 tvg-id="rD66Oim1zZv8fD" tvg-chno="96" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
 #EXTINF:0001 tvg-id="JGg2rFfUUHYtg9" tvg-chno="97" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Docs

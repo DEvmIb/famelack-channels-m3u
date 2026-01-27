@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="aN8uGsIctN5GGv" tvg-chno="1" group-title="famelack (sx) [sx] [False]" tvg-logo="", 98.1 Pearl FM
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
-#EXTINF:0001 tvg-id="G5MvNhKDTwrAEa" tvg-chno="2" group-title="famelack (sx) [sx] [False]" tvg-logo="", TVCARiB Kids & Teens
+#EXTINF:0001 tvg-id="2rNqvS3cyFL1gx" tvg-chno="2" group-title="famelack (sx) [sx] [False]" tvg-logo="", TVCARiB Gospel
+https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
+#EXTINF:0001 tvg-id="G5MvNhKDTwrAEa" tvg-chno="3" group-title="famelack (sx) [sx] [False]" tvg-logo="", TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
