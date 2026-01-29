@@ -3,10 +3,10 @@
 https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8
 #EXTINF:0001 tvg-id="uMF9KhS3uVy9FZ" tvg-chno="2" group-title="famelack (ug) [ug] [False]" tvg-logo="", ACW UG TV
 https://live.acwugtv.com/hls/stream.m3u8
-#EXTINF:0001 tvg-id="t2mBHms7Nuow3E" tvg-chno="3" group-title="famelack (ug) [ug] [False]" tvg-logo="", Ark TV
+#EXTINF:0001 tvg-id="OzdPy3Brp6JZA9" tvg-chno="3" group-title="famelack (ug) [ug] [False]" tvg-logo="", Alpha Digital
+https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+#EXTINF:0001 tvg-id="t2mBHms7Nuow3E" tvg-chno="4" group-title="famelack (ug) [ug] [False]" tvg-logo="", Ark TV
 https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
-#EXTINF:0001 tvg-id="BAl5rYC3FH50BY" tvg-chno="4" group-title="famelack (ug) [ug] [False]" tvg-logo="", BTV
-https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
 #EXTINF:0001 tvg-id="RgMMgkjkxfK5cI" tvg-chno="5" group-title="famelack (ug) [ug] [False]" tvg-logo="", Bukedde TV 1
 https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
 #EXTINF:0001 tvg-id="jYMFAKmG8aOlOf" tvg-chno="6" group-title="famelack (ug) [ug] [False]" tvg-logo="", Bukedde TV 2

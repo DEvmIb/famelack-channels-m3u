@@ -15,46 +15,46 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:0001 tvg-id="VgtTp0h6GjIzCV" tvg-chno="8" group-title="famelack (id) [id] [False]" tvg-logo="", Banyumas TV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
-#EXTINF:0001 tvg-id="uJBF1tDsL0la1J" tvg-chno="9" group-title="famelack (id) [id] [False]" tvg-logo="", BeritaSatu English
+#EXTINF:0001 tvg-id="jNS2zLnbe2xbOW" tvg-chno="9" group-title="famelack (id) [id] [False]" tvg-logo="", BE TV
+https://flv.intechmedia.net/live/ch58.m3u8
+#EXTINF:0001 tvg-id="uJBF1tDsL0la1J" tvg-chno="10" group-title="famelack (id) [id] [False]" tvg-logo="", BeritaSatu English
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
-#EXTINF:0001 tvg-id="LmdGto7bYNlvCY" tvg-chno="10" group-title="famelack (id) [id] [False]" tvg-logo="", BN Channel
+#EXTINF:0001 tvg-id="LmdGto7bYNlvCY" tvg-chno="11" group-title="famelack (id) [id] [False]" tvg-logo="", BN Channel
 https://flv.intechmedia.net/live/ch112.m3u8
-#EXTINF:0001 tvg-id="lV8zHLVhKEPFpW" tvg-chno="11" group-title="famelack (id) [id] [False]" tvg-logo="", BRTV
+#EXTINF:0001 tvg-id="lV8zHLVhKEPFpW" tvg-chno="12" group-title="famelack (id) [id] [False]" tvg-logo="", BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-#EXTINF:0001 tvg-id="XPSVuVs1TyQFaN" tvg-chno="12" group-title="famelack (id) [id] [False]" tvg-logo="", BTV
+#EXTINF:0001 tvg-id="XPSVuVs1TyQFaN" tvg-chno="13" group-title="famelack (id) [id] [False]" tvg-logo="", BTV
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
-#EXTINF:0001 tvg-id="u2sCANZ3ft5IKm" tvg-chno="13" group-title="famelack (id) [id] [False]" tvg-logo="", Bungo TV
+#EXTINF:0001 tvg-id="u2sCANZ3ft5IKm" tvg-chno="14" group-title="famelack (id) [id] [False]" tvg-logo="", Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-#EXTINF:0001 tvg-id="csTsVz553duuxV" tvg-chno="14" group-title="famelack (id) [id] [False]" tvg-logo="", Caruban TV
+#EXTINF:0001 tvg-id="csTsVz553duuxV" tvg-chno="15" group-title="famelack (id) [id] [False]" tvg-logo="", Caruban TV
 https://stream.carubantv.id/hls/0/stream.m3u8
-#EXTINF:0001 tvg-id="ysfaguwCn6M0Nv" tvg-chno="15" group-title="famelack (id) [id] [False]" tvg-logo="", Celebes TV
+#EXTINF:0001 tvg-id="ysfaguwCn6M0Nv" tvg-chno="16" group-title="famelack (id) [id] [False]" tvg-logo="", Celebes TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
-#EXTINF:0001 tvg-id="vd1yZSp74MjEYU" tvg-chno="16" group-title="famelack (id) [id] [False]" tvg-logo="", DAAI TV
+#EXTINF:0001 tvg-id="vd1yZSp74MjEYU" tvg-chno="17" group-title="famelack (id) [id] [False]" tvg-logo="", DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:0001 tvg-id="JTbs2lIH8ln5ro" tvg-chno="17" group-title="famelack (id) [id] [False]" tvg-logo="", Davika TV
+#EXTINF:0001 tvg-id="JTbs2lIH8ln5ro" tvg-chno="18" group-title="famelack (id) [id] [False]" tvg-logo="", Davika TV
 https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
-#EXTINF:0001 tvg-id="ksjOnBMCR8R7y0" tvg-chno="18" group-title="famelack (id) [id] [False]" tvg-logo="", Dhamma TV
+#EXTINF:0001 tvg-id="ksjOnBMCR8R7y0" tvg-chno="19" group-title="famelack (id) [id] [False]" tvg-logo="", Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:0001 tvg-id="baEpAaJEKajwBU" tvg-chno="19" group-title="famelack (id) [id] [False]" tvg-logo="", Dhoho TV
+#EXTINF:0001 tvg-id="baEpAaJEKajwBU" tvg-chno="20" group-title="famelack (id) [id] [False]" tvg-logo="", Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="uXrEKCywSeVE7r" tvg-chno="20" group-title="famelack (id) [id] [False]" tvg-logo="", DM TV Malang
+#EXTINF:0001 tvg-id="uXrEKCywSeVE7r" tvg-chno="21" group-title="famelack (id) [id] [False]" tvg-logo="", DM TV Malang
 https://e.siar.us/live/dmtv.m3u8
-#EXTINF:0001 tvg-id="QsUhnT0pi51wcj" tvg-chno="21" group-title="famelack (id) [id] [False]" tvg-logo="", Duta TV
+#EXTINF:0001 tvg-id="QsUhnT0pi51wcj" tvg-chno="22" group-title="famelack (id) [id] [False]" tvg-logo="", Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="Eg0R1qmDu85lEs" tvg-chno="22" group-title="famelack (id) [id] [False]" tvg-logo="", Efarina TV
+#EXTINF:0001 tvg-id="Eg0R1qmDu85lEs" tvg-chno="23" group-title="famelack (id) [id] [False]" tvg-logo="", Efarina TV
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
-#EXTINF:0001 tvg-id="XgBmwiqwEZak5t" tvg-chno="23" group-title="famelack (id) [id] [False]" tvg-logo="", Elshinta TV
+#EXTINF:0001 tvg-id="XgBmwiqwEZak5t" tvg-chno="24" group-title="famelack (id) [id] [False]" tvg-logo="", Elshinta TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
-#EXTINF:0001 tvg-id="swg1noloxNDS5D" tvg-chno="24" group-title="famelack (id) [id] [False]" tvg-logo="", Ficom Channel
+#EXTINF:0001 tvg-id="swg1noloxNDS5D" tvg-chno="25" group-title="famelack (id) [id] [False]" tvg-logo="", Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
-#EXTINF:0001 tvg-id="LISekcgicAyOGd" tvg-chno="25" group-title="famelack (id) [id] [False]" tvg-logo="", Garuda TV
+#EXTINF:0001 tvg-id="LISekcgicAyOGd" tvg-chno="26" group-title="famelack (id) [id] [False]" tvg-logo="", Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:0001 tvg-id="FlyflabB3PZYqG" tvg-chno="26" group-title="famelack (id) [id] [False]" tvg-logo="", GTV
+#EXTINF:0001 tvg-id="FlyflabB3PZYqG" tvg-chno="27" group-title="famelack (id) [id] [False]" tvg-logo="", GTV
 https://allcutv.rctiplus.id/gtv2023.m3u8
-#EXTINF:0001 tvg-id="iKRL8braCsStZJ" tvg-chno="27" group-title="famelack (id) [id] [False]" tvg-logo="", Huma Betang TV
+#EXTINF:0001 tvg-id="iKRL8braCsStZJ" tvg-chno="28" group-title="famelack (id) [id] [False]" tvg-logo="", Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="Hae4Rh59QFhZLW" tvg-chno="28" group-title="famelack (id) [id] [False]" tvg-logo="", I Am Channel
-https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
 #EXTINF:0001 tvg-id="4XTEtIon4adh6d" tvg-chno="29" group-title="famelack (id) [id] [False]" tvg-logo="", Indonesiana.TV
 https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:0001 tvg-id="pqtg1GUrVPoOVe" tvg-chno="30" group-title="famelack (id) [id] [False]" tvg-logo="", iNews
@@ -115,101 +115,101 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 https://salamtv.siar.us/live/salamtv.m3u8
 #EXTINF:0001 tvg-id="qWijccdHGumaJp" tvg-chno="58" group-title="famelack (id) [id] [False]" tvg-logo="", Salira TV
 https://live.salira.tv/p/3870/hybrid/play.m3u8
-#EXTINF:0001 tvg-id="Cx1Butu3HjYB81" tvg-chno="59" group-title="famelack (id) [id] [False]" tvg-logo="", Sampit TV
-https://sampit-tv.siar.us/live/sampit-tv.m3u8
+#EXTINF:0001 tvg-id="4WttbEI2P66IMh" tvg-chno="59" group-title="famelack (id) [id] [False]" tvg-logo="", Sangaji TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:0001 tvg-id="0cfFq7pSzUjjN2" tvg-chno="60" group-title="famelack (id) [id] [False]" tvg-logo="", Sriwijaya TV
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
-#EXTINF:0001 tvg-id="ig8Heof5b0HbF8" tvg-chno="61" group-title="famelack (id) [id] [False]" tvg-logo="", Stara TV Bandung
+#EXTINF:0001 tvg-id="3tK786c3qywsHt" tvg-chno="61" group-title="famelack (id) [id] [False]" tvg-logo="", Stara TV
+https://stream.staratv.id/hls/0/stream.m3u8
+#EXTINF:0001 tvg-id="ig8Heof5b0HbF8" tvg-chno="62" group-title="famelack (id) [id] [False]" tvg-logo="", Stara TV Bandung
 https://bandung.staratv.id/hls/0/stream.m3u8
-#EXTINF:0001 tvg-id="wQh13Um5b8b6uA" tvg-chno="62" group-title="famelack (id) [id] [False]" tvg-logo="", Stara TV Cianjur
+#EXTINF:0001 tvg-id="wQh13Um5b8b6uA" tvg-chno="63" group-title="famelack (id) [id] [False]" tvg-logo="", Stara TV Cianjur
 https://cianjur.staratv.id/hls/0/stream.m3u8
-#EXTINF:0001 tvg-id="2p68S1VfZNBPKr" tvg-chno="63" group-title="famelack (id) [id] [False]" tvg-logo="", Stara TV Malang
+#EXTINF:0001 tvg-id="2p68S1VfZNBPKr" tvg-chno="64" group-title="famelack (id) [id] [False]" tvg-logo="", Stara TV Malang
 https://malang.staratv.id/hls/0/stream.m3u8
-#EXTINF:0001 tvg-id="6DA4FLoBUvoZ4f" tvg-chno="64" group-title="famelack (id) [id] [False]" tvg-logo="", Surabaya TV
+#EXTINF:0001 tvg-id="6DA4FLoBUvoZ4f" tvg-chno="65" group-title="famelack (id) [id] [False]" tvg-logo="", Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
-#EXTINF:0001 tvg-id="ElMOzKMmZlOwFg" tvg-chno="65" group-title="famelack (id) [id] [False]" tvg-logo="", Surau TV
+#EXTINF:0001 tvg-id="ElMOzKMmZlOwFg" tvg-chno="66" group-title="famelack (id) [id] [False]" tvg-logo="", Surau TV
 https://surautv.siar.us/live/surautv.m3u8
-#EXTINF:0001 tvg-id="DoFmcYHnbbjDFG" tvg-chno="66" group-title="famelack (id) [id] [False]" tvg-logo="", TATV
+#EXTINF:0001 tvg-id="DoFmcYHnbbjDFG" tvg-chno="67" group-title="famelack (id) [id] [False]" tvg-logo="", TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="Pu17TwY3OoDiLo" tvg-chno="67" group-title="famelack (id) [id] [False]" tvg-logo="", TV Mu
+#EXTINF:0001 tvg-id="Pu17TwY3OoDiLo" tvg-chno="68" group-title="famelack (id) [id] [False]" tvg-logo="", TV Mu
 https://e.siar.us/live/tvmu.m3u8
-#EXTINF:0001 tvg-id="Q5bB6xe7tPE7vf" tvg-chno="68" group-title="famelack (id) [id] [False]" tvg-logo="", TV Tabalong
+#EXTINF:0001 tvg-id="Q5bB6xe7tPE7vf" tvg-chno="69" group-title="famelack (id) [id] [False]" tvg-logo="", TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-#EXTINF:0001 tvg-id="j5uk77T4oFMGBW" tvg-chno="69" group-title="famelack (id) [id] [False]" tvg-logo="", TV9 Nusantara
+#EXTINF:0001 tvg-id="j5uk77T4oFMGBW" tvg-chno="70" group-title="famelack (id) [id] [False]" tvg-logo="", TV9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:0001 tvg-id="AIvndURhkfCKoa" tvg-chno="70" group-title="famelack (id) [id] [False]" tvg-logo="", TVKU
+#EXTINF:0001 tvg-id="AIvndURhkfCKoa" tvg-chno="71" group-title="famelack (id) [id] [False]" tvg-logo="", TVKU
 https://tvku.tv/hlsstream/hls/live.m3u8
-#EXTINF:0001 tvg-id="XJ4dEYCzTYDhWM" tvg-chno="71" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Aceh
+#EXTINF:0001 tvg-id="XJ4dEYCzTYDhWM" tvg-chno="72" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Aceh
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
-#EXTINF:0001 tvg-id="F0wNTAcxVnBo4B" tvg-chno="72" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Bali
+#EXTINF:0001 tvg-id="F0wNTAcxVnBo4B" tvg-chno="73" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Bali
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
-#EXTINF:0001 tvg-id="sN4o2leEYvu2mV" tvg-chno="73" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Bangka Belitung
+#EXTINF:0001 tvg-id="sN4o2leEYvu2mV" tvg-chno="74" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Bangka Belitung
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
-#EXTINF:0001 tvg-id="Wl58rN1gU5bK4Q" tvg-chno="74" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Bengkulu
+#EXTINF:0001 tvg-id="Wl58rN1gU5bK4Q" tvg-chno="75" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Bengkulu
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
-#EXTINF:0001 tvg-id="CjqycbsdfJlUgF" tvg-chno="75" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI DKI Jakarta
+#EXTINF:0001 tvg-id="CjqycbsdfJlUgF" tvg-chno="76" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI DKI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
-#EXTINF:0001 tvg-id="4rgiWj82tXQkHf" tvg-chno="76" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Gorontalo
+#EXTINF:0001 tvg-id="4rgiWj82tXQkHf" tvg-chno="77" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Gorontalo
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
-#EXTINF:0001 tvg-id="NaUc6ArGQbtf0k" tvg-chno="77" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Jambi
+#EXTINF:0001 tvg-id="NaUc6ArGQbtf0k" tvg-chno="78" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Jambi
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
-#EXTINF:0001 tvg-id="tNmidmZ11402xS" tvg-chno="78" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Jawa Barat
+#EXTINF:0001 tvg-id="tNmidmZ11402xS" tvg-chno="79" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Jawa Barat
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:0001 tvg-id="sSY5aRAP59glcD" tvg-chno="79" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Jawa Tengah
+#EXTINF:0001 tvg-id="sSY5aRAP59glcD" tvg-chno="80" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Jawa Tengah
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-#EXTINF:0001 tvg-id="Hch4jnCIdQX0Fi" tvg-chno="80" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Jawa Timur
+#EXTINF:0001 tvg-id="Hch4jnCIdQX0Fi" tvg-chno="81" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Jawa Timur
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-#EXTINF:0001 tvg-id="mdPE8daQzbZFSj" tvg-chno="81" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Kalimantan Barat
+#EXTINF:0001 tvg-id="mdPE8daQzbZFSj" tvg-chno="82" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Kalimantan Barat
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
-#EXTINF:0001 tvg-id="V9RgtBNmc3nzI5" tvg-chno="82" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Kalimantan Selatan
+#EXTINF:0001 tvg-id="V9RgtBNmc3nzI5" tvg-chno="83" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Kalimantan Selatan
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
-#EXTINF:0001 tvg-id="YJ98rmQV21LGlF" tvg-chno="83" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Kalimantan Tengah
+#EXTINF:0001 tvg-id="YJ98rmQV21LGlF" tvg-chno="84" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Kalimantan Tengah
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
-#EXTINF:0001 tvg-id="UZtbdlM4AtLRh4" tvg-chno="84" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Kalimantan Timur
+#EXTINF:0001 tvg-id="UZtbdlM4AtLRh4" tvg-chno="85" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Kalimantan Timur
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
-#EXTINF:0001 tvg-id="aKhPxO0qIJnOmB" tvg-chno="85" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Lampung
+#EXTINF:0001 tvg-id="aKhPxO0qIJnOmB" tvg-chno="86" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Lampung
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
-#EXTINF:0001 tvg-id="xAe3wKMPLdjB8T" tvg-chno="86" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Maluku
+#EXTINF:0001 tvg-id="xAe3wKMPLdjB8T" tvg-chno="87" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Maluku
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
-#EXTINF:0001 tvg-id="07JEPKa2yHyokl" tvg-chno="87" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Nasional
+#EXTINF:0001 tvg-id="07JEPKa2yHyokl" tvg-chno="88" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:0001 tvg-id="4lgXnmhGxV9Mm5" tvg-chno="88" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI North Sulawesi
+#EXTINF:0001 tvg-id="4lgXnmhGxV9Mm5" tvg-chno="89" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI North Sulawesi
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
-#EXTINF:0001 tvg-id="IFuLYd1zf8pEZM" tvg-chno="89" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI North Sumatra
+#EXTINF:0001 tvg-id="IFuLYd1zf8pEZM" tvg-chno="90" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI North Sumatra
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
-#EXTINF:0001 tvg-id="cfLATw44Elyjwj" tvg-chno="90" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Nusa Tenggara Barat
+#EXTINF:0001 tvg-id="cfLATw44Elyjwj" tvg-chno="91" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Nusa Tenggara Barat
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
-#EXTINF:0001 tvg-id="UeJJoisyDzx5D1" tvg-chno="91" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Nusa Tenggara Timur
+#EXTINF:0001 tvg-id="UeJJoisyDzx5D1" tvg-chno="92" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Nusa Tenggara Timur
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
-#EXTINF:0001 tvg-id="cOrygxH7QFbjGa" tvg-chno="92" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Papua
+#EXTINF:0001 tvg-id="cOrygxH7QFbjGa" tvg-chno="93" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Papua
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
-#EXTINF:0001 tvg-id="MehwfGmaYpHRPe" tvg-chno="93" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Riau
+#EXTINF:0001 tvg-id="MehwfGmaYpHRPe" tvg-chno="94" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Riau
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
-#EXTINF:0001 tvg-id="OS0pJpfqrL4sYH" tvg-chno="94" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sport
+#EXTINF:0001 tvg-id="OS0pJpfqrL4sYH" tvg-chno="95" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:0001 tvg-id="cSiW0KDziigtPl" tvg-chno="95" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sulawesi Barat
+#EXTINF:0001 tvg-id="cSiW0KDziigtPl" tvg-chno="96" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sulawesi Barat
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
-#EXTINF:0001 tvg-id="5BD8NXhLlxGRfy" tvg-chno="96" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sulawesi Selatan
+#EXTINF:0001 tvg-id="5BD8NXhLlxGRfy" tvg-chno="97" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sulawesi Selatan
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
-#EXTINF:0001 tvg-id="TDtA1ok3J1ZDYf" tvg-chno="97" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sulawesi Tengah
+#EXTINF:0001 tvg-id="TDtA1ok3J1ZDYf" tvg-chno="98" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sulawesi Tengah
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
-#EXTINF:0001 tvg-id="Z3T1pXv7DuaEVH" tvg-chno="98" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sulawesi Tenggara
+#EXTINF:0001 tvg-id="Z3T1pXv7DuaEVH" tvg-chno="99" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sulawesi Tenggara
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
-#EXTINF:0001 tvg-id="X4H5Pu8n7KzSfo" tvg-chno="99" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sumatera Barat
+#EXTINF:0001 tvg-id="X4H5Pu8n7KzSfo" tvg-chno="100" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sumatera Barat
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
-#EXTINF:0001 tvg-id="OiwSD38h5Rq2nc" tvg-chno="100" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sumatera Selatan
+#EXTINF:0001 tvg-id="OiwSD38h5Rq2nc" tvg-chno="101" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Sumatera Selatan
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
-#EXTINF:0001 tvg-id="m5b5e8rYhGOpbt" tvg-chno="101" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI West Papua
+#EXTINF:0001 tvg-id="m5b5e8rYhGOpbt" tvg-chno="102" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI West Papua
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
-#EXTINF:0001 tvg-id="LOyzBz4raU7KUo" tvg-chno="102" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI World
+#EXTINF:0001 tvg-id="LOyzBz4raU7KUo" tvg-chno="103" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:0001 tvg-id="UM1CVLiIjzrIdV" tvg-chno="103" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Yogyakarta
+#EXTINF:0001 tvg-id="UM1CVLiIjzrIdV" tvg-chno="104" group-title="famelack (id) [id] [False]" tvg-logo="", TVRI Yogyakarta
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
-#EXTINF:0001 tvg-id="g5xZd9yme6tjFT" tvg-chno="104" group-title="famelack (id) [id] [False]" tvg-logo="", U Channel
+#EXTINF:0001 tvg-id="g5xZd9yme6tjFT" tvg-chno="105" group-title="famelack (id) [id] [False]" tvg-logo="", U Channel
 https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
-#EXTINF:0001 tvg-id="SlDXX35NImvk2c" tvg-chno="105" group-title="famelack (id) [id] [False]" tvg-logo="", UGTV
+#EXTINF:0001 tvg-id="SlDXX35NImvk2c" tvg-chno="106" group-title="famelack (id) [id] [False]" tvg-logo="", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-#EXTINF:0001 tvg-id="ZAvkusD7l4cZyu" tvg-chno="106" group-title="famelack (id) [id] [False]" tvg-logo="", VTV
+#EXTINF:0001 tvg-id="ZAvkusD7l4cZyu" tvg-chno="107" group-title="famelack (id) [id] [False]" tvg-logo="", VTV
 https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF:0001 tvg-id="4ZQahFuCJWYmYi" tvg-chno="107" group-title="famelack (id) [id] [False]" tvg-logo="", Wesal TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8

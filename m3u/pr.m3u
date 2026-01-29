@@ -47,19 +47,17 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
 #EXTINF:0001 tvg-id="vyt0kv18Rn0n1W" tvg-chno="24" group-title="famelack (pr) [pr] [False]" tvg-logo="", WDWL-DT1 (Teleadoración/Enlace PR)
 https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
-#EXTINF:0001 tvg-id="ynSZIn5Rr5lhRI" tvg-chno="25" group-title="famelack (pr) [pr] [False]" tvg-logo="", WECN (Único TV)
-https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
-#EXTINF:0001 tvg-id="Gu2HE3t32WMK3n" tvg-chno="26" group-title="famelack (pr) [pr] [False]" tvg-logo="", WIPR
+#EXTINF:0001 tvg-id="Gu2HE3t32WMK3n" tvg-chno="25" group-title="famelack (pr) [pr] [False]" tvg-logo="", WIPR
 https://streamwipr.pr/hls/stream/index.m3u8
-#EXTINF:0001 tvg-id="K7sw2vzmTThI5Y" tvg-chno="27" group-title="famelack (pr) [pr] [False]" tvg-logo="", WKAQ-DT1 (Telemundo PR)
+#EXTINF:0001 tvg-id="K7sw2vzmTThI5Y" tvg-chno="26" group-title="famelack (pr) [pr] [False]" tvg-logo="", WKAQ-DT1 (Telemundo PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:0001 tvg-id="d7T8Xe2wQZ8WxA" tvg-chno="28" group-title="famelack (pr) [pr] [False]" tvg-logo="", WKAQ-DT2 (Punto 2)
+#EXTINF:0001 tvg-id="d7T8Xe2wQZ8WxA" tvg-chno="27" group-title="famelack (pr) [pr] [False]" tvg-logo="", WKAQ-DT2 (Punto 2)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:0001 tvg-id="KFwxXaghB3avq8" tvg-chno="29" group-title="famelack (pr) [pr] [False]" tvg-logo="", WRUA-DT1 (Tiva TV)
+#EXTINF:0001 tvg-id="KFwxXaghB3avq8" tvg-chno="28" group-title="famelack (pr) [pr] [False]" tvg-logo="", WRUA-DT1 (Tiva TV)
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
-#EXTINF:0001 tvg-id="oTB6NEVrecMEoL" tvg-chno="30" group-title="famelack (pr) [pr] [False]" tvg-logo="", WWXY-DT1 (Boricua TV)
+#EXTINF:0001 tvg-id="oTB6NEVrecMEoL" tvg-chno="29" group-title="famelack (pr) [pr] [False]" tvg-logo="", WWXY-DT1 (Boricua TV)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:0001 tvg-id="O3uNQbMAfU0Osa" tvg-chno="31" group-title="famelack (pr) [pr] [False]" tvg-logo="", WWXY-DT3 (Maranatha Radio Ministries)
+#EXTINF:0001 tvg-id="O3uNQbMAfU0Osa" tvg-chno="30" group-title="famelack (pr) [pr] [False]" tvg-logo="", WWXY-DT3 (Maranatha Radio Ministries)
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
-#EXTINF:0001 tvg-id="adHdshhDWbo0Cn" tvg-chno="32" group-title="famelack (pr) [pr] [False]" tvg-logo="", WXWZ-LD1 (MásTV Canal 23)
+#EXTINF:0001 tvg-id="adHdshhDWbo0Cn" tvg-chno="31" group-title="famelack (pr) [pr] [False]" tvg-logo="", WXWZ-LD1 (MásTV Canal 23)
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8

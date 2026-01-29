@@ -3,3 +3,5 @@
 https://seswa.bonce.tv/hls/bonceswa.m3u8
 #EXTINF:0001 tvg-id="5yCz2cpTabs54O" tvg-chno="2" group-title="famelack (cw) [cw] [False]" tvg-logo="", TV Direct 13
 https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="ytgkmKRLzQAL3O" tvg-chno="3" group-title="famelack (cw) [cw] [False]" tvg-logo="", VAM Vid's & More
+https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8

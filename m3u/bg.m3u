@@ -5,21 +5,19 @@ https://restr2.bgtv.bg/agro/hls/agro.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8
 #EXTINF:0001 tvg-id="S1ZYN7hADGka8A" tvg-chno="3" group-title="famelack (bg) [bg] [False]" tvg-logo="", City TV
 https://tv.city.bg/play/tshls/citytv/index.m3u8
-#EXTINF:0001 tvg-id="z7zMm8Am4tFsxt" tvg-chno="4" group-title="famelack (bg) [bg] [False]" tvg-logo="", Evrokom
-https://live.ecomservice.bg/hls/stream.m3u8
-#EXTINF:0001 tvg-id="xb56fwuwQyeFpw" tvg-chno="5" group-title="famelack (bg) [bg] [False]" tvg-logo="", Hope Channel Bulgaria
+#EXTINF:0001 tvg-id="xb56fwuwQyeFpw" tvg-chno="4" group-title="famelack (bg) [bg] [False]" tvg-logo="", Hope Channel Bulgaria
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="baxC7ZNvKlaeR7" tvg-chno="6" group-title="famelack (bg) [bg] [False]" tvg-logo="", Light Channel
+#EXTINF:0001 tvg-id="baxC7ZNvKlaeR7" tvg-chno="5" group-title="famelack (bg) [bg] [False]" tvg-logo="", Light Channel
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:0001 tvg-id="rq3OJITyKdZXB9" tvg-chno="7" group-title="famelack (bg) [bg] [False]" tvg-logo="", Magic TV
+#EXTINF:0001 tvg-id="rq3OJITyKdZXB9" tvg-chno="6" group-title="famelack (bg) [bg] [False]" tvg-logo="", Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:0001 tvg-id="dFVfkSRxGNsYew" tvg-chno="8" group-title="famelack (bg) [bg] [False]" tvg-logo="", The Voice TV
+#EXTINF:0001 tvg-id="dFVfkSRxGNsYew" tvg-chno="7" group-title="famelack (bg) [bg] [False]" tvg-logo="", The Voice TV
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
-#EXTINF:0001 tvg-id="GEk43COrT9omtb" tvg-chno="9" group-title="famelack (bg) [bg] [False]" tvg-logo="", This is Bulgaria HD
+#EXTINF:0001 tvg-id="GEk43COrT9omtb" tvg-chno="8" group-title="famelack (bg) [bg] [False]" tvg-logo="", This is Bulgaria HD
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
-#EXTINF:0001 tvg-id="XlXPtDjBoCbxvd" tvg-chno="10" group-title="famelack (bg) [bg] [False]" tvg-logo="", Tiankov Folk
+#EXTINF:0001 tvg-id="XlXPtDjBoCbxvd" tvg-chno="9" group-title="famelack (bg) [bg] [False]" tvg-logo="", Tiankov Folk
 https://streamer103.neterra.tv/tiankov-folk/live.m3u8
-#EXTINF:0001 tvg-id="SByzYuSnvckWM0" tvg-chno="11" group-title="famelack (bg) [bg] [False]" tvg-logo="", Tiankov Orient Folk
+#EXTINF:0001 tvg-id="SByzYuSnvckWM0" tvg-chno="10" group-title="famelack (bg) [bg] [False]" tvg-logo="", Tiankov Orient Folk
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
-#EXTINF:0001 tvg-id="fwm1YJJu2dW30c" tvg-chno="12" group-title="famelack (bg) [bg] [False]" tvg-logo="", Travel TV
+#EXTINF:0001 tvg-id="fwm1YJJu2dW30c" tvg-chno="11" group-title="famelack (bg) [bg] [False]" tvg-logo="", Travel TV
 https://streamer103.neterra.tv/travel/live.m3u8
