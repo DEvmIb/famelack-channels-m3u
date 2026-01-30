@@ -189,47 +189,49 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:0001 tvg-id="pCghkk05sIwmT1" tvg-chno="95" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Reality UK
 https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
-#EXTINF:0001 tvg-id="6OObHoCz5T6mVt" tvg-chno="96" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Sci-Fi UK
+#EXTINF:0001 tvg-id="mN7jjbfyCCrHDM" tvg-chno="96" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Romance Movies UK
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+#EXTINF:0001 tvg-id="6OObHoCz5T6mVt" tvg-chno="97" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Sci-Fi UK
 https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
-#EXTINF:0001 tvg-id="jz4YnIQOr3KiI6" tvg-chno="97" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Thrillers UK
+#EXTINF:0001 tvg-id="jz4YnIQOr3KiI6" tvg-chno="98" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Thrillers UK
 https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
-#EXTINF:0001 tvg-id="jNN9ef0ljzGJ7E" tvg-chno="98" group-title="famelack (uk) [uk] [False]" tvg-logo="", Real Crime Beta
+#EXTINF:0001 tvg-id="jNN9ef0ljzGJ7E" tvg-chno="99" group-title="famelack (uk) [uk] [False]" tvg-logo="", Real Crime Beta
 https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="WQqSZQl27UG0sD" tvg-chno="99" group-title="famelack (uk) [uk] [False]" tvg-logo="", Safeer TV
+#EXTINF:0001 tvg-id="WQqSZQl27UG0sD" tvg-chno="100" group-title="famelack (uk) [uk] [False]" tvg-logo="", Safeer TV
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
-#EXTINF:0001 tvg-id="CkqK0vHvwZKLiX" tvg-chno="100" group-title="famelack (uk) [uk] [False]" tvg-logo="", Sky News Weather
+#EXTINF:0001 tvg-id="CkqK0vHvwZKLiX" tvg-chno="101" group-title="famelack (uk) [uk] [False]" tvg-logo="", Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-#EXTINF:0001 tvg-id="yenlo48DOLbqmP" tvg-chno="101" group-title="famelack (uk) [uk] [False]" tvg-logo="", The Chat Show Channel
+#EXTINF:0001 tvg-id="yenlo48DOLbqmP" tvg-chno="102" group-title="famelack (uk) [uk] [False]" tvg-logo="", The Chat Show Channel
 https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="wYSRKjzA7HAOUh" tvg-chno="102" group-title="famelack (uk) [uk] [False]" tvg-logo="", The Graham Norton Show
+#EXTINF:0001 tvg-id="wYSRKjzA7HAOUh" tvg-chno="103" group-title="famelack (uk) [uk] [False]" tvg-logo="", The Graham Norton Show
 https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="JKNSbXVeYHdPS9" tvg-chno="103" group-title="famelack (uk) [uk] [False]" tvg-logo="", Tiny Pop
+#EXTINF:0001 tvg-id="JKNSbXVeYHdPS9" tvg-chno="104" group-title="famelack (uk) [uk] [False]" tvg-logo="", Tiny Pop
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
-#EXTINF:0001 tvg-id="U5azpF1869TOgk" tvg-chno="104" group-title="famelack (uk) [uk] [False]" tvg-logo="", TJC
+#EXTINF:0001 tvg-id="U5azpF1869TOgk" tvg-chno="105" group-title="famelack (uk) [uk] [False]" tvg-logo="", TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:0001 tvg-id="pzt1PSqplgKD2y" tvg-chno="105" group-title="famelack (uk) [uk] [False]" tvg-logo="", Totalmusic
+#EXTINF:0001 tvg-id="pzt1PSqplgKD2y" tvg-chno="106" group-title="famelack (uk) [uk] [False]" tvg-logo="", Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0001 tvg-id="9Rw1P5d6hpRKjY" tvg-chno="106" group-title="famelack (uk) [uk] [False]" tvg-logo="", Totalmusic 80s
+#EXTINF:0001 tvg-id="9Rw1P5d6hpRKjY" tvg-chno="107" group-title="famelack (uk) [uk] [False]" tvg-logo="", Totalmusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0001 tvg-id="MG5xhJnyQvgB5s" tvg-chno="107" group-title="famelack (uk) [uk] [False]" tvg-logo="", Totalmusic 2000s
+#EXTINF:0001 tvg-id="MG5xhJnyQvgB5s" tvg-chno="108" group-title="famelack (uk) [uk] [False]" tvg-logo="", Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0001 tvg-id="l5T7DFgOiQyz89" tvg-chno="108" group-title="famelack (uk) [uk] [False]" tvg-logo="", Totalmusic Concerts
+#EXTINF:0001 tvg-id="l5T7DFgOiQyz89" tvg-chno="109" group-title="famelack (uk) [uk] [False]" tvg-logo="", Totalmusic Concerts
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0001 tvg-id="qht3DL9A3RRTRh" tvg-chno="109" group-title="famelack (uk) [uk] [False]" tvg-logo="", Totalmusic Dance
+#EXTINF:0001 tvg-id="qht3DL9A3RRTRh" tvg-chno="110" group-title="famelack (uk) [uk] [False]" tvg-logo="", Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0001 tvg-id="McADRCgZrX1wEb" tvg-chno="110" group-title="famelack (uk) [uk] [False]" tvg-logo="", True Lives
+#EXTINF:0001 tvg-id="McADRCgZrX1wEb" tvg-chno="111" group-title="famelack (uk) [uk] [False]" tvg-logo="", True Lives
 https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="1btf1OdluU3nsE" tvg-chno="111" group-title="famelack (uk) [uk] [False]" tvg-logo="", V2BEAT
+#EXTINF:0001 tvg-id="1btf1OdluU3nsE" tvg-chno="112" group-title="famelack (uk) [uk] [False]" tvg-logo="", V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:0001 tvg-id="k1Oh8KBhF2Ue8D" tvg-chno="112" group-title="famelack (uk) [uk] [False]" tvg-logo="", Vevo Hip-Hop & R&B
+#EXTINF:0001 tvg-id="k1Oh8KBhF2Ue8D" tvg-chno="113" group-title="famelack (uk) [uk] [False]" tvg-logo="", Vevo Hip-Hop & R&B
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="zi0G4CpWbSYUlF" tvg-chno="113" group-title="famelack (uk) [uk] [False]" tvg-logo="", Waterbear
+#EXTINF:0001 tvg-id="zi0G4CpWbSYUlF" tvg-chno="114" group-title="famelack (uk) [uk] [False]" tvg-logo="", Waterbear
 https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="a70tGgKnt6OXwc" tvg-chno="114" group-title="famelack (uk) [uk] [False]" tvg-logo="", Wicked Tuna
+#EXTINF:0001 tvg-id="a70tGgKnt6OXwc" tvg-chno="115" group-title="famelack (uk) [uk] [False]" tvg-logo="", Wicked Tuna
 https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="pmINkM6RSJSVHl" tvg-chno="115" group-title="famelack (uk) [uk] [False]" tvg-logo="", WildEarth
+#EXTINF:0001 tvg-id="pmINkM6RSJSVHl" tvg-chno="116" group-title="famelack (uk) [uk] [False]" tvg-logo="", WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:0001 tvg-id="M9HwvmHmrMZElD" tvg-chno="116" group-title="famelack (uk) [uk] [False]" tvg-logo="", Wonder
+#EXTINF:0001 tvg-id="M9HwvmHmrMZElD" tvg-chno="117" group-title="famelack (uk) [uk] [False]" tvg-logo="", Wonder
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="B0N3YLVGTZmUxD" tvg-chno="117" group-title="famelack (uk) [uk] [False]" tvg-logo="", World War TV
+#EXTINF:0001 tvg-id="B0N3YLVGTZmUxD" tvg-chno="118" group-title="famelack (uk) [uk] [False]" tvg-logo="", World War TV
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8

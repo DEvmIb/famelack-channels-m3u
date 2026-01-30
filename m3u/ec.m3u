@@ -19,40 +19,40 @@ https://avm.ecuamedia.net/canalsur/live/playlist.m3u8
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 #EXTINF:0001 tvg-id="3Jn82QaxkNUvY1" tvg-chno="10" group-title="famelack (ec) [ec] [False]" tvg-logo="", Clic TV
 https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8
-#EXTINF:0001 tvg-id="zHfJMORTmUY70P" tvg-chno="11" group-title="famelack (ec) [ec] [False]" tvg-logo="", Ecotel TV
+#EXTINF:0001 tvg-id="uvYhuImFYPqlJm" tvg-chno="11" group-title="famelack (ec) [ec] [False]" tvg-logo="", Curiquingue TV
+https://video2.lhdserver.es/pjtv/live.m3u8
+#EXTINF:0001 tvg-id="zHfJMORTmUY70P" tvg-chno="12" group-title="famelack (ec) [ec] [False]" tvg-logo="", Ecotel TV
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:0001 tvg-id="DUbDXmBZU3srKm" tvg-chno="12" group-title="famelack (ec) [ec] [False]" tvg-logo="", Ecuador TV
+#EXTINF:0001 tvg-id="DUbDXmBZU3srKm" tvg-chno="13" group-title="famelack (ec) [ec] [False]" tvg-logo="", Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
-#EXTINF:0001 tvg-id="eeAmlC3Q8mXg2D" tvg-chno="13" group-title="famelack (ec) [ec] [False]" tvg-logo="", Ecuavisa Guayaquil
+#EXTINF:0001 tvg-id="eeAmlC3Q8mXg2D" tvg-chno="14" group-title="famelack (ec) [ec] [False]" tvg-logo="", Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-#EXTINF:0001 tvg-id="In4LvC44XoPkwN" tvg-chno="14" group-title="famelack (ec) [ec] [False]" tvg-logo="", Ecuavisa Quito
+#EXTINF:0001 tvg-id="In4LvC44XoPkwN" tvg-chno="15" group-title="famelack (ec) [ec] [False]" tvg-logo="", Ecuavisa Quito
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="uTcYlGRyeebaB3" tvg-chno="15" group-title="famelack (ec) [ec] [False]" tvg-logo="", EducaTV
+#EXTINF:0001 tvg-id="uTcYlGRyeebaB3" tvg-chno="16" group-title="famelack (ec) [ec] [False]" tvg-logo="", EducaTV
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="c6puAkcPu1cmVK" tvg-chno="16" group-title="famelack (ec) [ec] [False]" tvg-logo="", El Sol Network TV
+#EXTINF:0001 tvg-id="c6puAkcPu1cmVK" tvg-chno="17" group-title="famelack (ec) [ec] [False]" tvg-logo="", El Sol Network TV
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
-#EXTINF:0001 tvg-id="XUbd7x9yt2DTFl" tvg-chno="17" group-title="famelack (ec) [ec] [False]" tvg-logo="", FM Mundo
+#EXTINF:0001 tvg-id="XUbd7x9yt2DTFl" tvg-chno="18" group-title="famelack (ec) [ec] [False]" tvg-logo="", FM Mundo
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
-#EXTINF:0001 tvg-id="c3zaL7CKyoj6u1" tvg-chno="18" group-title="famelack (ec) [ec] [False]" tvg-logo="", Gamavisión
+#EXTINF:0001 tvg-id="c3zaL7CKyoj6u1" tvg-chno="19" group-title="famelack (ec) [ec] [False]" tvg-logo="", Gamavisión
 https://stream.esradioecuador.com/hls/stream.m3u8
-#EXTINF:0001 tvg-id="rzz3epvsT10Pp4" tvg-chno="19" group-title="famelack (ec) [ec] [False]" tvg-logo="", GM7 Digital
+#EXTINF:0001 tvg-id="rzz3epvsT10Pp4" tvg-chno="20" group-title="famelack (ec) [ec] [False]" tvg-logo="", GM7 Digital
 https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
-#EXTINF:0001 tvg-id="c0ayJmoC3gtMTu" tvg-chno="20" group-title="famelack (ec) [ec] [False]" tvg-logo="", Hechos Ecuador
+#EXTINF:0001 tvg-id="c0ayJmoC3gtMTu" tvg-chno="21" group-title="famelack (ec) [ec] [False]" tvg-logo="", Hechos Ecuador
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
-#EXTINF:0001 tvg-id="IpJn6TkjLhDwxt" tvg-chno="21" group-title="famelack (ec) [ec] [False]" tvg-logo="", IeanJesus Ecuador
+#EXTINF:0001 tvg-id="IpJn6TkjLhDwxt" tvg-chno="22" group-title="famelack (ec) [ec] [False]" tvg-logo="", IeanJesus Ecuador
 https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
-#EXTINF:0001 tvg-id="2m0gEtXYdWeCIN" tvg-chno="22" group-title="famelack (ec) [ec] [False]" tvg-logo="", Infinita TV
+#EXTINF:0001 tvg-id="2m0gEtXYdWeCIN" tvg-chno="23" group-title="famelack (ec) [ec] [False]" tvg-logo="", Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
-#EXTINF:0001 tvg-id="BQiZCJpf4JlMdt" tvg-chno="23" group-title="famelack (ec) [ec] [False]" tvg-logo="", La Nueva Radio TV 97.7
+#EXTINF:0001 tvg-id="BQiZCJpf4JlMdt" tvg-chno="24" group-title="famelack (ec) [ec] [False]" tvg-logo="", La Nueva Radio TV 97.7
 https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="L7QnCoaelggBZN" tvg-chno="24" group-title="famelack (ec) [ec] [False]" tvg-logo="", La Perla Radio TV
+#EXTINF:0001 tvg-id="L7QnCoaelggBZN" tvg-chno="25" group-title="famelack (ec) [ec] [False]" tvg-logo="", La Perla Radio TV
 https://eu1.servers10.com:8081/8068/index.m3u8
-#EXTINF:0001 tvg-id="6sh2TBEF2ZIvFo" tvg-chno="25" group-title="famelack (ec) [ec] [False]" tvg-logo="", Latacunga TV
+#EXTINF:0001 tvg-id="6sh2TBEF2ZIvFo" tvg-chno="26" group-title="famelack (ec) [ec] [False]" tvg-logo="", Latacunga TV
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
-#EXTINF:0001 tvg-id="2UL8hACEyKl0pF" tvg-chno="26" group-title="famelack (ec) [ec] [False]" tvg-logo="", Loreto TV
+#EXTINF:0001 tvg-id="2UL8hACEyKl0pF" tvg-chno="27" group-title="famelack (ec) [ec] [False]" tvg-logo="", Loreto TV
 https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
-#EXTINF:0001 tvg-id="Sp6sHwr9vDmxjt" tvg-chno="27" group-title="famelack (ec) [ec] [False]" tvg-logo="", Mágica Tv
-https://magicatv.4pu.com/hls/stream.m3u8
 #EXTINF:0001 tvg-id="eY8XIdgCVwivBP" tvg-chno="28" group-title="famelack (ec) [ec] [False]" tvg-logo="", Majestad Televisión
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 #EXTINF:0001 tvg-id="E3rLmWg3JB8sKD" tvg-chno="29" group-title="famelack (ec) [ec] [False]" tvg-logo="", MakroDigital Television
@@ -89,29 +89,25 @@ https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 #EXTINF:0001 tvg-id="SaGLTOGoC0bQPx" tvg-chno="45" group-title="famelack (ec) [ec] [False]" tvg-logo="", RTRTV
 https://tv3ecuador.site/hls/stream/index.m3u8
-#EXTINF:0001 tvg-id="0Vw6NdTRGURL25" tvg-chno="46" group-title="famelack (ec) [ec] [False]" tvg-logo="", RTU
-https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
-#EXTINF:0001 tvg-id="GMkpwotjB860aV" tvg-chno="47" group-title="famelack (ec) [ec] [False]" tvg-logo="", RTV Riobamba
-https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
-#EXTINF:0001 tvg-id="WCNgs5Fvq7rKOn" tvg-chno="48" group-title="famelack (ec) [ec] [False]" tvg-logo="", Señal Positiva TV
+#EXTINF:0001 tvg-id="WCNgs5Fvq7rKOn" tvg-chno="46" group-title="famelack (ec) [ec] [False]" tvg-logo="", Señal Positiva TV
 https://eu1.servers10.com:8081/8108/index.m3u8
-#EXTINF:0001 tvg-id="gU9qpItJjz9ZDd" tvg-chno="49" group-title="famelack (ec) [ec] [False]" tvg-logo="", Sono Onda TV
+#EXTINF:0001 tvg-id="gU9qpItJjz9ZDd" tvg-chno="47" group-title="famelack (ec) [ec] [False]" tvg-logo="", Sono Onda TV
 https://live.obslivestream.com/sonoondatv/index.m3u8
-#EXTINF:0001 tvg-id="3TCmSy7n4qBhND" tvg-chno="50" group-title="famelack (ec) [ec] [False]" tvg-logo="", Telemar
+#EXTINF:0001 tvg-id="3TCmSy7n4qBhND" tvg-chno="48" group-title="famelack (ec) [ec] [False]" tvg-logo="", Telemar
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
-#EXTINF:0001 tvg-id="LX5wXVXTxx5iPK" tvg-chno="51" group-title="famelack (ec) [ec] [False]" tvg-logo="", Telerama
+#EXTINF:0001 tvg-id="LX5wXVXTxx5iPK" tvg-chno="49" group-title="famelack (ec) [ec] [False]" tvg-logo="", Telerama
 https://play.once.net.ec/telerama/live.tv/538.m3u8
-#EXTINF:0001 tvg-id="CY38SV2i5DFUTV" tvg-chno="52" group-title="famelack (ec) [ec] [False]" tvg-logo="", TV Cisne
+#EXTINF:0001 tvg-id="CY38SV2i5DFUTV" tvg-chno="50" group-title="famelack (ec) [ec] [False]" tvg-logo="", TV Cisne
 https://video2.lhdserver.es/tvcisne/live.m3u8
-#EXTINF:0001 tvg-id="7rCpyg4PCpPsco" tvg-chno="53" group-title="famelack (ec) [ec] [False]" tvg-logo="", TV Color Canal 36
+#EXTINF:0001 tvg-id="7rCpyg4PCpPsco" tvg-chno="51" group-title="famelack (ec) [ec] [False]" tvg-logo="", TV Color Canal 36
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-#EXTINF:0001 tvg-id="LfL7xtgZtyuyhr" tvg-chno="54" group-title="famelack (ec) [ec] [False]" tvg-logo="", TV Universal Ecuador
+#EXTINF:0001 tvg-id="LfL7xtgZtyuyhr" tvg-chno="52" group-title="famelack (ec) [ec] [False]" tvg-logo="", TV Universal Ecuador
 https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
-#EXTINF:0001 tvg-id="uhXaKy0zwMPJAb" tvg-chno="55" group-title="famelack (ec) [ec] [False]" tvg-logo="", UNIANDES TV
+#EXTINF:0001 tvg-id="uhXaKy0zwMPJAb" tvg-chno="53" group-title="famelack (ec) [ec] [False]" tvg-logo="", UNIANDES TV
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-#EXTINF:0001 tvg-id="9TUqw93GWA6FwZ" tvg-chno="56" group-title="famelack (ec) [ec] [False]" tvg-logo="", Vos y TV
+#EXTINF:0001 tvg-id="9TUqw93GWA6FwZ" tvg-chno="54" group-title="famelack (ec) [ec] [False]" tvg-logo="", Vos y TV
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-#EXTINF:0001 tvg-id="0JIsuSxBK3riKE" tvg-chno="57" group-title="famelack (ec) [ec] [False]" tvg-logo="", Wuan+
+#EXTINF:0001 tvg-id="0JIsuSxBK3riKE" tvg-chno="55" group-title="famelack (ec) [ec] [False]" tvg-logo="", Wuan+
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
-#EXTINF:0001 tvg-id="M10FM4kxvf869B" tvg-chno="58" group-title="famelack (ec) [ec] [False]" tvg-logo="", Zaracay TV
+#EXTINF:0001 tvg-id="M10FM4kxvf869B" tvg-chno="56" group-title="famelack (ec) [ec] [False]" tvg-logo="", Zaracay TV
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8

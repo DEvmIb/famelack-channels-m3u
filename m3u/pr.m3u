@@ -15,8 +15,8 @@ https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="laN58G2pOTHWk2" tvg-chno="8" group-title="famelack (pr) [pr] [False]" tvg-logo="", DNJ TV
 https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8
-#EXTINF:0001 tvg-id="9rhqdMh4MdKhL2" tvg-chno="9" group-title="famelack (pr) [pr] [False]" tvg-logo="", Familia Visión HD
-https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
+#EXTINF:0001 tvg-id="HMmapUKAhKE44g" tvg-chno="9" group-title="famelack (pr) [pr] [False]" tvg-logo="", EBN Televisión
+https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8
 #EXTINF:0001 tvg-id="P4mxJMVl2wyiPi" tvg-chno="10" group-title="famelack (pr) [pr] [False]" tvg-logo="", Faro de Santidad TV
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
 #EXTINF:0001 tvg-id="ESeEpgafREEMIe" tvg-chno="11" group-title="famelack (pr) [pr] [False]" tvg-logo="", La-X
@@ -29,35 +29,33 @@ https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8
 #EXTINF:0001 tvg-id="jz0ciRS06fe4gc" tvg-chno="15" group-title="famelack (pr) [pr] [False]" tvg-logo="", Nueva Vida TV
 https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
-#EXTINF:0001 tvg-id="u7W37SlvKNjw3c" tvg-chno="16" group-title="famelack (pr) [pr] [False]" tvg-logo="", Paraíso TV
-https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
-#EXTINF:0001 tvg-id="6GzzyU1r6GXxb2" tvg-chno="17" group-title="famelack (pr) [pr] [False]" tvg-logo="", Pura Palabra
+#EXTINF:0001 tvg-id="6GzzyU1r6GXxb2" tvg-chno="16" group-title="famelack (pr) [pr] [False]" tvg-logo="", Pura Palabra
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
-#EXTINF:0001 tvg-id="dfwJqEOqj4nFiU" tvg-chno="18" group-title="famelack (pr) [pr] [False]" tvg-logo="", Radio Isla TV
+#EXTINF:0001 tvg-id="dfwJqEOqj4nFiU" tvg-chno="17" group-title="famelack (pr) [pr] [False]" tvg-logo="", Radio Isla TV
 https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
-#EXTINF:0001 tvg-id="UqSpn8zcijzDPL" tvg-chno="19" group-title="famelack (pr) [pr] [False]" tvg-logo="", Salvación TV
+#EXTINF:0001 tvg-id="UqSpn8zcijzDPL" tvg-chno="18" group-title="famelack (pr) [pr] [False]" tvg-logo="", Salvación TV
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
-#EXTINF:0001 tvg-id="mus49kJTQfTCmk" tvg-chno="20" group-title="famelack (pr) [pr] [False]" tvg-logo="", Telenorte
+#EXTINF:0001 tvg-id="mus49kJTQfTCmk" tvg-chno="19" group-title="famelack (pr) [pr] [False]" tvg-logo="", Telenorte
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
-#EXTINF:0001 tvg-id="WRhrhAcp8QVCZv" tvg-chno="21" group-title="famelack (pr) [pr] [False]" tvg-logo="", TeleOnce
+#EXTINF:0001 tvg-id="WRhrhAcp8QVCZv" tvg-chno="20" group-title="famelack (pr) [pr] [False]" tvg-logo="", TeleOnce
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="HfiZZGvlViEcUK" tvg-chno="22" group-title="famelack (pr) [pr] [False]" tvg-logo="", The Retro Channel
+#EXTINF:0001 tvg-id="HfiZZGvlViEcUK" tvg-chno="21" group-title="famelack (pr) [pr] [False]" tvg-logo="", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:0001 tvg-id="7G6HCuUwByIsBi" tvg-chno="23" group-title="famelack (pr) [pr] [False]" tvg-logo="", Triunfo 96.9 FM TV
+#EXTINF:0001 tvg-id="7G6HCuUwByIsBi" tvg-chno="22" group-title="famelack (pr) [pr] [False]" tvg-logo="", Triunfo 96.9 FM TV
 https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
-#EXTINF:0001 tvg-id="vyt0kv18Rn0n1W" tvg-chno="24" group-title="famelack (pr) [pr] [False]" tvg-logo="", WDWL-DT1 (Teleadoración/Enlace PR)
+#EXTINF:0001 tvg-id="vyt0kv18Rn0n1W" tvg-chno="23" group-title="famelack (pr) [pr] [False]" tvg-logo="", WDWL-DT1 (Teleadoración/Enlace PR)
 https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
-#EXTINF:0001 tvg-id="Gu2HE3t32WMK3n" tvg-chno="25" group-title="famelack (pr) [pr] [False]" tvg-logo="", WIPR
+#EXTINF:0001 tvg-id="Gu2HE3t32WMK3n" tvg-chno="24" group-title="famelack (pr) [pr] [False]" tvg-logo="", WIPR
 https://streamwipr.pr/hls/stream/index.m3u8
-#EXTINF:0001 tvg-id="K7sw2vzmTThI5Y" tvg-chno="26" group-title="famelack (pr) [pr] [False]" tvg-logo="", WKAQ-DT1 (Telemundo PR)
+#EXTINF:0001 tvg-id="K7sw2vzmTThI5Y" tvg-chno="25" group-title="famelack (pr) [pr] [False]" tvg-logo="", WKAQ-DT1 (Telemundo PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:0001 tvg-id="d7T8Xe2wQZ8WxA" tvg-chno="27" group-title="famelack (pr) [pr] [False]" tvg-logo="", WKAQ-DT2 (Punto 2)
+#EXTINF:0001 tvg-id="d7T8Xe2wQZ8WxA" tvg-chno="26" group-title="famelack (pr) [pr] [False]" tvg-logo="", WKAQ-DT2 (Punto 2)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:0001 tvg-id="KFwxXaghB3avq8" tvg-chno="28" group-title="famelack (pr) [pr] [False]" tvg-logo="", WRUA-DT1 (Tiva TV)
+#EXTINF:0001 tvg-id="KFwxXaghB3avq8" tvg-chno="27" group-title="famelack (pr) [pr] [False]" tvg-logo="", WRUA-DT1 (Tiva TV)
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
-#EXTINF:0001 tvg-id="oTB6NEVrecMEoL" tvg-chno="29" group-title="famelack (pr) [pr] [False]" tvg-logo="", WWXY-DT1 (Boricua TV)
+#EXTINF:0001 tvg-id="oTB6NEVrecMEoL" tvg-chno="28" group-title="famelack (pr) [pr] [False]" tvg-logo="", WWXY-DT1 (Boricua TV)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:0001 tvg-id="O3uNQbMAfU0Osa" tvg-chno="30" group-title="famelack (pr) [pr] [False]" tvg-logo="", WWXY-DT3 (Maranatha Radio Ministries)
+#EXTINF:0001 tvg-id="O3uNQbMAfU0Osa" tvg-chno="29" group-title="famelack (pr) [pr] [False]" tvg-logo="", WWXY-DT3 (Maranatha Radio Ministries)
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
-#EXTINF:0001 tvg-id="adHdshhDWbo0Cn" tvg-chno="31" group-title="famelack (pr) [pr] [False]" tvg-logo="", WXWZ-LD1 (MásTV Canal 23)
+#EXTINF:0001 tvg-id="adHdshhDWbo0Cn" tvg-chno="30" group-title="famelack (pr) [pr] [False]" tvg-logo="", WXWZ-LD1 (MásTV Canal 23)
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8

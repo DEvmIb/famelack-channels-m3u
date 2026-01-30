@@ -15,20 +15,20 @@ https://viewhn.com/chtv/live/playlist.m3u8
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
 #EXTINF:0001 tvg-id="DIYFiR27hwM7Fq" tvg-chno="8" group-title="famelack (hn) [hn] [False]" tvg-logo="", Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:0001 tvg-id="1CJHZmX3K7wOcM" tvg-chno="9" group-title="famelack (hn) [hn] [False]" tvg-logo="", DTV
+#EXTINF:0001 tvg-id="ZreOUgZXhpXpOB" tvg-chno="9" group-title="famelack (hn) [hn] [False]" tvg-logo="", Dios Tv Talanga
+https://tv.webmedialive.com/unciontv/live/playlist.m3u8
+#EXTINF:0001 tvg-id="1CJHZmX3K7wOcM" tvg-chno="10" group-title="famelack (hn) [hn] [False]" tvg-logo="", DTV
 https://dvrfl03.bozztv.com/hondu-dtelevision/index.m3u8
-#EXTINF:0001 tvg-id="81AXIOjoDu8lAA" tvg-chno="10" group-title="famelack (hn) [hn] [False]" tvg-logo="", Ebenezer TV
+#EXTINF:0001 tvg-id="81AXIOjoDu8lAA" tvg-chno="11" group-title="famelack (hn) [hn] [False]" tvg-logo="", Ebenezer TV
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-#EXTINF:0001 tvg-id="qcU5XAY1ybNmmB" tvg-chno="11" group-title="famelack (hn) [hn] [False]" tvg-logo="", EDN TV
+#EXTINF:0001 tvg-id="qcU5XAY1ybNmmB" tvg-chno="12" group-title="famelack (hn) [hn] [False]" tvg-logo="", EDN TV
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-#EXTINF:0001 tvg-id="HGtPDQoNFPOwzf" tvg-chno="12" group-title="famelack (hn) [hn] [False]" tvg-logo="", Girasol TV
-https://59d39900ebfb8.streamlock.net/girasoltv/girasoltv/playlist.m3u8
-#EXTINF:0001 tvg-id="BMz0mjtStA1271" tvg-chno="13" group-title="famelack (hn) [hn] [False]" tvg-logo="", Inmaculada TV
-https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8
-#EXTINF:0001 tvg-id="YShLtvidjqB1kx" tvg-chno="14" group-title="famelack (hn) [hn] [False]" tvg-logo="", Kerusso TV
+#EXTINF:0001 tvg-id="YShLtvidjqB1kx" tvg-chno="13" group-title="famelack (hn) [hn] [False]" tvg-logo="", Kerusso TV
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
-#EXTINF:0001 tvg-id="HAjT5lHheouJ3C" tvg-chno="15" group-title="famelack (hn) [hn] [False]" tvg-logo="", La Top 102.9
+#EXTINF:0001 tvg-id="HAjT5lHheouJ3C" tvg-chno="14" group-title="famelack (hn) [hn] [False]" tvg-logo="", La Top 102.9
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:0001 tvg-id="9RwFnJ12MgiGgP" tvg-chno="15" group-title="famelack (hn) [hn] [False]" tvg-logo="", La Top 107.7
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:0001 tvg-id="gtCaykQvpamqwT" tvg-chno="16" group-title="famelack (hn) [hn] [False]" tvg-logo="", Lenca Television Canal 40
 https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:0001 tvg-id="26RtUqr5ZSMhUL" tvg-chno="17" group-title="famelack (hn) [hn] [False]" tvg-logo="", Litoral Atlántico HD
@@ -49,9 +49,13 @@ https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 https://viewhn.com/telemas/live/playlist.m3u8
 #EXTINF:0001 tvg-id="bogtDcaAWtOFRz" tvg-chno="25" group-title="famelack (hn) [hn] [False]" tvg-logo="", Telerayo
 https://s.emisoras.tv:8081/telerayo/index.m3u8
-#EXTINF:0001 tvg-id="absH7c9TQgVLPd" tvg-chno="26" group-title="famelack (hn) [hn] [False]" tvg-logo="", Televisión Metrópolis 19.2
+#EXTINF:0001 tvg-id="uoM0jHqhHe7tUv" tvg-chno="26" group-title="famelack (hn) [hn] [False]" tvg-logo="", Televisión Metrópolis 19.1
+https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
+#EXTINF:0001 tvg-id="absH7c9TQgVLPd" tvg-chno="27" group-title="famelack (hn) [hn] [False]" tvg-logo="", Televisión Metrópolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-#EXTINF:0001 tvg-id="OPNVhQbPeZ6MyD" tvg-chno="27" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro HD
+#EXTINF:0001 tvg-id="qWRNlLMLdjrPV7" tvg-chno="28" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro 27.2 HD
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:0001 tvg-id="OPNVhQbPeZ6MyD" tvg-chno="29" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro HD
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-#EXTINF:0001 tvg-id="v4e6Bvt402a3eS" tvg-chno="28" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Copán
+#EXTINF:0001 tvg-id="v4e6Bvt402a3eS" tvg-chno="30" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Copán
 https://s.emisoras.tv:8081/tvcopan/index.m3u8

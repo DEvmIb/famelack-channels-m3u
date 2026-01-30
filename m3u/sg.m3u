@@ -3,11 +3,21 @@
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:0001 tvg-id="u2iS7uczBAriSJ" tvg-chno="2" group-title="famelack (sg) [sg] [False]" tvg-logo="", Aniplus Asia
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
-#EXTINF:0001 tvg-id="gS3BIgZPeKUpbg" tvg-chno="3" group-title="famelack (sg) [sg] [False]" tvg-logo="", CNA
+#EXTINF:0001 tvg-id="3gzsTxGbsnoOG9" tvg-chno="3" group-title="famelack (sg) [sg] [False]" tvg-logo="", Channel 5
+https://app.viloud.tv/hls/channel/dcbf7a54c89ba12d98cc7c401c37f565.m3u8
+#EXTINF:0001 tvg-id="tkWKvDS1sRPpJ3" tvg-chno="4" group-title="famelack (sg) [sg] [False]" tvg-logo="", Channel 8
+https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8
+#EXTINF:0001 tvg-id="AU2yXm9mU3g3ti" tvg-chno="5" group-title="famelack (sg) [sg] [False]" tvg-logo="", Channel U
+https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8
+#EXTINF:0001 tvg-id="gS3BIgZPeKUpbg" tvg-chno="6" group-title="famelack (sg) [sg] [False]" tvg-logo="", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:0001 tvg-id="G00HUpBKHxckzh" tvg-chno="4" group-title="famelack (sg) [sg] [False]" tvg-logo="", CNBC Asia
+#EXTINF:0001 tvg-id="G00HUpBKHxckzh" tvg-chno="7" group-title="famelack (sg) [sg] [False]" tvg-logo="", CNBC Asia
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
-#EXTINF:0001 tvg-id="Kp9Lp5SBULDiat" tvg-chno="5" group-title="famelack (sg) [sg] [False]" tvg-logo="", KCM
+#EXTINF:0001 tvg-id="Kp9Lp5SBULDiat" tvg-chno="8" group-title="famelack (sg) [sg] [False]" tvg-logo="", KCM
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
-#EXTINF:0001 tvg-id="80O6JyPLhgKHVd" tvg-chno="6" group-title="famelack (sg) [sg] [False]" tvg-logo="", ZooMoo Asia
+#EXTINF:0001 tvg-id="ABiRCL06fZ2UcZ" tvg-chno="9" group-title="famelack (sg) [sg] [False]" tvg-logo="", Suria
+https://app.viloud.tv/hls/channel/f0aa5d1d897c28bc8abed7afa90979c7.m3u8
+#EXTINF:0001 tvg-id="A3SDYRd3BG68Tz" tvg-chno="10" group-title="famelack (sg) [sg] [False]" tvg-logo="", Vasantham
+https://app.viloud.tv/hls/channel/eb2ee7c84d70f692284466961bfedcb7.m3u8
+#EXTINF:0001 tvg-id="80O6JyPLhgKHVd" tvg-chno="11" group-title="famelack (sg) [sg] [False]" tvg-logo="", ZooMoo Asia
 https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8

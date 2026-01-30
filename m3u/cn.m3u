@@ -29,111 +29,107 @@ https://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 #EXTINF:0001 tvg-id="f1nxbKF3lgdEIT" tvg-chno="15" group-title="famelack (cn) [cn] [False]" tvg-logo="", Harbin Comprehensive News Channel
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
-#EXTINF:0001 tvg-id="7Hsc69UuEllEuA" tvg-chno="16" group-title="famelack (cn) [cn] [False]" tvg-logo="", Harbin Movie Channel
-https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:0001 tvg-id="9nSOZBFhMDXFTD" tvg-chno="17" group-title="famelack (cn) [cn] [False]" tvg-logo="", QTV-1
+#EXTINF:0001 tvg-id="9nSOZBFhMDXFTD" tvg-chno="16" group-title="famelack (cn) [cn] [False]" tvg-logo="", QTV-1
 https://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-#EXTINF:0001 tvg-id="ozrwv5yOFSMLm3" tvg-chno="18" group-title="famelack (cn) [cn] [False]" tvg-logo="", QTV-2
+#EXTINF:0001 tvg-id="ozrwv5yOFSMLm3" tvg-chno="17" group-title="famelack (cn) [cn] [False]" tvg-logo="", QTV-2
 https://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
-#EXTINF:0001 tvg-id="v5Cnt9e5fETRq9" tvg-chno="19" group-title="famelack (cn) [cn] [False]" tvg-logo="", QTV-3
+#EXTINF:0001 tvg-id="v5Cnt9e5fETRq9" tvg-chno="18" group-title="famelack (cn) [cn] [False]" tvg-logo="", QTV-3
 https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
-#EXTINF:0001 tvg-id="v5Etfhhhhl9Em5" tvg-chno="20" group-title="famelack (cn) [cn] [False]" tvg-logo="", QTV-4
+#EXTINF:0001 tvg-id="v5Etfhhhhl9Em5" tvg-chno="19" group-title="famelack (cn) [cn] [False]" tvg-logo="", QTV-4
 https://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-#EXTINF:0001 tvg-id="1by9GcHy62iZ4M" tvg-chno="21" group-title="famelack (cn) [cn] [False]" tvg-logo="", QTV-5
+#EXTINF:0001 tvg-id="1by9GcHy62iZ4M" tvg-chno="20" group-title="famelack (cn) [cn] [False]" tvg-logo="", QTV-5
 https://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
-#EXTINF:0001 tvg-id="KVsjP0kIbz2vIV" tvg-chno="22" group-title="famelack (cn) [cn] [False]" tvg-logo="", QTV-6
+#EXTINF:0001 tvg-id="KVsjP0kIbz2vIV" tvg-chno="21" group-title="famelack (cn) [cn] [False]" tvg-logo="", QTV-6
 https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
-#EXTINF:0001 tvg-id="WLDhCoRPpsdvH2" tvg-chno="23" group-title="famelack (cn) [cn] [False]" tvg-logo="", Siping TV
+#EXTINF:0001 tvg-id="WLDhCoRPpsdvH2" tvg-chno="22" group-title="famelack (cn) [cn] [False]" tvg-logo="", Siping TV
 https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
-#EXTINF:0001 tvg-id="IoBPBg5ALFnRHd" tvg-chno="24" group-title="famelack (cn) [cn] [False]" tvg-logo="", Tonghua TV
+#EXTINF:0001 tvg-id="IoBPBg5ALFnRHd" tvg-chno="23" group-title="famelack (cn) [cn] [False]" tvg-logo="", Tonghua TV
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-#EXTINF:0001 tvg-id="dNTHGcZALSkHIT" tvg-chno="25" group-title="famelack (cn) [cn] [False]" tvg-logo="", TV BRICS Chinese
+#EXTINF:0001 tvg-id="dNTHGcZALSkHIT" tvg-chno="24" group-title="famelack (cn) [cn] [False]" tvg-logo="", TV BRICS Chinese
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
-#EXTINF:0001 tvg-id="9L7zvQkPrOwgdk" tvg-chno="26" group-title="famelack (cn) [cn] [False]" tvg-logo="", VOA美国之音
+#EXTINF:0001 tvg-id="9L7zvQkPrOwgdk" tvg-chno="25" group-title="famelack (cn) [cn] [False]" tvg-logo="", VOA美国之音
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-#EXTINF:0001 tvg-id="5HbPG4cJHPlrKA" tvg-chno="27" group-title="famelack (cn) [cn] [False]" tvg-logo="", Xinjiang TV 1
+#EXTINF:0001 tvg-id="5HbPG4cJHPlrKA" tvg-chno="26" group-title="famelack (cn) [cn] [False]" tvg-logo="", Xinjiang TV 1
 https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
-#EXTINF:0001 tvg-id="VzepbqP86gbVbt" tvg-chno="28" group-title="famelack (cn) [cn] [False]" tvg-logo="", Xinjiang TV 3
+#EXTINF:0001 tvg-id="VzepbqP86gbVbt" tvg-chno="27" group-title="famelack (cn) [cn] [False]" tvg-logo="", Xinjiang TV 3
 https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8
-#EXTINF:0001 tvg-id="HC5cW7V27xtaJW" tvg-chno="29" group-title="famelack (cn) [cn] [False]" tvg-logo="", Zhejiang TV International
+#EXTINF:0001 tvg-id="HC5cW7V27xtaJW" tvg-chno="28" group-title="famelack (cn) [cn] [False]" tvg-logo="", Zhejiang TV International
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:0001 tvg-id="PQS6mmZySzL6Rf" tvg-chno="30" group-title="famelack (cn) [cn] [False]" tvg-logo="", 上虞1新闻综合
+#EXTINF:0001 tvg-id="PQS6mmZySzL6Rf" tvg-chno="29" group-title="famelack (cn) [cn] [False]" tvg-logo="", 上虞1新闻综合
 https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:0001 tvg-id="2Fb8Um99xfgPRq" tvg-chno="31" group-title="famelack (cn) [cn] [False]" tvg-logo="", 上虞3新商都
+#EXTINF:0001 tvg-id="2Fb8Um99xfgPRq" tvg-chno="30" group-title="famelack (cn) [cn] [False]" tvg-logo="", 上虞3新商都
 https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:0001 tvg-id="ZMTYKvEKk1dmYw" tvg-chno="32" group-title="famelack (cn) [cn] [False]" tvg-logo="", 上虞經濟文化
+#EXTINF:0001 tvg-id="ZMTYKvEKk1dmYw" tvg-chno="31" group-title="famelack (cn) [cn] [False]" tvg-logo="", 上虞經濟文化
 https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:0001 tvg-id="HzvN0O8csJFrwx" tvg-chno="33" group-title="famelack (cn) [cn] [False]" tvg-logo="", 之江纪录
+#EXTINF:0001 tvg-id="HzvN0O8csJFrwx" tvg-chno="32" group-title="famelack (cn) [cn] [False]" tvg-logo="", 之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:0001 tvg-id="4gpT2C61YO4gJy" tvg-chno="34" group-title="famelack (cn) [cn] [False]" tvg-logo="", 余姚姚江文化
+#EXTINF:0001 tvg-id="4gpT2C61YO4gJy" tvg-chno="33" group-title="famelack (cn) [cn] [False]" tvg-logo="", 余姚姚江文化
 https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-#EXTINF:0001 tvg-id="Z6LINyrJx59mNs" tvg-chno="35" group-title="famelack (cn) [cn] [False]" tvg-logo="", 余姚新闻综合
+#EXTINF:0001 tvg-id="Z6LINyrJx59mNs" tvg-chno="34" group-title="famelack (cn) [cn] [False]" tvg-logo="", 余姚新闻综合
 https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:0001 tvg-id="uqZiHgAdYqRdQT" tvg-chno="36" group-title="famelack (cn) [cn] [False]" tvg-logo="", 内蒙古
+#EXTINF:0001 tvg-id="uqZiHgAdYqRdQT" tvg-chno="35" group-title="famelack (cn) [cn] [False]" tvg-logo="", 内蒙古
 https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
-#EXTINF:0001 tvg-id="Bffe72bDdR8TIN" tvg-chno="37" group-title="famelack (cn) [cn] [False]" tvg-logo="", 农安新闻综合
+#EXTINF:0001 tvg-id="Bffe72bDdR8TIN" tvg-chno="36" group-title="famelack (cn) [cn] [False]" tvg-logo="", 农安新闻综合
 https://stream2.jlntv.cn/naxw/sd/live.m3u8
-#EXTINF:0001 tvg-id="5VYLQDaYRpvKhu" tvg-chno="38" group-title="famelack (cn) [cn] [False]" tvg-logo="", 前郭综合
+#EXTINF:0001 tvg-id="5VYLQDaYRpvKhu" tvg-chno="37" group-title="famelack (cn) [cn] [False]" tvg-logo="", 前郭综合
 https://stream2.jlntv.cn/qg/sd/live.m3u8
-#EXTINF:0001 tvg-id="QH1RSdaU2QocPw" tvg-chno="39" group-title="famelack (cn) [cn] [False]" tvg-logo="", 吉林市新闻综合
+#EXTINF:0001 tvg-id="QH1RSdaU2QocPw" tvg-chno="38" group-title="famelack (cn) [cn] [False]" tvg-logo="", 吉林市新闻综合
 https://stream2.jlntv.cn/jilin1/sd/live.m3u8
-#EXTINF:0001 tvg-id="V8qtYbeqJ3oiRd" tvg-chno="40" group-title="famelack (cn) [cn] [False]" tvg-logo="", 四平新闻综合
+#EXTINF:0001 tvg-id="V8qtYbeqJ3oiRd" tvg-chno="39" group-title="famelack (cn) [cn] [False]" tvg-logo="", 四平新闻综合
 https://stream2.jlntv.cn/sptv/sd/live.m3u8
-#EXTINF:0001 tvg-id="G8jMlVl14mEiZk" tvg-chno="41" group-title="famelack (cn) [cn] [False]" tvg-logo="", 宿州公共
+#EXTINF:0001 tvg-id="G8jMlVl14mEiZk" tvg-chno="40" group-title="famelack (cn) [cn] [False]" tvg-logo="", 宿州公共
 https://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+#EXTINF:0001 tvg-id="LhzYAfOxktXLl3" tvg-chno="41" group-title="famelack (cn) [cn] [False]" tvg-logo="", 宿州新闻综合
+https://live.ahsz.tv/video/s10001-szzh/index.m3u8
 #EXTINF:0001 tvg-id="ez5NBYjpiihwmc" tvg-chno="42" group-title="famelack (cn) [cn] [False]" tvg-logo="", 宿州科教
 https://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 #EXTINF:0001 tvg-id="9wRBNHe95BnBON" tvg-chno="43" group-title="famelack (cn) [cn] [False]" tvg-logo="", 嵊州综合
 https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:0001 tvg-id="fpwejyOguNcChA" tvg-chno="44" group-title="famelack (cn) [cn] [False]" tvg-logo="", 广东 Ⅰ 韶关公共台
-https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
-#EXTINF:0001 tvg-id="OV9fgTIJjuEnHm" tvg-chno="45" group-title="famelack (cn) [cn] [False]" tvg-logo="", 延边新闻综合
+#EXTINF:0001 tvg-id="OV9fgTIJjuEnHm" tvg-chno="44" group-title="famelack (cn) [cn] [False]" tvg-logo="", 延边新闻综合
 https://stream2.jlntv.cn/jlyb/sd/live.m3u8
-#EXTINF:0001 tvg-id="LWZapZpACANZ13" tvg-chno="46" group-title="famelack (cn) [cn] [False]" tvg-logo="", 新昌休闲影视
+#EXTINF:0001 tvg-id="LWZapZpACANZ13" tvg-chno="45" group-title="famelack (cn) [cn] [False]" tvg-logo="", 新昌休闲影视
 https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:0001 tvg-id="4rBoFSFcNpIZxe" tvg-chno="47" group-title="famelack (cn) [cn] [False]" tvg-logo="", 新昌新聞綜合
+#EXTINF:0001 tvg-id="4rBoFSFcNpIZxe" tvg-chno="46" group-title="famelack (cn) [cn] [False]" tvg-logo="", 新昌新聞綜合
 https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-#EXTINF:0001 tvg-id="UKPg4OIuLFiPtH" tvg-chno="48" group-title="famelack (cn) [cn] [False]" tvg-logo="", 松原新闻综合
+#EXTINF:0001 tvg-id="UKPg4OIuLFiPtH" tvg-chno="47" group-title="famelack (cn) [cn] [False]" tvg-logo="", 松原新闻综合
 https://stream2.jlntv.cn/sytv/sd/live.m3u8
-#EXTINF:0001 tvg-id="THg2ymDAp3wTLF" tvg-chno="49" group-title="famelack (cn) [cn] [False]" tvg-logo="", 河源综合
+#EXTINF:0001 tvg-id="THg2ymDAp3wTLF" tvg-chno="48" group-title="famelack (cn) [cn] [False]" tvg-logo="", 河源综合
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:0001 tvg-id="LkJ7FCk2BbuXtL" tvg-chno="50" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江卫视
+#EXTINF:0001 tvg-id="LkJ7FCk2BbuXtL" tvg-chno="49" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江卫视
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
-#EXTINF:0001 tvg-id="q3imX08R99F529" tvg-chno="51" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江国际
+#EXTINF:0001 tvg-id="q3imX08R99F529" tvg-chno="50" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:0001 tvg-id="9lXsFkxoK3Y81Q" tvg-chno="52" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江教科
+#EXTINF:0001 tvg-id="9lXsFkxoK3Y81Q" tvg-chno="51" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:0001 tvg-id="TT80T0Uhd4YSQT" tvg-chno="53" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江新闻
+#EXTINF:0001 tvg-id="TT80T0Uhd4YSQT" tvg-chno="52" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:0001 tvg-id="DGN51eNb7kGHRy" tvg-chno="54" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江民生
+#EXTINF:0001 tvg-id="DGN51eNb7kGHRy" tvg-chno="53" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:0001 tvg-id="bed0qZJ8Xu4Wrw" tvg-chno="55" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:0001 tvg-id="VFiwsFTkgPQkI4" tvg-chno="56" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江钱江
+#EXTINF:0001 tvg-id="VFiwsFTkgPQkI4" tvg-chno="54" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:0001 tvg-id="LeuYUA2aMVmI2f" tvg-chno="57" group-title="famelack (cn) [cn] [False]" tvg-logo="", 白城新闻综合
+#EXTINF:0001 tvg-id="LeuYUA2aMVmI2f" tvg-chno="55" group-title="famelack (cn) [cn] [False]" tvg-logo="", 白城新闻综合
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:0001 tvg-id="uf8i2ptAW9zep4" tvg-chno="58" group-title="famelack (cn) [cn] [False]" tvg-logo="", 白山新闻综合
+#EXTINF:0001 tvg-id="uf8i2ptAW9zep4" tvg-chno="56" group-title="famelack (cn) [cn] [False]" tvg-logo="", 白山新闻综合
 https://stream2.jlntv.cn/baishan1/sd/live.m3u8
-#EXTINF:0001 tvg-id="j1PKhARZuXsXE7" tvg-chno="59" group-title="famelack (cn) [cn] [False]" tvg-logo="", 福州广播电视台新闻综合频道 (FZTV-1)
+#EXTINF:0001 tvg-id="j1PKhARZuXsXE7" tvg-chno="57" group-title="famelack (cn) [cn] [False]" tvg-logo="", 福州广播电视台新闻综合频道 (FZTV-1)
 https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-#EXTINF:0001 tvg-id="1GnEgBr4piVPn4" tvg-chno="60" group-title="famelack (cn) [cn] [False]" tvg-logo="", 福州广播电视台都市生活频道 (FZTV-3)
+#EXTINF:0001 tvg-id="1GnEgBr4piVPn4" tvg-chno="58" group-title="famelack (cn) [cn] [False]" tvg-logo="", 福州广播电视台都市生活频道 (FZTV-3)
 https://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-#EXTINF:0001 tvg-id="53xcrNbACNtdim" tvg-chno="61" group-title="famelack (cn) [cn] [False]" tvg-logo="", 福州电视台少儿频道 (FZTV-少儿)
+#EXTINF:0001 tvg-id="53xcrNbACNtdim" tvg-chno="59" group-title="famelack (cn) [cn] [False]" tvg-logo="", 福州电视台少儿频道 (FZTV-少儿)
 https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-#EXTINF:0001 tvg-id="2nS6uDvT5uur0D" tvg-chno="62" group-title="famelack (cn) [cn] [False]" tvg-logo="", 红牛REDBULL TV
+#EXTINF:0001 tvg-id="2nS6uDvT5uur0D" tvg-chno="60" group-title="famelack (cn) [cn] [False]" tvg-logo="", 红牛REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0001 tvg-id="HGBni7wKrtguXm" tvg-chno="63" group-title="famelack (cn) [cn] [False]" tvg-logo="", 萧山新闻综合
+#EXTINF:0001 tvg-id="HGBni7wKrtguXm" tvg-chno="61" group-title="famelack (cn) [cn] [False]" tvg-logo="", 萧山新闻综合
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:0001 tvg-id="hlJLT7eqdRNqcv" tvg-chno="64" group-title="famelack (cn) [cn] [False]" tvg-logo="", 蕭山生活頻道
+#EXTINF:0001 tvg-id="hlJLT7eqdRNqcv" tvg-chno="62" group-title="famelack (cn) [cn] [False]" tvg-logo="", 蕭山生活頻道
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:0001 tvg-id="NpZu4VK2VQIwa6" tvg-chno="65" group-title="famelack (cn) [cn] [False]" tvg-logo="", 辽源新闻综合
+#EXTINF:0001 tvg-id="NpZu4VK2VQIwa6" tvg-chno="63" group-title="famelack (cn) [cn] [False]" tvg-logo="", 辽源新闻综合
 https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-#EXTINF:0001 tvg-id="GR8ODXBa5AGfBc" tvg-chno="66" group-title="famelack (cn) [cn] [False]" tvg-logo="", 通化新闻
+#EXTINF:0001 tvg-id="GR8ODXBa5AGfBc" tvg-chno="64" group-title="famelack (cn) [cn] [False]" tvg-logo="", 通化新闻
 https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-#EXTINF:0001 tvg-id="oNE3puWdpEsxQb" tvg-chno="67" group-title="famelack (cn) [cn] [False]" tvg-logo="", 长春综合
+#EXTINF:0001 tvg-id="oNE3puWdpEsxQb" tvg-chno="65" group-title="famelack (cn) [cn] [False]" tvg-logo="", 长春综合
 https://stream2.jlntv.cn/jlcc/sd/live.m3u8
-#EXTINF:0001 tvg-id="0pqCht0rSXqoPv" tvg-chno="68" group-title="famelack (cn) [cn] [False]" tvg-logo="", 集安综合
+#EXTINF:0001 tvg-id="0pqCht0rSXqoPv" tvg-chno="66" group-title="famelack (cn) [cn] [False]" tvg-logo="", 集安综合
 https://stream2.jlntv.cn/ja/sd/live.m3u8
-#EXTINF:0001 tvg-id="6nQrzZYDFKwB5C" tvg-chno="69" group-title="famelack (cn) [cn] [False]" tvg-logo="", 餘姚姚江文化
+#EXTINF:0001 tvg-id="6nQrzZYDFKwB5C" tvg-chno="67" group-title="famelack (cn) [cn] [False]" tvg-logo="", 餘姚姚江文化
 https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
