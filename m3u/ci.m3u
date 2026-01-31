@@ -17,23 +17,25 @@ https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
 #EXTINF:0001 tvg-id="UtQIu21Wfg54RO" tvg-chno="9" group-title="famelack (ci) [ci] [False]" tvg-logo="", Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-#EXTINF:0001 tvg-id="q313wCCJIL7EX7" tvg-chno="10" group-title="famelack (ci) [ci] [False]" tvg-logo="", LMTV French
+#EXTINF:0001 tvg-id="xwOsuFtBBGFvEi" tvg-chno="10" group-title="famelack (ci) [ci] [False]" tvg-logo="", Life TV
+https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+#EXTINF:0001 tvg-id="q313wCCJIL7EX7" tvg-chno="11" group-title="famelack (ci) [ci] [False]" tvg-logo="", LMTV French
 https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
-#EXTINF:0001 tvg-id="tmyWgccdmOYhkf" tvg-chno="11" group-title="famelack (ci) [ci] [False]" tvg-logo="", Miracle TV+
+#EXTINF:0001 tvg-id="tmyWgccdmOYhkf" tvg-chno="12" group-title="famelack (ci) [ci] [False]" tvg-logo="", Miracle TV+
 https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
-#EXTINF:0001 tvg-id="ZAUkvtxFBpmUA2" tvg-chno="12" group-title="famelack (ci) [ci] [False]" tvg-logo="", NCI
+#EXTINF:0001 tvg-id="ZAUkvtxFBpmUA2" tvg-chno="13" group-title="famelack (ci) [ci] [False]" tvg-logo="", NCI
 https://video1.getstreamhosting.com:1936/8338/8338/playlist.m3u8
-#EXTINF:0001 tvg-id="I6vEXsT4SKeWER" tvg-chno="13" group-title="famelack (ci) [ci] [False]" tvg-logo="", NTV Afrique
+#EXTINF:0001 tvg-id="I6vEXsT4SKeWER" tvg-chno="14" group-title="famelack (ci) [ci] [False]" tvg-logo="", NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
-#EXTINF:0001 tvg-id="blRCEiMQ1TC0aC" tvg-chno="14" group-title="famelack (ci) [ci] [False]" tvg-logo="", REFLET TV
+#EXTINF:0001 tvg-id="blRCEiMQ1TC0aC" tvg-chno="15" group-title="famelack (ci) [ci] [False]" tvg-logo="", REFLET TV
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
-#EXTINF:0001 tvg-id="ZZAj9XuuTmnBf8" tvg-chno="15" group-title="famelack (ci) [ci] [False]" tvg-logo="", RTI 1
+#EXTINF:0001 tvg-id="ZZAj9XuuTmnBf8" tvg-chno="16" group-title="famelack (ci) [ci] [False]" tvg-logo="", RTI 1
 https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
-#EXTINF:0001 tvg-id="dHy0nGuichPjOs" tvg-chno="16" group-title="famelack (ci) [ci] [False]" tvg-logo="", RTI 2
+#EXTINF:0001 tvg-id="dHy0nGuichPjOs" tvg-chno="17" group-title="famelack (ci) [ci] [False]" tvg-logo="", RTI 2
 https://video1.getstreamhosting.com:1936/8066/8066/playlist.m3u8
-#EXTINF:0001 tvg-id="GBJpPekoZ4L9si" tvg-chno="17" group-title="famelack (ci) [ci] [False]" tvg-logo="", RTVC
+#EXTINF:0001 tvg-id="GBJpPekoZ4L9si" tvg-chno="18" group-title="famelack (ci) [ci] [False]" tvg-logo="", RTVC
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
-#EXTINF:0001 tvg-id="R193ToXFYYRnV4" tvg-chno="18" group-title="famelack (ci) [ci] [False]" tvg-logo="", Serie Max
+#EXTINF:0001 tvg-id="R193ToXFYYRnV4" tvg-chno="19" group-title="famelack (ci) [ci] [False]" tvg-logo="", Serie Max
 https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
-#EXTINF:0001 tvg-id="twgsMNbK1cPcS5" tvg-chno="19" group-title="famelack (ci) [ci] [False]" tvg-logo="", TV La Capitale
+#EXTINF:0001 tvg-id="twgsMNbK1cPcS5" tvg-chno="20" group-title="famelack (ci) [ci] [False]" tvg-logo="", TV La Capitale
 https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8

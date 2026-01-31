@@ -21,8 +21,8 @@ https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:0001 tvg-id="kQoJODyIVFBenm" tvg-chno="11" group-title="famelack (gr) [gr] [False]" tvg-logo="", Egnatia TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:0001 tvg-id="BBnkN7RuoWZuoo" tvg-chno="12" group-title="famelack (gr) [gr] [False]" tvg-logo="", Gnomi TV
-https://live.streams.ovh:8081/gnomitv/index.m3u8
+#EXTINF:0001 tvg-id="rNwXK8U9QtgSSA" tvg-chno="12" group-title="famelack (gr) [gr] [False]" tvg-logo="", Faros TV2
+https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:0001 tvg-id="5ZeYm0HuWlcYQ2" tvg-chno="13" group-title="famelack (gr) [gr] [False]" tvg-logo="", Ionian Channel
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:0001 tvg-id="slRsHngNcym3tq" tvg-chno="14" group-title="famelack (gr) [gr] [False]" tvg-logo="", Kontra Channel

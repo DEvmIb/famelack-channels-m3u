@@ -1,15 +1,7 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="ZvKn9UbtNH6u8X" tvg-chno="1" group-title="famelack (cm) [cm] [False]" tvg-logo="", Afrique54 TV
 https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
-#EXTINF:0001 tvg-id="vSeAetx7SHaifK" tvg-chno="2" group-title="famelack (cm) [cm] [False]" tvg-logo="", CAM 10 TV
-https://stream.it-innov.com/cam10tv/index.m3u8
-#EXTINF:0001 tvg-id="qknhY9336tud8v" tvg-chno="3" group-title="famelack (cm) [cm] [False]" tvg-logo="", CEN Télévision
+#EXTINF:0001 tvg-id="qknhY9336tud8v" tvg-chno="2" group-title="famelack (cm) [cm] [False]" tvg-logo="", CEN Télévision
 https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8
-#EXTINF:0001 tvg-id="Qy2MEIeskrlaG8" tvg-chno="4" group-title="famelack (cm) [cm] [False]" tvg-logo="", CTV Afrique
-https://stream.it-innov.com/ctv/index.m3u8
-#EXTINF:0001 tvg-id="kAGSorpcyVgeyz" tvg-chno="5" group-title="famelack (cm) [cm] [False]" tvg-logo="", Laura Dave Media TV
+#EXTINF:0001 tvg-id="kAGSorpcyVgeyz" tvg-chno="3" group-title="famelack (cm) [cm] [False]" tvg-logo="", Laura Dave Media TV
 https://streaming.lauradavemedia.com/ldm/index.m3u8
-#EXTINF:0001 tvg-id="GUZaBBByEdqzvD" tvg-chno="6" group-title="famelack (cm) [cm] [False]" tvg-logo="", MISEC TV
-https://stream.it-innov.com/misec/index.m3u8
-#EXTINF:0001 tvg-id="e5Cesrm1AEWOjC" tvg-chno="7" group-title="famelack (cm) [cm] [False]" tvg-logo="", TR24
-https://stream.it-innov.com/tr24/index.m3u8

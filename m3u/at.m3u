@@ -5,53 +5,51 @@ https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u
 https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
 #EXTINF:0001 tvg-id="6DnB5KJfxGNUSC" tvg-chno="3" group-title="famelack (at) [at] [False]" tvg-logo="", ATV2 HD
 https://viamotionhsi.netplus.ch/live/eds/atv/browser-HLS8/atv.m3u8
-#EXTINF:0001 tvg-id="LG6Gi17D5ouvwt" tvg-chno="4" group-title="famelack (at) [at] [False]" tvg-logo="", Balkan Radio Salzburg
-https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
-#EXTINF:0001 tvg-id="TIO4oK5UynDpK7" tvg-chno="5" group-title="famelack (at) [at] [False]" tvg-logo="", FS1 Salzburg
+#EXTINF:0001 tvg-id="TIO4oK5UynDpK7" tvg-chno="4" group-title="famelack (at) [at] [False]" tvg-logo="", FS1 Salzburg
 https://stream.fs1.tv/hls/webstream.m3u8
-#EXTINF:0001 tvg-id="uFa4XsSCgNUo5V" tvg-chno="6" group-title="famelack (at) [at] [False]" tvg-logo="", Fuel TV
+#EXTINF:0001 tvg-id="uFa4XsSCgNUo5V" tvg-chno="5" group-title="famelack (at) [at] [False]" tvg-logo="", Fuel TV
 https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="eGOtWKdGAa7HdL" tvg-chno="7" group-title="famelack (at) [at] [False]" tvg-logo="", Hitradio Ö3
+#EXTINF:0001 tvg-id="eGOtWKdGAa7HdL" tvg-chno="6" group-title="famelack (at) [at] [False]" tvg-logo="", Hitradio Ö3
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
-#EXTINF:0001 tvg-id="d2Um5HC82pjJ2o" tvg-chno="8" group-title="famelack (at) [at] [False]" tvg-logo="", K-TV
+#EXTINF:0001 tvg-id="d2Um5HC82pjJ2o" tvg-chno="7" group-title="famelack (at) [at] [False]" tvg-logo="", K-TV
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:0001 tvg-id="5tTy78tgvm7wa1" tvg-chno="9" group-title="famelack (at) [at] [False]" tvg-logo="", KIT-TV
+#EXTINF:0001 tvg-id="5tTy78tgvm7wa1" tvg-chno="8" group-title="famelack (at) [at] [False]" tvg-logo="", KIT-TV
 https://everest.pa-hosting.de:3591/live/joseflive.m3u8
-#EXTINF:0001 tvg-id="0U8AHRskM6eU3e" tvg-chno="10" group-title="famelack (at) [at] [False]" tvg-logo="", Kronehit
+#EXTINF:0001 tvg-id="0U8AHRskM6eU3e" tvg-chno="9" group-title="famelack (at) [at] [False]" tvg-logo="", Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:0001 tvg-id="JLuJmYb9qBaDM3" tvg-chno="11" group-title="famelack (at) [at] [False]" tvg-logo="", Ländle TV
+#EXTINF:0001 tvg-id="JLuJmYb9qBaDM3" tvg-chno="10" group-title="famelack (at) [at] [False]" tvg-logo="", Ländle TV
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-#EXTINF:0001 tvg-id="TPLMQv1khtn1Qo" tvg-chno="12" group-title="famelack (at) [at] [False]" tvg-logo="", Okto TV
+#EXTINF:0001 tvg-id="TPLMQv1khtn1Qo" tvg-chno="11" group-title="famelack (at) [at] [False]" tvg-logo="", Okto TV
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-#EXTINF:0001 tvg-id="gRCF1WhcrFMXld" tvg-chno="13" group-title="famelack (at) [at] [False]" tvg-logo="", ORF 1
+#EXTINF:0001 tvg-id="gRCF1WhcrFMXld" tvg-chno="12" group-title="famelack (at) [at] [False]" tvg-logo="", ORF 1
 https://dash2.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="MOPKQmSpaUUjoi" tvg-chno="14" group-title="famelack (at) [at] [False]" tvg-logo="", ORF 1 HD
+#EXTINF:0001 tvg-id="MOPKQmSpaUUjoi" tvg-chno="13" group-title="famelack (at) [at] [False]" tvg-logo="", ORF 1 HD
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
-#EXTINF:0001 tvg-id="3VXM9idgjYPrqY" tvg-chno="15" group-title="famelack (at) [at] [False]" tvg-logo="", ORF 2
+#EXTINF:0001 tvg-id="3VXM9idgjYPrqY" tvg-chno="14" group-title="famelack (at) [at] [False]" tvg-logo="", ORF 2
 https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="EwM9NzIhL3N3PZ" tvg-chno="16" group-title="famelack (at) [at] [False]" tvg-logo="", ORF 2 Tirol HD
+#EXTINF:0001 tvg-id="EwM9NzIhL3N3PZ" tvg-chno="15" group-title="famelack (at) [at] [False]" tvg-logo="", ORF 2 Tirol HD
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
-#EXTINF:0001 tvg-id="RiifWdXjWLsqP4" tvg-chno="17" group-title="famelack (at) [at] [False]" tvg-logo="", ORF III HD
+#EXTINF:0001 tvg-id="RiifWdXjWLsqP4" tvg-chno="16" group-title="famelack (at) [at] [False]" tvg-logo="", ORF III HD
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
-#EXTINF:0001 tvg-id="5xY9cw7ypbOud1" tvg-chno="18" group-title="famelack (at) [at] [False]" tvg-logo="", R9
+#EXTINF:0001 tvg-id="5xY9cw7ypbOud1" tvg-chno="17" group-title="famelack (at) [at] [False]" tvg-logo="", R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="K8THRi8hdcH82I" tvg-chno="19" group-title="famelack (at) [at] [False]" tvg-logo="", Schladming-Dachstein TV
+#EXTINF:0001 tvg-id="K8THRi8hdcH82I" tvg-chno="18" group-title="famelack (at) [at] [False]" tvg-logo="", Schladming-Dachstein TV
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="H2qb0hwWTVm9bz" tvg-chno="20" group-title="famelack (at) [at] [False]" tvg-logo="", ServusTV HD
+#EXTINF:0001 tvg-id="H2qb0hwWTVm9bz" tvg-chno="19" group-title="famelack (at) [at] [False]" tvg-logo="", ServusTV HD
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
-#EXTINF:0001 tvg-id="FprwnAkCKvi17W" tvg-chno="21" group-title="famelack (at) [at] [False]" tvg-logo="", Steiermark TV
+#EXTINF:0001 tvg-id="FprwnAkCKvi17W" tvg-chno="20" group-title="famelack (at) [at] [False]" tvg-logo="", Steiermark TV
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
-#EXTINF:0001 tvg-id="dHIKj0PT3rIpW8" tvg-chno="22" group-title="famelack (at) [at] [False]" tvg-logo="", Stimmungsgarten TV
+#EXTINF:0001 tvg-id="dHIKj0PT3rIpW8" tvg-chno="21" group-title="famelack (at) [at] [False]" tvg-logo="", Stimmungsgarten TV
 https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
-#EXTINF:0001 tvg-id="0mEe54Ekw1mj61" tvg-chno="23" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV American
+#EXTINF:0001 tvg-id="0mEe54Ekw1mj61" tvg-chno="22" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV American
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="5ZPKeEUbFRktME" tvg-chno="24" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV Australian
+#EXTINF:0001 tvg-id="5ZPKeEUbFRktME" tvg-chno="23" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV Australian
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="FJL8QhoyygdV5z" tvg-chno="25" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV European
+#EXTINF:0001 tvg-id="FJL8QhoyygdV5z" tvg-chno="24" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV European
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="YQPekJKCEusA1c" tvg-chno="26" group-title="famelack (at) [at] [False]" tvg-logo="", Tirol TV
+#EXTINF:0001 tvg-id="YQPekJKCEusA1c" tvg-chno="25" group-title="famelack (at) [at] [False]" tvg-logo="", Tirol TV
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:0001 tvg-id="tkuZRX9Vv5gpW6" tvg-chno="27" group-title="famelack (at) [at] [False]" tvg-logo="", TV 1 Oberösterreich
+#EXTINF:0001 tvg-id="tkuZRX9Vv5gpW6" tvg-chno="26" group-title="famelack (at) [at] [False]" tvg-logo="", TV 1 Oberösterreich
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
-#EXTINF:0001 tvg-id="poBLTECPZ1p4X6" tvg-chno="28" group-title="famelack (at) [at] [False]" tvg-logo="", W24
+#EXTINF:0001 tvg-id="poBLTECPZ1p4X6" tvg-chno="27" group-title="famelack (at) [at] [False]" tvg-logo="", W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8

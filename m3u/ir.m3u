@@ -139,25 +139,29 @@ https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221226888/index.m3u8
 #EXTINF:0001 tvg-id="o7FVCnp0La0OCQ" tvg-chno="70" group-title="famelack (ir) [ir] [False]" tvg-logo="", Quran
 https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8
-#EXTINF:0001 tvg-id="775QxJjRASgGI3" tvg-chno="71" group-title="famelack (ir) [ir] [False]" tvg-logo="", Sahand
+#EXTINF:0001 tvg-id="xRGq4FvGDTWgUJ" tvg-chno="71" group-title="famelack (ir) [ir] [False]" tvg-logo="", RasoulallahTv
+https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
+#EXTINF:0001 tvg-id="775QxJjRASgGI3" tvg-chno="72" group-title="famelack (ir) [ir] [False]" tvg-logo="", Sahand
 https://lenz.splus.ir/PLTV/88888888/224/3221226423/index.m3u8
-#EXTINF:0001 tvg-id="7SB13Wb4NxEN59" tvg-chno="72" group-title="famelack (ir) [ir] [False]" tvg-logo="", Salamat
+#EXTINF:0001 tvg-id="7SB13Wb4NxEN59" tvg-chno="73" group-title="famelack (ir) [ir] [False]" tvg-logo="", Salamat
 https://lenz.splus.ir/PLTV/88888888/224/3221226152/index.m3u8
-#EXTINF:0001 tvg-id="ZCwOTDClBPeQTL" tvg-chno="73" group-title="famelack (ir) [ir] [False]" tvg-logo="", Sepehr
+#EXTINF:0001 tvg-id="ZCwOTDClBPeQTL" tvg-chno="74" group-title="famelack (ir) [ir] [False]" tvg-logo="", Sepehr
 https://lenz.splus.ir/PLTV/88888888/224/3221226161/index.m3u8
-#EXTINF:0001 tvg-id="8ASIayZG97M5CC" tvg-chno="74" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 1
+#EXTINF:0001 tvg-id="8ASIayZG97M5CC" tvg-chno="75" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 1
 https://slonehls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="917SD3APUmI0IC" tvg-chno="75" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 2
+#EXTINF:0001 tvg-id="917SD3APUmI0IC" tvg-chno="76" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 2
 https://sltwohls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="cu7YGaPAVwkgGg" tvg-chno="76" group-title="famelack (ir) [ir] [False]" tvg-logo="", T2 TV
+#EXTINF:0001 tvg-id="cu7YGaPAVwkgGg" tvg-chno="77" group-title="famelack (ir) [ir] [False]" tvg-logo="", T2 TV
 https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="pue7HvHax9RYo3" tvg-chno="77" group-title="famelack (ir) [ir] [False]" tvg-logo="", Tamasha
+#EXTINF:0001 tvg-id="pue7HvHax9RYo3" tvg-chno="78" group-title="famelack (ir) [ir] [False]" tvg-logo="", Tamasha
 https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8
-#EXTINF:0001 tvg-id="twF2oDz7S9EOtz" tvg-chno="78" group-title="famelack (ir) [ir] [False]" tvg-logo="", TBN Nejat TV
+#EXTINF:0001 tvg-id="twF2oDz7S9EOtz" tvg-chno="79" group-title="famelack (ir) [ir] [False]" tvg-logo="", TBN Nejat TV
 https://hls.nejat.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="Ds5kjE7mChd5a5" tvg-chno="79" group-title="famelack (ir) [ir] [False]" tvg-logo="", Varzesh TV
+#EXTINF:0001 tvg-id="Ds5kjE7mChd5a5" tvg-chno="80" group-title="famelack (ir) [ir] [False]" tvg-logo="", Varzesh TV
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
-#EXTINF:0001 tvg-id="L6G83gIrSP7kTc" tvg-chno="80" group-title="famelack (ir) [ir] [False]" tvg-logo="", Yazd
+#EXTINF:0001 tvg-id="hukeqny6nOwPuT" tvg-chno="81" group-title="famelack (ir) [ir] [False]" tvg-logo="", WiseHumanTv
+https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
+#EXTINF:0001 tvg-id="L6G83gIrSP7kTc" tvg-chno="82" group-title="famelack (ir) [ir] [False]" tvg-logo="", Yazd
 https://lenz.splus.ir/PLTV/88888888/224/3221227023/index.m3u8
-#EXTINF:0001 tvg-id="3CG7FQ47ykhGlU" tvg-chno="81" group-title="famelack (ir) [ir] [False]" tvg-logo="", YourTime TV
+#EXTINF:0001 tvg-id="3CG7FQ47ykhGlU" tvg-chno="83" group-title="famelack (ir) [ir] [False]" tvg-logo="", YourTime TV
 https://hls.yourtime.live/hls/stream.m3u8
