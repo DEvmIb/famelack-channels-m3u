@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="sFAzFQT0hhfqTl" tvg-chno="1" group-title="famelack (fo) [fo] [False]" tvg-logo="", KVF
 https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="DsaLWZN5SCtmIY" tvg-chno="2" group-title="famelack (fo) [fo] [False]" tvg-logo="", KVF Sjonvarp
-https://live.kringvarp.fo/uttanlands/720/playlist.m3u8

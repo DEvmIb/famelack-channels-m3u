@@ -79,14 +79,14 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 https://eu1.servers10.com:8081/8090/index.m3u8
 #EXTINF:0001 tvg-id="r0BHkewVVJfdhL" tvg-chno="40" group-title="famelack (co) [co] [False]" tvg-logo="", Río Televisión
 https://cdn.amelbasoluciones.co:8081/riotv/index.fmp4.m3u8
-#EXTINF:0001 tvg-id="neqGyX9Rfbl2Yl" tvg-chno="41" group-title="famelack (co) [co] [False]" tvg-logo="", RTC Televisión Urabá
-https://cdn.amelbasoluciones.co:8081/rtcurabalive/index.m3u8
+#EXTINF:0001 tvg-id="RV4q1AzygKEv9i" tvg-chno="41" group-title="famelack (co) [co] [False]" tvg-logo="", Salsa Gorda Television
+https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:0001 tvg-id="uLP3L9mZv4sX8t" tvg-chno="42" group-title="famelack (co) [co] [False]" tvg-logo="", Supermúsica TV
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTINF:0001 tvg-id="nBCtUGxdm8WZSP" tvg-chno="43" group-title="famelack (co) [co] [False]" tvg-logo="", Suram TV
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
-#EXTINF:0001 tvg-id="OQFI4DY0MMP8is" tvg-chno="44" group-title="famelack (co) [co] [False]" tvg-logo="", Telebolívar
-https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
+#EXTINF:0001 tvg-id="HgBlAsHZW8C65f" tvg-chno="44" group-title="famelack (co) [co] [False]" tvg-logo="", Tele Mocoa Canal 10
+https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8
 #EXTINF:0001 tvg-id="NNAoypPSm0OCzN" tvg-chno="45" group-title="famelack (co) [co] [False]" tvg-logo="", Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 #EXTINF:0001 tvg-id="Z2Kgz7MRBRZ3FM" tvg-chno="46" group-title="famelack (co) [co] [False]" tvg-logo="", Telepacífico
@@ -103,7 +103,5 @@ https://asucap.com/livestream/asucap_envivo.m3u8
 https://cdn.amelbasoluciones.co:8081/teleopitalive/index.m3u8
 #EXTINF:0001 tvg-id="s1gW58b5trEZhx" tvg-chno="52" group-title="famelack (co) [co] [False]" tvg-logo="", Ultra Casanare TV
 https://eu1.servers10.com:8081/8072/index.m3u8
-#EXTINF:0001 tvg-id="lOEoXHnp8Sj0dx" tvg-chno="53" group-title="famelack (co) [co] [False]" tvg-logo="", UMC TV
-https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
-#EXTINF:0001 tvg-id="m6ndbgJiTqW3UU" tvg-chno="54" group-title="famelack (co) [co] [False]" tvg-logo="", Zoom
+#EXTINF:0001 tvg-id="m6ndbgJiTqW3UU" tvg-chno="53" group-title="famelack (co) [co] [False]" tvg-logo="", Zoom
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8

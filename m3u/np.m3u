@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="GidYAgXI85sI6d" tvg-chno="1" group-title="famelack (np) [np] [False]" tvg-logo="", Capital TV
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-#EXTINF:0001 tvg-id="DfD3tq4WpLgfKH" tvg-chno="2" group-title="famelack (np) [np] [False]" tvg-logo="", Divya Darshan TV
-https://live.divyadarshantv.com/hls/stream.m3u8
-#EXTINF:0001 tvg-id="M45VWk5bj5wkys" tvg-chno="3" group-title="famelack (np) [np] [False]" tvg-logo="", Kantipur TV
+#EXTINF:0001 tvg-id="M45VWk5bj5wkys" tvg-chno="2" group-title="famelack (np) [np] [False]" tvg-logo="", Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8

@@ -61,5 +61,3 @@ https://tv-live.tpchannel.org/live/tv.m3u8
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:0001 tvg-id="xP0smrBM1w21kH" tvg-chno="31" group-title="famelack (th) [th] [False]" tvg-logo="", TV Muslim Thailand
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
-#EXTINF:0001 tvg-id="3j6DuTgbZOrvSb" tvg-chno="32" group-title="famelack (th) [th] [False]" tvg-logo="", Zabb Channel
-https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
