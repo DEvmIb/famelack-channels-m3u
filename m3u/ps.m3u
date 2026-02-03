@@ -1,29 +1,31 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="1tmOFuhpyGCSup" tvg-chno="1" group-title="famelack (ps) [ps] [False]" tvg-logo="", Al Najah News
+#EXTINF:0001 tvg-id="PtKPvCho1AKJIx" tvg-chno="1" group-title="famelack (ps) [ps] [False]" tvg-logo="", Al Madina
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
+#EXTINF:0001 tvg-id="1tmOFuhpyGCSup" tvg-chno="2" group-title="famelack (ps) [ps] [False]" tvg-logo="", Al Najah News
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
-#EXTINF:0001 tvg-id="foEVFoZwWIxidj" tvg-chno="2" group-title="famelack (ps) [ps] [False]" tvg-logo="", Falastini TV
+#EXTINF:0001 tvg-id="foEVFoZwWIxidj" tvg-chno="3" group-title="famelack (ps) [ps] [False]" tvg-logo="", Falastini TV
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
-#EXTINF:0001 tvg-id="outqJIrBz2XOHJ" tvg-chno="3" group-title="famelack (ps) [ps] [False]" tvg-logo="", Kolalnas TV
+#EXTINF:0001 tvg-id="outqJIrBz2XOHJ" tvg-chno="4" group-title="famelack (ps) [ps] [False]" tvg-logo="", Kolalnas TV
 https://htvint.mada.ps/kolalnas/index.m3u8
-#EXTINF:0001 tvg-id="qtsvyZ238Pd7nc" tvg-chno="4" group-title="famelack (ps) [ps] [False]" tvg-logo="", MusawaChannel
+#EXTINF:0001 tvg-id="qtsvyZ238Pd7nc" tvg-chno="5" group-title="famelack (ps) [ps] [False]" tvg-logo="", MusawaChannel
 https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:0001 tvg-id="JiGCtBsK9fRW9p" tvg-chno="5" group-title="famelack (ps) [ps] [False]" tvg-logo="", Nablus TV
+#EXTINF:0001 tvg-id="JiGCtBsK9fRW9p" tvg-chno="6" group-title="famelack (ps) [ps] [False]" tvg-logo="", Nablus TV
 https://htvint.mada.ps/nabluslive/index.m3u8
-#EXTINF:0001 tvg-id="qHPud6QAjClK6g" tvg-chno="6" group-title="famelack (ps) [ps] [False]" tvg-logo="", Palestine Edu
+#EXTINF:0001 tvg-id="qHPud6QAjClK6g" tvg-chno="7" group-title="famelack (ps) [ps] [False]" tvg-logo="", Palestine Edu
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
-#EXTINF:0001 tvg-id="kMBDQu4FHfVDdk" tvg-chno="7" group-title="famelack (ps) [ps] [False]" tvg-logo="", Palestine Mubasher
+#EXTINF:0001 tvg-id="kMBDQu4FHfVDdk" tvg-chno="8" group-title="famelack (ps) [ps] [False]" tvg-logo="", Palestine Mubasher
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:0001 tvg-id="fwZ0THu9CrthiO" tvg-chno="8" group-title="famelack (ps) [ps] [False]" tvg-logo="", Palestine Satellite Channel
+#EXTINF:0001 tvg-id="fwZ0THu9CrthiO" tvg-chno="9" group-title="famelack (ps) [ps] [False]" tvg-logo="", Palestine Satellite Channel
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:0001 tvg-id="JNDKGXOqR8Ky21" tvg-chno="9" group-title="famelack (ps) [ps] [False]" tvg-logo="", Palestine Today
+#EXTINF:0001 tvg-id="JNDKGXOqR8Ky21" tvg-chno="10" group-title="famelack (ps) [ps] [False]" tvg-logo="", Palestine Today
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="szNEw4C0KNRO1w" tvg-chno="10" group-title="famelack (ps) [ps] [False]" tvg-logo="", Radio Albalad TV
+#EXTINF:0001 tvg-id="szNEw4C0KNRO1w" tvg-chno="11" group-title="famelack (ps) [ps] [False]" tvg-logo="", Radio Albalad TV
 https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8
-#EXTINF:0001 tvg-id="yN7j4xBxGOsptK" tvg-chno="11" group-title="famelack (ps) [ps] [False]" tvg-logo="", Rajeen TV
+#EXTINF:0001 tvg-id="yN7j4xBxGOsptK" tvg-chno="12" group-title="famelack (ps) [ps] [False]" tvg-logo="", Rajeen TV
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
-#EXTINF:0001 tvg-id="YP1vVoBwTCNGu4" tvg-chno="12" group-title="famelack (ps) [ps] [False]" tvg-logo="", Raya 1
+#EXTINF:0001 tvg-id="YP1vVoBwTCNGu4" tvg-chno="13" group-title="famelack (ps) [ps] [False]" tvg-logo="", Raya 1
 https://htvmada.mada.ps:4443/raya/index.m3u8
-#EXTINF:0001 tvg-id="symrkwvSEOlnh3" tvg-chno="13" group-title="famelack (ps) [ps] [False]" tvg-logo="", Shabab FM
+#EXTINF:0001 tvg-id="symrkwvSEOlnh3" tvg-chno="14" group-title="famelack (ps) [ps] [False]" tvg-logo="", Shabab FM
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
-#EXTINF:0001 tvg-id="zJ9zGl534t9s19" tvg-chno="14" group-title="famelack (ps) [ps] [False]" tvg-logo="", Watar TV
+#EXTINF:0001 tvg-id="zJ9zGl534t9s19" tvg-chno="15" group-title="famelack (ps) [ps] [False]" tvg-logo="", Watar TV
 https://htvint.mada.ps/orient/index.m3u8

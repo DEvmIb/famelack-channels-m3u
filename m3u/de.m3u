@@ -137,12 +137,12 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:0001 tvg-id="paDrWcFyUNsNMX" tvg-chno="69" group-title="famelack (de) [de] [False]" tvg-logo="", München TV
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="1vBPSqBW9LaA0Z" tvg-chno="70" group-title="famelack (de) [de] [False]" tvg-logo="", MyTime Movie Network Germany
-https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="sUPjf9t1EEmdsB" tvg-chno="71" group-title="famelack (de) [de] [False]" tvg-logo="", n-tv
+#EXTINF:0001 tvg-id="sUPjf9t1EEmdsB" tvg-chno="70" group-title="famelack (de) [de] [False]" tvg-logo="", n-tv
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
-#EXTINF:0001 tvg-id="nSKKagLIpNXooQ" tvg-chno="72" group-title="famelack (de) [de] [False]" tvg-logo="", Naruto Germany
+#EXTINF:0001 tvg-id="nSKKagLIpNXooQ" tvg-chno="71" group-title="famelack (de) [de] [False]" tvg-logo="", Naruto Germany
 https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="Z6guN3S2lbqSQy" tvg-chno="72" group-title="famelack (de) [de] [False]" tvg-logo="", NDR Fernsehen International
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:0001 tvg-id="GeKNyE31y73DJT" tvg-chno="73" group-title="famelack (de) [de] [False]" tvg-logo="", NDR Hamburg
 https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
 #EXTINF:0001 tvg-id="s3CR0taCvYhOMx" tvg-chno="74" group-title="famelack (de) [de] [False]" tvg-logo="", Nick/Comedy Central +1 HD
@@ -313,11 +313,9 @@ https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="Rbcaed64dSHjvH" tvg-chno="157" group-title="famelack (de) [de] [False]" tvg-logo="", World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTINF:0001 tvg-id="MTSj2olhZiM1t9" tvg-chno="158" group-title="famelack (de) [de] [False]" tvg-logo="", XITE
-https://xite-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="vhvjtBC2rj5W6D" tvg-chno="159" group-title="famelack (de) [de] [False]" tvg-logo="", ZDF HD
+#EXTINF:0001 tvg-id="vhvjtBC2rj5W6D" tvg-chno="158" group-title="famelack (de) [de] [False]" tvg-logo="", ZDF HD
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
-#EXTINF:0001 tvg-id="LIDUrWZ3fv3BqP" tvg-chno="160" group-title="famelack (de) [de] [False]" tvg-logo="", ZDFinfo HD
+#EXTINF:0001 tvg-id="LIDUrWZ3fv3BqP" tvg-chno="159" group-title="famelack (de) [de] [False]" tvg-logo="", ZDFinfo HD
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
-#EXTINF:0001 tvg-id="cH8c2wY7TrkwXc" tvg-chno="161" group-title="famelack (de) [de] [False]" tvg-logo="", ZDFneo HD
+#EXTINF:0001 tvg-id="cH8c2wY7TrkwXc" tvg-chno="160" group-title="famelack (de) [de] [False]" tvg-logo="", ZDFneo HD
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8

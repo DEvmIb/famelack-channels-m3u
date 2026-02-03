@@ -1,21 +1,19 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="9v7vzS3xsxjDYS" tvg-chno="1" group-title="famelack (kh) [kh] [False]" tvg-logo="", Apsara TV11
-https://live.ams.com.kh/app/stream/playlist.m3u8
-#EXTINF:0001 tvg-id="kaw9gAODRE7fwM" tvg-chno="2" group-title="famelack (kh) [kh] [False]" tvg-logo="", CNC
+#EXTINF:0001 tvg-id="kaw9gAODRE7fwM" tvg-chno="1" group-title="famelack (kh) [kh] [False]" tvg-logo="", CNC
 https://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="YY9NfXqZlAyphj" tvg-chno="3" group-title="famelack (kh) [kh] [False]" tvg-logo="", CTN
+#EXTINF:0001 tvg-id="YY9NfXqZlAyphj" tvg-chno="2" group-title="famelack (kh) [kh] [False]" tvg-logo="", CTN
 https://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="YIjIVSot1z9UDS" tvg-chno="4" group-title="famelack (kh) [kh] [False]" tvg-logo="", CTV8 HD
+#EXTINF:0001 tvg-id="YIjIVSot1z9UDS" tvg-chno="3" group-title="famelack (kh) [kh] [False]" tvg-logo="", CTV8 HD
 https://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="Qpem3hrPjq4VqQ" tvg-chno="5" group-title="famelack (kh) [kh] [False]" tvg-logo="", My TV
+#EXTINF:0001 tvg-id="Qpem3hrPjq4VqQ" tvg-chno="4" group-title="famelack (kh) [kh] [False]" tvg-logo="", My TV
 https://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="9crqbJjJGnnzxY" tvg-chno="6" group-title="famelack (kh) [kh] [False]" tvg-logo="", SEATV
+#EXTINF:0001 tvg-id="9crqbJjJGnnzxY" tvg-chno="5" group-title="famelack (kh) [kh] [False]" tvg-logo="", SEATV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:0001 tvg-id="Mhke0W0yDC0bio" tvg-chno="7" group-title="famelack (kh) [kh] [False]" tvg-logo="", TV5 Cambodia
+#EXTINF:0001 tvg-id="Mhke0W0yDC0bio" tvg-chno="6" group-title="famelack (kh) [kh] [False]" tvg-logo="", TV5 Cambodia
 https://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="5YmRoWRCWgVS14" tvg-chno="8" group-title="famelack (kh) [kh] [False]" tvg-logo="", TVK
+#EXTINF:0001 tvg-id="5YmRoWRCWgVS14" tvg-chno="7" group-title="famelack (kh) [kh] [False]" tvg-logo="", TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="m3PpQXO8kJ3GQC" tvg-chno="9" group-title="famelack (kh) [kh] [False]" tvg-logo="", TVK 2
+#EXTINF:0001 tvg-id="m3PpQXO8kJ3GQC" tvg-chno="8" group-title="famelack (kh) [kh] [False]" tvg-logo="", TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="JliijnACP4jH0u" tvg-chno="10" group-title="famelack (kh) [kh] [False]" tvg-logo="", WIKI TV
+#EXTINF:0001 tvg-id="JliijnACP4jH0u" tvg-chno="9" group-title="famelack (kh) [kh] [False]" tvg-logo="", WIKI TV
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8

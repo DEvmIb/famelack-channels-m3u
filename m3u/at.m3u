@@ -41,17 +41,15 @@ https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.s
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 #EXTINF:0001 tvg-id="FprwnAkCKvi17W" tvg-chno="21" group-title="famelack (at) [at] [False]" tvg-logo="", Steiermark TV
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
-#EXTINF:0001 tvg-id="dHIKj0PT3rIpW8" tvg-chno="22" group-title="famelack (at) [at] [False]" tvg-logo="", Stimmungsgarten TV
-https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
-#EXTINF:0001 tvg-id="0mEe54Ekw1mj61" tvg-chno="23" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV American
+#EXTINF:0001 tvg-id="0mEe54Ekw1mj61" tvg-chno="22" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV American
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="5ZPKeEUbFRktME" tvg-chno="24" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV Australian
+#EXTINF:0001 tvg-id="5ZPKeEUbFRktME" tvg-chno="23" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV Australian
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="FJL8QhoyygdV5z" tvg-chno="25" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV European
+#EXTINF:0001 tvg-id="FJL8QhoyygdV5z" tvg-chno="24" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV European
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="YQPekJKCEusA1c" tvg-chno="26" group-title="famelack (at) [at] [False]" tvg-logo="", Tirol TV
+#EXTINF:0001 tvg-id="YQPekJKCEusA1c" tvg-chno="25" group-title="famelack (at) [at] [False]" tvg-logo="", Tirol TV
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:0001 tvg-id="tkuZRX9Vv5gpW6" tvg-chno="27" group-title="famelack (at) [at] [False]" tvg-logo="", TV 1 Oberösterreich
+#EXTINF:0001 tvg-id="tkuZRX9Vv5gpW6" tvg-chno="26" group-title="famelack (at) [at] [False]" tvg-logo="", TV 1 Oberösterreich
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
-#EXTINF:0001 tvg-id="poBLTECPZ1p4X6" tvg-chno="28" group-title="famelack (at) [at] [False]" tvg-logo="", W24
+#EXTINF:0001 tvg-id="poBLTECPZ1p4X6" tvg-chno="27" group-title="famelack (at) [at] [False]" tvg-logo="", W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8

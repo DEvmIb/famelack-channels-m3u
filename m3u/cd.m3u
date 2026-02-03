@@ -1,15 +1,19 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="XT7eoy2OYibIED" tvg-chno="1" group-title="famelack (cd) [cd] [False]" tvg-logo="", CCPV TV
 https://tnt-television.com/CCPV-TV/index.m3u8
-#EXTINF:0001 tvg-id="QOfJ38EhuVvyDe" tvg-chno="2" group-title="famelack (cd) [cd] [False]" tvg-logo="", Compassion TV
-https://tnt-television.com/COMPASSION_FM/index.m3u8
-#EXTINF:0001 tvg-id="D6KiASo2YhEXxv" tvg-chno="3" group-title="famelack (cd) [cd] [False]" tvg-logo="", EVI TV
+#EXTINF:0001 tvg-id="D6KiASo2YhEXxv" tvg-chno="2" group-title="famelack (cd) [cd] [False]" tvg-logo="", EVI TV
 https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8
-#EXTINF:0001 tvg-id="WAGlEl54HjyWyD" tvg-chno="4" group-title="famelack (cd) [cd] [False]" tvg-logo="", Géopolis TV
+#EXTINF:0001 tvg-id="WAGlEl54HjyWyD" tvg-chno="3" group-title="famelack (cd) [cd] [False]" tvg-logo="", Géopolis TV
 https://tnt-television.com/Geopolis_tv/index.m3u8
+#EXTINF:0001 tvg-id="UzHYdyET8p8TTx" tvg-chno="4" group-title="famelack (cd) [cd] [False]" tvg-logo="", La Sentinelle TV
+https://tnt-television.com/LA_SENTINELLE/index.m3u8
 #EXTINF:0001 tvg-id="6HjiInfkoOCTQt" tvg-chno="5" group-title="famelack (cd) [cd] [False]" tvg-logo="", LBFD RTV
 https://tnt-television.com/LBFD_RTV/index.m3u8
 #EXTINF:0001 tvg-id="8LOmsJ4tSkesGy" tvg-chno="6" group-title="famelack (cd) [cd] [False]" tvg-logo="", Mishapi Voice TV
 https://tnt-television.com/MISHAPI-STREAM1/index.m3u8
-#EXTINF:0001 tvg-id="DNL85vskEfv05e" tvg-chno="7" group-title="famelack (cd) [cd] [False]" tvg-logo="", RTNC
+#EXTINF:0001 tvg-id="XTCS8hBcYSO2yi" tvg-chno="7" group-title="famelack (cd) [cd] [False]" tvg-logo="", Numerica TV
+https://tnt-television.com/NUMERICA/index.m3u8
+#EXTINF:0001 tvg-id="C9r0nQTewOjHW3" tvg-chno="8" group-title="famelack (cd) [cd] [False]" tvg-logo="", RL PRO TV
+https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
+#EXTINF:0001 tvg-id="DNL85vskEfv05e" tvg-chno="9" group-title="famelack (cd) [cd] [False]" tvg-logo="", RTNC
 https://tnt-television.com/rtnc_HD/index.m3u8

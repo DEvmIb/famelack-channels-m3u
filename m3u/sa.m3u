@@ -9,47 +9,45 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
 #EXTINF:0001 tvg-id="gUNShL4GZ5DwVP" tvg-chno="5" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Quran Al Kareem TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-#EXTINF:0001 tvg-id="nDg5qUEVFtMmxa" tvg-chno="6" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Riyadh Radio
-https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
-#EXTINF:0001 tvg-id="Eq3xJxs4Urzf32" tvg-chno="7" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Saudiya
+#EXTINF:0001 tvg-id="Eq3xJxs4Urzf32" tvg-chno="6" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Saudiya
 https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8
-#EXTINF:0001 tvg-id="TsXIocQtovCVbO" tvg-chno="8" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Sunnah Al Nabawiyah TV
+#EXTINF:0001 tvg-id="TsXIocQtovCVbO" tvg-chno="7" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Sunnah Al Nabawiyah TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-#EXTINF:0001 tvg-id="VrSTFRwQ0PAQKF" tvg-chno="9" group-title="famelack (sa) [sa] [False]" tvg-logo="", Alkhuzama Radio
+#EXTINF:0001 tvg-id="VrSTFRwQ0PAQKF" tvg-chno="8" group-title="famelack (sa) [sa] [False]" tvg-logo="", Alkhuzama Radio
 https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
-#EXTINF:0001 tvg-id="5ZGnLxWOqASmvp" tvg-chno="10" group-title="famelack (sa) [sa] [False]" tvg-logo="", Asharq Discovery
+#EXTINF:0001 tvg-id="5ZGnLxWOqASmvp" tvg-chno="9" group-title="famelack (sa) [sa] [False]" tvg-logo="", Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="eNsC6GxX1XiJq8" tvg-chno="11" group-title="famelack (sa) [sa] [False]" tvg-logo="", Asharq Documentary
+#EXTINF:0001 tvg-id="eNsC6GxX1XiJq8" tvg-chno="10" group-title="famelack (sa) [sa] [False]" tvg-logo="", Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="3IPx7Vn2DfdZ1y" tvg-chno="12" group-title="famelack (sa) [sa] [False]" tvg-logo="", Asharq News
+#EXTINF:0001 tvg-id="3IPx7Vn2DfdZ1y" tvg-chno="11" group-title="famelack (sa) [sa] [False]" tvg-logo="", Asharq News
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="Tl12ojqlqKkMqp" tvg-chno="13" group-title="famelack (sa) [sa] [False]" tvg-logo="", Asharq Radio
+#EXTINF:0001 tvg-id="Tl12ojqlqKkMqp" tvg-chno="12" group-title="famelack (sa) [sa] [False]" tvg-logo="", Asharq Radio
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
-#EXTINF:0001 tvg-id="QHuUkTJnPtT3bd" tvg-chno="14" group-title="famelack (sa) [sa] [False]" tvg-logo="", Atfal & Mawaheb TV
+#EXTINF:0001 tvg-id="QHuUkTJnPtT3bd" tvg-chno="13" group-title="famelack (sa) [sa] [False]" tvg-logo="", Atfal & Mawaheb TV
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:0001 tvg-id="ach3g4vATgIFOv" tvg-chno="15" group-title="famelack (sa) [sa] [False]" tvg-logo="", Iqraa Africa & Europe
+#EXTINF:0001 tvg-id="ach3g4vATgIFOv" tvg-chno="14" group-title="famelack (sa) [sa] [False]" tvg-logo="", Iqraa Africa & Europe
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
-#EXTINF:0001 tvg-id="2uHauqHEVPuPaH" tvg-chno="16" group-title="famelack (sa) [sa] [False]" tvg-logo="", Iqraa Arabic
+#EXTINF:0001 tvg-id="2uHauqHEVPuPaH" tvg-chno="15" group-title="famelack (sa) [sa] [False]" tvg-logo="", Iqraa Arabic
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
-#EXTINF:0001 tvg-id="dvi5BngvMWtVuo" tvg-chno="17" group-title="famelack (sa) [sa] [False]" tvg-logo="", Iqraa Quran
+#EXTINF:0001 tvg-id="dvi5BngvMWtVuo" tvg-chno="16" group-title="famelack (sa) [sa] [False]" tvg-logo="", Iqraa Quran
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:0001 tvg-id="hKsePjubKoTvYH" tvg-chno="18" group-title="famelack (sa) [sa] [False]" tvg-logo="", Majid Al Mohandis
+#EXTINF:0001 tvg-id="hKsePjubKoTvYH" tvg-chno="17" group-title="famelack (sa) [sa] [False]" tvg-logo="", Majid Al Mohandis
 https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
-#EXTINF:0001 tvg-id="yleIKDrRKbucGA" tvg-chno="19" group-title="famelack (sa) [sa] [False]" tvg-logo="", Makkah TV
+#EXTINF:0001 tvg-id="yleIKDrRKbucGA" tvg-chno="18" group-title="famelack (sa) [sa] [False]" tvg-logo="", Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:0001 tvg-id="AQGmKDckGE5Qe6" tvg-chno="20" group-title="famelack (sa) [sa] [False]" tvg-logo="", MBC Loud
+#EXTINF:0001 tvg-id="AQGmKDckGE5Qe6" tvg-chno="19" group-title="famelack (sa) [sa] [False]" tvg-logo="", MBC Loud
 https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
-#EXTINF:0001 tvg-id="VFUpcH6YEWSEUp" tvg-chno="21" group-title="famelack (sa) [sa] [False]" tvg-logo="", Mohammed Abdo
+#EXTINF:0001 tvg-id="VFUpcH6YEWSEUp" tvg-chno="20" group-title="famelack (sa) [sa] [False]" tvg-logo="", Mohammed Abdo
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
-#EXTINF:0001 tvg-id="LPJDqWkJ3mRR4C" tvg-chno="22" group-title="famelack (sa) [sa] [False]" tvg-logo="", Nidae AlIslam Radio
+#EXTINF:0001 tvg-id="LPJDqWkJ3mRR4C" tvg-chno="21" group-title="famelack (sa) [sa] [False]" tvg-logo="", Nidae AlIslam Radio
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
-#EXTINF:0001 tvg-id="3tweZkdXXLPOu1" tvg-chno="23" group-title="famelack (sa) [sa] [False]" tvg-logo="", Panorama FM
+#EXTINF:0001 tvg-id="3tweZkdXXLPOu1" tvg-chno="22" group-title="famelack (sa) [sa] [False]" tvg-logo="", Panorama FM
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
-#EXTINF:0001 tvg-id="g8EL4yghSJSvAP" tvg-chno="24" group-title="famelack (sa) [sa] [False]" tvg-logo="", Quran Radio
+#EXTINF:0001 tvg-id="g8EL4yghSJSvAP" tvg-chno="23" group-title="famelack (sa) [sa] [False]" tvg-logo="", Quran Radio
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
-#EXTINF:0001 tvg-id="tVmAicsgKyc425" tvg-chno="25" group-title="famelack (sa) [sa] [False]" tvg-logo="", Rashid AlMajed
+#EXTINF:0001 tvg-id="tVmAicsgKyc425" tvg-chno="24" group-title="famelack (sa) [sa] [False]" tvg-logo="", Rashid AlMajed
 https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
-#EXTINF:0001 tvg-id="V7Gca2UgeJjvCP" tvg-chno="26" group-title="famelack (sa) [sa] [False]" tvg-logo="", Saudia Radio
+#EXTINF:0001 tvg-id="V7Gca2UgeJjvCP" tvg-chno="25" group-title="famelack (sa) [sa] [False]" tvg-logo="", Saudia Radio
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
-#EXTINF:0001 tvg-id="bLrhTddKmX53C8" tvg-chno="27" group-title="famelack (sa) [sa] [False]" tvg-logo="", Tarab
+#EXTINF:0001 tvg-id="bLrhTddKmX53C8" tvg-chno="26" group-title="famelack (sa) [sa] [False]" tvg-logo="", Tarab
 https://shls-live-mood-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
