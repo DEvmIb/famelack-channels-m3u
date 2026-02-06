@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="EgspbzPRaIJYXi" tvg-chno="1" group-title="famelack (bj) [bj] [False]" tvg-logo="", ADO TV
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
-#EXTINF:0001 tvg-id="oEpR0S4FaSzJGz" tvg-chno="2" group-title="famelack (bj) [bj] [False]" tvg-logo="", ORTB TV (1080i)
+#EXTINF:0001 tvg-id="1fyxJbeOBe9SyI" tvg-chno="2" group-title="famelack (bj) [bj] [False]" tvg-logo="", Eden TV
+https://rtmp.edentv.bj/hls/stream.m3u8
+#EXTINF:0001 tvg-id="oEpR0S4FaSzJGz" tvg-chno="3" group-title="famelack (bj) [bj] [False]" tvg-logo="", ORTB TV (1080i)
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
-#EXTINF:0001 tvg-id="f5NDk3OJutdPza" tvg-chno="3" group-title="famelack (bj) [bj] [False]" tvg-logo="", TVC Bénin
+#EXTINF:0001 tvg-id="f5NDk3OJutdPza" tvg-chno="4" group-title="famelack (bj) [bj] [False]" tvg-logo="", TVC Bénin
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="d5k9RHTOOkIzsq" tvg-chno="1" group-title="famelack (sn) [sn] [False]" tvg-logo="", A2i Music
-https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:0001 tvg-id="qnZnUMjCzgKR22" tvg-chno="1" group-title="famelack (sn) [sn] [False]" tvg-logo="", A2i Religion
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 #EXTINF:0001 tvg-id="T0IEZPe03CJ8Jv" tvg-chno="2" group-title="famelack (sn) [sn] [False]" tvg-logo="", Diaspora 24
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 #EXTINF:0001 tvg-id="JUnTXwYpoyd7Ny" tvg-chno="3" group-title="famelack (sn) [sn] [False]" tvg-logo="", Louga TV

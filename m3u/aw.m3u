@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="ynzFVHU7oaBdM1" tvg-chno="1" group-title="famelack (aw) [aw] [False]" tvg-logo="", Cool FM 98.9
+#EXTINF:0001 tvg-id="aNWcalM8ImXSeK" tvg-chno="1" group-title="famelack (aw) [aw] [False]" tvg-logo="", Aruba.TV
+https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
+#EXTINF:0001 tvg-id="ynzFVHU7oaBdM1" tvg-chno="2" group-title="famelack (aw) [aw] [False]" tvg-logo="", Cool FM 98.9
 https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
-#EXTINF:0001 tvg-id="tadaKAwuktrkov" tvg-chno="2" group-title="famelack (aw) [aw] [False]" tvg-logo="", Power 101.7 FM
+#EXTINF:0001 tvg-id="T58f95dx4sdCvQ" tvg-chno="3" group-title="famelack (aw) [aw] [False]" tvg-logo="", Nos Isla TV
+https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8
+#EXTINF:0001 tvg-id="tadaKAwuktrkov" tvg-chno="4" group-title="famelack (aw) [aw] [False]" tvg-logo="", Power 101.7 FM
 https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
+#EXTINF:0001 tvg-id="liCjcd8JRXz6UB" tvg-chno="5" group-title="famelack (aw) [aw] [False]" tvg-logo="", Telearuba
+https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8

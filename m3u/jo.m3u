@@ -21,17 +21,15 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
 #EXTINF:0001 tvg-id="qKAl8NiXFdyK7W" tvg-chno="11" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Tourism
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
-#EXTINF:0001 tvg-id="n1NVXrRoMu2hbw" tvg-chno="12" group-title="famelack (jo) [jo] [False]" tvg-logo="", Melody FM Jordan
-https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
-#EXTINF:0001 tvg-id="bSyZI3uj6B02G3" tvg-chno="13" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Comedy
+#EXTINF:0001 tvg-id="bSyZI3uj6B02G3" tvg-chno="12" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Comedy
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
-#EXTINF:0001 tvg-id="vosJ1MimmKjovt" tvg-chno="14" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Drama
+#EXTINF:0001 tvg-id="vosJ1MimmKjovt" tvg-chno="13" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Drama
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-#EXTINF:0001 tvg-id="IaPzNcOFguJ1fR" tvg-chno="15" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Kids
+#EXTINF:0001 tvg-id="IaPzNcOFguJ1fR" tvg-chno="14" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
-#EXTINF:0001 tvg-id="AnJeMRVilOxANP" tvg-chno="16" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Kids Originals
+#EXTINF:0001 tvg-id="AnJeMRVilOxANP" tvg-chno="15" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Kids Originals
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
-#EXTINF:0001 tvg-id="6AoHYDpnv89YBf" tvg-chno="17" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Kitchen
+#EXTINF:0001 tvg-id="6AoHYDpnv89YBf" tvg-chno="16" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Kitchen
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
-#EXTINF:0001 tvg-id="EgkvX9kJOJxMoC" tvg-chno="18" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya TV
+#EXTINF:0001 tvg-id="EgkvX9kJOJxMoC" tvg-chno="17" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8

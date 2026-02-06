@@ -19,14 +19,14 @@ https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:0001 tvg-id="I677KvGkPDPSil" tvg-chno="10" group-title="famelack (iq) [iq] [False]" tvg-logo="", Avar TV
 https://avr.host247.net/live/AvarTv/playlist.m3u8
-#EXTINF:0001 tvg-id="bBdVVt0cpWEQfg" tvg-chno="11" group-title="famelack (iq) [iq] [False]" tvg-logo="", BeitolAbbas TV Channel
+#EXTINF:0001 tvg-id="RgXZMyE6SkTLbW" tvg-chno="11" group-title="famelack (iq) [iq] [False]" tvg-logo="", Bayyinat TV
+https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
+#EXTINF:0001 tvg-id="bBdVVt0cpWEQfg" tvg-chno="12" group-title="famelack (iq) [iq] [False]" tvg-logo="", BeitolAbbas TV Channel
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
-#EXTINF:0001 tvg-id="MIpBDCxySOyKyM" tvg-chno="12" group-title="famelack (iq) [iq] [False]" tvg-logo="", Dijlah TV
+#EXTINF:0001 tvg-id="MIpBDCxySOyKyM" tvg-chno="13" group-title="famelack (iq) [iq] [False]" tvg-logo="", Dijlah TV
 https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:0001 tvg-id="umvB9tV3Rb1OXe" tvg-chno="13" group-title="famelack (iq) [iq] [False]" tvg-logo="", EmanTv
+#EXTINF:0001 tvg-id="umvB9tV3Rb1OXe" tvg-chno="14" group-title="famelack (iq) [iq] [False]" tvg-logo="", EmanTv
 https://avr.host247.net/live/emantv/playlist.m3u8
-#EXTINF:0001 tvg-id="HF0s5qptKRRfON" tvg-chno="14" group-title="famelack (iq) [iq] [False]" tvg-logo="", FarmodaTV
-https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 #EXTINF:0001 tvg-id="hbDQcoAfqvGJ7I" tvg-chno="15" group-title="famelack (iq) [iq] [False]" tvg-logo="", iNEWS TV
 https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:0001 tvg-id="HjSyVfRfsJOuSb" tvg-chno="16" group-title="famelack (iq) [iq] [False]" tvg-logo="", Iraq Future
