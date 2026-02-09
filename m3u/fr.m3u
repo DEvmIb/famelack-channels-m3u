@@ -73,10 +73,10 @@ https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="x74kBxlCSA3rr8" tvg-chno="37" group-title="famelack (fr) [fr] [False]" tvg-logo="", Enquetes de Choc
 https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="A2tD3JdOmHsVfE" tvg-chno="38" group-title="famelack (fr) [fr] [False]" tvg-logo="", Euronews English HD
+#EXTINF:0001 tvg-id="vyAlDaoF9WU1Q1" tvg-chno="38" group-title="famelack (fr) [fr] [False]" tvg-logo="", Euronews English
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+#EXTINF:0001 tvg-id="A2tD3JdOmHsVfE" tvg-chno="39" group-title="famelack (fr) [fr] [False]" tvg-logo="", Euronews English HD
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:0001 tvg-id="CNnWdppUulCf6g" tvg-chno="39" group-title="famelack (fr) [fr] [False]" tvg-logo="", Euronews Español
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=DLlKFAN37a8
 #EXTINF:0001 tvg-id="Qc6Yckay6OGUKY" tvg-chno="40" group-title="famelack (fr) [fr] [False]" tvg-logo="", FashionTV Paris L'Original
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:0001 tvg-id="hN2lvdly5DX2ya" tvg-chno="41" group-title="famelack (fr) [fr] [False]" tvg-logo="", FashionTV Secrets
@@ -181,24 +181,24 @@ https://onehls.persiana.live/hls/stream.m3u8
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:0001 tvg-id="FBqLmUOuh5GGFG" tvg-chno="91" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Vibe
 https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="6yK7rD2LKikhPv" tvg-chno="92" group-title="famelack (fr) [fr] [False]" tvg-logo="", Puissance TV
-https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-#EXTINF:0001 tvg-id="GBee4ruMbEkHYx" tvg-chno="93" group-title="famelack (fr) [fr] [False]" tvg-logo="", Qui Veut Gagner Des Millions La Chaîne
+#EXTINF:0001 tvg-id="GBee4ruMbEkHYx" tvg-chno="92" group-title="famelack (fr) [fr] [False]" tvg-logo="", Qui Veut Gagner Des Millions La Chaîne
 https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="PGDjufEBywGkq1" tvg-chno="94" group-title="famelack (fr) [fr] [False]" tvg-logo="", Qwest TV Jazz & Beyond
+#EXTINF:0001 tvg-id="PGDjufEBywGkq1" tvg-chno="93" group-title="famelack (fr) [fr] [False]" tvg-logo="", Qwest TV Jazz & Beyond
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
-#EXTINF:0001 tvg-id="wb1UVWO76eAfUk" tvg-chno="95" group-title="famelack (fr) [fr] [False]" tvg-logo="", QwestTV
+#EXTINF:0001 tvg-id="wb1UVWO76eAfUk" tvg-chno="94" group-title="famelack (fr) [fr] [False]" tvg-logo="", QwestTV
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
-#EXTINF:0001 tvg-id="kVuXOdBXr2x3dW" tvg-chno="96" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Alerte Cobra
+#EXTINF:0001 tvg-id="kVuXOdBXr2x3dW" tvg-chno="95" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Alerte Cobra
 https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
-#EXTINF:0001 tvg-id="9PtGiKgkdbGXR3" tvg-chno="97" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Action
+#EXTINF:0001 tvg-id="9PtGiKgkdbGXR3" tvg-chno="96" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Action
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:0001 tvg-id="3UupDDnNXaxwcR" tvg-chno="98" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Comédie
+#EXTINF:0001 tvg-id="3UupDDnNXaxwcR" tvg-chno="97" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Comédie
 https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
-#EXTINF:0001 tvg-id="4OHJUKjDj7pE2U" tvg-chno="99" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Drames
+#EXTINF:0001 tvg-id="4OHJUKjDj7pE2U" tvg-chno="98" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Drames
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
-#EXTINF:0001 tvg-id="4ukW3AXj5x20Zs" tvg-chno="100" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Famille
+#EXTINF:0001 tvg-id="4ukW3AXj5x20Zs" tvg-chno="99" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Famille
 https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
+#EXTINF:0001 tvg-id="iLva87P8XGqzZK" tvg-chno="100" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Romance
+https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
 #EXTINF:0001 tvg-id="AIirayhr6r6kA6" tvg-chno="101" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Thriller
 https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
 #EXTINF:0001 tvg-id="phice2bsfFKDLs" tvg-chno="102" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Séries Crime
@@ -248,7 +248,7 @@ https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01
 #EXTINF:0001 tvg-id="T8DRD6kDPp2FBt" tvg-chno="124" group-title="famelack (fr) [fr] [False]" tvg-logo="", Y'a Que La Vérité Qui Compte La Chaîne
 https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8
 #EXTINF:0001 tvg-id="glNPCf2RbwoWmt" tvg-chno="125" group-title="famelack (fr) [fr] [False]" tvg-logo="", zenith
-https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8
+https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8
 #EXTINF:0001 tvg-id="3j6ECJXr7jPtZ4" tvg-chno="126" group-title="famelack (fr) [fr] [False]" tvg-logo="", Zylo Ciné Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="pJ680EDt7KSd26" tvg-chno="127" group-title="famelack (fr) [fr] [False]" tvg-logo="", Zylo Ciné Western

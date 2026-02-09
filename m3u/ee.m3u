@@ -27,3 +27,5 @@ https://le02.euddn.net/6487956abb8faf0706d8c4c2465f54cb3625b812fec8e13d11668907f
 https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
 #EXTINF:0001 tvg-id="KFaKfUjRuHlz4N" tvg-chno="14" group-title="famelack (ee) [ee] [False]" tvg-logo="", Vantage Music
 https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
+#EXTINF:0001 tvg-id="ayJ81MgKRadKk0" tvg-chno="15" group-title="famelack (ee) [ee] [False]" tvg-logo="", Vantage Rock
+https://hls.vantagetv.ee/vrock_stream/index.m3u8

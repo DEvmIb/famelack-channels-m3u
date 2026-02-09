@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="hmJBHkCQQky6u9" tvg-chno="1" group-title="famelack (eg) [eg] [False]" tvg-logo="", Aghapy TV
-https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="dSBCv9wMIeHZkP" tvg-chno="2" group-title="famelack (eg) [eg] [False]" tvg-logo="", El Radio 9090 FM
+#EXTINF:0001 tvg-id="dSBCv9wMIeHZkP" tvg-chno="1" group-title="famelack (eg) [eg] [False]" tvg-logo="", El Radio 9090 FM
 https://9090video.mobtada.com/hls/stream.m3u8
-#EXTINF:0001 tvg-id="kT1Cq9so59yeNW" tvg-chno="3" group-title="famelack (eg) [eg] [False]" tvg-logo="", Elsharq TV
+#EXTINF:0001 tvg-id="kT1Cq9so59yeNW" tvg-chno="2" group-title="famelack (eg) [eg] [False]" tvg-logo="", Elsharq TV
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-#EXTINF:0001 tvg-id="9PE4R6NdLx4OF9" tvg-chno="4" group-title="famelack (eg) [eg] [False]" tvg-logo="", Huda TV
+#EXTINF:0001 tvg-id="9PE4R6NdLx4OF9" tvg-chno="3" group-title="famelack (eg) [eg] [False]" tvg-logo="", Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:0001 tvg-id="7QNwjfAH3tZtOn" tvg-chno="5" group-title="famelack (eg) [eg] [False]" tvg-logo="", Koogi TV
-https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="zNKcIL8vSfNOiJ" tvg-chno="6" group-title="famelack (eg) [eg] [False]" tvg-logo="", Mix Hollywood
+#EXTINF:0001 tvg-id="zNKcIL8vSfNOiJ" tvg-chno="4" group-title="famelack (eg) [eg] [False]" tvg-logo="", Mix Hollywood
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-#EXTINF:0001 tvg-id="L9FAkcJVmKRgGR" tvg-chno="7" group-title="famelack (eg) [eg] [False]" tvg-logo="", NogoumFMTV
+#EXTINF:0001 tvg-id="L9FAkcJVmKRgGR" tvg-chno="5" group-title="famelack (eg) [eg] [False]" tvg-logo="", NogoumFMTV
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
-#EXTINF:0001 tvg-id="oZE0gRjI6bynEL" tvg-chno="8" group-title="famelack (eg) [eg] [False]" tvg-logo="", PNC Drama
+#EXTINF:0001 tvg-id="oZE0gRjI6bynEL" tvg-chno="6" group-title="famelack (eg) [eg] [False]" tvg-logo="", PNC Drama
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.vf=xdliEBYtdWS
-#EXTINF:0001 tvg-id="sq4B9IaZBUPu1Y" tvg-chno="9" group-title="famelack (eg) [eg] [False]" tvg-logo="", Watan TV
+#EXTINF:0001 tvg-id="sq4B9IaZBUPu1Y" tvg-chno="7" group-title="famelack (eg) [eg] [False]" tvg-logo="", Watan TV
 https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8

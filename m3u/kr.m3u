@@ -53,12 +53,12 @@ https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 #EXTINF:0001 tvg-id="fU7mUMEnsqINVT" tvg-chno="27" group-title="famelack (kr) [kr] [False]" tvg-logo="", MBC Chuncheon (춘천 MBC)
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:0001 tvg-id="I27keaXmXV9AK5" tvg-chno="28" group-title="famelack (kr) [kr] [False]" tvg-logo="", MBC Jeju (제주 MBC)
+#EXTINF:0001 tvg-id="CVYe8DrHATgn7K" tvg-chno="28" group-title="famelack (kr) [kr] [False]" tvg-logo="", MBC Daejeon (대전 MBC)
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="I27keaXmXV9AK5" tvg-chno="29" group-title="famelack (kr) [kr] [False]" tvg-logo="", MBC Jeju (제주 MBC)
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:0001 tvg-id="znJBZTlOJRrNOH" tvg-chno="29" group-title="famelack (kr) [kr] [False]" tvg-logo="", MBC Yeosu (여수 MBC)
+#EXTINF:0001 tvg-id="znJBZTlOJRrNOH" tvg-chno="30" group-title="famelack (kr) [kr] [False]" tvg-logo="", MBC Yeosu (여수 MBC)
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="FkEZ1qiww38D8n" tvg-chno="30" group-title="famelack (kr) [kr] [False]" tvg-logo="", NBS Korea Agricultural Broadcasting
-https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:0001 tvg-id="oNnWdV2miCH9OF" tvg-chno="31" group-title="famelack (kr) [kr] [False]" tvg-logo="", NS Home Shopping
 https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
 #EXTINF:0001 tvg-id="8fjuljf7xVUPuM" tvg-chno="32" group-title="famelack (kr) [kr] [False]" tvg-logo="", NS Shop Plus

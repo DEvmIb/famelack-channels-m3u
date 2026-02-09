@@ -5,12 +5,12 @@ https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 #EXTINF:0001 tvg-id="H8TtlIKgrW2bwo" tvg-chno="3" group-title="famelack (cr) [cr] [False]" tvg-logo="", Antena Seis TV
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
-#EXTINF:0001 tvg-id="1LD9fRGKwL67SK" tvg-chno="4" group-title="famelack (cr) [cr] [False]" tvg-logo="", BestClasicosTV
-https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
-#EXTINF:0001 tvg-id="X0fe1ozGC5qVsh" tvg-chno="5" group-title="famelack (cr) [cr] [False]" tvg-logo="", Canal 1
+#EXTINF:0001 tvg-id="X0fe1ozGC5qVsh" tvg-chno="4" group-title="famelack (cr) [cr] [False]" tvg-logo="", Canal 1
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
-#EXTINF:0001 tvg-id="9cN6rSKGfOi3ha" tvg-chno="6" group-title="famelack (cr) [cr] [False]" tvg-logo="", Canal 3 KMK TV
+#EXTINF:0001 tvg-id="9cN6rSKGfOi3ha" tvg-chno="5" group-title="famelack (cr) [cr] [False]" tvg-logo="", Canal 3 KMK TV
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+#EXTINF:0001 tvg-id="lhFBUBQYMx1tnO" tvg-chno="6" group-title="famelack (cr) [cr] [False]" tvg-logo="", Canal 10
+https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8
 #EXTINF:0001 tvg-id="Z3J6UkFFEng975" tvg-chno="7" group-title="famelack (cr) [cr] [False]" tvg-logo="", Canal 17 TV Nosara
 https://latamvdo.com:3870/hybrid/play.m3u8
 #EXTINF:0001 tvg-id="O4M3Z3Jo7F6qrX" tvg-chno="8" group-title="famelack (cr) [cr] [False]" tvg-logo="", Cartago Medios TV

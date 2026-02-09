@@ -33,22 +33,22 @@ https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/e
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 #EXTINF:0001 tvg-id="XUbd7x9yt2DTFl" tvg-chno="17" group-title="famelack (ec) [ec] [False]" tvg-logo="", FM Mundo
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
-#EXTINF:0001 tvg-id="rzz3epvsT10Pp4" tvg-chno="18" group-title="famelack (ec) [ec] [False]" tvg-logo="", GM7 Digital
+#EXTINF:0001 tvg-id="c3zaL7CKyoj6u1" tvg-chno="18" group-title="famelack (ec) [ec] [False]" tvg-logo="", Gamavisión
+https://stream.esradioecuador.com/hls/stream.m3u8
+#EXTINF:0001 tvg-id="rzz3epvsT10Pp4" tvg-chno="19" group-title="famelack (ec) [ec] [False]" tvg-logo="", GM7 Digital
 https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
-#EXTINF:0001 tvg-id="c0ayJmoC3gtMTu" tvg-chno="19" group-title="famelack (ec) [ec] [False]" tvg-logo="", Hechos Ecuador
+#EXTINF:0001 tvg-id="c0ayJmoC3gtMTu" tvg-chno="20" group-title="famelack (ec) [ec] [False]" tvg-logo="", Hechos Ecuador
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
-#EXTINF:0001 tvg-id="IpJn6TkjLhDwxt" tvg-chno="20" group-title="famelack (ec) [ec] [False]" tvg-logo="", IeanJesus Ecuador
+#EXTINF:0001 tvg-id="IpJn6TkjLhDwxt" tvg-chno="21" group-title="famelack (ec) [ec] [False]" tvg-logo="", IeanJesus Ecuador
 https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
-#EXTINF:0001 tvg-id="2m0gEtXYdWeCIN" tvg-chno="21" group-title="famelack (ec) [ec] [False]" tvg-logo="", Infinita TV
+#EXTINF:0001 tvg-id="2m0gEtXYdWeCIN" tvg-chno="22" group-title="famelack (ec) [ec] [False]" tvg-logo="", Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
-#EXTINF:0001 tvg-id="BQiZCJpf4JlMdt" tvg-chno="22" group-title="famelack (ec) [ec] [False]" tvg-logo="", La Nueva Radio TV 97.7
+#EXTINF:0001 tvg-id="BQiZCJpf4JlMdt" tvg-chno="23" group-title="famelack (ec) [ec] [False]" tvg-logo="", La Nueva Radio TV 97.7
 https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="L7QnCoaelggBZN" tvg-chno="23" group-title="famelack (ec) [ec] [False]" tvg-logo="", La Perla Radio TV
+#EXTINF:0001 tvg-id="L7QnCoaelggBZN" tvg-chno="24" group-title="famelack (ec) [ec] [False]" tvg-logo="", La Perla Radio TV
 https://eu1.servers10.com:8081/8068/index.m3u8
-#EXTINF:0001 tvg-id="6sh2TBEF2ZIvFo" tvg-chno="24" group-title="famelack (ec) [ec] [False]" tvg-logo="", Latacunga TV
+#EXTINF:0001 tvg-id="6sh2TBEF2ZIvFo" tvg-chno="25" group-title="famelack (ec) [ec] [False]" tvg-logo="", Latacunga TV
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
-#EXTINF:0001 tvg-id="2UL8hACEyKl0pF" tvg-chno="25" group-title="famelack (ec) [ec] [False]" tvg-logo="", Loreto TV
-https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
 #EXTINF:0001 tvg-id="Sp6sHwr9vDmxjt" tvg-chno="26" group-title="famelack (ec) [ec] [False]" tvg-logo="", Mágica Tv
 https://magicatv.4pu.com/hls/stream.m3u8
 #EXTINF:0001 tvg-id="eY8XIdgCVwivBP" tvg-chno="27" group-title="famelack (ec) [ec] [False]" tvg-logo="", Majestad Televisión

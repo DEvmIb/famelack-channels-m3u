@@ -37,15 +37,21 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
 #EXTINF:0001 tvg-id="ieGP7N8F1NST0g" tvg-chno="19" group-title="famelack (ng) [ng] [False]" tvg-logo="", Rave TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
-#EXTINF:0001 tvg-id="2th9bgm2fgVzrm" tvg-chno="20" group-title="famelack (ng) [ng] [False]" tvg-logo="", Silverbird News 24
+#EXTINF:0001 tvg-id="pucd0GDLw4l5UG" tvg-chno="20" group-title="famelack (ng) [ng] [False]" tvg-logo="", Salvation TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u8
+#EXTINF:0001 tvg-id="2th9bgm2fgVzrm" tvg-chno="21" group-title="famelack (ng) [ng] [False]" tvg-logo="", Silverbird News 24
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
-#EXTINF:0001 tvg-id="eTR6HfJcfuibOg" tvg-chno="21" group-title="famelack (ng) [ng] [False]" tvg-logo="", Sunna TV
+#EXTINF:0001 tvg-id="eTR6HfJcfuibOg" tvg-chno="22" group-title="famelack (ng) [ng] [False]" tvg-logo="", Sunna TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8
-#EXTINF:0001 tvg-id="Am4Jb6RFmtHHBI" tvg-chno="22" group-title="famelack (ng) [ng] [False]" tvg-logo="", Superscreen TV
+#EXTINF:0001 tvg-id="Am4Jb6RFmtHHBI" tvg-chno="23" group-title="famelack (ng) [ng] [False]" tvg-logo="", Superscreen TV
 https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
-#EXTINF:0001 tvg-id="BMyGZ4b2McxkBQ" tvg-chno="23" group-title="famelack (ng) [ng] [False]" tvg-logo="", Synagogue TV
+#EXTINF:0001 tvg-id="BMyGZ4b2McxkBQ" tvg-chno="24" group-title="famelack (ng) [ng] [False]" tvg-logo="", Synagogue TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8
-#EXTINF:0001 tvg-id="Y3iniHuYhBuCQD" tvg-chno="24" group-title="famelack (ng) [ng] [False]" tvg-logo="", Wap TV
+#EXTINF:0001 tvg-id="Y3iniHuYhBuCQD" tvg-chno="25" group-title="famelack (ng) [ng] [False]" tvg-logo="", Wap TV
 https://newproxy3.vidivu.tv/waptv/index.m3u8
-#EXTINF:0001 tvg-id="roS6e38nLtSy8d" tvg-chno="25" group-title="famelack (ng) [ng] [False]" tvg-logo="", Whole Word TV
+#EXTINF:0001 tvg-id="xqNDe2nURDi4zM" tvg-chno="26" group-title="famelack (ng) [ng] [False]" tvg-logo="", Wazobia Max TV Abuja
+https://wazobia.live:8333/channel/wmaxabuja.m3u8
+#EXTINF:0001 tvg-id="XBCn7LG1vDEDMn" tvg-chno="27" group-title="famelack (ng) [ng] [False]" tvg-logo="", Wazobia Max TV Nigeria
+https://wazobia.live:8333/channel/wmax.m3u8
+#EXTINF:0001 tvg-id="roS6e38nLtSy8d" tvg-chno="28" group-title="famelack (ng) [ng] [False]" tvg-logo="", Whole Word TV
 https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8

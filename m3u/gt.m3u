@@ -7,10 +7,10 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="w69Of9M1B5QRHZ" tvg-chno="4" group-title="famelack (gt) [gt] [False]" tvg-logo="", Canal 9 Barbe TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-#EXTINF:0001 tvg-id="tkEITU2bEZ7qMi" tvg-chno="5" group-title="famelack (gt) [gt] [False]" tvg-logo="", Canal 13 Esquipulas
-https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
-#EXTINF:0001 tvg-id="HQW2P8evqWenGp" tvg-chno="6" group-title="famelack (gt) [gt] [False]" tvg-logo="", Canal 30 TV Bethel
+#EXTINF:0001 tvg-id="HQW2P8evqWenGp" tvg-chno="5" group-title="famelack (gt) [gt] [False]" tvg-logo="", Canal 30 TV Bethel
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
+#EXTINF:0001 tvg-id="g7RtZ5R6hJRdT7" tvg-chno="6" group-title="famelack (gt) [gt] [False]" tvg-logo="", Canal 100 Chinique
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:0001 tvg-id="unnPmpnUmUCfi4" tvg-chno="7" group-title="famelack (gt) [gt] [False]" tvg-logo="", Espíritu Santo Y Fuego TV
 https://inliveserver.com:1936/8392/8392/playlist.m3u8
 #EXTINF:0001 tvg-id="yE5nUo5bAO8SwG" tvg-chno="8" group-title="famelack (gt) [gt] [False]" tvg-logo="", Maxivisión TV
@@ -33,9 +33,13 @@ https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 #EXTINF:0001 tvg-id="OsYebOtVABr4xl" tvg-chno="17" group-title="famelack (gt) [gt] [False]" tvg-logo="", Sol TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:0001 tvg-id="r1oGqxJA7bXTXS" tvg-chno="18" group-title="famelack (gt) [gt] [False]" tvg-logo="", TV Maya
+#EXTINF:0001 tvg-id="sjT63Yqrczmdqs" tvg-chno="18" group-title="famelack (gt) [gt] [False]" tvg-logo="", Telecosta
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:0001 tvg-id="fGTZi0sSjZTjHF" tvg-chno="19" group-title="famelack (gt) [gt] [False]" tvg-logo="", TV Florencia
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+#EXTINF:0001 tvg-id="r1oGqxJA7bXTXS" tvg-chno="20" group-title="famelack (gt) [gt] [False]" tvg-logo="", TV Maya
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
-#EXTINF:0001 tvg-id="XwiDGKdsH20Bju" tvg-chno="19" group-title="famelack (gt) [gt] [False]" tvg-logo="", TVS Retro
+#EXTINF:0001 tvg-id="XwiDGKdsH20Bju" tvg-chno="21" group-title="famelack (gt) [gt] [False]" tvg-logo="", TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:0001 tvg-id="rZsgognxF8rOaX" tvg-chno="20" group-title="famelack (gt) [gt] [False]" tvg-logo="", Visión TV
+#EXTINF:0001 tvg-id="rZsgognxF8rOaX" tvg-chno="22" group-title="famelack (gt) [gt] [False]" tvg-logo="", Visión TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
