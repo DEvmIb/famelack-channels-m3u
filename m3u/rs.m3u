@@ -9,13 +9,11 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a0
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
 #EXTINF:0001 tvg-id="a52KX3iei4S4BU" tvg-chno="5" group-title="famelack (rs) [rs] [False]" tvg-logo="", Radio Lola
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-#EXTINF:0001 tvg-id="KIQgB9mIesIU9Y" tvg-chno="6" group-title="famelack (rs) [rs] [False]" tvg-logo="", RTS 1
-https://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:0001 tvg-id="yqFuGEAiSRmDtb" tvg-chno="7" group-title="famelack (rs) [rs] [False]" tvg-logo="", RTS 2
+#EXTINF:0001 tvg-id="yqFuGEAiSRmDtb" tvg-chno="6" group-title="famelack (rs) [rs] [False]" tvg-logo="", RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:0001 tvg-id="ye9TjeZb17m8NT" tvg-chno="8" group-title="famelack (rs) [rs] [False]" tvg-logo="", RTV AS
+#EXTINF:0001 tvg-id="ye9TjeZb17m8NT" tvg-chno="7" group-title="famelack (rs) [rs] [False]" tvg-logo="", RTV AS
 https://srv1.adriatelekom.com/TVAS/index.m3u8
-#EXTINF:0001 tvg-id="9igTbA8qhtc7eq" tvg-chno="9" group-title="famelack (rs) [rs] [False]" tvg-logo="", TDI Radio TV
+#EXTINF:0001 tvg-id="9igTbA8qhtc7eq" tvg-chno="8" group-title="famelack (rs) [rs] [False]" tvg-logo="", TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
-#EXTINF:0001 tvg-id="QBnvi3VHR0xXL2" tvg-chno="10" group-title="famelack (rs) [rs] [False]" tvg-logo="", TV Hram
+#EXTINF:0001 tvg-id="QBnvi3VHR0xXL2" tvg-chno="9" group-title="famelack (rs) [rs] [False]" tvg-logo="", TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8

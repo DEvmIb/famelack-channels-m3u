@@ -7,7 +7,5 @@ https://stream.it-innov.com/cam10tv/index.m3u8
 https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8
 #EXTINF:0001 tvg-id="kAGSorpcyVgeyz" tvg-chno="4" group-title="famelack (cm) [cm] [False]" tvg-logo="", Laura Dave Media TV
 https://streaming.lauradavemedia.com/ldm/index.m3u8
-#EXTINF:0001 tvg-id="GUZaBBByEdqzvD" tvg-chno="5" group-title="famelack (cm) [cm] [False]" tvg-logo="", MISEC TV
-https://stream.it-innov.com/misec/index.m3u8
-#EXTINF:0001 tvg-id="e5Cesrm1AEWOjC" tvg-chno="6" group-title="famelack (cm) [cm] [False]" tvg-logo="", TR24
+#EXTINF:0001 tvg-id="e5Cesrm1AEWOjC" tvg-chno="5" group-title="famelack (cm) [cm] [False]" tvg-logo="", TR24
 https://stream.it-innov.com/tr24/index.m3u8

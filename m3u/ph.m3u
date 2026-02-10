@@ -3,11 +3,9 @@
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:0001 tvg-id="jJ5KY3frn8Mets" tvg-chno="2" group-title="famelack (ph) [ph] [False]" tvg-logo="", Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
-#EXTINF:0001 tvg-id="k6kILJ1P88D8yy" tvg-chno="3" group-title="famelack (ph) [ph] [False]" tvg-logo="", CLTV 36
-https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:0001 tvg-id="RhkfgHInexT7iQ" tvg-chno="4" group-title="famelack (ph) [ph] [False]" tvg-logo="", Mindanow Network TV
+#EXTINF:0001 tvg-id="RhkfgHInexT7iQ" tvg-chno="3" group-title="famelack (ph) [ph] [False]" tvg-logo="", Mindanow Network TV
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
-#EXTINF:0001 tvg-id="vX2Vm81TXt010f" tvg-chno="5" group-title="famelack (ph) [ph] [False]" tvg-logo="", Premier Sports
+#EXTINF:0001 tvg-id="vX2Vm81TXt010f" tvg-chno="4" group-title="famelack (ph) [ph] [False]" tvg-logo="", Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-#EXTINF:0001 tvg-id="ZSj74UmnkvuvdN" tvg-chno="6" group-title="famelack (ph) [ph] [False]" tvg-logo="", Premier Sports 2
+#EXTINF:0001 tvg-id="ZSj74UmnkvuvdN" tvg-chno="5" group-title="famelack (ph) [ph] [False]" tvg-logo="", Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8

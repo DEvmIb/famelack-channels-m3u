@@ -1,43 +1,39 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="BNpZPYk5QD9227" tvg-chno="1" group-title="famelack (ch) [ch] [False]" tvg-logo="", Canal 9 en Français
-https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
-#EXTINF:0001 tvg-id="2vVci7MeIBudgn" tvg-chno="2" group-title="famelack (ch) [ch] [False]" tvg-logo="", Canal Alpha Jura
+#EXTINF:0001 tvg-id="2vVci7MeIBudgn" tvg-chno="1" group-title="famelack (ch) [ch] [False]" tvg-logo="", Canal Alpha Jura
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
-#EXTINF:0001 tvg-id="EDuoxij0nldVBm" tvg-chno="3" group-title="famelack (ch) [ch] [False]" tvg-logo="", Canal Alpha Neuchatel
+#EXTINF:0001 tvg-id="EDuoxij0nldVBm" tvg-chno="2" group-title="famelack (ch) [ch] [False]" tvg-logo="", Canal Alpha Neuchatel
 https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
-#EXTINF:0001 tvg-id="fjYriRacd46Tsw" tvg-chno="4" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 1
+#EXTINF:0001 tvg-id="fjYriRacd46Tsw" tvg-chno="3" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 1
 https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
-#EXTINF:0001 tvg-id="cIkg0H43fAL4zk" tvg-chno="5" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 2
+#EXTINF:0001 tvg-id="cIkg0H43fAL4zk" tvg-chno="4" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 2
 https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
-#EXTINF:0001 tvg-id="uPhFpY546jefo6" tvg-chno="6" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 3
+#EXTINF:0001 tvg-id="uPhFpY546jefo6" tvg-chno="5" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 3
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
-#EXTINF:0001 tvg-id="trjWtKrUtelzEV" tvg-chno="7" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 4
+#EXTINF:0001 tvg-id="trjWtKrUtelzEV" tvg-chno="6" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 4
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
-#EXTINF:0001 tvg-id="v1yMI7GiExjw2o" tvg-chno="8" group-title="famelack (ch) [ch] [False]" tvg-logo="", Couleur 3
+#EXTINF:0001 tvg-id="v1yMI7GiExjw2o" tvg-chno="7" group-title="famelack (ch) [ch] [False]" tvg-logo="", Couleur 3
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
-#EXTINF:0001 tvg-id="LXjrcuCkbQ1321" tvg-chno="9" group-title="famelack (ch) [ch] [False]" tvg-logo="", Die Neue Zeit
+#EXTINF:0001 tvg-id="LXjrcuCkbQ1321" tvg-chno="8" group-title="famelack (ch) [ch] [False]" tvg-logo="", Die Neue Zeit
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="0RqtIAyVI7N1Ym" tvg-chno="10" group-title="famelack (ch) [ch] [False]" tvg-logo="", Drita TV
+#EXTINF:0001 tvg-id="0RqtIAyVI7N1Ym" tvg-chno="9" group-title="famelack (ch) [ch] [False]" tvg-logo="", Drita TV
 https://dritatv.protokolldns.xyz/dritaweb5587989/index.m3u8
-#EXTINF:0001 tvg-id="y9fcNWUvgSqvX9" tvg-chno="11" group-title="famelack (ch) [ch] [False]" tvg-logo="", Immaculata TV
+#EXTINF:0001 tvg-id="y9fcNWUvgSqvX9" tvg-chno="10" group-title="famelack (ch) [ch] [False]" tvg-logo="", Immaculata TV
 https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="ZdNLvgl3QL9zlp" tvg-chno="12" group-title="famelack (ch) [ch] [False]" tvg-logo="", Kanal 9 auf Deutsch
-https://edge21.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
-#EXTINF:0001 tvg-id="2fMXhSxCc6I9OG" tvg-chno="13" group-title="famelack (ch) [ch] [False]" tvg-logo="", MaxTV/Dieu TV
+#EXTINF:0001 tvg-id="2fMXhSxCc6I9OG" tvg-chno="11" group-title="famelack (ch) [ch] [False]" tvg-logo="", MaxTV/Dieu TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
-#EXTINF:0001 tvg-id="dL9dqEvKPfjTXy" tvg-chno="14" group-title="famelack (ch) [ch] [False]" tvg-logo="", QS24.tv
+#EXTINF:0001 tvg-id="dL9dqEvKPfjTXy" tvg-chno="12" group-title="famelack (ch) [ch] [False]" tvg-logo="", QS24.tv
 https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="mb7i550xYVEaod" tvg-chno="15" group-title="famelack (ch) [ch] [False]" tvg-logo="", Radio 3i
+#EXTINF:0001 tvg-id="mb7i550xYVEaod" tvg-chno="13" group-title="famelack (ch) [ch] [False]" tvg-logo="", Radio 3i
 https://vstream-cdn.ch/hls/radio3i.m3u8
-#EXTINF:0001 tvg-id="Xd3CFrHmzj9MdH" tvg-chno="16" group-title="famelack (ch) [ch] [False]" tvg-logo="", RADIO DISCOunt TV
+#EXTINF:0001 tvg-id="Xd3CFrHmzj9MdH" tvg-chno="14" group-title="famelack (ch) [ch] [False]" tvg-logo="", RADIO DISCOunt TV
 https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
-#EXTINF:0001 tvg-id="EzfREO7iOpkG6H" tvg-chno="17" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTV Islam
+#EXTINF:0001 tvg-id="EzfREO7iOpkG6H" tvg-chno="15" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTV Islam
 https://protokolldns.xyz/rtvislamweb554/index.m3u8
-#EXTINF:0001 tvg-id="48RqSkShlJpBo8" tvg-chno="18" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTV Pendimi
+#EXTINF:0001 tvg-id="48RqSkShlJpBo8" tvg-chno="16" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTV Pendimi
 https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
-#EXTINF:0001 tvg-id="aI8CAI6ZaAK6J4" tvg-chno="19" group-title="famelack (ch) [ch] [False]" tvg-logo="", Sivan TV
+#EXTINF:0001 tvg-id="aI8CAI6ZaAK6J4" tvg-chno="17" group-title="famelack (ch) [ch] [False]" tvg-logo="", Sivan TV
 https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:0001 tvg-id="OeC5ZVzNRndtBe" tvg-chno="20" group-title="famelack (ch) [ch] [False]" tvg-logo="", TeleTicino
+#EXTINF:0001 tvg-id="OeC5ZVzNRndtBe" tvg-chno="18" group-title="famelack (ch) [ch] [False]" tvg-logo="", TeleTicino
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:0001 tvg-id="WbRuzq9zl8hxl0" tvg-chno="21" group-title="famelack (ch) [ch] [False]" tvg-logo="", TV Rheintal
+#EXTINF:0001 tvg-id="WbRuzq9zl8hxl0" tvg-chno="19" group-title="famelack (ch) [ch] [False]" tvg-logo="", TV Rheintal
 https://rtmp-vm.fidion.de/live/tvrt.m3u8

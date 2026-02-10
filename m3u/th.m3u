@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="fgt71QAXBWF0xr" tvg-chno="1" group-title="famelack (th) [th] [False]" tvg-logo="", 13 Siam Thai
-https://live.x2.co.th/live/13livetv-th.m3u8
-#EXTINF:0001 tvg-id="BWaFZgSUSFWAMm" tvg-chno="2" group-title="famelack (th) [th] [False]" tvg-logo="", Boonniyom TV
+#EXTINF:0001 tvg-id="BWaFZgSUSFWAMm" tvg-chno="1" group-title="famelack (th) [th] [False]" tvg-logo="", Boonniyom TV
 https://live.x2.co.th/live/bntv.m3u8
-#EXTINF:0001 tvg-id="Lf5XxACaHEAHOt" tvg-chno="3" group-title="famelack (th) [th] [False]" tvg-logo="", Channel 5
+#EXTINF:0001 tvg-id="Lf5XxACaHEAHOt" tvg-chno="2" group-title="famelack (th) [th] [False]" tvg-logo="", Channel 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:0001 tvg-id="Y8LGD9jwVauVkj" tvg-chno="3" group-title="famelack (th) [th] [False]" tvg-logo="", Cool Channel
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:0001 tvg-id="ZPk578ujZjTXPa" tvg-chno="4" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 #EXTINF:0001 tvg-id="FH7NvrC8IdGbek" tvg-chno="5" group-title="famelack (th) [th] [False]" tvg-logo="", DLTV 2
@@ -43,14 +43,14 @@ https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/pla
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:0001 tvg-id="chmBg2GBFNqXoJ" tvg-chno="22" group-title="famelack (th) [th] [False]" tvg-logo="", Police TV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-#EXTINF:0001 tvg-id="IC0ZQA3k7HadtW" tvg-chno="23" group-title="famelack (th) [th] [False]" tvg-logo="", SBB TV
+#EXTINF:0001 tvg-id="3GZ46w4Jr2xtDE" tvg-chno="23" group-title="famelack (th) [th] [False]" tvg-logo="", Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
+#EXTINF:0001 tvg-id="IC0ZQA3k7HadtW" tvg-chno="24" group-title="famelack (th) [th] [False]" tvg-logo="", SBB TV
 https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
-#EXTINF:0001 tvg-id="tvrptnaG6ItFq0" tvg-chno="24" group-title="famelack (th) [th] [False]" tvg-logo="", STOU Channel
+#EXTINF:0001 tvg-id="tvrptnaG6ItFq0" tvg-chno="25" group-title="famelack (th) [th] [False]" tvg-logo="", STOU Channel
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
-#EXTINF:0001 tvg-id="bvkcq09Cd3U8lf" tvg-chno="25" group-title="famelack (th) [th] [False]" tvg-logo="", Suwannabhumi Channel
+#EXTINF:0001 tvg-id="bvkcq09Cd3U8lf" tvg-chno="26" group-title="famelack (th) [th] [False]" tvg-logo="", Suwannabhumi Channel
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:0001 tvg-id="RErWNfh4idOsdr" tvg-chno="26" group-title="famelack (th) [th] [False]" tvg-logo="", Thai Parliament TV
-https://tv-live.tpchannel.org/live/tv.m3u8
 #EXTINF:0001 tvg-id="NKLScQ6EvdyLLB" tvg-chno="27" group-title="famelack (th) [th] [False]" tvg-logo="", Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:0001 tvg-id="xP0smrBM1w21kH" tvg-chno="28" group-title="famelack (th) [th] [False]" tvg-logo="", TV Muslim Thailand

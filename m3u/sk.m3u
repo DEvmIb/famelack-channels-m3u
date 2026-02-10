@@ -1,41 +1,39 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="ywJEPtzLqwI0OI" tvg-chno="1" group-title="famelack (sk) [sk] [False]" tvg-logo="", BTV
-https://fs3.kabelko.sk/9011/index.m3u8?token=btv
-#EXTINF:0001 tvg-id="Hgr2Yg9Zm1Cgi3" tvg-chno="2" group-title="famelack (sk) [sk] [False]" tvg-logo="", ducktv
+#EXTINF:0001 tvg-id="Hgr2Yg9Zm1Cgi3" tvg-chno="1" group-title="famelack (sk) [sk] [False]" tvg-logo="", ducktv
 https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="NuK9jsc16AOLPv" tvg-chno="3" group-title="famelack (sk) [sk] [False]" tvg-logo="", LifeTv
+#EXTINF:0001 tvg-id="NuK9jsc16AOLPv" tvg-chno="2" group-title="famelack (sk) [sk] [False]" tvg-logo="", LifeTv
 https://lifetv.mpks.sk/s.m3u8
-#EXTINF:0001 tvg-id="av1TmyA06OQpHy" tvg-chno="4" group-title="famelack (sk) [sk] [False]" tvg-logo="", MTR
+#EXTINF:0001 tvg-id="av1TmyA06OQpHy" tvg-chno="3" group-title="famelack (sk) [sk] [False]" tvg-logo="", MTR
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
-#EXTINF:0001 tvg-id="85pSoxn45bzQIV" tvg-chno="5" group-title="famelack (sk) [sk] [False]" tvg-logo="", Régió TV
+#EXTINF:0001 tvg-id="85pSoxn45bzQIV" tvg-chno="4" group-title="famelack (sk) [sk] [False]" tvg-logo="", Régió TV
 https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
-#EXTINF:0001 tvg-id="xY2H7QjZ7lrY45" tvg-chno="6" group-title="famelack (sk) [sk] [False]" tvg-logo="", Senzi
+#EXTINF:0001 tvg-id="xY2H7QjZ7lrY45" tvg-chno="5" group-title="famelack (sk) [sk] [False]" tvg-logo="", Senzi
 https://lb.streaming.sk/senzi/stream/playlist.m3u8
-#EXTINF:0001 tvg-id="YZDUiqkX55pfU6" tvg-chno="7" group-title="famelack (sk) [sk] [False]" tvg-logo="", Televízia Močenok
+#EXTINF:0001 tvg-id="YZDUiqkX55pfU6" tvg-chno="6" group-title="famelack (sk) [sk] [False]" tvg-logo="", Televízia Močenok
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="unXVpvqIK8hbaG" tvg-chno="8" group-title="famelack (sk) [sk] [False]" tvg-logo="", Televízia OSEM
+#EXTINF:0001 tvg-id="unXVpvqIK8hbaG" tvg-chno="7" group-title="famelack (sk) [sk] [False]" tvg-logo="", Televízia OSEM
 https://dash3.antik.sk/live/test_osem/playlist.m3u8
-#EXTINF:0001 tvg-id="NePDHatqqYOqTp" tvg-chno="9" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Central
-https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
-#EXTINF:0001 tvg-id="ulsMU1MaHTBaTP" tvg-chno="10" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV DK
+#EXTINF:0001 tvg-id="NePDHatqqYOqTp" tvg-chno="8" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Central
+https://dash4.antik.sk/live/test_central/playlist.m3u8
+#EXTINF:0001 tvg-id="ulsMU1MaHTBaTP" tvg-chno="9" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV DK
 https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
-#EXTINF:0001 tvg-id="IGlZvVTDq5rH62" tvg-chno="11" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV LocAll
+#EXTINF:0001 tvg-id="IGlZvVTDq5rH62" tvg-chno="10" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV LocAll
 https://dash3.antik.sk/live/test_locall/playlist.m3u8
-#EXTINF:0001 tvg-id="M3lLbymxdIiXVf" tvg-chno="12" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Mistral
+#EXTINF:0001 tvg-id="M3lLbymxdIiXVf" tvg-chno="11" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Mistral
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
-#EXTINF:0001 tvg-id="qN8X967yibchzg" tvg-chno="13" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Nitricka
+#EXTINF:0001 tvg-id="qN8X967yibchzg" tvg-chno="12" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Nitricka
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
-#EXTINF:0001 tvg-id="7ID5AwZcoEU92T" tvg-chno="14" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Nové Zámky
+#EXTINF:0001 tvg-id="7ID5AwZcoEU92T" tvg-chno="13" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Nové Zámky
 https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
-#EXTINF:0001 tvg-id="KDBDQ4u8C3aqtH" tvg-chno="15" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV NRSR
+#EXTINF:0001 tvg-id="KDBDQ4u8C3aqtH" tvg-chno="14" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV NRSR
 https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="XgnR8hLQJIc6fL" tvg-chno="16" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Ružinov
+#EXTINF:0001 tvg-id="XgnR8hLQJIc6fL" tvg-chno="15" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Ružinov
 https://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
-#EXTINF:0001 tvg-id="b5XSCQKaTuYvtJ" tvg-chno="17" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Vita
+#EXTINF:0001 tvg-id="b5XSCQKaTuYvtJ" tvg-chno="16" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Vita
 https://dash3.antik.sk/live/test_vita/playlist.m3u8
-#EXTINF:0001 tvg-id="B5WV8O5RRK6OVb" tvg-chno="18" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV9
+#EXTINF:0001 tvg-id="B5WV8O5RRK6OVb" tvg-chno="17" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV9
 https://dash4.antik.sk/live/test_tv9/playlist.m3u8
-#EXTINF:0001 tvg-id="lY0NSe1C5uyuBW" tvg-chno="19" group-title="famelack (sk) [sk] [False]" tvg-logo="", TVT
+#EXTINF:0001 tvg-id="lY0NSe1C5uyuBW" tvg-chno="18" group-title="famelack (sk) [sk] [False]" tvg-logo="", TVT
 https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
-#EXTINF:0001 tvg-id="5S8N3v0YH2Ts6M" tvg-chno="20" group-title="famelack (sk) [sk] [False]" tvg-logo="", Západoslovenská TV
+#EXTINF:0001 tvg-id="5vF3N7IdinbhWc" tvg-chno="19" group-title="famelack (sk) [sk] [False]" tvg-logo="", Zapadoslovenska TV
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8

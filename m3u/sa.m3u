@@ -33,23 +33,27 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
 #EXTINF:0001 tvg-id="dvi5BngvMWtVuo" tvg-chno="17" group-title="famelack (sa) [sa] [False]" tvg-logo="", Iqraa Quran
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:0001 tvg-id="hKsePjubKoTvYH" tvg-chno="18" group-title="famelack (sa) [sa] [False]" tvg-logo="", Majid Al Mohandis
+#EXTINF:0001 tvg-id="XFAEXMLy8N316a" tvg-chno="18" group-title="famelack (sa) [sa] [False]" tvg-logo="", M+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8?ads.vf=6otIjpqWKPe
+#EXTINF:0001 tvg-id="hKsePjubKoTvYH" tvg-chno="19" group-title="famelack (sa) [sa] [False]" tvg-logo="", Majid Al Mohandis
 https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
-#EXTINF:0001 tvg-id="yleIKDrRKbucGA" tvg-chno="19" group-title="famelack (sa) [sa] [False]" tvg-logo="", Makkah TV
+#EXTINF:0001 tvg-id="yleIKDrRKbucGA" tvg-chno="20" group-title="famelack (sa) [sa] [False]" tvg-logo="", Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:0001 tvg-id="AQGmKDckGE5Qe6" tvg-chno="20" group-title="famelack (sa) [sa] [False]" tvg-logo="", MBC Loud
+#EXTINF:0001 tvg-id="AQGmKDckGE5Qe6" tvg-chno="21" group-title="famelack (sa) [sa] [False]" tvg-logo="", MBC Loud
 https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
-#EXTINF:0001 tvg-id="VFUpcH6YEWSEUp" tvg-chno="21" group-title="famelack (sa) [sa] [False]" tvg-logo="", Mohammed Abdo
+#EXTINF:0001 tvg-id="VFUpcH6YEWSEUp" tvg-chno="22" group-title="famelack (sa) [sa] [False]" tvg-logo="", Mohammed Abdo
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
-#EXTINF:0001 tvg-id="LPJDqWkJ3mRR4C" tvg-chno="22" group-title="famelack (sa) [sa] [False]" tvg-logo="", Nidae AlIslam Radio
+#EXTINF:0001 tvg-id="LPJDqWkJ3mRR4C" tvg-chno="23" group-title="famelack (sa) [sa] [False]" tvg-logo="", Nidae AlIslam Radio
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
-#EXTINF:0001 tvg-id="3tweZkdXXLPOu1" tvg-chno="23" group-title="famelack (sa) [sa] [False]" tvg-logo="", Panorama FM
+#EXTINF:0001 tvg-id="3tweZkdXXLPOu1" tvg-chno="24" group-title="famelack (sa) [sa] [False]" tvg-logo="", Panorama FM
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
-#EXTINF:0001 tvg-id="g8EL4yghSJSvAP" tvg-chno="24" group-title="famelack (sa) [sa] [False]" tvg-logo="", Quran Radio
+#EXTINF:0001 tvg-id="g8EL4yghSJSvAP" tvg-chno="25" group-title="famelack (sa) [sa] [False]" tvg-logo="", Quran Radio
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
-#EXTINF:0001 tvg-id="tVmAicsgKyc425" tvg-chno="25" group-title="famelack (sa) [sa] [False]" tvg-logo="", Rashid AlMajed
+#EXTINF:0001 tvg-id="tVmAicsgKyc425" tvg-chno="26" group-title="famelack (sa) [sa] [False]" tvg-logo="", Rashid AlMajed
 https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
-#EXTINF:0001 tvg-id="V7Gca2UgeJjvCP" tvg-chno="26" group-title="famelack (sa) [sa] [False]" tvg-logo="", Saudia Radio
+#EXTINF:0001 tvg-id="8SRwtJ0hh3zkqG" tvg-chno="27" group-title="famelack (sa) [sa] [False]" tvg-logo="", Rotana Aflam+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q
+#EXTINF:0001 tvg-id="V7Gca2UgeJjvCP" tvg-chno="28" group-title="famelack (sa) [sa] [False]" tvg-logo="", Saudia Radio
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
-#EXTINF:0001 tvg-id="bLrhTddKmX53C8" tvg-chno="27" group-title="famelack (sa) [sa] [False]" tvg-logo="", Tarab
+#EXTINF:0001 tvg-id="bLrhTddKmX53C8" tvg-chno="29" group-title="famelack (sa) [sa] [False]" tvg-logo="", Tarab
 https://shls-live-mood-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8

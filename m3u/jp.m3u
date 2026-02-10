@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="mOtDCafl4XcV9g" tvg-chno="1" group-title="famelack (jp) [jp] [False]" tvg-logo="", NHK World Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:0001 tvg-id="0y6A0PfJfOwnxT" tvg-chno="1" group-title="famelack (jp) [jp] [False]" tvg-logo="", CGNTV Japan
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 #EXTINF:0001 tvg-id="bt1m1v4h1CmExI" tvg-chno="2" group-title="famelack (jp) [jp] [False]" tvg-logo="", NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:0001 tvg-id="8ij5TpDrKhgoPs" tvg-chno="3" group-title="famelack (jp) [jp] [False]" tvg-logo="", NHK World-Japan HD

@@ -29,30 +29,30 @@ https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="eko7uFhNP2g6vo" tvg-chno="15" group-title="famelack (cl) [cl] [False]" tvg-logo="", Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:0001 tvg-id="itmATVZa5Ggr1u" tvg-chno="16" group-title="famelack (cl) [cl] [False]" tvg-logo="", Click TV (Coronel)
+#EXTINF:0001 tvg-id="eDESw3Ox4wXwbn" tvg-chno="16" group-title="famelack (cl) [cl] [False]" tvg-logo="", Chiloe Red 25
+https://v2.tustreaming.cl/chiloered/index.m3u8
+#EXTINF:0001 tvg-id="itmATVZa5Ggr1u" tvg-chno="17" group-title="famelack (cl) [cl] [False]" tvg-logo="", Click TV (Coronel)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
-#EXTINF:0001 tvg-id="i7jOCnWyYw935a" tvg-chno="17" group-title="famelack (cl) [cl] [False]" tvg-logo="", Contivision
+#EXTINF:0001 tvg-id="i7jOCnWyYw935a" tvg-chno="18" group-title="famelack (cl) [cl] [False]" tvg-logo="", Contivision
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="8OOs9QhQf490ir" tvg-chno="18" group-title="famelack (cl) [cl] [False]" tvg-logo="", Dance FM
+#EXTINF:0001 tvg-id="8OOs9QhQf490ir" tvg-chno="19" group-title="famelack (cl) [cl] [False]" tvg-logo="", Dance FM
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
-#EXTINF:0001 tvg-id="6AKwsDAUNYtLKH" tvg-chno="19" group-title="famelack (cl) [cl] [False]" tvg-logo="", Décima TV (Ancud)
+#EXTINF:0001 tvg-id="6AKwsDAUNYtLKH" tvg-chno="20" group-title="famelack (cl) [cl] [False]" tvg-logo="", Décima TV (Ancud)
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="LRgPxcQZ9T6wh6" tvg-chno="20" group-title="famelack (cl) [cl] [False]" tvg-logo="", EnerGeek
+#EXTINF:0001 tvg-id="LRgPxcQZ9T6wh6" tvg-chno="21" group-title="famelack (cl) [cl] [False]" tvg-logo="", EnerGeek
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:0001 tvg-id="Fho666tDNHtuPI" tvg-chno="21" group-title="famelack (cl) [cl] [False]" tvg-logo="", EnerGeek Fan
+#EXTINF:0001 tvg-id="Fho666tDNHtuPI" tvg-chno="22" group-title="famelack (cl) [cl] [False]" tvg-logo="", EnerGeek Fan
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:0001 tvg-id="ratiMYbPjlz1Pp" tvg-chno="22" group-title="famelack (cl) [cl] [False]" tvg-logo="", EnerGeek Radio
+#EXTINF:0001 tvg-id="ratiMYbPjlz1Pp" tvg-chno="23" group-title="famelack (cl) [cl] [False]" tvg-logo="", EnerGeek Radio
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:0001 tvg-id="mboCNwiMaOzg2v" tvg-chno="23" group-title="famelack (cl) [cl] [False]" tvg-logo="", Girovisual
+#EXTINF:0001 tvg-id="mboCNwiMaOzg2v" tvg-chno="24" group-title="famelack (cl) [cl] [False]" tvg-logo="", Girovisual
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="nG7lFRDfSfbs7Z" tvg-chno="24" group-title="famelack (cl) [cl] [False]" tvg-logo="", Holvoet TV (Copiapó)
+#EXTINF:0001 tvg-id="nG7lFRDfSfbs7Z" tvg-chno="25" group-title="famelack (cl) [cl] [False]" tvg-logo="", Holvoet TV (Copiapó)
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="B06Trbkq5ZZMBH" tvg-chno="25" group-title="famelack (cl) [cl] [False]" tvg-logo="", ITV Patagonia
+#EXTINF:0001 tvg-id="B06Trbkq5ZZMBH" tvg-chno="26" group-title="famelack (cl) [cl] [False]" tvg-logo="", ITV Patagonia
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="6uP6CNEGYjRRQY" tvg-chno="26" group-title="famelack (cl) [cl] [False]" tvg-logo="", Kanade
+#EXTINF:0001 tvg-id="6uP6CNEGYjRRQY" tvg-chno="27" group-title="famelack (cl) [cl] [False]" tvg-logo="", Kanade
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:0001 tvg-id="LtuGw8CUEvQRPo" tvg-chno="27" group-title="famelack (cl) [cl] [False]" tvg-logo="", La Popular TV
-https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:0001 tvg-id="O37bey4UFDgp1Q" tvg-chno="28" group-title="famelack (cl) [cl] [False]" tvg-logo="", Latina Network TV (576i)
 https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8
 #EXTINF:0001 tvg-id="rFCQYWbNPQlvWE" tvg-chno="29" group-title="famelack (cl) [cl] [False]" tvg-logo="", MTNA TV

@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="t2xHdunHhK2Qqc" tvg-chno="1" group-title="famelack (ve) [ve] [False]" tvg-logo="", Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
-#EXTINF:0001 tvg-id="L2ckl8qUgIXBH9" tvg-chno="2" group-title="famelack (ve) [ve] [False]" tvg-logo="", Anzoátegui TV
+#EXTINF:0001 tvg-id="0X5lB22f2RPA0r" tvg-chno="2" group-title="famelack (ve) [ve] [False]" tvg-logo="", Alcance TV
+https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8
+#EXTINF:0001 tvg-id="L2ckl8qUgIXBH9" tvg-chno="3" group-title="famelack (ve) [ve] [False]" tvg-logo="", Anzoátegui TV
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-#EXTINF:0001 tvg-id="xNO3EJp4mhTrDD" tvg-chno="3" group-title="famelack (ve) [ve] [False]" tvg-logo="", AS3 Sport TV
+#EXTINF:0001 tvg-id="xNO3EJp4mhTrDD" tvg-chno="4" group-title="famelack (ve) [ve] [False]" tvg-logo="", AS3 Sport TV
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
-#EXTINF:0001 tvg-id="YWNPX9f8P0Trxq" tvg-chno="4" group-title="famelack (ve) [ve] [False]" tvg-logo="", BTA TV
+#EXTINF:0001 tvg-id="4OE4ZIp6ZfzmtV" tvg-chno="5" group-title="famelack (ve) [ve] [False]" tvg-logo="", Audaz TV
+https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
+#EXTINF:0001 tvg-id="YWNPX9f8P0Trxq" tvg-chno="6" group-title="famelack (ve) [ve] [False]" tvg-logo="", BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:0001 tvg-id="OBFGqgcPLTbi6p" tvg-chno="5" group-title="famelack (ve) [ve] [False]" tvg-logo="", Canal 21 Táchira
+#EXTINF:0001 tvg-id="OBFGqgcPLTbi6p" tvg-chno="7" group-title="famelack (ve) [ve] [False]" tvg-logo="", Canal 21 Táchira
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
-#EXTINF:0001 tvg-id="fUuKAKoxR67afP" tvg-chno="6" group-title="famelack (ve) [ve] [False]" tvg-logo="", Canal Once
-https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
-#EXTINF:0001 tvg-id="6SYW2B8xTfiTLL" tvg-chno="7" group-title="famelack (ve) [ve] [False]" tvg-logo="", Catatumbo TV
-https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:0001 tvg-id="qE0b00agYJgMRp" tvg-chno="8" group-title="famelack (ve) [ve] [False]" tvg-logo="", Chivacoa TV Internacional
 https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8
 #EXTINF:0001 tvg-id="EBZkwFw2avmA6X" tvg-chno="9" group-title="famelack (ve) [ve] [False]" tvg-logo="", Fortuna TV
@@ -73,8 +73,8 @@ https://us.streaminghd.cl/torococotelevision/video.m3u8
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 #EXTINF:0001 tvg-id="MfZl15TXWaHOGI" tvg-chno="37" group-title="famelack (ve) [ve] [False]" tvg-logo="", TRV
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
-#EXTINF:0001 tvg-id="Z9rhVuP0JaTo3P" tvg-chno="38" group-title="famelack (ve) [ve] [False]" tvg-logo="", TV FANB
-https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+#EXTINF:0001 tvg-id="b3aSHeBRmQKpi4" tvg-chno="38" group-title="famelack (ve) [ve] [False]" tvg-logo="", TV Oasis Monay
+https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8
 #EXTINF:0001 tvg-id="XdOMLij5yy08uC" tvg-chno="39" group-title="famelack (ve) [ve] [False]" tvg-logo="", TVM para ti
 https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
 #EXTINF:0001 tvg-id="plr8p8zjDPs7Ks" tvg-chno="40" group-title="famelack (ve) [ve] [False]" tvg-logo="", TVS

@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="gACPlurrvdXLs8" tvg-chno="1" group-title="famelack (et) [et] [False]" tvg-logo="", Addis TV
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="QZv3UK41AsuViO" tvg-chno="2" group-title="famelack (et) [et] [False]" tvg-logo="", Mereja TV
+https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
