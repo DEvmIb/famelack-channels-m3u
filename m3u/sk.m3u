@@ -23,17 +23,15 @@ https://dash3.antik.sk/live/test_locall/playlist.m3u8
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
 #EXTINF:0001 tvg-id="qN8X967yibchzg" tvg-chno="12" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Nitricka
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
-#EXTINF:0001 tvg-id="7ID5AwZcoEU92T" tvg-chno="13" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Nové Zámky
-https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
-#EXTINF:0001 tvg-id="KDBDQ4u8C3aqtH" tvg-chno="14" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV NRSR
+#EXTINF:0001 tvg-id="KDBDQ4u8C3aqtH" tvg-chno="13" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV NRSR
 https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="XgnR8hLQJIc6fL" tvg-chno="15" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Ružinov
+#EXTINF:0001 tvg-id="XgnR8hLQJIc6fL" tvg-chno="14" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Ružinov
 https://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
-#EXTINF:0001 tvg-id="b5XSCQKaTuYvtJ" tvg-chno="16" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Vita
+#EXTINF:0001 tvg-id="b5XSCQKaTuYvtJ" tvg-chno="15" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV Vita
 https://dash3.antik.sk/live/test_vita/playlist.m3u8
-#EXTINF:0001 tvg-id="B5WV8O5RRK6OVb" tvg-chno="17" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV9
+#EXTINF:0001 tvg-id="B5WV8O5RRK6OVb" tvg-chno="16" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV9
 https://dash4.antik.sk/live/test_tv9/playlist.m3u8
-#EXTINF:0001 tvg-id="lY0NSe1C5uyuBW" tvg-chno="18" group-title="famelack (sk) [sk] [False]" tvg-logo="", TVT
+#EXTINF:0001 tvg-id="lY0NSe1C5uyuBW" tvg-chno="17" group-title="famelack (sk) [sk] [False]" tvg-logo="", TVT
 https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
-#EXTINF:0001 tvg-id="5vF3N7IdinbhWc" tvg-chno="19" group-title="famelack (sk) [sk] [False]" tvg-logo="", Zapadoslovenska TV
+#EXTINF:0001 tvg-id="5vF3N7IdinbhWc" tvg-chno="18" group-title="famelack (sk) [sk] [False]" tvg-logo="", Zapadoslovenska TV
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8

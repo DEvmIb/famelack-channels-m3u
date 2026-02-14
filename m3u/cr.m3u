@@ -11,30 +11,30 @@ https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 #EXTINF:0001 tvg-id="Z3J6UkFFEng975" tvg-chno="6" group-title="famelack (cr) [cr] [False]" tvg-logo="", Canal 17 TV Nosara
 https://latamvdo.com:3870/hybrid/play.m3u8
-#EXTINF:0001 tvg-id="bK2TlT0v8UWAuh" tvg-chno="7" group-title="famelack (cr) [cr] [False]" tvg-logo="", Colosal TV
+#EXTINF:0001 tvg-id="O4M3Z3Jo7F6qrX" tvg-chno="7" group-title="famelack (cr) [cr] [False]" tvg-logo="", Cartago Medios TV
+https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8
+#EXTINF:0001 tvg-id="bK2TlT0v8UWAuh" tvg-chno="8" group-title="famelack (cr) [cr] [False]" tvg-logo="", Colosal TV
 https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:0001 tvg-id="0QTowwNml7pc3D" tvg-chno="8" group-title="famelack (cr) [cr] [False]" tvg-logo="", Costa Rica Channel
+#EXTINF:0001 tvg-id="0QTowwNml7pc3D" tvg-chno="9" group-title="famelack (cr) [cr] [False]" tvg-logo="", Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:0001 tvg-id="xMyWNZNLNYysjq" tvg-chno="9" group-title="famelack (cr) [cr] [False]" tvg-logo="", Enlace
+#EXTINF:0001 tvg-id="xMyWNZNLNYysjq" tvg-chno="10" group-title="famelack (cr) [cr] [False]" tvg-logo="", Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="ejJZfMgOR7K5m8" tvg-chno="10" group-title="famelack (cr) [cr] [False]" tvg-logo="", Extrema Kids TV
+#EXTINF:0001 tvg-id="ejJZfMgOR7K5m8" tvg-chno="11" group-title="famelack (cr) [cr] [False]" tvg-logo="", Extrema Kids TV
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:0001 tvg-id="g2oDIGkwBMwsy6" tvg-chno="11" group-title="famelack (cr) [cr] [False]" tvg-logo="", Extrema TV
+#EXTINF:0001 tvg-id="g2oDIGkwBMwsy6" tvg-chno="12" group-title="famelack (cr) [cr] [False]" tvg-logo="", Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:0001 tvg-id="GD6GIT9MV0x6kz" tvg-chno="12" group-title="famelack (cr) [cr] [False]" tvg-logo="", Garabito TV
+#EXTINF:0001 tvg-id="GD6GIT9MV0x6kz" tvg-chno="13" group-title="famelack (cr) [cr] [False]" tvg-logo="", Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-#EXTINF:0001 tvg-id="vPLx0tYa5CbY79" tvg-chno="13" group-title="famelack (cr) [cr] [False]" tvg-logo="", Gex TV
+#EXTINF:0001 tvg-id="vPLx0tYa5CbY79" tvg-chno="14" group-title="famelack (cr) [cr] [False]" tvg-logo="", Gex TV
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
-#EXTINF:0001 tvg-id="2TkyCEIMqFLsTQ" tvg-chno="14" group-title="famelack (cr) [cr] [False]" tvg-logo="", IQ Channel
+#EXTINF:0001 tvg-id="2TkyCEIMqFLsTQ" tvg-chno="15" group-title="famelack (cr) [cr] [False]" tvg-logo="", IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:0001 tvg-id="L0Xj3EMr6sq9Oz" tvg-chno="15" group-title="famelack (cr) [cr] [False]" tvg-logo="", Los Santos TV
+#EXTINF:0001 tvg-id="L0Xj3EMr6sq9Oz" tvg-chno="16" group-title="famelack (cr) [cr] [False]" tvg-logo="", Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:0001 tvg-id="K2jiXD7UiZELMV" tvg-chno="16" group-title="famelack (cr) [cr] [False]" tvg-logo="", Nicoya TV
+#EXTINF:0001 tvg-id="K2jiXD7UiZELMV" tvg-chno="17" group-title="famelack (cr) [cr] [False]" tvg-logo="", Nicoya TV
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-#EXTINF:0001 tvg-id="4hISVyUvSKd79p" tvg-chno="17" group-title="famelack (cr) [cr] [False]" tvg-logo="", Norte Informativo TV
+#EXTINF:0001 tvg-id="4hISVyUvSKd79p" tvg-chno="18" group-title="famelack (cr) [cr] [False]" tvg-logo="", Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:0001 tvg-id="KSc2NtlozO0Aw7" tvg-chno="18" group-title="famelack (cr) [cr] [False]" tvg-logo="", Radio Turrialba TV Sports
-https://server5.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8
 #EXTINF:0001 tvg-id="SI3nWhyuVnROLX" tvg-chno="19" group-title="famelack (cr) [cr] [False]" tvg-logo="", RTV Chirripó
 https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 #EXTINF:0001 tvg-id="KWtXBE79zVCsGO" tvg-chno="20" group-title="famelack (cr) [cr] [False]" tvg-logo="", San José TV

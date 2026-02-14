@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="V5LLT8Xso7GEeT" tvg-chno="1" group-title="famelack (dk) [dk] [False]" tvg-logo="", DRTV
+#EXTINF:0001 tvg-id="CU97WLDcdlYM5R" tvg-chno="1" group-title="famelack (dk) [dk] [False]" tvg-logo="", DR1
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
+#EXTINF:0001 tvg-id="V5LLT8Xso7GEeT" tvg-chno="2" group-title="famelack (dk) [dk] [False]" tvg-logo="", DRTV
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
-#EXTINF:0001 tvg-id="d7pcxFhPY8vfBm" tvg-chno="2" group-title="famelack (dk) [dk] [False]" tvg-logo="", Folketinget
+#EXTINF:0001 tvg-id="d7pcxFhPY8vfBm" tvg-chno="3" group-title="famelack (dk) [dk] [False]" tvg-logo="", Folketinget
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
-#EXTINF:0001 tvg-id="5CjZFMDNv0Sm61" tvg-chno="3" group-title="famelack (dk) [dk] [False]" tvg-logo="", TV 2/Bornholm
+#EXTINF:0001 tvg-id="5CjZFMDNv0Sm61" tvg-chno="4" group-title="famelack (dk) [dk] [False]" tvg-logo="", TV 2/Bornholm
 https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
