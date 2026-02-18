@@ -13,7 +13,5 @@ https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:0001 tvg-id="TomqBXbWstBWEq" tvg-chno="7" group-title="famelack (kz) [kz] [False]" tvg-logo="", Silk Way
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="QbAo2Ias8xQmzk" tvg-chno="8" group-title="famelack (kz) [kz] [False]" tvg-logo="", КТК
-https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="APCyUHitJGQfWl" tvg-chno="9" group-title="famelack (kz) [kz] [False]" tvg-logo="", МТРК
+#EXTINF:0001 tvg-id="APCyUHitJGQfWl" tvg-chno="8" group-title="famelack (kz) [kz] [False]" tvg-logo="", МТРК
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8

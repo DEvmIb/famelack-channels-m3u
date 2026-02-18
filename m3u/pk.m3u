@@ -35,9 +35,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:0001 tvg-id="qYVU4HXVDlQp2P" tvg-chno="18" group-title="famelack (pk) [pk] [False]" tvg-logo="", PMI TV
 https://cdn.live247stream.com/pmi/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="77LBTTq4JvQf4h" tvg-chno="19" group-title="famelack (pk) [pk] [False]" tvg-logo="", Praise TV
-https://livecdn.live247stream.com/praise/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="oy323hi3qdqwPY" tvg-chno="20" group-title="famelack (pk) [pk] [False]" tvg-logo="", Such TV
+#EXTINF:0001 tvg-id="oy323hi3qdqwPY" tvg-chno="19" group-title="famelack (pk) [pk] [False]" tvg-logo="", Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
-#EXTINF:0001 tvg-id="LBVPGHScrFCXER" tvg-chno="21" group-title="famelack (pk) [pk] [False]" tvg-logo="", Zindagi TV
+#EXTINF:0001 tvg-id="LBVPGHScrFCXER" tvg-chno="20" group-title="famelack (pk) [pk] [False]" tvg-logo="", Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8

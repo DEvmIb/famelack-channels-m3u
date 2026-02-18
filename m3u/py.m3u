@@ -19,5 +19,3 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 #EXTINF:0001 tvg-id="ZvkiWYEeuwp6wf" tvg-chno="10" group-title="famelack (py) [py] [False]" tvg-logo="", Suceso TV
 https://live.enhdtv.com:8081/8060/index.m3u8
-#EXTINF:0001 tvg-id="ASrUvdpVK7ci3L" tvg-chno="11" group-title="famelack (py) [py] [False]" tvg-logo="", UnionTV
-https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8

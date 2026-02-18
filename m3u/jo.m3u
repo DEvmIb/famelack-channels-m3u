@@ -1,37 +1,35 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="cs8N9yYfCucs0n" tvg-chno="1" group-title="famelack (jo) [jo] [False]" tvg-logo="", Al Mamlaka TV
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="yBvpOWVJ77DxGY" tvg-chno="2" group-title="famelack (jo) [jo] [False]" tvg-logo="", Alhaqeqa Aldawlia
-https://ghaasiflu.online/alhqeqa/index.m3u8
-#EXTINF:0001 tvg-id="4f1EFJwCPB3ths" tvg-chno="3" group-title="famelack (jo) [jo] [False]" tvg-logo="", Altaghier TV
+#EXTINF:0001 tvg-id="4f1EFJwCPB3ths" tvg-chno="2" group-title="famelack (jo) [jo] [False]" tvg-logo="", Altaghier TV
 https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
-#EXTINF:0001 tvg-id="pmWQ07XSqyy8GG" tvg-chno="4" group-title="famelack (jo) [jo] [False]" tvg-logo="", Amman TV
+#EXTINF:0001 tvg-id="pmWQ07XSqyy8GG" tvg-chno="3" group-title="famelack (jo) [jo] [False]" tvg-logo="", Amman TV
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:0001 tvg-id="6FpSz42sPdEMNz" tvg-chno="5" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Archive
+#EXTINF:0001 tvg-id="6FpSz42sPdEMNz" tvg-chno="4" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Archive
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
-#EXTINF:0001 tvg-id="yQMuoatPHbGi75" tvg-chno="6" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Comedy
+#EXTINF:0001 tvg-id="yQMuoatPHbGi75" tvg-chno="5" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Comedy
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
-#EXTINF:0001 tvg-id="v4Dbw80p8X5RYF" tvg-chno="7" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Drama
+#EXTINF:0001 tvg-id="v4Dbw80p8X5RYF" tvg-chno="6" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Drama
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
-#EXTINF:0001 tvg-id="CPUFPutREQebmN" tvg-chno="8" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Kitchen
+#EXTINF:0001 tvg-id="CPUFPutREQebmN" tvg-chno="7" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Kitchen
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
-#EXTINF:0001 tvg-id="JLqZ7picOIRrVI" tvg-chno="9" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Satellite Channel
+#EXTINF:0001 tvg-id="JLqZ7picOIRrVI" tvg-chno="8" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Satellite Channel
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:0001 tvg-id="u6ZkGLLqixazm2" tvg-chno="10" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Songs
+#EXTINF:0001 tvg-id="u6ZkGLLqixazm2" tvg-chno="9" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Songs
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
-#EXTINF:0001 tvg-id="qKAl8NiXFdyK7W" tvg-chno="11" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Tourism
+#EXTINF:0001 tvg-id="qKAl8NiXFdyK7W" tvg-chno="10" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Tourism
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
-#EXTINF:0001 tvg-id="n1NVXrRoMu2hbw" tvg-chno="12" group-title="famelack (jo) [jo] [False]" tvg-logo="", Melody FM Jordan
+#EXTINF:0001 tvg-id="n1NVXrRoMu2hbw" tvg-chno="11" group-title="famelack (jo) [jo] [False]" tvg-logo="", Melody FM Jordan
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
-#EXTINF:0001 tvg-id="bSyZI3uj6B02G3" tvg-chno="13" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Comedy
+#EXTINF:0001 tvg-id="bSyZI3uj6B02G3" tvg-chno="12" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Comedy
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
-#EXTINF:0001 tvg-id="vosJ1MimmKjovt" tvg-chno="14" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Drama
+#EXTINF:0001 tvg-id="vosJ1MimmKjovt" tvg-chno="13" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Drama
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-#EXTINF:0001 tvg-id="IaPzNcOFguJ1fR" tvg-chno="15" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Kids
+#EXTINF:0001 tvg-id="IaPzNcOFguJ1fR" tvg-chno="14" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
-#EXTINF:0001 tvg-id="AnJeMRVilOxANP" tvg-chno="16" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Kids Originals
+#EXTINF:0001 tvg-id="AnJeMRVilOxANP" tvg-chno="15" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Kids Originals
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
-#EXTINF:0001 tvg-id="6AoHYDpnv89YBf" tvg-chno="17" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Kitchen
+#EXTINF:0001 tvg-id="6AoHYDpnv89YBf" tvg-chno="16" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Kitchen
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
-#EXTINF:0001 tvg-id="EgkvX9kJOJxMoC" tvg-chno="18" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya TV
+#EXTINF:0001 tvg-id="EgkvX9kJOJxMoC" tvg-chno="17" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8

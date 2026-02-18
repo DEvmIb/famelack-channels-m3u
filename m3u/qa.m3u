@@ -19,11 +19,9 @@ https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:0001 tvg-id="br7PukOLzlx3Tu" tvg-chno="10" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Rayyan Al Qadeem
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="pHGRN6No5y3yuk" tvg-chno="11" group-title="famelack (qa) [qa] [False]" tvg-logo="", Alkass Three
-https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="K2pY7DHGd3QmlJ" tvg-chno="12" group-title="famelack (qa) [qa] [False]" tvg-logo="", Libya Al Ahrar TV
+#EXTINF:0001 tvg-id="K2pY7DHGd3QmlJ" tvg-chno="11" group-title="famelack (qa) [qa] [False]" tvg-logo="", Libya Al Ahrar TV
 https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8
-#EXTINF:0001 tvg-id="sCYZ4Box9Vsqsi" tvg-chno="13" group-title="famelack (qa) [qa] [False]" tvg-logo="", Qatar Television
+#EXTINF:0001 tvg-id="sCYZ4Box9Vsqsi" tvg-chno="12" group-title="famelack (qa) [qa] [False]" tvg-logo="", Qatar Television
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="nRS5DLp96YBtfJ" tvg-chno="14" group-title="famelack (qa) [qa] [False]" tvg-logo="", Qatar Television 2
+#EXTINF:0001 tvg-id="nRS5DLp96YBtfJ" tvg-chno="13" group-title="famelack (qa) [qa] [False]" tvg-logo="", Qatar Television 2
 https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
