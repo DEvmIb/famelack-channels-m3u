@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="UsJXOMx0kW72JG" tvg-chno="1" group-title="famelack (mt) [mt] [False]" tvg-logo="", One
-https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
-#EXTINF:0001 tvg-id="sU1UtLHoIJ54wV" tvg-chno="2" group-title="famelack (mt) [mt] [False]" tvg-logo="", Smash TV
+#EXTINF:0001 tvg-id="sU1UtLHoIJ54wV" tvg-chno="1" group-title="famelack (mt) [mt] [False]" tvg-logo="", Smash TV
 https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8

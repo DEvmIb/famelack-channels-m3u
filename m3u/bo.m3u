@@ -11,16 +11,16 @@ https://nd106.republicaservers.com/hls/c7284/index.m3u8
 https://master.tucableip.com/ftvhd/index.m3u8
 #EXTINF:0001 tvg-id="YIKke4PY7wnkdl" tvg-chno="6" group-title="famelack (bo) [bo] [False]" tvg-logo="", Palenque TV
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
-#EXTINF:0001 tvg-id="yLB43ge13jrHoP" tvg-chno="7" group-title="famelack (bo) [bo] [False]" tvg-logo="", Red TV Shop
-https://master.tucableip.com/redtvshop/index.m3u8
-#EXTINF:0001 tvg-id="izfFH8RnAwm70u" tvg-chno="8" group-title="famelack (bo) [bo] [False]" tvg-logo="", RTP
+#EXTINF:0001 tvg-id="izfFH8RnAwm70u" tvg-chno="7" group-title="famelack (bo) [bo] [False]" tvg-logo="", RTP
 https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:0001 tvg-id="87xKAUIruoYGZK" tvg-chno="9" group-title="famelack (bo) [bo] [False]" tvg-logo="", TDT Multimedia
+#EXTINF:0001 tvg-id="87xKAUIruoYGZK" tvg-chno="8" group-title="famelack (bo) [bo] [False]" tvg-logo="", TDT Multimedia
 https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
-#EXTINF:0001 tvg-id="JLRlLiosJOhAzH" tvg-chno="10" group-title="famelack (bo) [bo] [False]" tvg-logo="", UMSA TVU Internacional
+#EXTINF:0001 tvg-id="JLRlLiosJOhAzH" tvg-chno="9" group-title="famelack (bo) [bo] [False]" tvg-logo="", UMSA TVU Internacional
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="fcllzx7ENtLcnw" tvg-chno="11" group-title="famelack (bo) [bo] [False]" tvg-logo="", UMSA TVU LP
+#EXTINF:0001 tvg-id="fcllzx7ENtLcnw" tvg-chno="10" group-title="famelack (bo) [bo] [False]" tvg-logo="", UMSA TVU LP
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="igJmo5J6YhgXmV" tvg-chno="11" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unifranz
+https://live.enhdtv.com:8081/8192/index.m3u8
 #EXTINF:0001 tvg-id="8XmRascOPMJDcT" tvg-chno="12" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unitel Santa Cruz
 https://master.tucableip.com/tvhome/index.m3u8
 #EXTINF:0001 tvg-id="LFx5rbcyR21noP" tvg-chno="13" group-title="famelack (bo) [bo] [False]" tvg-logo="", Univalle Televisión

@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="58vqYx7XTThkiR" tvg-chno="1" group-title="famelack (mo) [mo] [False]" tvg-logo="", Directo das Reuniões da Assembleia de Macau
-https://live3.tdm.com.mo/tv/ch22.live/playlist.m3u8
-#EXTINF:0001 tvg-id="ZJkfjz2xBL1Fgt" tvg-chno="2" group-title="famelack (mo) [mo] [False]" tvg-logo="", Ou-Mun Macau Satellite Ch. 96
-https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:0001 tvg-id="6l2elb9HrlyXjY" tvg-chno="3" group-title="famelack (mo) [mo] [False]" tvg-logo="", TDM Info. Macau
-https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:0001 tvg-id="x025lr9V7w4N5p" tvg-chno="4" group-title="famelack (mo) [mo] [False]" tvg-logo="", 立法會直播 (Legislative Council Live)
+#EXTINF:0001 tvg-id="63wWdxaoQWzfVD" tvg-chno="1" group-title="famelack (mo) [mo] [False]" tvg-logo="", TDM Entertainment Ch. 95
+https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:0001 tvg-id="x025lr9V7w4N5p" tvg-chno="2" group-title="famelack (mo) [mo] [False]" tvg-logo="", 立法會直播 (Legislative Council Live)
 https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8

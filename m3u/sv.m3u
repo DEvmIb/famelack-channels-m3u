@@ -33,5 +33,3 @@ https://radiocret.net:8082/hls/tvcret.m3u8
 https://serversv.com:8080/hls/tvgetsemani.m3u8
 #EXTINF:0001 tvg-id="h8wvrpeqCIA0Cx" tvg-chno="17" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV León de Judá
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
-#EXTINF:0001 tvg-id="b1EAokD2bBiJTE" tvg-chno="18" group-title="famelack (sv) [sv] [False]" tvg-logo="", TVCa Televisión Católica Arquidiocesana
-https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
