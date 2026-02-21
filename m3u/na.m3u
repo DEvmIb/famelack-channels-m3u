@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="rVJSf2B79r7M1S" tvg-chno="1" group-title="famelack (na) [na] [False]" tvg-logo="", NBC 1
 https://hls2.nbcplus.na/hls/high_nbc1.m3u8
-#EXTINF:0001 tvg-id="ECnN3NWeNbWcGO" tvg-chno="2" group-title="famelack (na) [na] [False]" tvg-logo="", NBC 3
+#EXTINF:0001 tvg-id="zsGelGEGLQM5ya" tvg-chno="2" group-title="famelack (na) [na] [False]" tvg-logo="", NBC 2
+https://hls2.nbcplus.na/hls/high_nbc2.m3u8
+#EXTINF:0001 tvg-id="ECnN3NWeNbWcGO" tvg-chno="3" group-title="famelack (na) [na] [False]" tvg-logo="", NBC 3
 https://hls2.nbcplus.na/hls/high_nbc3.m3u8
-#EXTINF:0001 tvg-id="K5JRRmLnuS8W27" tvg-chno="3" group-title="famelack (na) [na] [False]" tvg-logo="", NTV
+#EXTINF:0001 tvg-id="K5JRRmLnuS8W27" tvg-chno="4" group-title="famelack (na) [na] [False]" tvg-logo="", NTV
 https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8

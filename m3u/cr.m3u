@@ -35,33 +35,29 @@ https://rtmp.info/iqtv/envivo/playlist.m3u8
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:0001 tvg-id="K2jiXD7UiZELMV" tvg-chno="18" group-title="famelack (cr) [cr] [False]" tvg-logo="", Nicoya TV
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-#EXTINF:0001 tvg-id="4hISVyUvSKd79p" tvg-chno="19" group-title="famelack (cr) [cr] [False]" tvg-logo="", Norte Informativo TV
-https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:0001 tvg-id="KSc2NtlozO0Aw7" tvg-chno="20" group-title="famelack (cr) [cr] [False]" tvg-logo="", Radio Turrialba TV Sports
-https://server5.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8
-#EXTINF:0001 tvg-id="Oxstp5zvFaS9ZH" tvg-chno="21" group-title="famelack (cr) [cr] [False]" tvg-logo="", Retrox TV
+#EXTINF:0001 tvg-id="Oxstp5zvFaS9ZH" tvg-chno="19" group-title="famelack (cr) [cr] [False]" tvg-logo="", Retrox TV
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8
-#EXTINF:0001 tvg-id="SI3nWhyuVnROLX" tvg-chno="22" group-title="famelack (cr) [cr] [False]" tvg-logo="", RTV Chirripó
+#EXTINF:0001 tvg-id="SI3nWhyuVnROLX" tvg-chno="20" group-title="famelack (cr) [cr] [False]" tvg-logo="", RTV Chirripó
 https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
-#EXTINF:0001 tvg-id="RYVkiPv8DNw6UC" tvg-chno="23" group-title="famelack (cr) [cr] [False]" tvg-logo="", Sarapiqui TV
+#EXTINF:0001 tvg-id="RYVkiPv8DNw6UC" tvg-chno="21" group-title="famelack (cr) [cr] [False]" tvg-logo="", Sarapiqui TV
 https://lstv.duckdns.org:449/hls/stv.m3u8
-#EXTINF:0001 tvg-id="TBkO2VeN8pxR9c" tvg-chno="24" group-title="famelack (cr) [cr] [False]" tvg-logo="", TDtv
+#EXTINF:0001 tvg-id="TBkO2VeN8pxR9c" tvg-chno="22" group-title="famelack (cr) [cr] [False]" tvg-logo="", TDtv
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
-#EXTINF:0001 tvg-id="FY9JMfvI9sWSMw" tvg-chno="25" group-title="famelack (cr) [cr] [False]" tvg-logo="", TeleBrunca
+#EXTINF:0001 tvg-id="FY9JMfvI9sWSMw" tvg-chno="23" group-title="famelack (cr) [cr] [False]" tvg-logo="", TeleBrunca
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
-#EXTINF:0001 tvg-id="GHvLc9YKjbjb4r" tvg-chno="26" group-title="famelack (cr) [cr] [False]" tvg-logo="", Telefides
+#EXTINF:0001 tvg-id="GHvLc9YKjbjb4r" tvg-chno="24" group-title="famelack (cr) [cr] [False]" tvg-logo="", Telefides
 https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
-#EXTINF:0001 tvg-id="0dNDSI0p6Xtcvm" tvg-chno="27" group-title="famelack (cr) [cr] [False]" tvg-logo="", TeleMas
+#EXTINF:0001 tvg-id="0dNDSI0p6Xtcvm" tvg-chno="25" group-title="famelack (cr) [cr] [False]" tvg-logo="", TeleMas
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
-#EXTINF:0001 tvg-id="aeI6TVNDKNvZiP" tvg-chno="28" group-title="famelack (cr) [cr] [False]" tvg-logo="", TeleSUR Costa Rica
+#EXTINF:0001 tvg-id="aeI6TVNDKNvZiP" tvg-chno="26" group-title="famelack (cr) [cr] [False]" tvg-logo="", TeleSUR Costa Rica
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-#EXTINF:0001 tvg-id="xLJatClo1nNRli" tvg-chno="29" group-title="famelack (cr) [cr] [False]" tvg-logo="", TicaVision
+#EXTINF:0001 tvg-id="xLJatClo1nNRli" tvg-chno="27" group-title="famelack (cr) [cr] [False]" tvg-logo="", TicaVision
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
-#EXTINF:0001 tvg-id="Y3sTV1ejuknKgG" tvg-chno="30" group-title="famelack (cr) [cr] [False]" tvg-logo="", TV Sur Canal 14
+#EXTINF:0001 tvg-id="Y3sTV1ejuknKgG" tvg-chno="28" group-title="famelack (cr) [cr] [False]" tvg-logo="", TV Sur Canal 14
 https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:0001 tvg-id="sue3ShLLkmrNlc" tvg-chno="31" group-title="famelack (cr) [cr] [False]" tvg-logo="", Urbano TV
+#EXTINF:0001 tvg-id="sue3ShLLkmrNlc" tvg-chno="29" group-title="famelack (cr) [cr] [False]" tvg-logo="", Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:0001 tvg-id="lyisHWGyNS2hyW" tvg-chno="32" group-title="famelack (cr) [cr] [False]" tvg-logo="", VoiceOver Radio TV
+#EXTINF:0001 tvg-id="lyisHWGyNS2hyW" tvg-chno="30" group-title="famelack (cr) [cr] [False]" tvg-logo="", VoiceOver Radio TV
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
-#EXTINF:0001 tvg-id="CLjMxTVbFP2ZHP" tvg-chno="33" group-title="famelack (cr) [cr] [False]" tvg-logo="", Zurquí TV
+#EXTINF:0001 tvg-id="CLjMxTVbFP2ZHP" tvg-chno="31" group-title="famelack (cr) [cr] [False]" tvg-logo="", Zurquí TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8

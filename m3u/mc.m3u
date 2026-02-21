@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="zcBNgPqzVnllFb" tvg-chno="1" group-title="famelack (mc) [mc] [False]" tvg-logo="", Monaco Info
-https://webtv.monacoinfo.com/live/prod/index.m3u8
-#EXTINF:0001 tvg-id="Cyu7cH1sFWg5HQ" tvg-chno="2" group-title="famelack (mc) [mc] [False]" tvg-logo="", Superyacht TV
+#EXTINF:0001 tvg-id="Cyu7cH1sFWg5HQ" tvg-chno="1" group-title="famelack (mc) [mc] [False]" tvg-logo="", Superyacht TV
 https://sy.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="p8lqoCpCTuFiPS" tvg-chno="3" group-title="famelack (mc) [mc] [False]" tvg-logo="", TV Monaco
+#EXTINF:0001 tvg-id="p8lqoCpCTuFiPS" tvg-chno="2" group-title="famelack (mc) [mc] [False]" tvg-logo="", TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8

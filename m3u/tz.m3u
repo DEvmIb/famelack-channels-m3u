@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="4Ol7tMSQ1AJ1Zg" tvg-chno="1" group-title="famelack (tz) [tz] [False]" tvg-logo="", Dodoma TV
-https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
-#EXTINF:0001 tvg-id="LuoJJuzfa9CVTw" tvg-chno="2" group-title="famelack (tz) [tz] [False]" tvg-logo="", TBC1
+#EXTINF:0001 tvg-id="LuoJJuzfa9CVTw" tvg-chno="1" group-title="famelack (tz) [tz] [False]" tvg-logo="", TBC1
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_f9bd5b30323411f0a32aaf26f944974f/index.fmp4.m3u8
-#EXTINF:0001 tvg-id="QnnAowiMOFHvTH" tvg-chno="3" group-title="famelack (tz) [tz] [False]" tvg-logo="", TBC2
+#EXTINF:0001 tvg-id="QnnAowiMOFHvTH" tvg-chno="2" group-title="famelack (tz) [tz] [False]" tvg-logo="", TBC2
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_17ad3c50323511f08f79733d2dd68583/index.fmp4.m3u8

@@ -5,18 +5,18 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:0001 tvg-id="At9xDVwnRJnJwN" tvg-chno="3" group-title="famelack (cl) [cl] [False]" tvg-logo="", 13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:0001 tvg-id="sFxGybHHfJgVTf" tvg-chno="4" group-title="famelack (cl) [cl] [False]" tvg-logo="", 13 Teleseries
+#EXTINF:0001 tvg-id="bl19xd6Od9LNtI" tvg-chno="4" group-title="famelack (cl) [cl] [False]" tvg-logo="", 13 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:0001 tvg-id="sFxGybHHfJgVTf" tvg-chno="5" group-title="famelack (cl) [cl] [False]" tvg-logo="", 13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:0001 tvg-id="qrJk7Z0w2ndHZn" tvg-chno="5" group-title="famelack (cl) [cl] [False]" tvg-logo="", 13C
+#EXTINF:0001 tvg-id="qrJk7Z0w2ndHZn" tvg-chno="6" group-title="famelack (cl) [cl] [False]" tvg-logo="", 13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:0001 tvg-id="TmOaWV1T2skQNx" tvg-chno="6" group-title="famelack (cl) [cl] [False]" tvg-logo="", AE Radio TV
+#EXTINF:0001 tvg-id="TmOaWV1T2skQNx" tvg-chno="7" group-title="famelack (cl) [cl] [False]" tvg-logo="", AE Radio TV
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
-#EXTINF:0001 tvg-id="IGNi5kMNzh3DBS" tvg-chno="7" group-title="famelack (cl) [cl] [False]" tvg-logo="", Antofagasta TV (ATV)
+#EXTINF:0001 tvg-id="IGNi5kMNzh3DBS" tvg-chno="8" group-title="famelack (cl) [cl] [False]" tvg-logo="", Antofagasta TV (ATV)
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Kc3HHZPOGrmJWv" tvg-chno="8" group-title="famelack (cl) [cl] [False]" tvg-logo="", Atacama Noticias
+#EXTINF:0001 tvg-id="Kc3HHZPOGrmJWv" tvg-chno="9" group-title="famelack (cl) [cl] [False]" tvg-logo="", Atacama Noticias
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:0001 tvg-id="JmmUfpMTKm3wFZ" tvg-chno="9" group-title="famelack (cl) [cl] [False]" tvg-logo="", Atacama TV (Copiapó)
-https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:0001 tvg-id="9jkb1tHOSl1q2X" tvg-chno="10" group-title="famelack (cl) [cl] [False]" tvg-logo="", Aysen TV
 https://v1.tustreaming.cl/aysentv/index.m3u8
 #EXTINF:0001 tvg-id="ObtiKhy4c7FM1e" tvg-chno="11" group-title="famelack (cl) [cl] [False]" tvg-logo="", Campus TV (Talca)
@@ -77,39 +77,45 @@ https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 #EXTINF:0001 tvg-id="9LYMpZbMSRFBE5" tvg-chno="39" group-title="famelack (cl) [cl] [False]" tvg-logo="", SUR TV
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="okKQ8KDUVqmzeR" tvg-chno="40" group-title="famelack (cl) [cl] [False]" tvg-logo="", Teletrak
+#EXTINF:0001 tvg-id="Ap4jlb2z9FPcau" tvg-chno="40" group-title="famelack (cl) [cl] [False]" tvg-logo="", T-Vinet
+https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="okKQ8KDUVqmzeR" tvg-chno="41" group-title="famelack (cl) [cl] [False]" tvg-logo="", Teletrak
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="v7CKSlcO8gjGok" tvg-chno="41" group-title="famelack (cl) [cl] [False]" tvg-logo="", Televida
+#EXTINF:0001 tvg-id="v7CKSlcO8gjGok" tvg-chno="42" group-title="famelack (cl) [cl] [False]" tvg-logo="", Televida
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-#EXTINF:0001 tvg-id="Buf371rRZBbDSG" tvg-chno="42" group-title="famelack (cl) [cl] [False]" tvg-logo="", Tevex
+#EXTINF:0001 tvg-id="Buf371rRZBbDSG" tvg-chno="43" group-title="famelack (cl) [cl] [False]" tvg-logo="", Tevex
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:0001 tvg-id="k0nYFEHOKnqOiZ" tvg-chno="43" group-title="famelack (cl) [cl] [False]" tvg-logo="", TNE
+#EXTINF:0001 tvg-id="8fkAASWc8aexqU" tvg-chno="44" group-title="famelack (cl) [cl] [False]" tvg-logo="", Thema Televisión (La Serena)
+https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="k0nYFEHOKnqOiZ" tvg-chno="45" group-title="famelack (cl) [cl] [False]" tvg-logo="", TNE
 https://v2.tustreaming.cl/tnetv/index.m3u8
-#EXTINF:0001 tvg-id="aE41LbUT8Fnd7w" tvg-chno="44" group-title="famelack (cl) [cl] [False]" tvg-logo="", Turf Movil
+#EXTINF:0001 tvg-id="aE41LbUT8Fnd7w" tvg-chno="46" group-title="famelack (cl) [cl] [False]" tvg-logo="", Turf Movil
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
-#EXTINF:0001 tvg-id="R5ZazRt3eHapkj" tvg-chno="45" group-title="famelack (cl) [cl] [False]" tvg-logo="", TV Quellón
+#EXTINF:0001 tvg-id="R5ZazRt3eHapkj" tvg-chno="47" group-title="famelack (cl) [cl] [False]" tvg-logo="", TV Quellón
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="byUbvXPv80AteN" tvg-chno="46" group-title="famelack (cl) [cl] [False]" tvg-logo="", TV Senado
+#EXTINF:0001 tvg-id="byUbvXPv80AteN" tvg-chno="48" group-title="famelack (cl) [cl] [False]" tvg-logo="", TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-#EXTINF:0001 tvg-id="MiDzldTeOOzM8X" tvg-chno="47" group-title="famelack (cl) [cl] [False]" tvg-logo="", TVN3
+#EXTINF:0001 tvg-id="hOfMwcYwkqMasz" tvg-chno="49" group-title="famelack (cl) [cl] [False]" tvg-logo="", TV UCT
+https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="MiDzldTeOOzM8X" tvg-chno="50" group-title="famelack (cl) [cl] [False]" tvg-logo="", TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:0001 tvg-id="xTf3bbxqRJQgMl" tvg-chno="48" group-title="famelack (cl) [cl] [False]" tvg-logo="", TVO San Vicente
+#EXTINF:0001 tvg-id="xTf3bbxqRJQgMl" tvg-chno="51" group-title="famelack (cl) [cl] [False]" tvg-logo="", TVO San Vicente
 https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
-#EXTINF:0001 tvg-id="nuyqJYod1qzetj" tvg-chno="49" group-title="famelack (cl) [cl] [False]" tvg-logo="", TVU Concepción
+#EXTINF:0001 tvg-id="HeeVS1iRWuDC3B" tvg-chno="52" group-title="famelack (cl) [cl] [False]" tvg-logo="", TVR
+https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="nuyqJYod1qzetj" tvg-chno="53" group-title="famelack (cl) [cl] [False]" tvg-logo="", TVU Concepción
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="L90TWymzbjAtJm" tvg-chno="50" group-title="famelack (cl) [cl] [False]" tvg-logo="", UCV TV
+#EXTINF:0001 tvg-id="uiKxEXDS2qwujf" tvg-chno="54" group-title="famelack (cl) [cl] [False]" tvg-logo="", U Los Lagos TV
+https://tv.ulagos.cl/web/live.m3u8
+#EXTINF:0001 tvg-id="L90TWymzbjAtJm" tvg-chno="55" group-title="famelack (cl) [cl] [False]" tvg-logo="", UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="hXEWMB7iS10u9K" tvg-chno="51" group-title="famelack (cl) [cl] [False]" tvg-logo="", UESTV
-https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="fsG9WCXeLX2m3u" tvg-chno="52" group-title="famelack (cl) [cl] [False]" tvg-logo="", Universidad Autónoma Temuco (UATV)
+#EXTINF:0001 tvg-id="fsG9WCXeLX2m3u" tvg-chno="56" group-title="famelack (cl) [cl] [False]" tvg-logo="", Universidad Autónoma Temuco (UATV)
 https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="rZh1GpFWO9ft0O" tvg-chno="53" group-title="famelack (cl) [cl] [False]" tvg-logo="", UTV
+#EXTINF:0001 tvg-id="rZh1GpFWO9ft0O" tvg-chno="57" group-title="famelack (cl) [cl] [False]" tvg-logo="", UTV
 https://v2.tustreaming.cl/utv/index.m3u8
-#EXTINF:0001 tvg-id="3UIRfQdeDlPsdL" tvg-chno="54" group-title="famelack (cl) [cl] [False]" tvg-logo="", V Classic TV
+#EXTINF:0001 tvg-id="3UIRfQdeDlPsdL" tvg-chno="58" group-title="famelack (cl) [cl] [False]" tvg-logo="", V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:0001 tvg-id="Y2Z36ASHb1vcNr" tvg-chno="55" group-title="famelack (cl) [cl] [False]" tvg-logo="", VC Online
+#EXTINF:0001 tvg-id="Y2Z36ASHb1vcNr" tvg-chno="59" group-title="famelack (cl) [cl] [False]" tvg-logo="", VC Online
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:0001 tvg-id="osBw1hYyNiagCw" tvg-chno="56" group-title="famelack (cl) [cl] [False]" tvg-logo="", Vision Plus TV (1080i)
-https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
-#EXTINF:0001 tvg-id="55jNFzDbCSLLQk" tvg-chno="57" group-title="famelack (cl) [cl] [False]" tvg-logo="", VTV Valle de Aconcagua
+#EXTINF:0001 tvg-id="55jNFzDbCSLLQk" tvg-chno="60" group-title="famelack (cl) [cl] [False]" tvg-logo="", VTV Valle de Aconcagua
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8

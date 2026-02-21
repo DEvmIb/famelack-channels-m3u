@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="ybVGFNnhwmZ0GU" tvg-chno="1" group-title="famelack (tg) [tg] [False]" tvg-logo="", Chandel TV
 https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
-#EXTINF:0001 tvg-id="fEhuSbh6UZiVWk" tvg-chno="2" group-title="famelack (tg) [tg] [False]" tvg-logo="", NW Economie
-https://hls.newworldtv.com/nw-economie/video/live.m3u8
-#EXTINF:0001 tvg-id="nN6XpsyJ7rKqSF" tvg-chno="3" group-title="famelack (tg) [tg] [False]" tvg-logo="", RT JVA
+#EXTINF:0001 tvg-id="nN6XpsyJ7rKqSF" tvg-chno="2" group-title="famelack (tg) [tg] [False]" tvg-logo="", RT JVA
 https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
-#EXTINF:0001 tvg-id="9SSAW7tNi1dY8x" tvg-chno="4" group-title="famelack (tg) [tg] [False]" tvg-logo="", Television Espoir 47
+#EXTINF:0001 tvg-id="9SSAW7tNi1dY8x" tvg-chno="3" group-title="famelack (tg) [tg] [False]" tvg-logo="", Television Espoir 47
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
