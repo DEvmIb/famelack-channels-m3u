@@ -15,5 +15,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
 #EXTINF:0001 tvg-id="vfExfpKOcJ4kwS" tvg-chno="8" group-title="famelack (af) [af] [False]" tvg-logo="", RTA Sport
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
-#EXTINF:0001 tvg-id="aEHBVjoRvzZifo" tvg-chno="9" group-title="famelack (af) [af] [False]" tvg-logo="", Tamadon TV
+#EXTINF:0001 tvg-id="sZwFjK8uOPwgBp" tvg-chno="9" group-title="famelack (af) [af] [False]" tvg-logo="", Shamshad TV
+https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
+#EXTINF:0001 tvg-id="aEHBVjoRvzZifo" tvg-chno="10" group-title="famelack (af) [af] [False]" tvg-logo="", Tamadon TV
 https://hls.tamadon.live/hls/stream.m3u8

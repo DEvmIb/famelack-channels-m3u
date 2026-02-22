@@ -47,45 +47,49 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 https://tv.ondadigital.pe/ondadigital/index.m3u8
 #EXTINF:0001 tvg-id="kNsWM7D3MJH7TB" tvg-chno="24" group-title="famelack (pe) [pe] [False]" tvg-logo="", Panc TV Peru
 https://panel.host-live.com:19360/20000/20000.m3u8
-#EXTINF:0001 tvg-id="vy9HTzZfX7NGXL" tvg-chno="25" group-title="famelack (pe) [pe] [False]" tvg-logo="", Radio Tropical Tarapoto
+#EXTINF:0001 tvg-id="rIUi7QauvvK3mU" tvg-chno="25" group-title="famelack (pe) [pe] [False]" tvg-logo="", Radio Master
+https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+#EXTINF:0001 tvg-id="vy9HTzZfX7NGXL" tvg-chno="26" group-title="famelack (pe) [pe] [False]" tvg-logo="", Radio Tropical Tarapoto
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:0001 tvg-id="3Wu9MC7OO3N4Ss" tvg-chno="26" group-title="famelack (pe) [pe] [False]" tvg-logo="", RadioTV Oriente
+#EXTINF:0001 tvg-id="3Wu9MC7OO3N4Ss" tvg-chno="27" group-title="famelack (pe) [pe] [False]" tvg-logo="", RadioTV Oriente
 https://live.obslivestream.com/tvoriente/index.m3u8
-#EXTINF:0001 tvg-id="WPq32gb81NkkvQ" tvg-chno="27" group-title="famelack (pe) [pe] [False]" tvg-logo="", RN Televisión
+#EXTINF:0001 tvg-id="WPq32gb81NkkvQ" tvg-chno="28" group-title="famelack (pe) [pe] [False]" tvg-logo="", RN Televisión
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:0001 tvg-id="3xHIJhktLp5hmp" tvg-chno="28" group-title="famelack (pe) [pe] [False]" tvg-logo="", RPP TV
+#EXTINF:0001 tvg-id="3xHIJhktLp5hmp" tvg-chno="29" group-title="famelack (pe) [pe] [False]" tvg-logo="", RPP TV
 https://redirector.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="AQVGMaAFvW9hRl" tvg-chno="29" group-title="famelack (pe) [pe] [False]" tvg-logo="", RSelvaTV
+#EXTINF:0001 tvg-id="AQVGMaAFvW9hRl" tvg-chno="30" group-title="famelack (pe) [pe] [False]" tvg-logo="", RSelvaTV
 https://live.obslivestream.com/selvatv/index.m3u8
-#EXTINF:0001 tvg-id="wbr6x2NZ3c23qF" tvg-chno="30" group-title="famelack (pe) [pe] [False]" tvg-logo="", Señal Perú TV
+#EXTINF:0001 tvg-id="wbr6x2NZ3c23qF" tvg-chno="31" group-title="famelack (pe) [pe] [False]" tvg-logo="", Señal Perú TV
 https://livestream.perucast.com/hls/stream.m3u8
-#EXTINF:0001 tvg-id="NWQzBG1ASDZW7k" tvg-chno="31" group-title="famelack (pe) [pe] [False]" tvg-logo="", Sol Televisión
+#EXTINF:0001 tvg-id="NWQzBG1ASDZW7k" tvg-chno="32" group-title="famelack (pe) [pe] [False]" tvg-logo="", Sol Televisión
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:0001 tvg-id="FMvg6xgrss4nnA" tvg-chno="32" group-title="famelack (pe) [pe] [False]" tvg-logo="", Telecolor Yurimaguas
+#EXTINF:0001 tvg-id="FMvg6xgrss4nnA" tvg-chno="33" group-title="famelack (pe) [pe] [False]" tvg-logo="", Telecolor Yurimaguas
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:0001 tvg-id="wmJ1QxQIvPF4LM" tvg-chno="33" group-title="famelack (pe) [pe] [False]" tvg-logo="", Teleselva
+#EXTINF:0001 tvg-id="wmJ1QxQIvPF4LM" tvg-chno="34" group-title="famelack (pe) [pe] [False]" tvg-logo="", Teleselva
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-#EXTINF:0001 tvg-id="oOdusKQUCbc5q3" tvg-chno="34" group-title="famelack (pe) [pe] [False]" tvg-logo="", Top FM TV
+#EXTINF:0001 tvg-id="oOdusKQUCbc5q3" tvg-chno="35" group-title="famelack (pe) [pe] [False]" tvg-logo="", Top FM TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:0001 tvg-id="mdiVt9k5G6ApIq" tvg-chno="35" group-title="famelack (pe) [pe] [False]" tvg-logo="", Trivu
+#EXTINF:0001 tvg-id="mdiVt9k5G6ApIq" tvg-chno="36" group-title="famelack (pe) [pe] [False]" tvg-logo="", Trivu
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
-#EXTINF:0001 tvg-id="gh6WHvpQmXShdI" tvg-chno="36" group-title="famelack (pe) [pe] [False]" tvg-logo="", Turbo Mix Radio TV
+#EXTINF:0001 tvg-id="gh6WHvpQmXShdI" tvg-chno="37" group-title="famelack (pe) [pe] [False]" tvg-logo="", Turbo Mix Radio TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:0001 tvg-id="9jlzCfuFrzzmTZ" tvg-chno="37" group-title="famelack (pe) [pe] [False]" tvg-logo="", TV Peru
+#EXTINF:0001 tvg-id="9jlzCfuFrzzmTZ" tvg-chno="38" group-title="famelack (pe) [pe] [False]" tvg-logo="", TV Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
-#EXTINF:0001 tvg-id="JAu8npSaIqe0rd" tvg-chno="38" group-title="famelack (pe) [pe] [False]" tvg-logo="", TV Peru Internacional
+#EXTINF:0001 tvg-id="JAu8npSaIqe0rd" tvg-chno="39" group-title="famelack (pe) [pe] [False]" tvg-logo="", TV Peru Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
-#EXTINF:0001 tvg-id="tgMJA8Yrpo64wp" tvg-chno="39" group-title="famelack (pe) [pe] [False]" tvg-logo="", TV Peru Noticias
+#EXTINF:0001 tvg-id="tgMJA8Yrpo64wp" tvg-chno="40" group-title="famelack (pe) [pe] [False]" tvg-logo="", TV Peru Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
-#EXTINF:0001 tvg-id="ghJvcjvVzHFJJM" tvg-chno="40" group-title="famelack (pe) [pe] [False]" tvg-logo="", TVUNO
+#EXTINF:0001 tvg-id="ghJvcjvVzHFJJM" tvg-chno="41" group-title="famelack (pe) [pe] [False]" tvg-logo="", TVUNO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:0001 tvg-id="EfKZO2yd4jlLmt" tvg-chno="41" group-title="famelack (pe) [pe] [False]" tvg-logo="", Unitel
+#EXTINF:0001 tvg-id="CXQzBhDcjLd9xW" tvg-chno="42" group-title="famelack (pe) [pe] [False]" tvg-logo="", Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
+#EXTINF:0001 tvg-id="EfKZO2yd4jlLmt" tvg-chno="43" group-title="famelack (pe) [pe] [False]" tvg-logo="", Unitel
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
-#EXTINF:0001 tvg-id="fk1iDtmlMQq6pc" tvg-chno="42" group-title="famelack (pe) [pe] [False]" tvg-logo="", Uranio TV (Yurimaguas)
+#EXTINF:0001 tvg-id="fk1iDtmlMQq6pc" tvg-chno="44" group-title="famelack (pe) [pe] [False]" tvg-logo="", Uranio TV (Yurimaguas)
 https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:0001 tvg-id="raXRAftVOpO8Gu" tvg-chno="43" group-title="famelack (pe) [pe] [False]" tvg-logo="", Vía Altomayo
+#EXTINF:0001 tvg-id="raXRAftVOpO8Gu" tvg-chno="45" group-title="famelack (pe) [pe] [False]" tvg-logo="", Vía Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:0001 tvg-id="I0Rp3YU5Uuox7N" tvg-chno="44" group-title="famelack (pe) [pe] [False]" tvg-logo="", Vía Televisión (720P)
+#EXTINF:0001 tvg-id="I0Rp3YU5Uuox7N" tvg-chno="46" group-title="famelack (pe) [pe] [False]" tvg-logo="", Vía Televisión (720P)
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:0001 tvg-id="dpLqGa5wjsNEE1" tvg-chno="45" group-title="famelack (pe) [pe] [False]" tvg-logo="", Viva TV Yurimaguas
+#EXTINF:0001 tvg-id="dpLqGa5wjsNEE1" tvg-chno="47" group-title="famelack (pe) [pe] [False]" tvg-logo="", Viva TV Yurimaguas
 https://live.obslivestream.com/vivatv/index.m3u8

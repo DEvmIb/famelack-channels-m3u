@@ -9,7 +9,5 @@ https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 #EXTINF:0001 tvg-id="6o8FjUUsDRJiNm" tvg-chno="5" group-title="famelack (rw) [rw] [False]" tvg-logo="", RTV Rwanda
 https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8
-#EXTINF:0001 tvg-id="SvYHaz8FtTQfp8" tvg-chno="6" group-title="famelack (rw) [rw] [False]" tvg-logo="", TV1
-https://live.tv1.rw/live/tv1rwanda_480/index.m3u8
-#EXTINF:0001 tvg-id="xlbj1xHjnlV1Js" tvg-chno="7" group-title="famelack (rw) [rw] [False]" tvg-logo="", TV10
+#EXTINF:0001 tvg-id="xlbj1xHjnlV1Js" tvg-chno="6" group-title="famelack (rw) [rw] [False]" tvg-logo="", TV10
 https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8

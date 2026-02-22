@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="EhXSQ0Jhhv1tef" tvg-chno="1" group-title="famelack (si) [si] [False]" tvg-logo="", Exodus TV
-https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
-#EXTINF:0001 tvg-id="oQtB9huuM5W04L" tvg-chno="2" group-title="famelack (si) [si] [False]" tvg-logo="", TV SLO 1 HD
+#EXTINF:0001 tvg-id="oQtB9huuM5W04L" tvg-chno="1" group-title="famelack (si) [si] [False]" tvg-logo="", TV SLO 1 HD
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="mZeVoA7twKo9P0" tvg-chno="3" group-title="famelack (si) [si] [False]" tvg-logo="", TV SLO 2 HD
+#EXTINF:0001 tvg-id="mZeVoA7twKo9P0" tvg-chno="2" group-title="famelack (si) [si] [False]" tvg-logo="", TV SLO 2 HD
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="RUY0E07uXEVtfa" tvg-chno="4" group-title="famelack (si) [si] [False]" tvg-logo="", TV Veseljak Golica HD
+#EXTINF:0001 tvg-id="RUY0E07uXEVtfa" tvg-chno="3" group-title="famelack (si) [si] [False]" tvg-logo="", TV Veseljak Golica HD
 https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8

@@ -17,20 +17,20 @@ https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="Kc3HHZPOGrmJWv" tvg-chno="9" group-title="famelack (cl) [cl] [False]" tvg-logo="", Atacama Noticias
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:0001 tvg-id="9jkb1tHOSl1q2X" tvg-chno="10" group-title="famelack (cl) [cl] [False]" tvg-logo="", Aysen TV
+#EXTINF:0001 tvg-id="JmmUfpMTKm3wFZ" tvg-chno="10" group-title="famelack (cl) [cl] [False]" tvg-logo="", Atacama TV (Copiapó)
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:0001 tvg-id="9jkb1tHOSl1q2X" tvg-chno="11" group-title="famelack (cl) [cl] [False]" tvg-logo="", Aysen TV
 https://v1.tustreaming.cl/aysentv/index.m3u8
-#EXTINF:0001 tvg-id="ObtiKhy4c7FM1e" tvg-chno="11" group-title="famelack (cl) [cl] [False]" tvg-logo="", Campus TV (Talca)
+#EXTINF:0001 tvg-id="ObtiKhy4c7FM1e" tvg-chno="12" group-title="famelack (cl) [cl] [False]" tvg-logo="", Campus TV (Talca)
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="bL20OQOX6GoIrZ" tvg-chno="12" group-title="famelack (cl) [cl] [False]" tvg-logo="", Canal 1 Nuble
+#EXTINF:0001 tvg-id="bL20OQOX6GoIrZ" tvg-chno="13" group-title="famelack (cl) [cl] [False]" tvg-logo="", Canal 1 Nuble
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="C9uUCmX5l4Ryir" tvg-chno="13" group-title="famelack (cl) [cl] [False]" tvg-logo="", Canal 9 Bío Bío Televisión
+#EXTINF:0001 tvg-id="C9uUCmX5l4Ryir" tvg-chno="14" group-title="famelack (cl) [cl] [False]" tvg-logo="", Canal 9 Bío Bío Televisión
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="DbKvAFoZa5ksBg" tvg-chno="14" group-title="famelack (cl) [cl] [False]" tvg-logo="", Canal ISB (Iglesia San Bernardo)
+#EXTINF:0001 tvg-id="DbKvAFoZa5ksBg" tvg-chno="15" group-title="famelack (cl) [cl] [False]" tvg-logo="", Canal ISB (Iglesia San Bernardo)
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="eko7uFhNP2g6vo" tvg-chno="15" group-title="famelack (cl) [cl] [False]" tvg-logo="", Chile Channel
+#EXTINF:0001 tvg-id="eko7uFhNP2g6vo" tvg-chno="16" group-title="famelack (cl) [cl] [False]" tvg-logo="", Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:0001 tvg-id="eDESw3Ox4wXwbn" tvg-chno="16" group-title="famelack (cl) [cl] [False]" tvg-logo="", Chiloe Red 25
-https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:0001 tvg-id="itmATVZa5Ggr1u" tvg-chno="17" group-title="famelack (cl) [cl] [False]" tvg-logo="", Click TV (Coronel)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:0001 tvg-id="i7jOCnWyYw935a" tvg-chno="18" group-title="famelack (cl) [cl] [False]" tvg-logo="", Contivision
@@ -117,5 +117,7 @@ https://v2.tustreaming.cl/utv/index.m3u8
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:0001 tvg-id="Y2Z36ASHb1vcNr" tvg-chno="59" group-title="famelack (cl) [cl] [False]" tvg-logo="", VC Online
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:0001 tvg-id="55jNFzDbCSLLQk" tvg-chno="60" group-title="famelack (cl) [cl] [False]" tvg-logo="", VTV Valle de Aconcagua
+#EXTINF:0001 tvg-id="osBw1hYyNiagCw" tvg-chno="60" group-title="famelack (cl) [cl] [False]" tvg-logo="", Vision Plus TV (1080i)
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
+#EXTINF:0001 tvg-id="55jNFzDbCSLLQk" tvg-chno="61" group-title="famelack (cl) [cl] [False]" tvg-logo="", VTV Valle de Aconcagua
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8

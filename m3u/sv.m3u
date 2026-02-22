@@ -15,25 +15,23 @@ https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:0001 tvg-id="d3wecW45nAhRjr" tvg-chno="8" group-title="famelack (sv) [sv] [False]" tvg-logo="", JFV TV
 https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="It09WcJXuh2yq1" tvg-chno="9" group-title="famelack (sv) [sv] [False]" tvg-logo="", Josué TV
-https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-#EXTINF:0001 tvg-id="NLIFoRpmAx5nwO" tvg-chno="10" group-title="famelack (sv) [sv] [False]" tvg-logo="", Legislative Assembly of El Salvador
+#EXTINF:0001 tvg-id="NLIFoRpmAx5nwO" tvg-chno="9" group-title="famelack (sv) [sv] [False]" tvg-logo="", Legislative Assembly of El Salvador
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-#EXTINF:0001 tvg-id="jhAGtHDvu4df4q" tvg-chno="11" group-title="famelack (sv) [sv] [False]" tvg-logo="", Megavisión Canal 19
+#EXTINF:0001 tvg-id="jhAGtHDvu4df4q" tvg-chno="10" group-title="famelack (sv) [sv] [False]" tvg-logo="", Megavisión Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:0001 tvg-id="9ARAbe35VYipVs" tvg-chno="12" group-title="famelack (sv) [sv] [False]" tvg-logo="", Megavisión Canal 21
+#EXTINF:0001 tvg-id="9ARAbe35VYipVs" tvg-chno="11" group-title="famelack (sv) [sv] [False]" tvg-logo="", Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:0001 tvg-id="IrNZrLk3v8KoJe" tvg-chno="13" group-title="famelack (sv) [sv] [False]" tvg-logo="", RTV Canal 57
+#EXTINF:0001 tvg-id="IrNZrLk3v8KoJe" tvg-chno="12" group-title="famelack (sv) [sv] [False]" tvg-logo="", RTV Canal 57
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
-#EXTINF:0001 tvg-id="gw44pwRAIbfQlt" tvg-chno="14" group-title="famelack (sv) [sv] [False]" tvg-logo="", Taber TV
+#EXTINF:0001 tvg-id="gw44pwRAIbfQlt" tvg-chno="13" group-title="famelack (sv) [sv] [False]" tvg-logo="", Taber TV
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
-#EXTINF:0001 tvg-id="oiFEO2uBrrWk1f" tvg-chno="15" group-title="famelack (sv) [sv] [False]" tvg-logo="", Tigo Sports TV El Salvador
+#EXTINF:0001 tvg-id="oiFEO2uBrrWk1f" tvg-chno="14" group-title="famelack (sv) [sv] [False]" tvg-logo="", Tigo Sports TV El Salvador
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
-#EXTINF:0001 tvg-id="Blt46frCkDVO7v" tvg-chno="16" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV CRET
+#EXTINF:0001 tvg-id="Blt46frCkDVO7v" tvg-chno="15" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV CRET
 https://radiocret.net:8082/hls/tvcret.m3u8
-#EXTINF:0001 tvg-id="Jx6LDrmycTsFql" tvg-chno="17" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV Getsemaní
+#EXTINF:0001 tvg-id="Jx6LDrmycTsFql" tvg-chno="16" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV Getsemaní
 https://serversv.com:8080/hls/tvgetsemani.m3u8
-#EXTINF:0001 tvg-id="h8wvrpeqCIA0Cx" tvg-chno="18" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV León de Judá
+#EXTINF:0001 tvg-id="h8wvrpeqCIA0Cx" tvg-chno="17" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV León de Judá
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
-#EXTINF:0001 tvg-id="b1EAokD2bBiJTE" tvg-chno="19" group-title="famelack (sv) [sv] [False]" tvg-logo="", TVCa Televisión Católica Arquidiocesana
+#EXTINF:0001 tvg-id="b1EAokD2bBiJTE" tvg-chno="18" group-title="famelack (sv) [sv] [False]" tvg-logo="", TVCa Televisión Católica Arquidiocesana
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
