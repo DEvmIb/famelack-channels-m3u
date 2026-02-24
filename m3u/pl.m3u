@@ -67,20 +67,20 @@ https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg0
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:0001 tvg-id="seCu6SlVTQcDoJ" tvg-chno="34" group-title="famelack (pl) [pl] [False]" tvg-logo="", Top Million Dollar Agent
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107
-#EXTINF:0001 tvg-id="viSqDXiMLM8FN0" tvg-chno="35" group-title="famelack (pl) [pl] [False]" tvg-logo="", TV ASTA
+#EXTINF:0001 tvg-id="zm99zgCQP8EGKf" tvg-chno="35" group-title="famelack (pl) [pl] [False]" tvg-logo="", Top Movies Polska
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
+#EXTINF:0001 tvg-id="viSqDXiMLM8FN0" tvg-chno="36" group-title="famelack (pl) [pl] [False]" tvg-logo="", TV ASTA
 https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="aY6u7qwNMI1Wgm" tvg-chno="36" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVK Stella
+#EXTINF:0001 tvg-id="aY6u7qwNMI1Wgm" tvg-chno="37" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVK Stella
 https://stream.tvkstella.pl/stella/stella.m3u8
-#EXTINF:0001 tvg-id="Se7x9HGaZbNY8X" tvg-chno="37" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP Info
+#EXTINF:0001 tvg-id="Se7x9HGaZbNY8X" tvg-chno="38" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP Info
 https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8
-#EXTINF:0001 tvg-id="fzamcn1eHJ76Mf" tvg-chno="38" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP Polonia
+#EXTINF:0001 tvg-id="fzamcn1eHJ76Mf" tvg-chno="39" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP Polonia
 https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8
-#EXTINF:0001 tvg-id="2NOHQqe5XXGwtZ" tvg-chno="39" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP World
+#EXTINF:0001 tvg-id="2NOHQqe5XXGwtZ" tvg-chno="40" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP World
 https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
-#EXTINF:0001 tvg-id="XOB3inPkwkHuWb" tvg-chno="40" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP1
+#EXTINF:0001 tvg-id="XOB3inPkwkHuWb" tvg-chno="41" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP1
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
-#EXTINF:0001 tvg-id="UJrA93oKFNB1K1" tvg-chno="41" group-title="famelack (pl) [pl] [False]" tvg-logo="", Twoja.TV
-https://stream.twoja.tv/ttv_hls/live.m3u8
 #EXTINF:0001 tvg-id="fZI48V3oPHwUhn" tvg-chno="42" group-title="famelack (pl) [pl] [False]" tvg-logo="", W Polsce PL
 https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #EXTINF:0001 tvg-id="UeRJuogpYTAdQE" tvg-chno="43" group-title="famelack (pl) [pl] [False]" tvg-logo="", World Billiards TV

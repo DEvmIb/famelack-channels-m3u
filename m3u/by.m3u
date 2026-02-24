@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="yxXfCHd5uHQMJD" tvg-chno="1" group-title="famelack (by) [by] [False]" tvg-logo="", Беларусь 5
+#EXTINF:0001 tvg-id="2wJqJ0vbaYddeW" tvg-chno="1" group-title="famelack (by) [by] [False]" tvg-logo="", Беларусь 2
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="yxXfCHd5uHQMJD" tvg-chno="2" group-title="famelack (by) [by] [False]" tvg-logo="", Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="EkG0p6WwUwsunU" tvg-chno="2" group-title="famelack (by) [by] [False]" tvg-logo="", Беларусь 24
+#EXTINF:0001 tvg-id="EkG0p6WwUwsunU" tvg-chno="3" group-title="famelack (by) [by] [False]" tvg-logo="", Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="1lACURA3RDW6jo" tvg-chno="3" group-title="famelack (by) [by] [False]" tvg-logo="", Первый информационный
+#EXTINF:0001 tvg-id="1lACURA3RDW6jo" tvg-chno="4" group-title="famelack (by) [by] [False]" tvg-logo="", Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="tMbsI4ezeoctSl" tvg-chno="4" group-title="famelack (by) [by] [False]" tvg-logo="", СТБ
+#EXTINF:0001 tvg-id="tMbsI4ezeoctSl" tvg-chno="5" group-title="famelack (by) [by] [False]" tvg-logo="", СТБ
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8

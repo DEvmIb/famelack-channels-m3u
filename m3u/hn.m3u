@@ -23,8 +23,8 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 https://s.emisoras.tv:8081/girasoltv/index.m3u8
 #EXTINF:0001 tvg-id="YShLtvidjqB1kx" tvg-chno="12" group-title="famelack (hn) [hn] [False]" tvg-logo="", Kerusso TV
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
-#EXTINF:0001 tvg-id="9RwFnJ12MgiGgP" tvg-chno="13" group-title="famelack (hn) [hn] [False]" tvg-logo="", La Top 107.7
-https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
+#EXTINF:0001 tvg-id="HAjT5lHheouJ3C" tvg-chno="13" group-title="famelack (hn) [hn] [False]" tvg-logo="", La Top 102.9
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
 #EXTINF:0001 tvg-id="gtCaykQvpamqwT" tvg-chno="14" group-title="famelack (hn) [hn] [False]" tvg-logo="", Lenca Television Canal 40
 https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:0001 tvg-id="26RtUqr5ZSMhUL" tvg-chno="15" group-title="famelack (hn) [hn] [False]" tvg-logo="", Litoral Atlántico HD
@@ -43,10 +43,10 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 https://viewhn.com/telemas/live/playlist.m3u8
 #EXTINF:0001 tvg-id="bogtDcaAWtOFRz" tvg-chno="22" group-title="famelack (hn) [hn] [False]" tvg-logo="", Telerayo
 https://s.emisoras.tv:8081/telerayo/index.m3u8
-#EXTINF:0001 tvg-id="uoM0jHqhHe7tUv" tvg-chno="23" group-title="famelack (hn) [hn] [False]" tvg-logo="", Televisión Metrópolis 19.1
-https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-#EXTINF:0001 tvg-id="absH7c9TQgVLPd" tvg-chno="24" group-title="famelack (hn) [hn] [False]" tvg-logo="", Televisión Metrópolis 19.2
+#EXTINF:0001 tvg-id="absH7c9TQgVLPd" tvg-chno="23" group-title="famelack (hn) [hn] [False]" tvg-logo="", Televisión Metrópolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+#EXTINF:0001 tvg-id="qWRNlLMLdjrPV7" tvg-chno="24" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro 27.2 HD
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 #EXTINF:0001 tvg-id="OPNVhQbPeZ6MyD" tvg-chno="25" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro HD
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 #EXTINF:0001 tvg-id="v4e6Bvt402a3eS" tvg-chno="26" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Copán

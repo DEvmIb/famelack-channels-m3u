@@ -39,9 +39,11 @@ https://live-fi.tvkaista.net/star-channel/live.m3u8
 https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="xqKdOYRVMSVleX" tvg-chno="20" group-title="famelack (fi) [fi] [False]" tvg-logo="", Taivas TV7
 https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="QkAeXYqD57Cduc" tvg-chno="21" group-title="famelack (fi) [fi] [False]" tvg-logo="", YLE TV 1
+#EXTINF:0001 tvg-id="3kvMeRQNc7yJgV" tvg-chno="21" group-title="famelack (fi) [fi] [False]" tvg-logo="", World of Love Island
+https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="QkAeXYqD57Cduc" tvg-chno="22" group-title="famelack (fi) [fi] [False]" tvg-logo="", YLE TV 1
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
-#EXTINF:0001 tvg-id="532XJLmRxgJkDu" tvg-chno="22" group-title="famelack (fi) [fi] [False]" tvg-logo="", YLE TV 2
+#EXTINF:0001 tvg-id="532XJLmRxgJkDu" tvg-chno="23" group-title="famelack (fi) [fi] [False]" tvg-logo="", YLE TV 2
 https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
-#EXTINF:0001 tvg-id="gAbt2rH6T2mSLN" tvg-chno="23" group-title="famelack (fi) [fi] [False]" tvg-logo="", YLE TV Teema & Fem
+#EXTINF:0001 tvg-id="gAbt2rH6T2mSLN" tvg-chno="24" group-title="famelack (fi) [fi] [False]" tvg-logo="", YLE TV Teema & Fem
 https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8

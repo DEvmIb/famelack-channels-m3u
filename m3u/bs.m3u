@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="kLQkRPJKjWk8J9" tvg-chno="1" group-title="famelack (bs) [bs] [False]" tvg-logo="", Guardian Talk Radio
 https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8
-#EXTINF:0001 tvg-id="ztNrNzCLndWIQ7" tvg-chno="2" group-title="famelack (bs) [bs] [False]" tvg-logo="", The Parliamentary Channel
+#EXTINF:0001 tvg-id="0x30LgHIxRSpbT" tvg-chno="2" group-title="famelack (bs) [bs] [False]" tvg-logo="", Island Luck TV
+https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
+#EXTINF:0001 tvg-id="ztNrNzCLndWIQ7" tvg-chno="3" group-title="famelack (bs) [bs] [False]" tvg-logo="", The Parliamentary Channel
 https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
-#EXTINF:0001 tvg-id="kjcRhciCRakqD7" tvg-chno="3" group-title="famelack (bs) [bs] [False]" tvg-logo="", ZNS-TV
+#EXTINF:0001 tvg-id="kjcRhciCRakqD7" tvg-chno="4" group-title="famelack (bs) [bs] [False]" tvg-logo="", ZNS-TV
 https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8

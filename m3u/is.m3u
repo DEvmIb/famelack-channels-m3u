@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="ja1vixP6JUtLey" tvg-chno="1" group-title="famelack (is) [is] [False]" tvg-logo="", RÚV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
-#EXTINF:0001 tvg-id="6xbesfipmdKMbt" tvg-chno="2" group-title="famelack (is) [is] [False]" tvg-logo="", Vísir
+#EXTINF:0001 tvg-id="E7O8zBJb4BAo4h" tvg-chno="2" group-title="famelack (is) [is] [False]" tvg-logo="", RÚV 2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:0001 tvg-id="6xbesfipmdKMbt" tvg-chno="3" group-title="famelack (is) [is] [False]" tvg-logo="", Vísir
 https://live.visir.is/hls-live/visir.smil/playlist.m3u8

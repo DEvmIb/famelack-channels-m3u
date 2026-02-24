@@ -13,58 +13,58 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 #EXTINF:0001 tvg-id="Ek5B1tchHjxFC7" tvg-chno="7" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal 10 Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:0001 tvg-id="om7GIuOIZrQShy" tvg-chno="8" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal 10 Durango
-https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
-#EXTINF:0001 tvg-id="1FGdyXp2FzRogD" tvg-chno="9" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal 15 ILCE Summa Sabres
+#EXTINF:0001 tvg-id="1FGdyXp2FzRogD" tvg-chno="8" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal 15 ILCE Summa Sabres
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-#EXTINF:0001 tvg-id="nsEU2vBOpVL9EW" tvg-chno="10" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal 26 Aguascalientes
+#EXTINF:0001 tvg-id="nsEU2vBOpVL9EW" tvg-chno="9" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal 26 Aguascalientes
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Hpf3KI7ImTrsrI" tvg-chno="11" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal 33 Tijuana
+#EXTINF:0001 tvg-id="Hpf3KI7ImTrsrI" tvg-chno="10" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal 33 Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:0001 tvg-id="n1fgvoCmYfpYuP" tvg-chno="12" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal 44 Chihuahua
+#EXTINF:0001 tvg-id="n1fgvoCmYfpYuP" tvg-chno="11" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:0001 tvg-id="YMJ8tPm6cmA4FF" tvg-chno="13" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal 44 Ciudad Juárez
+#EXTINF:0001 tvg-id="YMJ8tPm6cmA4FF" tvg-chno="12" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal 44 Ciudad Juárez
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
-#EXTINF:0001 tvg-id="mCYSTDjXapnUpp" tvg-chno="14" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal del Congreso 45.1
-https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
-#EXTINF:0001 tvg-id="zjs8fScsFVoj7q" tvg-chno="15" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal Parlamento del Congreso de Jalisco
+#EXTINF:0001 tvg-id="zjs8fScsFVoj7q" tvg-chno="13" group-title="famelack (mx) [mx] [False]" tvg-logo="", Canal Parlamento del Congreso de Jalisco
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="npvsow7O979Ja1" tvg-chno="16" group-title="famelack (mx) [mx] [False]" tvg-logo="", Conecta TV
+#EXTINF:0001 tvg-id="npvsow7O979Ja1" tvg-chno="14" group-title="famelack (mx) [mx] [False]" tvg-logo="", Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-#EXTINF:0001 tvg-id="dE1MtHTFsxve60" tvg-chno="17" group-title="famelack (mx) [mx] [False]" tvg-logo="", CreaLaTV
+#EXTINF:0001 tvg-id="dE1MtHTFsxve60" tvg-chno="15" group-title="famelack (mx) [mx] [False]" tvg-logo="", CreaLaTV
 https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8
-#EXTINF:0001 tvg-id="CrHxjo8TlGVNjG" tvg-chno="18" group-title="famelack (mx) [mx] [False]" tvg-logo="", Despierta TV
+#EXTINF:0001 tvg-id="CrHxjo8TlGVNjG" tvg-chno="16" group-title="famelack (mx) [mx] [False]" tvg-logo="", Despierta TV
 https://video2.lhdserver.es/despiertatv/live.m3u8
-#EXTINF:0001 tvg-id="Y2XbgAUNu1jdKZ" tvg-chno="19" group-title="famelack (mx) [mx] [False]" tvg-logo="", Expresa TV
+#EXTINF:0001 tvg-id="Y2XbgAUNu1jdKZ" tvg-chno="17" group-title="famelack (mx) [mx] [False]" tvg-logo="", Expresa TV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="lRHRzjgUVRLYir" tvg-chno="20" group-title="famelack (mx) [mx] [False]" tvg-logo="", Filmex (Xumo)
+#EXTINF:0001 tvg-id="lRHRzjgUVRLYir" tvg-chno="18" group-title="famelack (mx) [mx] [False]" tvg-logo="", Filmex (Xumo)
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="rEnqoQXmCbWLYF" tvg-chno="21" group-title="famelack (mx) [mx] [False]" tvg-logo="", Filmex Clásico
+#EXTINF:0001 tvg-id="rEnqoQXmCbWLYF" tvg-chno="19" group-title="famelack (mx) [mx] [False]" tvg-logo="", Filmex Clásico
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="byTJ8brjXu9LMR" tvg-chno="22" group-title="famelack (mx) [mx] [False]" tvg-logo="", Golden TV
+#EXTINF:0001 tvg-id="byTJ8brjXu9LMR" tvg-chno="20" group-title="famelack (mx) [mx] [False]" tvg-logo="", Golden TV
 https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
-#EXTINF:0001 tvg-id="tsY7Oi70RUlWEA" tvg-chno="23" group-title="famelack (mx) [mx] [False]" tvg-logo="", ICRTV Colima
+#EXTINF:0001 tvg-id="tsY7Oi70RUlWEA" tvg-chno="21" group-title="famelack (mx) [mx] [False]" tvg-logo="", ICRTV Colima
 https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="H3QCUyspZRHcov" tvg-chno="24" group-title="famelack (mx) [mx] [False]" tvg-logo="", IERTBCS Canal 8 La Paz
+#EXTINF:0001 tvg-id="H3QCUyspZRHcov" tvg-chno="22" group-title="famelack (mx) [mx] [False]" tvg-logo="", IERTBCS Canal 8 La Paz
 https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
-#EXTINF:0001 tvg-id="j4d3hEjXBWVU7A" tvg-chno="25" group-title="famelack (mx) [mx] [False]" tvg-logo="", IERTBCS Canal 8.2 La Paz
+#EXTINF:0001 tvg-id="j4d3hEjXBWVU7A" tvg-chno="23" group-title="famelack (mx) [mx] [False]" tvg-logo="", IERTBCS Canal 8.2 La Paz
 https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
-#EXTINF:0001 tvg-id="ZiZzS4tyBeE4oz" tvg-chno="26" group-title="famelack (mx) [mx] [False]" tvg-logo="", ITV Deportes
+#EXTINF:0001 tvg-id="hvpyyH4xiS4fE5" tvg-chno="24" group-title="famelack (mx) [mx] [False]" tvg-logo="", IMRyT Morelos TV
+https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8
+#EXTINF:0001 tvg-id="ZiZzS4tyBeE4oz" tvg-chno="25" group-title="famelack (mx) [mx] [False]" tvg-logo="", ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:0001 tvg-id="Pz1CuDeSJYHivR" tvg-chno="27" group-title="famelack (mx) [mx] [False]" tvg-logo="", Jalisco TV
+#EXTINF:0001 tvg-id="Pz1CuDeSJYHivR" tvg-chno="26" group-title="famelack (mx) [mx] [False]" tvg-logo="", Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-#EXTINF:0001 tvg-id="MdYnmsFTlP5Wem" tvg-chno="28" group-title="famelack (mx) [mx] [False]" tvg-logo="", Justicia TV
+#EXTINF:0001 tvg-id="MdYnmsFTlP5Wem" tvg-chno="27" group-title="famelack (mx) [mx] [False]" tvg-logo="", Justicia TV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:0001 tvg-id="sGZGN77ULu3I6y" tvg-chno="29" group-title="famelack (mx) [mx] [False]" tvg-logo="", Lobo TV
+#EXTINF:0001 tvg-id="sGZGN77ULu3I6y" tvg-chno="28" group-title="famelack (mx) [mx] [False]" tvg-logo="", Lobo TV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-#EXTINF:0001 tvg-id="PjWjiFmYQweARg" tvg-chno="30" group-title="famelack (mx) [mx] [False]" tvg-logo="", María Visión Mexico
+#EXTINF:0001 tvg-id="PjWjiFmYQweARg" tvg-chno="29" group-title="famelack (mx) [mx] [False]" tvg-logo="", María Visión Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:0001 tvg-id="P3PQh3YlBALxV5" tvg-chno="31" group-title="famelack (mx) [mx] [False]" tvg-logo="", Mexiquense TV
+#EXTINF:0001 tvg-id="P3PQh3YlBALxV5" tvg-chno="30" group-title="famelack (mx) [mx] [False]" tvg-logo="", Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:0001 tvg-id="iSOfFIrnvu17Xp" tvg-chno="32" group-title="famelack (mx) [mx] [False]" tvg-logo="", Monte Maria
+#EXTINF:0001 tvg-id="iSOfFIrnvu17Xp" tvg-chno="31" group-title="famelack (mx) [mx] [False]" tvg-logo="", Monte Maria
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
-#EXTINF:0001 tvg-id="4i2dbm12cF2ARa" tvg-chno="33" group-title="famelack (mx) [mx] [False]" tvg-logo="", Nayarit Comunica
+#EXTINF:0001 tvg-id="4i2dbm12cF2ARa" tvg-chno="32" group-title="famelack (mx) [mx] [False]" tvg-logo="", Nayarit Comunica
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+#EXTINF:0001 tvg-id="58rlKy9eXNIQTh" tvg-chno="33" group-title="famelack (mx) [mx] [False]" tvg-logo="", Notigram TV (XHFGL-TDT)
+https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
 #EXTINF:0001 tvg-id="XAsSHHozcYzD9B" tvg-chno="34" group-title="famelack (mx) [mx] [False]" tvg-logo="", Nueve TV San Luís Potosí
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:0001 tvg-id="iVsl8EDmgNdyNV" tvg-chno="35" group-title="famelack (mx) [mx] [False]" tvg-logo="", Once México
@@ -93,65 +93,67 @@ https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
 https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
 #EXTINF:0001 tvg-id="inKpcU1CFpY4af" tvg-chno="47" group-title="famelack (mx) [mx] [False]" tvg-logo="", SIPSE TV 8.1
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
-#EXTINF:0001 tvg-id="zMvnkO0BSIigRy" tvg-chno="48" group-title="famelack (mx) [mx] [False]" tvg-logo="", Sistema Michoacano de TV
+#EXTINF:0001 tvg-id="bqZG2nHHXJFyOO" tvg-chno="48" group-title="famelack (mx) [mx] [False]" tvg-logo="", SIPSE TVCUN 8.1
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:0001 tvg-id="zMvnkO0BSIigRy" tvg-chno="49" group-title="famelack (mx) [mx] [False]" tvg-logo="", Sistema Michoacano de TV
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:0001 tvg-id="xRMBdM0z9ZQY8t" tvg-chno="49" group-title="famelack (mx) [mx] [False]" tvg-logo="", SIZART Canal 24 (XHZHZ-TDT)
+#EXTINF:0001 tvg-id="xRMBdM0z9ZQY8t" tvg-chno="50" group-title="famelack (mx) [mx] [False]" tvg-logo="", SIZART Canal 24 (XHZHZ-TDT)
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:0001 tvg-id="ejJFGypGVZEjkg" tvg-chno="50" group-title="famelack (mx) [mx] [False]" tvg-logo="", SQCS Canal 4
+#EXTINF:0001 tvg-id="ejJFGypGVZEjkg" tvg-chno="51" group-title="famelack (mx) [mx] [False]" tvg-logo="", SQCS Canal 4
 https://video0.rogohosting.com:19360/4982/4982.m3u8
-#EXTINF:0001 tvg-id="bWHBTSEbyYf27m" tvg-chno="51" group-title="famelack (mx) [mx] [False]" tvg-logo="", Super Channel 12
+#EXTINF:0001 tvg-id="bWHBTSEbyYf27m" tvg-chno="52" group-title="famelack (mx) [mx] [False]" tvg-logo="", Super Channel 12
 https://servilive.com:3263/live/channel12live.m3u8
-#EXTINF:0001 tvg-id="irSoF8eTXd3jkl" tvg-chno="52" group-title="famelack (mx) [mx] [False]" tvg-logo="", Tele Saltillo
+#EXTINF:0001 tvg-id="irSoF8eTXd3jkl" tvg-chno="53" group-title="famelack (mx) [mx] [False]" tvg-logo="", Tele Saltillo
 https://servilive.com:3879/live/telesaltillolive.m3u8
-#EXTINF:0001 tvg-id="arUwONnDyiIo6o" tvg-chno="53" group-title="famelack (mx) [mx] [False]" tvg-logo="", Tele Yucatan
+#EXTINF:0001 tvg-id="arUwONnDyiIo6o" tvg-chno="54" group-title="famelack (mx) [mx] [False]" tvg-logo="", Tele Yucatan
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
-#EXTINF:0001 tvg-id="cuc5N3ddMjH321" tvg-chno="54" group-title="famelack (mx) [mx] [False]" tvg-logo="", Telemax (XEWH-TDT)
+#EXTINF:0001 tvg-id="cuc5N3ddMjH321" tvg-chno="55" group-title="famelack (mx) [mx] [False]" tvg-logo="", Telemax (XEWH-TDT)
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:0001 tvg-id="CV0J6mHYbHQoth" tvg-chno="55" group-title="famelack (mx) [mx] [False]" tvg-logo="", Teleplay Sureste
+#EXTINF:0001 tvg-id="CV0J6mHYbHQoth" tvg-chno="56" group-title="famelack (mx) [mx] [False]" tvg-logo="", Teleplay Sureste
 https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
-#EXTINF:0001 tvg-id="2H96xaNz6Ph6GF" tvg-chno="56" group-title="famelack (mx) [mx] [False]" tvg-logo="", Tlaxcala Televisión
+#EXTINF:0001 tvg-id="2H96xaNz6Ph6GF" tvg-chno="57" group-title="famelack (mx) [mx] [False]" tvg-logo="", Tlaxcala Televisión
 https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
-#EXTINF:0001 tvg-id="Ypo12G7eK5IDLt" tvg-chno="57" group-title="famelack (mx) [mx] [False]" tvg-logo="", TRC Televisión
+#EXTINF:0001 tvg-id="Ypo12G7eK5IDLt" tvg-chno="58" group-title="famelack (mx) [mx] [False]" tvg-logo="", TRC Televisión
 https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
-#EXTINF:0001 tvg-id="gc9aeOkbQG1vYx" tvg-chno="58" group-title="famelack (mx) [mx] [False]" tvg-logo="", Turistik TV
+#EXTINF:0001 tvg-id="gc9aeOkbQG1vYx" tvg-chno="59" group-title="famelack (mx) [mx] [False]" tvg-logo="", Turistik TV
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
-#EXTINF:0001 tvg-id="BqjUF0ZKQE6ngg" tvg-chno="59" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Cuatro 4.1
+#EXTINF:0001 tvg-id="BqjUF0ZKQE6ngg" tvg-chno="60" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Cuatro 4.1
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:0001 tvg-id="cWWftSEuzr59Qo" tvg-chno="60" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Cuatro 4.2
+#EXTINF:0001 tvg-id="cWWftSEuzr59Qo" tvg-chno="61" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Cuatro 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:0001 tvg-id="06BfITicbfdcVY" tvg-chno="61" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Lobo Durango
+#EXTINF:0001 tvg-id="06BfITicbfdcVY" tvg-chno="62" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Lobo Durango
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:0001 tvg-id="2eqKKZD9vsVmKP" tvg-chno="62" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Mar La Paz
+#EXTINF:0001 tvg-id="2eqKKZD9vsVmKP" tvg-chno="63" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Mar La Paz
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Z8y7pyWQF00bRD" tvg-chno="63" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Mar Los Cabos
+#EXTINF:0001 tvg-id="Z8y7pyWQF00bRD" tvg-chno="64" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Mar Los Cabos
 https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="UB1O3LUxfTUgSf" tvg-chno="64" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Mar Puerto Vallarta
+#EXTINF:0001 tvg-id="UB1O3LUxfTUgSf" tvg-chno="65" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Mar Puerto Vallarta
 https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
-#EXTINF:0001 tvg-id="DCzhAOMfIMF2kt" tvg-chno="65" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Nuevo León Canal 28 (XHMNL-TDT)
+#EXTINF:0001 tvg-id="DCzhAOMfIMF2kt" tvg-chno="66" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV Nuevo León Canal 28 (XHMNL-TDT)
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:0001 tvg-id="g7YtvRUN199O67" tvg-chno="66" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV UG
+#EXTINF:0001 tvg-id="g7YtvRUN199O67" tvg-chno="67" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV UG
 https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
-#EXTINF:0001 tvg-id="AOK2yURwDU45yn" tvg-chno="67" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV UJAT (XHUJAT-TDT)
+#EXTINF:0001 tvg-id="AOK2yURwDU45yn" tvg-chno="68" group-title="famelack (mx) [mx] [False]" tvg-logo="", TV UJAT (XHUJAT-TDT)
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:0001 tvg-id="cRSxFxqPPVobRy" tvg-chno="68" group-title="famelack (mx) [mx] [False]" tvg-logo="", TVMÁS (XHGV-TDT)
+#EXTINF:0001 tvg-id="cRSxFxqPPVobRy" tvg-chno="69" group-title="famelack (mx) [mx] [False]" tvg-logo="", TVMÁS (XHGV-TDT)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:0001 tvg-id="F9HdEHqrInWtUm" tvg-chno="69" group-title="famelack (mx) [mx] [False]" tvg-logo="", TVP Culiacán
+#EXTINF:0001 tvg-id="F9HdEHqrInWtUm" tvg-chno="70" group-title="famelack (mx) [mx] [False]" tvg-logo="", TVP Culiacán
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="CXFEfwBakQ1YSI" tvg-chno="70" group-title="famelack (mx) [mx] [False]" tvg-logo="", TVP Los Mochis
+#EXTINF:0001 tvg-id="CXFEfwBakQ1YSI" tvg-chno="71" group-title="famelack (mx) [mx] [False]" tvg-logo="", TVP Los Mochis
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="snO1Q9aWnWeoQ0" tvg-chno="71" group-title="famelack (mx) [mx] [False]" tvg-logo="", TVP Mazatlán
+#EXTINF:0001 tvg-id="snO1Q9aWnWeoQ0" tvg-chno="72" group-title="famelack (mx) [mx] [False]" tvg-logo="", TVP Mazatlán
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Ok9SBkw2hJdLsx" tvg-chno="72" group-title="famelack (mx) [mx] [False]" tvg-logo="", TVP Obregón
+#EXTINF:0001 tvg-id="Ok9SBkw2hJdLsx" tvg-chno="73" group-title="famelack (mx) [mx] [False]" tvg-logo="", TVP Obregón
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="EHXNJG9CKImTT2" tvg-chno="73" group-title="famelack (mx) [mx] [False]" tvg-logo="", Ultra TV Puebla
+#EXTINF:0001 tvg-id="EHXNJG9CKImTT2" tvg-chno="74" group-title="famelack (mx) [mx] [False]" tvg-logo="", Ultra TV Puebla
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="XC2uNbOMKneW9c" tvg-chno="74" group-title="famelack (mx) [mx] [False]" tvg-logo="", UMTV
+#EXTINF:0001 tvg-id="XC2uNbOMKneW9c" tvg-chno="75" group-title="famelack (mx) [mx] [False]" tvg-logo="", UMTV
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-#EXTINF:0001 tvg-id="JvGEcuMecAcih8" tvg-chno="75" group-title="famelack (mx) [mx] [False]" tvg-logo="", Unison TV
+#EXTINF:0001 tvg-id="JvGEcuMecAcih8" tvg-chno="76" group-title="famelack (mx) [mx] [False]" tvg-logo="", Unison TV
 https://stream.unison.mx/hls/unisontvatem.m3u8
-#EXTINF:0001 tvg-id="2EyL9brYPFxMTy" tvg-chno="76" group-title="famelack (mx) [mx] [False]" tvg-logo="", VB Media TV
+#EXTINF:0001 tvg-id="2EyL9brYPFxMTy" tvg-chno="77" group-title="famelack (mx) [mx] [False]" tvg-logo="", VB Media TV
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-#EXTINF:0001 tvg-id="NMv110aM0XbHrD" tvg-chno="77" group-title="famelack (mx) [mx] [False]" tvg-logo="", Visión Televisión
+#EXTINF:0001 tvg-id="NMv110aM0XbHrD" tvg-chno="78" group-title="famelack (mx) [mx] [False]" tvg-logo="", Visión Televisión
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:0001 tvg-id="HLRdcloMEfvKBn" tvg-chno="78" group-title="famelack (mx) [mx] [False]" tvg-logo="", ZAZ
+#EXTINF:0001 tvg-id="HLRdcloMEfvKBn" tvg-chno="79" group-title="famelack (mx) [mx] [False]" tvg-logo="", ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
