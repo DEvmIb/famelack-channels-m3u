@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="Zli9CbiFBQohSk" tvg-chno="1" group-title="famelack (cz) [cz] [False]" tvg-logo="", ČT24
+#EXTINF:0001 tvg-id="BIDI8yaoxL4vBI" tvg-chno="1" group-title="famelack (cz) [cz] [False]" tvg-logo="", CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:0001 tvg-id="sGGYcG95nzGgeJ" tvg-chno="2" group-title="famelack (cz) [cz] [False]" tvg-logo="", Elektrika TV
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
@@ -20,7 +20,7 @@ https://streamer05.low-latency.cz/oiktv/index.m3u8
 #EXTINF:0001 tvg-id="yMNi2T844C4jgy" tvg-chno="10" group-title="famelack (cz) [cz] [False]" tvg-logo="", Plzeň TV
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
 #EXTINF:0001 tvg-id="TJaXKOg9obT2nw" tvg-chno="11" group-title="famelack (cz) [cz] [False]" tvg-logo="", Polar TV
-https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
 #EXTINF:0001 tvg-id="NiW1eLWF6Tpazk" tvg-chno="12" group-title="famelack (cz) [cz] [False]" tvg-logo="", Polar2 TV
 https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
 #EXTINF:0001 tvg-id="4Fm9yYffo8ed4H" tvg-chno="13" group-title="famelack (cz) [cz] [False]" tvg-logo="", Retro Music Television

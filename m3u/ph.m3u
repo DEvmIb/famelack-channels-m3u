@@ -7,7 +7,9 @@ https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:0001 tvg-id="RhkfgHInexT7iQ" tvg-chno="4" group-title="famelack (ph) [ph] [False]" tvg-logo="", Mindanow Network TV
 https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
-#EXTINF:0001 tvg-id="vX2Vm81TXt010f" tvg-chno="5" group-title="famelack (ph) [ph] [False]" tvg-logo="", Premier Sports
+#EXTINF:0001 tvg-id="g2M151IR177r4N" tvg-chno="5" group-title="famelack (ph) [ph] [False]" tvg-logo="", Nudge Sports Channel
+https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
+#EXTINF:0001 tvg-id="vX2Vm81TXt010f" tvg-chno="6" group-title="famelack (ph) [ph] [False]" tvg-logo="", Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-#EXTINF:0001 tvg-id="ZSj74UmnkvuvdN" tvg-chno="6" group-title="famelack (ph) [ph] [False]" tvg-logo="", Premier Sports 2
+#EXTINF:0001 tvg-id="ZSj74UmnkvuvdN" tvg-chno="7" group-title="famelack (ph) [ph] [False]" tvg-logo="", Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8

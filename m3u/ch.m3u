@@ -6,7 +6,7 @@ https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 #EXTINF:0001 tvg-id="fjYriRacd46Tsw" tvg-chno="3" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 1
 https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 #EXTINF:0001 tvg-id="cIkg0H43fAL4zk" tvg-chno="4" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 2
-https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
 #EXTINF:0001 tvg-id="uPhFpY546jefo6" tvg-chno="5" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 3
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 #EXTINF:0001 tvg-id="trjWtKrUtelzEV" tvg-chno="6" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 4

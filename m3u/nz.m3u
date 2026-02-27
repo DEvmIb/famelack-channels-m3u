@@ -37,3 +37,5 @@ https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg010
 https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8
 #EXTINF:0001 tvg-id="LASorJSceND6kL" tvg-chno="19" group-title="famelack (nz) [nz] [False]" tvg-logo="", The Chat Show Channel
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="1jOpKreG2aLlwA" tvg-chno="20" group-title="famelack (nz) [nz] [False]" tvg-logo="", Wairarapa TV
+https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8

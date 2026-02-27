@@ -1,175 +1,217 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="al3WKA8i9yYXx6" tvg-chno="1" group-title="famelack (nl) [nl] [False]" tvg-logo="", 1Almere TV
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
-#EXTINF:0001 tvg-id="VW5KCkVwmL5Q1A" tvg-chno="2" group-title="famelack (nl) [nl] [False]" tvg-logo="", A1 TV
+#EXTINF:0001 tvg-id="3LwrECAb6nB7EL" tvg-chno="2" group-title="famelack (nl) [nl] [False]" tvg-logo="", 1Twente TV
+https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
+#EXTINF:0001 tvg-id="VW5KCkVwmL5Q1A" tvg-chno="3" group-title="famelack (nl) [nl] [False]" tvg-logo="", A1 TV
 https://stream.a1mediagroep.nl/hls/a1tv.m3u8
-#EXTINF:0001 tvg-id="tkIXZ09wUTDqoW" tvg-chno="3" group-title="famelack (nl) [nl] [False]" tvg-logo="", Altena TV
+#EXTINF:0001 tvg-id="tkIXZ09wUTDqoW" tvg-chno="4" group-title="famelack (nl) [nl] [False]" tvg-logo="", Altena TV
 https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
-#EXTINF:0001 tvg-id="lQR58FY8hPI1Yk" tvg-chno="4" group-title="famelack (nl) [nl] [False]" tvg-logo="", BE@TTV
+#EXTINF:0001 tvg-id="lQR58FY8hPI1Yk" tvg-chno="5" group-title="famelack (nl) [nl] [False]" tvg-logo="", BE@TTV
 https://tv.beatfm.nl/live.m3u8
-#EXTINF:0001 tvg-id="U2Aiz8KrVs5iFm" tvg-chno="5" group-title="famelack (nl) [nl] [False]" tvg-logo="", BNR Nieuwsradio
+#EXTINF:0001 tvg-id="U2Aiz8KrVs5iFm" tvg-chno="6" group-title="famelack (nl) [nl] [False]" tvg-logo="", BNR Nieuwsradio
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
-#EXTINF:0001 tvg-id="qCNy2ojifNspg9" tvg-chno="6" group-title="famelack (nl) [nl] [False]" tvg-logo="", FomixTV
+#EXTINF:0001 tvg-id="uOcj7SNsYLGnvO" tvg-chno="7" group-title="famelack (nl) [nl] [False]" tvg-logo="", Dit is Helmond
+https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="qCNy2ojifNspg9" tvg-chno="8" group-title="famelack (nl) [nl] [False]" tvg-logo="", FomixTV
 https://stream.fomixmedia.nl/FomixTV/video.m3u8
-#EXTINF:0001 tvg-id="A3vCuoFXBOegkR" tvg-chno="7" group-title="famelack (nl) [nl] [False]" tvg-logo="", Gigant FM
+#EXTINF:0001 tvg-id="A3vCuoFXBOegkR" tvg-chno="9" group-title="famelack (nl) [nl] [False]" tvg-logo="", Gigant FM
 https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
-#EXTINF:0001 tvg-id="T9jELoFMThXKoB" tvg-chno="8" group-title="famelack (nl) [nl] [False]" tvg-logo="", Haarlem105 RTV
+#EXTINF:0001 tvg-id="T9jELoFMThXKoB" tvg-chno="10" group-title="famelack (nl) [nl] [False]" tvg-logo="", Haarlem105 RTV
 https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8
-#EXTINF:0001 tvg-id="XeTMX0KNRpyXnL" tvg-chno="9" group-title="famelack (nl) [nl] [False]" tvg-logo="", Hype Visual Radio
+#EXTINF:0001 tvg-id="XeTMX0KNRpyXnL" tvg-chno="11" group-title="famelack (nl) [nl] [False]" tvg-logo="", Hype Visual Radio
 https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
-#EXTINF:0001 tvg-id="2ioy8BcEUEsaqv" tvg-chno="10" group-title="famelack (nl) [nl] [False]" tvg-logo="", INFAST
+#EXTINF:0001 tvg-id="vZH696VcUAzk3F" tvg-chno="12" group-title="famelack (nl) [nl] [False]" tvg-logo="", Ideaal TV
+https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="2ioy8BcEUEsaqv" tvg-chno="13" group-title="famelack (nl) [nl] [False]" tvg-logo="", INFAST
 https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="YJ0VLCpIyYcZ5V" tvg-chno="11" group-title="famelack (nl) [nl] [False]" tvg-logo="", InTrouble
+#EXTINF:0001 tvg-id="YJ0VLCpIyYcZ5V" tvg-chno="14" group-title="famelack (nl) [nl] [False]" tvg-logo="", InTrouble
 https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8
-#EXTINF:0001 tvg-id="mmb6ehRkLI6kQW" tvg-chno="12" group-title="famelack (nl) [nl] [False]" tvg-logo="", INWONDER
+#EXTINF:0001 tvg-id="mmb6ehRkLI6kQW" tvg-chno="15" group-title="famelack (nl) [nl] [False]" tvg-logo="", INWONDER
 https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="NizIVwktpxksyc" tvg-chno="13" group-title="famelack (nl) [nl] [False]" tvg-logo="", Jin TV
+#EXTINF:0001 tvg-id="NizIVwktpxksyc" tvg-chno="16" group-title="famelack (nl) [nl] [False]" tvg-logo="", Jin TV
 https://live.jintv.org/medialive/jintv.m3u8
-#EXTINF:0001 tvg-id="SyIDheQRCSJULV" tvg-chno="14" group-title="famelack (nl) [nl] [False]" tvg-logo="", L1mburg TV
+#EXTINF:0001 tvg-id="LaumigPirXIG5i" tvg-chno="17" group-title="famelack (nl) [nl] [False]" tvg-logo="", KempenTV
+https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="SyIDheQRCSJULV" tvg-chno="18" group-title="famelack (nl) [nl] [False]" tvg-logo="", L1mburg TV
 https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:0001 tvg-id="AWAYRrYwzSP3O6" tvg-chno="15" group-title="famelack (nl) [nl] [False]" tvg-logo="", Langstraat TV
+#EXTINF:0001 tvg-id="AWAYRrYwzSP3O6" tvg-chno="19" group-title="famelack (nl) [nl] [False]" tvg-logo="", Langstraat TV
 https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
-#EXTINF:0001 tvg-id="qUy0NOK2hQdQ38" tvg-chno="16" group-title="famelack (nl) [nl] [False]" tvg-logo="", LON TV
+#EXTINF:0001 tvg-id="43nlqCsPfKQWwb" tvg-chno="20" group-title="famelack (nl) [nl] [False]" tvg-logo="", Lansingerland TV
+https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="gqyZpR9ps80qVG" tvg-chno="21" group-title="famelack (nl) [nl] [False]" tvg-logo="", LEO Middelsé TV
+https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="qUy0NOK2hQdQ38" tvg-chno="22" group-title="famelack (nl) [nl] [False]" tvg-logo="", LON TV
 https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8
-#EXTINF:0001 tvg-id="12S0shaF2zjsAh" tvg-chno="17" group-title="famelack (nl) [nl] [False]" tvg-logo="", LOZ (Lokale Omroep Zeewolde)
+#EXTINF:0001 tvg-id="12S0shaF2zjsAh" tvg-chno="23" group-title="famelack (nl) [nl] [False]" tvg-logo="", LOZ (Lokale Omroep Zeewolde)
 https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
-#EXTINF:0001 tvg-id="nnzZPCLnvZFXmg" tvg-chno="18" group-title="famelack (nl) [nl] [False]" tvg-logo="", Magic PowerRadio
+#EXTINF:0001 tvg-id="nnzZPCLnvZFXmg" tvg-chno="24" group-title="famelack (nl) [nl] [False]" tvg-logo="", Magic PowerRadio
 https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
-#EXTINF:0001 tvg-id="KfaJQ0FjPIb81N" tvg-chno="19" group-title="famelack (nl) [nl] [False]" tvg-logo="", Merwe TV
+#EXTINF:0001 tvg-id="KfaJQ0FjPIb81N" tvg-chno="25" group-title="famelack (nl) [nl] [False]" tvg-logo="", Merwe TV
 https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
-#EXTINF:0001 tvg-id="NTVSvKBJVIIEgI" tvg-chno="20" group-title="famelack (nl) [nl] [False]" tvg-logo="", MYZen Fit
+#EXTINF:0001 tvg-id="NTVSvKBJVIIEgI" tvg-chno="26" group-title="famelack (nl) [nl] [False]" tvg-logo="", MYZen Fit
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungnl/playlist.m3u8
-#EXTINF:0001 tvg-id="OgYe6u4a9Y8YAf" tvg-chno="21" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Brabant
+#EXTINF:0001 tvg-id="cz0NSemk409jgG" tvg-chno="27" group-title="famelack (nl) [nl] [False]" tvg-logo="", NOOS TV
+https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="OgYe6u4a9Y8YAf" tvg-chno="28" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Brabant
 https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:0001 tvg-id="P6DKosG5lbofcV" tvg-chno="22" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Brabant Radio
+#EXTINF:0001 tvg-id="P6DKosG5lbofcV" tvg-chno="29" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Brabant Radio
 https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
-#EXTINF:0001 tvg-id="OplIrrFGFNiRPM" tvg-chno="23" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Dommelland
+#EXTINF:0001 tvg-id="OplIrrFGFNiRPM" tvg-chno="30" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Dommelland
 https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8
-#EXTINF:0001 tvg-id="xTdO7TGIM8R5HS" tvg-chno="24" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Flevoland
+#EXTINF:0001 tvg-id="xTdO7TGIM8R5HS" tvg-chno="31" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Flevoland
 https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
-#EXTINF:0001 tvg-id="7nqRubu9natDhL" tvg-chno="25" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Gelderland HD
+#EXTINF:0001 tvg-id="7nqRubu9natDhL" tvg-chno="32" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Gelderland HD
 https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
-#EXTINF:0001 tvg-id="Es6l1ExFTcGD0U" tvg-chno="26" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Land van Cuijk
+#EXTINF:0001 tvg-id="hk7PXKEYotjuny" tvg-chno="33" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Hoeksche Waard
+https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="KVNirP7LjuoIoN" tvg-chno="34" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Hulst TV
+https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="Es6l1ExFTcGD0U" tvg-chno="35" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Land van Cuijk
 https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
-#EXTINF:0001 tvg-id="nVpsvaBycf2VlN" tvg-chno="27" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Lingewaard
+#EXTINF:0001 tvg-id="nVpsvaBycf2VlN" tvg-chno="36" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Lingewaard
 https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
-#EXTINF:0001 tvg-id="dRnsytBJsmGO6h" tvg-chno="28" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Súdwest
+#EXTINF:0001 tvg-id="dRnsytBJsmGO6h" tvg-chno="37" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Súdwest
 https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
-#EXTINF:0001 tvg-id="bdau2PmcqBuaNs" tvg-chno="29" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Venlo
+#EXTINF:0001 tvg-id="aoSCyrpFifrtBu" tvg-chno="38" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Tilburg
+https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="bdau2PmcqBuaNs" tvg-chno="39" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Venlo
 https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
-#EXTINF:0001 tvg-id="XobH5L3xI9jFsc" tvg-chno="30" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Venray
+#EXTINF:0001 tvg-id="XobH5L3xI9jFsc" tvg-chno="40" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Venray
 https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8
-#EXTINF:0001 tvg-id="qYfy9gE6saEqpK" tvg-chno="31" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep West
+#EXTINF:0001 tvg-id="qYfy9gE6saEqpK" tvg-chno="41" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep West
 https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
-#EXTINF:0001 tvg-id="pzKNc2nvONww0m" tvg-chno="32" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Zeeland
+#EXTINF:0001 tvg-id="pzKNc2nvONww0m" tvg-chno="42" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omroep Zeeland
 https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
-#EXTINF:0001 tvg-id="GcnHRx3K6PYs9j" tvg-chno="33" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omrop Fryslân
+#EXTINF:0001 tvg-id="GcnHRx3K6PYs9j" tvg-chno="43" group-title="famelack (nl) [nl] [False]" tvg-logo="", Omrop Fryslân
 https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8
-#EXTINF:0001 tvg-id="yYHMh744A9jABH" tvg-chno="34" group-title="famelack (nl) [nl] [False]" tvg-logo="", OOG TV
+#EXTINF:0001 tvg-id="yYHMh744A9jABH" tvg-chno="44" group-title="famelack (nl) [nl] [False]" tvg-logo="", OOG TV
 https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
-#EXTINF:0001 tvg-id="nD9Iu29w4yPsME" tvg-chno="35" group-title="famelack (nl) [nl] [False]" tvg-logo="", Radio 10
+#EXTINF:0001 tvg-id="v4lxsFawlDWyOD" tvg-chno="45" group-title="famelack (nl) [nl] [False]" tvg-logo="", Open Rotterdam
+https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="eFozWtc9ctVlJw" tvg-chno="46" group-title="famelack (nl) [nl] [False]" tvg-logo="", ORTS
+https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="nD9Iu29w4yPsME" tvg-chno="47" group-title="famelack (nl) [nl] [False]" tvg-logo="", Radio 10
 https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
-#EXTINF:0001 tvg-id="PQllKwQLDzqLro" tvg-chno="36" group-title="famelack (nl) [nl] [False]" tvg-logo="", Radio 350
+#EXTINF:0001 tvg-id="PQllKwQLDzqLro" tvg-chno="48" group-title="famelack (nl) [nl] [False]" tvg-logo="", Radio 350
 https://stream.radio350.nl/hls/radio350.m3u8
-#EXTINF:0001 tvg-id="uhfJLuC9YnQvsY" tvg-chno="37" group-title="famelack (nl) [nl] [False]" tvg-logo="", Radio 538
+#EXTINF:0001 tvg-id="uhfJLuC9YnQvsY" tvg-chno="49" group-title="famelack (nl) [nl] [False]" tvg-logo="", Radio 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
-#EXTINF:0001 tvg-id="Nzy2YinkZn96O1" tvg-chno="38" group-title="famelack (nl) [nl] [False]" tvg-logo="", Radio Aalsmeer TV
+#EXTINF:0001 tvg-id="Nzy2YinkZn96O1" tvg-chno="50" group-title="famelack (nl) [nl] [False]" tvg-logo="", Radio Aalsmeer TV
 https://radioaalsmeer.nl:4443/live/tv.m3u8
-#EXTINF:0001 tvg-id="Yy1gqgg3H5Fb73" tvg-chno="39" group-title="famelack (nl) [nl] [False]" tvg-logo="", Radio JND
+#EXTINF:0001 tvg-id="Yy1gqgg3H5Fb73" tvg-chno="51" group-title="famelack (nl) [nl] [False]" tvg-logo="", Radio JND
 https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
-#EXTINF:0001 tvg-id="rqGLoNY5jXVQAV" tvg-chno="40" group-title="famelack (nl) [nl] [False]" tvg-logo="", RadioToppers
+#EXTINF:0001 tvg-id="rqGLoNY5jXVQAV" tvg-chno="52" group-title="famelack (nl) [nl] [False]" tvg-logo="", RadioToppers
 https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
-#EXTINF:0001 tvg-id="dSnoUTHQ6dYQnL" tvg-chno="41" group-title="famelack (nl) [nl] [False]" tvg-logo="", Regio TV De Bilt
+#EXTINF:0001 tvg-id="dSnoUTHQ6dYQnL" tvg-chno="53" group-title="famelack (nl) [nl] [False]" tvg-logo="", Regio TV De Bilt
 https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8
-#EXTINF:0001 tvg-id="wypSVAbA0JFPBr" tvg-chno="42" group-title="famelack (nl) [nl] [False]" tvg-logo="", RPL TV Woerden
+#EXTINF:0001 tvg-id="BpeFMfOm7AkYwU" tvg-chno="54" group-title="famelack (nl) [nl] [False]" tvg-logo="", Regio90 TV
+https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="bzhuoIIHDSQpOH" tvg-chno="55" group-title="famelack (nl) [nl] [False]" tvg-logo="", Rotterdam Podium TV
+https://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="wypSVAbA0JFPBr" tvg-chno="56" group-title="famelack (nl) [nl] [False]" tvg-logo="", RPL TV Woerden
 https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
-#EXTINF:0001 tvg-id="r36IA6x0M46ZqU" tvg-chno="43" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV 1
+#EXTINF:0001 tvg-id="r36IA6x0M46ZqU" tvg-chno="57" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV 1
 https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
-#EXTINF:0001 tvg-id="91t13ItHF9LWKx" tvg-chno="44" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Drenthe
+#EXTINF:0001 tvg-id="91t13ItHF9LWKx" tvg-chno="58" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:0001 tvg-id="u3qWb4sI9MDIZI" tvg-chno="45" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV LOVE
+#EXTINF:0001 tvg-id="u3qWb4sI9MDIZI" tvg-chno="59" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV LOVE
 https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
-#EXTINF:0001 tvg-id="zzJ8Dvnqyisr5k" tvg-chno="46" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Meppel
+#EXTINF:0001 tvg-id="zzJ8Dvnqyisr5k" tvg-chno="60" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Meppel
 https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
-#EXTINF:0001 tvg-id="hUCgRjmVobCb6w" tvg-chno="47" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Noord
+#EXTINF:0001 tvg-id="hUCgRjmVobCb6w" tvg-chno="61" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:0001 tvg-id="goxtzeUVZGIYKs" tvg-chno="48" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Noord Extra
+#EXTINF:0001 tvg-id="goxtzeUVZGIYKs" tvg-chno="62" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Noord Extra
 https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
-#EXTINF:0001 tvg-id="LpQFuIp1jHcUHG" tvg-chno="49" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Oost
+#EXTINF:0001 tvg-id="C71GWjbjSGWJXa" tvg-chno="63" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Nunspeet
+https://ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="LpQFuIp1jHcUHG" tvg-chno="64" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Oost
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
-#EXTINF:0001 tvg-id="pKPcdscpQHKJ4v" tvg-chno="50" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Parkstad
+#EXTINF:0001 tvg-id="pKPcdscpQHKJ4v" tvg-chno="65" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Parkstad
 https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="MogQ1Ef8ioQtA5" tvg-chno="51" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Rijnmond
+#EXTINF:0001 tvg-id="MOZ6D8VfrxOi60" tvg-chno="66" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Purmerend
+https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="MogQ1Ef8ioQtA5" tvg-chno="67" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Rijnmond
 https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
-#EXTINF:0001 tvg-id="CZnHYlnJ5o4fmb" tvg-chno="52" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Rijnmond Extra
+#EXTINF:0001 tvg-id="CZnHYlnJ5o4fmb" tvg-chno="68" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Rijnmond Extra
 https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8
-#EXTINF:0001 tvg-id="Y3tRl2FeGVTyQz" tvg-chno="53" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV SLOS
+#EXTINF:0001 tvg-id="Ua4a0OdjOruHxv" tvg-chno="69" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Rijnstreek TV
+https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="Y3tRl2FeGVTyQz" tvg-chno="70" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV SLOS
 https://d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8
-#EXTINF:0001 tvg-id="SgwTXtRwTwkQgJ" tvg-chno="54" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Utrecht
+#EXTINF:0001 tvg-id="SgwTXtRwTwkQgJ" tvg-chno="71" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Utrecht
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
-#EXTINF:0001 tvg-id="T0fk5Gpm8VF0Tn" tvg-chno="55" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Veluwezoom
+#EXTINF:0001 tvg-id="T0fk5Gpm8VF0Tn" tvg-chno="72" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Veluwezoom
 https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8
-#EXTINF:0001 tvg-id="UyWYSAuGPQ1FRF" tvg-chno="56" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Westerwolde
+#EXTINF:0001 tvg-id="UyWYSAuGPQ1FRF" tvg-chno="73" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Westerwolde
 https://media.rtvwesterwolde.nl/hls/live/index.m3u8
-#EXTINF:0001 tvg-id="FkkIWUuTuiIidf" tvg-chno="57" group-title="famelack (nl) [nl] [False]" tvg-logo="", Salto 1
+#EXTINF:0001 tvg-id="MG8m0vh6HIQQvq" tvg-chno="74" group-title="famelack (nl) [nl] [False]" tvg-logo="", RTV Zulthe
+https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="FkkIWUuTuiIidf" tvg-chno="75" group-title="famelack (nl) [nl] [False]" tvg-logo="", Salto 1
 https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
-#EXTINF:0001 tvg-id="lvPUiyBGTf9h6a" tvg-chno="58" group-title="famelack (nl) [nl] [False]" tvg-logo="", Salto 2
+#EXTINF:0001 tvg-id="lvPUiyBGTf9h6a" tvg-chno="76" group-title="famelack (nl) [nl] [False]" tvg-logo="", Salto 2
 https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
-#EXTINF:0001 tvg-id="uijzEdZpPY4boJ" tvg-chno="59" group-title="famelack (nl) [nl] [False]" tvg-logo="", Samen1 TV
+#EXTINF:0001 tvg-id="uijzEdZpPY4boJ" tvg-chno="77" group-title="famelack (nl) [nl] [False]" tvg-logo="", Samen1 TV
 https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
-#EXTINF:0001 tvg-id="gWYRYemYkNyMGQ" tvg-chno="60" group-title="famelack (nl) [nl] [False]" tvg-logo="", SBS6 Classics
+#EXTINF:0001 tvg-id="gWYRYemYkNyMGQ" tvg-chno="78" group-title="famelack (nl) [nl] [False]" tvg-logo="", SBS6 Classics
 https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
-#EXTINF:0001 tvg-id="4qAiXmvkgXlKqP" tvg-chno="61" group-title="famelack (nl) [nl] [False]" tvg-logo="", Schie TV (576i)
+#EXTINF:0001 tvg-id="4qAiXmvkgXlKqP" tvg-chno="79" group-title="famelack (nl) [nl] [False]" tvg-logo="", Schie TV (576i)
 https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8
-#EXTINF:0001 tvg-id="N4Ek6KWXUdPOHS" tvg-chno="62" group-title="famelack (nl) [nl] [False]" tvg-logo="", Sleutelstad TV
+#EXTINF:0001 tvg-id="N4Ek6KWXUdPOHS" tvg-chno="80" group-title="famelack (nl) [nl] [False]" tvg-logo="", Sleutelstad TV
 https://samson.streamerr.co:8081/sleutelstad/index.m3u8
-#EXTINF:0001 tvg-id="y9se3kSGZxxBBD" tvg-chno="63" group-title="famelack (nl) [nl] [False]" tvg-logo="", Slotstad TV
+#EXTINF:0001 tvg-id="y9se3kSGZxxBBD" tvg-chno="81" group-title="famelack (nl) [nl] [False]" tvg-logo="", Slotstad TV
 https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8
-#EXTINF:0001 tvg-id="xhOkE32mWm3czA" tvg-chno="64" group-title="famelack (nl) [nl] [False]" tvg-logo="", SOL 2
+#EXTINF:0001 tvg-id="xhOkE32mWm3czA" tvg-chno="82" group-title="famelack (nl) [nl] [False]" tvg-logo="", SOL 2
 https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8
-#EXTINF:0001 tvg-id="O0kpowmkTJLDCA" tvg-chno="65" group-title="famelack (nl) [nl] [False]" tvg-logo="", SRC TV
+#EXTINF:0001 tvg-id="O0kpowmkTJLDCA" tvg-chno="83" group-title="famelack (nl) [nl] [False]" tvg-logo="", SRC TV
 https://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
-#EXTINF:0001 tvg-id="3yqUEutbjyfIc5" tvg-chno="66" group-title="famelack (nl) [nl] [False]" tvg-logo="", Streek TV
+#EXTINF:0001 tvg-id="3yqUEutbjyfIc5" tvg-chno="84" group-title="famelack (nl) [nl] [False]" tvg-logo="", Streek TV
 https://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
-#EXTINF:0001 tvg-id="vO7ItMw9qBUGew" tvg-chno="67" group-title="famelack (nl) [nl] [False]" tvg-logo="", Studio Rheden
+#EXTINF:0001 tvg-id="vO7ItMw9qBUGew" tvg-chno="85" group-title="famelack (nl) [nl] [False]" tvg-logo="", Studio Rheden
 https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
-#EXTINF:0001 tvg-id="sFINVSL7tug2sB" tvg-chno="68" group-title="famelack (nl) [nl] [False]" tvg-logo="", Studio040 TV
+#EXTINF:0001 tvg-id="sFINVSL7tug2sB" tvg-chno="86" group-title="famelack (nl) [nl] [False]" tvg-logo="", Studio040 TV
 https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
-#EXTINF:0001 tvg-id="80Bzo5gghASeEz" tvg-chno="69" group-title="famelack (nl) [nl] [False]" tvg-logo="", TV Ellef
+#EXTINF:0001 tvg-id="80Bzo5gghASeEz" tvg-chno="87" group-title="famelack (nl) [nl] [False]" tvg-logo="", TV Ellef
 https://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="yaYUxFsan9hbOE" tvg-chno="70" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Actualiteitenkanaal
+#EXTINF:0001 tvg-id="yaYUxFsan9hbOE" tvg-chno="88" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Actualiteitenkanaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:0001 tvg-id="6OQOS7AT6Gma3n" tvg-chno="71" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Aletta Jacobszaal
+#EXTINF:0001 tvg-id="6OQOS7AT6Gma3n" tvg-chno="89" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Aletta Jacobszaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:0001 tvg-id="5hB4P9nJujh5eA" tvg-chno="72" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Enquetezaal
+#EXTINF:0001 tvg-id="5hB4P9nJujh5eA" tvg-chno="90" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Enquetezaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:0001 tvg-id="PL16C9OHm1Jw0b" tvg-chno="73" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Groen van Prinstererzaal
+#EXTINF:0001 tvg-id="PL16C9OHm1Jw0b" tvg-chno="91" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Groen van Prinstererzaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:0001 tvg-id="Ae17iGLPc7Gwuz" tvg-chno="74" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Klompezaal
+#EXTINF:0001 tvg-id="Ae17iGLPc7Gwuz" tvg-chno="92" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Klompezaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:0001 tvg-id="BJ3SYF7xMwSu2u" tvg-chno="75" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Max van der Stoelzaal
+#EXTINF:0001 tvg-id="BJ3SYF7xMwSu2u" tvg-chno="93" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Max van der Stoelzaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:0001 tvg-id="MOoTHhVYsb8MlG" tvg-chno="76" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Plenaire zaal
+#EXTINF:0001 tvg-id="MOoTHhVYsb8MlG" tvg-chno="94" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Plenaire zaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:0001 tvg-id="rB1O4Lh7x5fa2y" tvg-chno="77" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Suze Groenewegzaal
+#EXTINF:0001 tvg-id="rB1O4Lh7x5fa2y" tvg-chno="95" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Suze Groenewegzaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:0001 tvg-id="qHNjpcf1s4YBcD" tvg-chno="78" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Thorbeckezaal
+#EXTINF:0001 tvg-id="qHNjpcf1s4YBcD" tvg-chno="96" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Thorbeckezaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:0001 tvg-id="9j3l55qDqhq9x4" tvg-chno="79" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Troelstrazaal
+#EXTINF:0001 tvg-id="9j3l55qDqhq9x4" tvg-chno="97" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Troelstrazaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:0001 tvg-id="xk5ybVwggmYe7A" tvg-chno="80" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Wttewaall van Stoetwegenzaal
+#EXTINF:0001 tvg-id="xk5ybVwggmYe7A" tvg-chno="98" group-title="famelack (nl) [nl] [False]" tvg-logo="", Tweede Kamer: Wttewaall van Stoetwegenzaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:0001 tvg-id="kFgkTaYcE0JGsc" tvg-chno="81" group-title="famelack (nl) [nl] [False]" tvg-logo="", UStad
+#EXTINF:0001 tvg-id="kFgkTaYcE0JGsc" tvg-chno="99" group-title="famelack (nl) [nl] [False]" tvg-logo="", UStad
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
-#EXTINF:0001 tvg-id="8x4Pl6hI5XunaS" tvg-chno="82" group-title="famelack (nl) [nl] [False]" tvg-logo="", Waterbear
+#EXTINF:0001 tvg-id="i2GpEeoaXxzJ13" tvg-chno="100" group-title="famelack (nl) [nl] [False]" tvg-logo="", Vechtdal TV
+https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="8x4Pl6hI5XunaS" tvg-chno="101" group-title="famelack (nl) [nl] [False]" tvg-logo="", Waterbear
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
-#EXTINF:0001 tvg-id="0cyk1CCNCuzPwL" tvg-chno="83" group-title="famelack (nl) [nl] [False]" tvg-logo="", Wicked Tuna
+#EXTINF:0001 tvg-id="zl0ukpBnhgDrtz" tvg-chno="102" group-title="famelack (nl) [nl] [False]" tvg-logo="", WeertFM TV
+https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="0cyk1CCNCuzPwL" tvg-chno="103" group-title="famelack (nl) [nl] [False]" tvg-logo="", Wicked Tuna
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
-#EXTINF:0001 tvg-id="Zc9qOiJNX7q0Hk" tvg-chno="84" group-title="famelack (nl) [nl] [False]" tvg-logo="", XITE Rock x Metal
+#EXTINF:0001 tvg-id="kZctHcNGqGr4Cb" tvg-chno="104" group-title="famelack (nl) [nl] [False]" tvg-logo="", WOS TV
+https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="Zc9qOiJNX7q0Hk" tvg-chno="105" group-title="famelack (nl) [nl] [False]" tvg-logo="", XITE Rock x Metal
 https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="lVcADaz4AhkZNS" tvg-chno="85" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZFM Zoetermeer
+#EXTINF:0001 tvg-id="lVcADaz4AhkZNS" tvg-chno="106" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZFM Zoetermeer
 https://zfmzoetermeer.nl/live/master.m3u8
-#EXTINF:0001 tvg-id="misQ9uBxRPB1ww" tvg-chno="86" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZO!34
+#EXTINF:0001 tvg-id="misQ9uBxRPB1ww" tvg-chno="107" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZO!34
 https://video.uitzending.tv:19360/zo34/zo34.m3u8
-#EXTINF:0001 tvg-id="X4jo6eNxdULfDS" tvg-chno="87" group-title="famelack (nl) [nl] [False]" tvg-logo="", Дождь
+#EXTINF:0001 tvg-id="X4jo6eNxdULfDS" tvg-chno="108" group-title="famelack (nl) [nl] [False]" tvg-logo="", Дождь
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8

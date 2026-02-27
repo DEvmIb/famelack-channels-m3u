@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="i5Wa7HDMyE8EFE" tvg-chno="1" group-title="famelack (bd) [bd] [False]" tvg-logo="", Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:0001 tvg-id="4YEv6QH62bmCSw" tvg-chno="2" group-title="famelack (bd) [bd] [False]" tvg-logo="", Madani Channel Bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
