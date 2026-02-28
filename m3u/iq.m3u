@@ -11,12 +11,12 @@ https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:0001 tvg-id="F9S4QFLYWa9FpX" tvg-chno="6" group-title="famelack (iq) [iq] [False]" tvg-logo="", Al-Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:0001 tvg-id="oH3JHlocRjrWih" tvg-chno="7" group-title="famelack (iq) [iq] [False]" tvg-logo="", Alquran
+#EXTINF:0001 tvg-id="W3aTFBdLCXLotm" tvg-chno="7" group-title="famelack (iq) [iq] [False]" tvg-logo="", Alqanat9 TV
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:0001 tvg-id="oH3JHlocRjrWih" tvg-chno="8" group-title="famelack (iq) [iq] [False]" tvg-logo="", Alquran
 https://ktvlive.online/stream/hls/ch1.m3u8
-#EXTINF:0001 tvg-id="I677KvGkPDPSil" tvg-chno="8" group-title="famelack (iq) [iq] [False]" tvg-logo="", Avar TV
+#EXTINF:0001 tvg-id="I677KvGkPDPSil" tvg-chno="9" group-title="famelack (iq) [iq] [False]" tvg-logo="", Avar TV
 https://avr.host247.net/live/AvarTv/playlist.m3u8
-#EXTINF:0001 tvg-id="RgXZMyE6SkTLbW" tvg-chno="9" group-title="famelack (iq) [iq] [False]" tvg-logo="", Bayyinat TV
-https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
 #EXTINF:0001 tvg-id="bBdVVt0cpWEQfg" tvg-chno="10" group-title="famelack (iq) [iq] [False]" tvg-logo="", BeitolAbbas TV Channel
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:0001 tvg-id="MIpBDCxySOyKyM" tvg-chno="11" group-title="famelack (iq) [iq] [False]" tvg-logo="", Dijlah TV

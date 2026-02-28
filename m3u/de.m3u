@@ -69,8 +69,8 @@ https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.
 https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="dikaN7zl5U7F3z" tvg-chno="35" group-title="famelack (de) [de] [False]" tvg-logo="", Erz-TV Stollberg
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="uDLeBfdzdIX1Oi" tvg-chno="36" group-title="famelack (de) [de] [False]" tvg-logo="", EWTN
-https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
+#EXTINF:0001 tvg-id="W9Bp7ViyOHjoax" tvg-chno="36" group-title="famelack (de) [de] [False]" tvg-logo="", EWTN Germany
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:0001 tvg-id="0deWs8tTLyJPRE" tvg-chno="37" group-title="famelack (de) [de] [False]" tvg-logo="", FilmGold Germany
 https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="CiGC7hiaz7dMhM" tvg-chno="38" group-title="famelack (de) [de] [False]" tvg-logo="", Filstalwelle
@@ -129,8 +129,8 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:0001 tvg-id="paDrWcFyUNsNMX" tvg-chno="65" group-title="famelack (de) [de] [False]" tvg-logo="", München TV
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="1vBPSqBW9LaA0Z" tvg-chno="66" group-title="famelack (de) [de] [False]" tvg-logo="", MyTime Movie Network Germany
-https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="nSKKagLIpNXooQ" tvg-chno="66" group-title="famelack (de) [de] [False]" tvg-logo="", Naruto Germany
+https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="Z6guN3S2lbqSQy" tvg-chno="67" group-title="famelack (de) [de] [False]" tvg-logo="", NDR Fernsehen International
 https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
 #EXTINF:0001 tvg-id="d8YHTAnPVAiw8c" tvg-chno="68" group-title="famelack (de) [de] [False]" tvg-logo="", Niederbayern TV
