@@ -3,7 +3,9 @@
 https://live.mnet.mk/hls/mnet.m3u8
 #EXTINF:0001 tvg-id="yBKcXwhhC0xgHN" tvg-chno="2" group-title="famelack (mk) [mk] [False]" tvg-logo="", M-Net Info
 https://live.mnet.mk/hls/mnet-info.m3u8
-#EXTINF:0001 tvg-id="EE04NfxFEiLqqH" tvg-chno="3" group-title="famelack (mk) [mk] [False]" tvg-logo="", Naša TV
+#EXTINF:0001 tvg-id="H7YKUTmTDg1xzR" tvg-chno="3" group-title="famelack (mk) [mk] [False]" tvg-logo="", M-Net Sport
+https://live.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:0001 tvg-id="EE04NfxFEiLqqH" tvg-chno="4" group-title="famelack (mk) [mk] [False]" tvg-logo="", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-#EXTINF:0001 tvg-id="6jTUHlY33vUmQu" tvg-chno="4" group-title="famelack (mk) [mk] [False]" tvg-logo="", Sky Folk TV
+#EXTINF:0001 tvg-id="6jTUHlY33vUmQu" tvg-chno="5" group-title="famelack (mk) [mk] [False]" tvg-logo="", Sky Folk TV
 https://eu.live.skyfolk.mk/live.m3u8

@@ -7,10 +7,10 @@ https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8
 https://amg00654-itv-amg00654c2-rakuten-uk-1281.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-rakutenuk/playlist.m3u8
 #EXTINF:0001 tvg-id="f0wcRTXZi1OLrF" tvg-chno="4" group-title="famelack (fi) [fi] [False]" tvg-logo="", Eveo
 https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
-#EXTINF:0001 tvg-id="RXkTjTqpb8UDSl" tvg-chno="5" group-title="famelack (fi) [fi] [False]" tvg-logo="", Himlen TV7
+#EXTINF:0001 tvg-id="6K6oFgTHq5fj7V" tvg-chno="5" group-title="famelack (fi) [fi] [False]" tvg-logo="", Hero
+https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
+#EXTINF:0001 tvg-id="RXkTjTqpb8UDSl" tvg-chno="6" group-title="famelack (fi) [fi] [False]" tvg-logo="", Himlen TV7
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Ll5s2H0UCXnUdm" tvg-chno="6" group-title="famelack (fi) [fi] [False]" tvg-logo="", InTravel
-https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="plB7keRPLB8ziF" tvg-chno="7" group-title="famelack (fi) [fi] [False]" tvg-logo="", Jim
 https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
 #EXTINF:0001 tvg-id="f8OcMZj8nk12cd" tvg-chno="8" group-title="famelack (fi) [fi] [False]" tvg-logo="", JRTV Järviradio

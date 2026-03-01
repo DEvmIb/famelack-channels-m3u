@@ -65,17 +65,15 @@ https://hls.oxir.live/hls/stream.m3u8
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
 #EXTINF:0001 tvg-id="Z0k0qEYEWnFz7F" tvg-chno="33" group-title="famelack (ir) [ir] [False]" tvg-logo="", Press TV
 https://live.presstv.ir/hls/presstv.m3u8
-#EXTINF:0001 tvg-id="gm4xqddWtJR9Ev" tvg-chno="34" group-title="famelack (ir) [ir] [False]" tvg-logo="", Press TV French
-https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="xRGq4FvGDTWgUJ" tvg-chno="35" group-title="famelack (ir) [ir] [False]" tvg-logo="", RasoulallahTv
+#EXTINF:0001 tvg-id="xRGq4FvGDTWgUJ" tvg-chno="34" group-title="famelack (ir) [ir] [False]" tvg-logo="", RasoulallahTv
 https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
-#EXTINF:0001 tvg-id="8ASIayZG97M5CC" tvg-chno="36" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 1
+#EXTINF:0001 tvg-id="8ASIayZG97M5CC" tvg-chno="35" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 1
 https://slonehls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="917SD3APUmI0IC" tvg-chno="37" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 2
+#EXTINF:0001 tvg-id="917SD3APUmI0IC" tvg-chno="36" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 2
 https://sltwohls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="cu7YGaPAVwkgGg" tvg-chno="38" group-title="famelack (ir) [ir] [False]" tvg-logo="", T2 TV
+#EXTINF:0001 tvg-id="cu7YGaPAVwkgGg" tvg-chno="37" group-title="famelack (ir) [ir] [False]" tvg-logo="", T2 TV
 https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="twF2oDz7S9EOtz" tvg-chno="39" group-title="famelack (ir) [ir] [False]" tvg-logo="", TBN Nejat TV
+#EXTINF:0001 tvg-id="twF2oDz7S9EOtz" tvg-chno="38" group-title="famelack (ir) [ir] [False]" tvg-logo="", TBN Nejat TV
 https://hls.nejat.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="hukeqny6nOwPuT" tvg-chno="40" group-title="famelack (ir) [ir] [False]" tvg-logo="", WiseHumanTv
+#EXTINF:0001 tvg-id="hukeqny6nOwPuT" tvg-chno="39" group-title="famelack (ir) [ir] [False]" tvg-logo="", WiseHumanTv
 https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
