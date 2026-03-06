@@ -5,13 +5,11 @@ https://stream.panet.com/edge/halaTV/playlist.m3u8
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:0001 tvg-id="Pn8d6Kp8Ggslkw" tvg-chno="3" group-title="famelack (il) [il] [False]" tvg-logo="", i24NEWS English USA
 https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
-#EXTINF:0001 tvg-id="38vMSDs717Nc88" tvg-chno="4" group-title="famelack (il) [il] [False]" tvg-logo="", Kabbalah for the People (Israel)
-https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
-#EXTINF:0001 tvg-id="hbcJB1RCRT6pmz" tvg-chno="5" group-title="famelack (il) [il] [False]" tvg-logo="", Makan 33
+#EXTINF:0001 tvg-id="hbcJB1RCRT6pmz" tvg-chno="4" group-title="famelack (il) [il] [False]" tvg-logo="", Makan 33
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:0001 tvg-id="BE24TaDtAzeVFU" tvg-chno="6" group-title="famelack (il) [il] [False]" tvg-logo="", Musayof (Israel)
+#EXTINF:0001 tvg-id="BE24TaDtAzeVFU" tvg-chno="5" group-title="famelack (il) [il] [False]" tvg-logo="", Musayof (Israel)
 https://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="SPmmOCzJKxiZyw" tvg-chno="7" group-title="famelack (il) [il] [False]" tvg-logo="", Reshet 13
+#EXTINF:0001 tvg-id="SPmmOCzJKxiZyw" tvg-chno="6" group-title="famelack (il) [il] [False]" tvg-logo="", Reshet 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:0001 tvg-id="eKpR3Q6gh0gFDz" tvg-chno="8" group-title="famelack (il) [il] [False]" tvg-logo="", Shelanu TV
+#EXTINF:0001 tvg-id="eKpR3Q6gh0gFDz" tvg-chno="7" group-title="famelack (il) [il] [False]" tvg-logo="", Shelanu TV
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
