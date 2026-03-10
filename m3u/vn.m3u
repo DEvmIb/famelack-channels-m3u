@@ -22,7 +22,7 @@ https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
 #EXTINF:0001 tvg-id="QnYbafq8SSO9v0" tvg-chno="11" group-title="famelack (vn) [vn] [False]" tvg-logo="", HanoiTV1
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
 #EXTINF:0001 tvg-id="MO8deGVLY2zQ9f" tvg-chno="12" group-title="famelack (vn) [vn] [False]" tvg-logo="", HanoiTV2
-https://liveh34.vtvprime.vn/hls/HANOI2TV/index.m3u8
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="sb5v19pRAmTp7P" tvg-chno="13" group-title="famelack (vn) [vn] [False]" tvg-logo="", HTV Key
 https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
 #EXTINF:0001 tvg-id="GV38pwWqigwkoF" tvg-chno="14" group-title="famelack (vn) [vn] [False]" tvg-logo="", HTV Thể thao
