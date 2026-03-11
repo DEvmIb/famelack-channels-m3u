@@ -157,9 +157,7 @@ https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:0001 tvg-id="26wbYyZD2WNH5P" tvg-chno="79" group-title="famelack (ca) [ca] [False]" tvg-logo="", TV Punjab
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="7MJcYnhqkdKmZp" tvg-chno="80" group-title="famelack (ca) [ca] [False]" tvg-logo="", Watan-e-Maa TV
-https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-#EXTINF:0001 tvg-id="wQ9GTRyYVowsvi" tvg-chno="81" group-title="famelack (ca) [ca] [False]" tvg-logo="", WCGtv Public
+#EXTINF:0001 tvg-id="wQ9GTRyYVowsvi" tvg-chno="80" group-title="famelack (ca) [ca] [False]" tvg-logo="", WCGtv Public
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
-#EXTINF:0001 tvg-id="aENvvGnq2jgpEh" tvg-chno="82" group-title="famelack (ca) [ca] [False]" tvg-logo="", Wild TV
+#EXTINF:0001 tvg-id="aENvvGnq2jgpEh" tvg-chno="81" group-title="famelack (ca) [ca] [False]" tvg-logo="", Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
