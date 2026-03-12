@@ -11,3 +11,5 @@ https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/index.m3u8
 https://edge2.roarzone.info:8447/roarzone/edge3/channel-i/index.m3u8
 #EXTINF:0001 tvg-id="kSRfs1BMa8Y0EH" tvg-chno="6" group-title="famelack (bd) [bd] [False]" tvg-logo="", Channel S
 https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/index.m3u8
+#EXTINF:0001 tvg-id="4YEv6QH62bmCSw" tvg-chno="7" group-title="famelack (bd) [bd] [False]" tvg-logo="", Madani Channel Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8

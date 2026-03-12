@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="ZUjtSf30fvMWOE" tvg-chno="1" group-title="famelack (ni) [ni] [False]" tvg-logo="", Canal Cvisión
-https://stream.cvision.live/cvision_stream.m3u8
-#EXTINF:0001 tvg-id="54a0zlPJ75YPWI" tvg-chno="2" group-title="famelack (ni) [ni] [False]" tvg-logo="", Escúchame Radio TV
+#EXTINF:0001 tvg-id="54a0zlPJ75YPWI" tvg-chno="1" group-title="famelack (ni) [ni] [False]" tvg-logo="", Escúchame Radio TV
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
-#EXTINF:0001 tvg-id="m7u1sXRYRgvtcz" tvg-chno="3" group-title="famelack (ni) [ni] [False]" tvg-logo="", Olam Metro TV
+#EXTINF:0001 tvg-id="m7u1sXRYRgvtcz" tvg-chno="2" group-title="famelack (ni) [ni] [False]" tvg-logo="", Olam Metro TV
 https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
-#EXTINF:0001 tvg-id="Vc3SRmmxmlUN8r" tvg-chno="4" group-title="famelack (ni) [ni] [False]" tvg-logo="", WTV Canal 20
+#EXTINF:0001 tvg-id="Vc3SRmmxmlUN8r" tvg-chno="3" group-title="famelack (ni) [ni] [False]" tvg-logo="", WTV Canal 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8

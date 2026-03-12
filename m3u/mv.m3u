@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="goNrMuzefDwskd" tvg-chno="1" group-title="famelack (mv) [mv] [False]" tvg-logo="", Maldives TV
 https://lana.psm.mv/live/mtv.m3u8
-#EXTINF:0001 tvg-id="A9wsFdDEQAIayf" tvg-chno="2" group-title="famelack (mv) [mv] [False]" tvg-logo="", MMTV
-https://sendlive.online/hls/mmtv.m3u8
-#EXTINF:0001 tvg-id="tXjtUJ8mVtddPt" tvg-chno="3" group-title="famelack (mv) [mv] [False]" tvg-logo="", NTV
+#EXTINF:0001 tvg-id="tXjtUJ8mVtddPt" tvg-chno="2" group-title="famelack (mv) [mv] [False]" tvg-logo="", NTV
 https://sstv.ssplay.mv/hls/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
-#EXTINF:0001 tvg-id="h9v1BVXf5BOghp" tvg-chno="4" group-title="famelack (mv) [mv] [False]" tvg-logo="", SSTV
+#EXTINF:0001 tvg-id="h9v1BVXf5BOghp" tvg-chno="3" group-title="famelack (mv) [mv] [False]" tvg-logo="", SSTV
 https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
-#EXTINF:0001 tvg-id="wCtijxLtU3jISy" tvg-chno="5" group-title="famelack (mv) [mv] [False]" tvg-logo="", VTV
+#EXTINF:0001 tvg-id="wCtijxLtU3jISy" tvg-chno="4" group-title="famelack (mv) [mv] [False]" tvg-logo="", VTV
 https://sstv.ssplay.mv/hls/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8

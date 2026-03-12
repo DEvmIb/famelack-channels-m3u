@@ -1,15 +1,17 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="lzj2rgOVC9PJzk" tvg-chno="1" group-title="famelack (sy) [sy] [False]" tvg-logo="", Althania
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Zb4yx0Hhhjqp7h" tvg-chno="2" group-title="famelack (sy) [sy] [False]" tvg-logo="", Halab Today TV
+#EXTINF:0001 tvg-id="nJ79SnxhmuyaOZ" tvg-chno="2" group-title="famelack (sy) [sy] [False]" tvg-logo="", Damascus Radio
+https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
+#EXTINF:0001 tvg-id="Zb4yx0Hhhjqp7h" tvg-chno="3" group-title="famelack (sy) [sy] [False]" tvg-logo="", Halab Today TV
 https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
-#EXTINF:0001 tvg-id="FguzmgQdpg9XFC" tvg-chno="3" group-title="famelack (sy) [sy] [False]" tvg-logo="", Rojava TV
+#EXTINF:0001 tvg-id="FguzmgQdpg9XFC" tvg-chno="4" group-title="famelack (sy) [sy] [False]" tvg-logo="", Rojava TV
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
-#EXTINF:0001 tvg-id="XUZvlMOrh5z0lP" tvg-chno="4" group-title="famelack (sy) [sy] [False]" tvg-logo="", Ronahi TV
+#EXTINF:0001 tvg-id="XUZvlMOrh5z0lP" tvg-chno="5" group-title="famelack (sy) [sy] [False]" tvg-logo="", Ronahi TV
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
-#EXTINF:0001 tvg-id="ZUFftFyddSKOYm" tvg-chno="5" group-title="famelack (sy) [sy] [False]" tvg-logo="", Syria One
+#EXTINF:0001 tvg-id="ZUFftFyddSKOYm" tvg-chno="6" group-title="famelack (sy) [sy] [False]" tvg-logo="", Syria One
 https://live.syriaone.tv/live/syriaone.m3u8
-#EXTINF:0001 tvg-id="hGJWMD70oUF4Yo" tvg-chno="6" group-title="famelack (sy) [sy] [False]" tvg-logo="", Syria TV
+#EXTINF:0001 tvg-id="hGJWMD70oUF4Yo" tvg-chno="7" group-title="famelack (sy) [sy] [False]" tvg-logo="", Syria TV
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="juxXjhcoxJLbzK" tvg-chno="7" group-title="famelack (sy) [sy] [False]" tvg-logo="", Welat TV (1080i)
+#EXTINF:0001 tvg-id="juxXjhcoxJLbzK" tvg-chno="8" group-title="famelack (sy) [sy] [False]" tvg-logo="", Welat TV (1080i)
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
