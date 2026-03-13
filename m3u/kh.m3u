@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="sPitwPVtngUuVb" tvg-chno="1" group-title="famelack (kh) [kh] [False]" tvg-logo="", ARDB TV
+#EXTINF:0001 tvg-id="9v7vzS3xsxjDYS" tvg-chno="1" group-title="famelack (kh) [kh] [False]" tvg-logo="", Apsara TV11
+https://live.ams.com.kh/app/stream/playlist.m3u8
+#EXTINF:0001 tvg-id="sPitwPVtngUuVb" tvg-chno="2" group-title="famelack (kh) [kh] [False]" tvg-logo="", ARDB TV
 https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
-#EXTINF:0001 tvg-id="sFPfedqXXPJW5f" tvg-chno="2" group-title="famelack (kh) [kh] [False]" tvg-logo="", EAC News TV
+#EXTINF:0001 tvg-id="sFPfedqXXPJW5f" tvg-chno="3" group-title="famelack (kh) [kh] [False]" tvg-logo="", EAC News TV
 https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
-#EXTINF:0001 tvg-id="22GUfDaUhwRUJ1" tvg-chno="3" group-title="famelack (kh) [kh] [False]" tvg-logo="", Netlink TV
-https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:0001 tvg-id="9crqbJjJGnnzxY" tvg-chno="4" group-title="famelack (kh) [kh] [False]" tvg-logo="", SEATV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:0001 tvg-id="5YmRoWRCWgVS14" tvg-chno="5" group-title="famelack (kh) [kh] [False]" tvg-logo="", TVK
