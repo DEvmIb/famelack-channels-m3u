@@ -3,15 +3,17 @@
 https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8
 #EXTINF:0001 tvg-id="dE1fjQ342O2mTD" tvg-chno="2" group-title="famelack (bd) [bd] [False]" tvg-logo="", Asian TV
 https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8
-#EXTINF:0001 tvg-id="IQG6iimHXPlqaN" tvg-chno="3" group-title="famelack (bd) [bd] [False]" tvg-logo="", Bangla TV
+#EXTINF:0001 tvg-id="GPyu3zvadmUURC" tvg-chno="3" group-title="famelack (bd) [bd] [False]" tvg-logo="", ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:0001 tvg-id="IQG6iimHXPlqaN" tvg-chno="4" group-title="famelack (bd) [bd] [False]" tvg-logo="", Bangla TV
 https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/index.m3u8
-#EXTINF:0001 tvg-id="3KlMVN2PfaaTAH" tvg-chno="4" group-title="famelack (bd) [bd] [False]" tvg-logo="", Bijoy TV
+#EXTINF:0001 tvg-id="3KlMVN2PfaaTAH" tvg-chno="5" group-title="famelack (bd) [bd] [False]" tvg-logo="", Bijoy TV
 https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/index.m3u8
-#EXTINF:0001 tvg-id="AQg6hhEsD5I2hO" tvg-chno="5" group-title="famelack (bd) [bd] [False]" tvg-logo="", Channel I
+#EXTINF:0001 tvg-id="AQg6hhEsD5I2hO" tvg-chno="6" group-title="famelack (bd) [bd] [False]" tvg-logo="", Channel I
 https://edge2.roarzone.info:8447/roarzone/edge3/channel-i/index.m3u8
-#EXTINF:0001 tvg-id="kSRfs1BMa8Y0EH" tvg-chno="6" group-title="famelack (bd) [bd] [False]" tvg-logo="", Channel S
+#EXTINF:0001 tvg-id="kSRfs1BMa8Y0EH" tvg-chno="7" group-title="famelack (bd) [bd] [False]" tvg-logo="", Channel S
 https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/index.m3u8
-#EXTINF:0001 tvg-id="29x0D5l70jxbBR" tvg-chno="7" group-title="famelack (bd) [bd] [False]" tvg-logo="", Green TV
+#EXTINF:0001 tvg-id="29x0D5l70jxbBR" tvg-chno="8" group-title="famelack (bd) [bd] [False]" tvg-logo="", Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="4YEv6QH62bmCSw" tvg-chno="8" group-title="famelack (bd) [bd] [False]" tvg-logo="", Madani Channel Bangla
+#EXTINF:0001 tvg-id="4YEv6QH62bmCSw" tvg-chno="9" group-title="famelack (bd) [bd] [False]" tvg-logo="", Madani Channel Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8

@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="vas7f3j5yLZ8xT" tvg-chno="1" group-title="famelack (gy) [gy] [False]" tvg-logo="", HGPTV
-https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8
-#EXTINF:0001 tvg-id="c2HqQBWO0k3xhn" tvg-chno="2" group-title="famelack (gy) [gy] [False]" tvg-logo="", Ignite Television
+#EXTINF:0001 tvg-id="c2HqQBWO0k3xhn" tvg-chno="1" group-title="famelack (gy) [gy] [False]" tvg-logo="", Ignite Television
 https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="8T7n8bqVAC0sl8" tvg-chno="3" group-title="famelack (gy) [gy] [False]" tvg-logo="", MTV Guyana
+#EXTINF:0001 tvg-id="8T7n8bqVAC0sl8" tvg-chno="2" group-title="famelack (gy) [gy] [False]" tvg-logo="", MTV Guyana
 https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8

@@ -29,10 +29,10 @@ https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:0001 tvg-id="gtCaykQvpamqwT" tvg-chno="15" group-title="famelack (hn) [hn] [False]" tvg-logo="", Lenca Television Canal 40
 https://lencatelevision.com/hls/stream.m3u8
-#EXTINF:0001 tvg-id="26RtUqr5ZSMhUL" tvg-chno="16" group-title="famelack (hn) [hn] [False]" tvg-logo="", Litoral Atlántico HD
-https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
-#EXTINF:0001 tvg-id="052OEa16dMrwDi" tvg-chno="17" group-title="famelack (hn) [hn] [False]" tvg-logo="", Metro TV
+#EXTINF:0001 tvg-id="052OEa16dMrwDi" tvg-chno="16" group-title="famelack (hn) [hn] [False]" tvg-logo="", Metro TV
 https://s.emisoras.tv:8081/metrotv/index.m3u8
+#EXTINF:0001 tvg-id="I1eaiqSEwU4HoX" tvg-chno="17" group-title="famelack (hn) [hn] [False]" tvg-logo="", Omega TV
+https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 #EXTINF:0001 tvg-id="IkWDqPQzm5FN4S" tvg-chno="18" group-title="famelack (hn) [hn] [False]" tvg-logo="", Radio Ideal 104.7 FM (La Esperanza)
 https://www.idealfm104-7.com/hls/0/stream.m3u8
 #EXTINF:0001 tvg-id="FSgMROZ5OvGSD6" tvg-chno="19" group-title="famelack (hn) [hn] [False]" tvg-logo="", Radio Imagen 105.1 FM
