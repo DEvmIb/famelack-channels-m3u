@@ -53,29 +53,31 @@ https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:0001 tvg-id="CVYe8DrHATgn7K" tvg-chno="27" group-title="famelack (kr) [kr] [False]" tvg-logo="", MBC Daejeon (대전 MBC)
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="znJBZTlOJRrNOH" tvg-chno="28" group-title="famelack (kr) [kr] [False]" tvg-logo="", MBC Yeosu (여수 MBC)
+#EXTINF:0001 tvg-id="I27keaXmXV9AK5" tvg-chno="28" group-title="famelack (kr) [kr] [False]" tvg-logo="", MBC Jeju (제주 MBC)
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:0001 tvg-id="znJBZTlOJRrNOH" tvg-chno="29" group-title="famelack (kr) [kr] [False]" tvg-logo="", MBC Yeosu (여수 MBC)
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="FkEZ1qiww38D8n" tvg-chno="29" group-title="famelack (kr) [kr] [False]" tvg-logo="", NBS Korea Agricultural Broadcasting
+#EXTINF:0001 tvg-id="FkEZ1qiww38D8n" tvg-chno="30" group-title="famelack (kr) [kr] [False]" tvg-logo="", NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:0001 tvg-id="oNnWdV2miCH9OF" tvg-chno="30" group-title="famelack (kr) [kr] [False]" tvg-logo="", NS Home Shopping
+#EXTINF:0001 tvg-id="oNnWdV2miCH9OF" tvg-chno="31" group-title="famelack (kr) [kr] [False]" tvg-logo="", NS Home Shopping
 https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
-#EXTINF:0001 tvg-id="8fjuljf7xVUPuM" tvg-chno="31" group-title="famelack (kr) [kr] [False]" tvg-logo="", NS Shop Plus
+#EXTINF:0001 tvg-id="8fjuljf7xVUPuM" tvg-chno="32" group-title="famelack (kr) [kr] [False]" tvg-logo="", NS Shop Plus
 https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
-#EXTINF:0001 tvg-id="dniHBftPCZaKkW" tvg-chno="32" group-title="famelack (kr) [kr] [False]" tvg-logo="", OBS Gyeongin TV (OBS경인TV)
+#EXTINF:0001 tvg-id="dniHBftPCZaKkW" tvg-chno="33" group-title="famelack (kr) [kr] [False]" tvg-logo="", OBS Gyeongin TV (OBS경인TV)
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="n4MkAIlXwdSE8X" tvg-chno="33" group-title="famelack (kr) [kr] [False]" tvg-logo="", OUN
+#EXTINF:0001 tvg-id="n4MkAIlXwdSE8X" tvg-chno="34" group-title="famelack (kr) [kr] [False]" tvg-logo="", OUN
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:0001 tvg-id="2JjtogNFSDfTsC" tvg-chno="34" group-title="famelack (kr) [kr] [False]" tvg-logo="", RUTC TV
+#EXTINF:0001 tvg-id="2JjtogNFSDfTsC" tvg-chno="35" group-title="famelack (kr) [kr] [False]" tvg-logo="", RUTC TV
 https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="HOw52hxLJ6meLM" tvg-chno="35" group-title="famelack (kr) [kr] [False]" tvg-logo="", SBS KBC
+#EXTINF:0001 tvg-id="HOw52hxLJ6meLM" tvg-chno="36" group-title="famelack (kr) [kr] [False]" tvg-logo="", SBS KBC
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="sYuOJDPKgUlbEP" tvg-chno="36" group-title="famelack (kr) [kr] [False]" tvg-logo="", SBS UBC
+#EXTINF:0001 tvg-id="sYuOJDPKgUlbEP" tvg-chno="37" group-title="famelack (kr) [kr] [False]" tvg-logo="", SBS UBC
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
-#EXTINF:0001 tvg-id="CyzmTDSgy94fJZ" tvg-chno="37" group-title="famelack (kr) [kr] [False]" tvg-logo="", Shinsegae Shopping TV
+#EXTINF:0001 tvg-id="CyzmTDSgy94fJZ" tvg-chno="38" group-title="famelack (kr) [kr] [False]" tvg-logo="", Shinsegae Shopping TV
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-#EXTINF:0001 tvg-id="hiABpRG1XhgOmb" tvg-chno="38" group-title="famelack (kr) [kr] [False]" tvg-logo="", Shopping NT
+#EXTINF:0001 tvg-id="hiABpRG1XhgOmb" tvg-chno="39" group-title="famelack (kr) [kr] [False]" tvg-logo="", Shopping NT
 https://live.shoppingntmall.com/live/10011.m3u8
-#EXTINF:0001 tvg-id="2HZMrsMvWjfCCr" tvg-chno="39" group-title="famelack (kr) [kr] [False]" tvg-logo="", TBS Seoul
+#EXTINF:0001 tvg-id="2HZMrsMvWjfCCr" tvg-chno="40" group-title="famelack (kr) [kr] [False]" tvg-logo="", TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="4If9DGlBIwVH9j" tvg-chno="40" group-title="famelack (kr) [kr] [False]" tvg-logo="", W Shopping
+#EXTINF:0001 tvg-id="4If9DGlBIwVH9j" tvg-chno="41" group-title="famelack (kr) [kr] [False]" tvg-logo="", W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8

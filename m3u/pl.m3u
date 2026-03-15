@@ -87,9 +87,11 @@ https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:0001 tvg-id="XOB3inPkwkHuWb" tvg-chno="44" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP1
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
-#EXTINF:0001 tvg-id="fZI48V3oPHwUhn" tvg-chno="45" group-title="famelack (pl) [pl] [False]" tvg-logo="", W Polsce PL
+#EXTINF:0001 tvg-id="UJrA93oKFNB1K1" tvg-chno="45" group-title="famelack (pl) [pl] [False]" tvg-logo="", Twoja.TV
+https://stream.twoja.tv/ttv_hls/live.m3u8
+#EXTINF:0001 tvg-id="fZI48V3oPHwUhn" tvg-chno="46" group-title="famelack (pl) [pl] [False]" tvg-logo="", W Polsce PL
 https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
-#EXTINF:0001 tvg-id="UeRJuogpYTAdQE" tvg-chno="46" group-title="famelack (pl) [pl] [False]" tvg-logo="", World Billiards TV
+#EXTINF:0001 tvg-id="UeRJuogpYTAdQE" tvg-chno="47" group-title="famelack (pl) [pl] [False]" tvg-logo="", World Billiards TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-#EXTINF:0001 tvg-id="xUqnXZyWFKx10m" tvg-chno="47" group-title="famelack (pl) [pl] [False]" tvg-logo="", Z Nation
+#EXTINF:0001 tvg-id="xUqnXZyWFKx10m" tvg-chno="48" group-title="famelack (pl) [pl] [False]" tvg-logo="", Z Nation
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098

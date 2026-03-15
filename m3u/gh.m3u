@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="zv2UQ2zMvKk0XR" tvg-chno="1" group-title="famelack (gh) [gh] [False]" tvg-logo="", Adinkra TV
-https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
-#EXTINF:0001 tvg-id="qrd5qBWYEVUZjj" tvg-chno="2" group-title="famelack (gh) [gh] [False]" tvg-logo="", OTV
+#EXTINF:0001 tvg-id="qrd5qBWYEVUZjj" tvg-chno="1" group-title="famelack (gh) [gh] [False]" tvg-logo="", OTV
 https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
+#EXTINF:0001 tvg-id="BxmKon0ZujiiDI" tvg-chno="2" group-title="famelack (gh) [gh] [False]" tvg-logo="", Resurrection TV
+https://1681360479.rsc.cdn77.org/1681360479/index.m3u8

@@ -1,19 +1,17 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="FonAbye6aTHG2B" tvg-chno="1" group-title="famelack (cu) [cu] [False]" tvg-logo="", Canal Clave
 https://tv.picta.cu/clave/clave_0.m3u8
-#EXTINF:0001 tvg-id="kmgZCVMju22EeN" tvg-chno="2" group-title="famelack (cu) [cu] [False]" tvg-logo="", Canal Educativo
-https://tv.picta.cu/educativo/educativo_0.m3u8
-#EXTINF:0001 tvg-id="K3el31a2gq3vxi" tvg-chno="3" group-title="famelack (cu) [cu] [False]" tvg-logo="", Canal Educativo 2
+#EXTINF:0001 tvg-id="K3el31a2gq3vxi" tvg-chno="2" group-title="famelack (cu) [cu] [False]" tvg-logo="", Canal Educativo 2
 https://tv.picta.cu/educativo2/educativo2_0.m3u8
-#EXTINF:0001 tvg-id="7hGoLNKV2XJ3w0" tvg-chno="4" group-title="famelack (cu) [cu] [False]" tvg-logo="", Canal Habana
+#EXTINF:0001 tvg-id="7hGoLNKV2XJ3w0" tvg-chno="3" group-title="famelack (cu) [cu] [False]" tvg-logo="", Canal Habana
 https://tv.picta.cu/infantil/infantil_0.m3u8
-#EXTINF:0001 tvg-id="li9kQdkq955cJo" tvg-chno="5" group-title="famelack (cu) [cu] [False]" tvg-logo="", Cubavision
+#EXTINF:0001 tvg-id="li9kQdkq955cJo" tvg-chno="4" group-title="famelack (cu) [cu] [False]" tvg-logo="", Cubavision
 https://tv.picta.cu/cubavision/cubavision_0.m3u8
-#EXTINF:0001 tvg-id="Qs1GHXRh3BCYdu" tvg-chno="6" group-title="famelack (cu) [cu] [False]" tvg-logo="", Cubavision Internacional
+#EXTINF:0001 tvg-id="Qs1GHXRh3BCYdu" tvg-chno="5" group-title="famelack (cu) [cu] [False]" tvg-logo="", Cubavision Internacional
 https://tv.picta.cu/cvi/cvi_0.m3u8
-#EXTINF:0001 tvg-id="l7OqRkDjIvYTcC" tvg-chno="7" group-title="famelack (cu) [cu] [False]" tvg-logo="", Multivision
+#EXTINF:0001 tvg-id="l7OqRkDjIvYTcC" tvg-chno="6" group-title="famelack (cu) [cu] [False]" tvg-logo="", Multivision
 https://tv.picta.cu/multivision/multivision_1.m3u8
-#EXTINF:0001 tvg-id="wS0tNGRy6cDuOe" tvg-chno="8" group-title="famelack (cu) [cu] [False]" tvg-logo="", Prensa Latina TV
+#EXTINF:0001 tvg-id="wS0tNGRy6cDuOe" tvg-chno="7" group-title="famelack (cu) [cu] [False]" tvg-logo="", Prensa Latina TV
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:0001 tvg-id="4Me0RU4rvtok1Y" tvg-chno="9" group-title="famelack (cu) [cu] [False]" tvg-logo="", Tele Rebelde
+#EXTINF:0001 tvg-id="4Me0RU4rvtok1Y" tvg-chno="8" group-title="famelack (cu) [cu] [False]" tvg-logo="", Tele Rebelde
 https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
