@@ -54,45 +54,45 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:0001 tvg-id="O7iLCv0ja7EK6w" tvg-chno="27" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 #EXTINF:0001 tvg-id="IKwTslDp6GIv1l" tvg-chno="28" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal 26
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 #EXTINF:0001 tvg-id="86PvatcoSM3bXa" tvg-chno="29" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:0001 tvg-id="v7fuzMjUcfiKGk" tvg-chno="30" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal 79 La Costa
 https://streamconex.com:19360/lacosta/lacosta.m3u8
-#EXTINF:0001 tvg-id="DGdrDzPisNgZkI" tvg-chno="31" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal 79 Puan
+#EXTINF:0001 tvg-id="2e5tE1tEuJnQJw" tvg-chno="31" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal 79 Mar del Plata
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+#EXTINF:0001 tvg-id="DGdrDzPisNgZkI" tvg-chno="32" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal 79 Puan
 https://streamconex.com:19360/puan/puan.m3u8
-#EXTINF:0001 tvg-id="MaonGrlqkdtlLv" tvg-chno="32" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal 79 Santa Clara del Mar
+#EXTINF:0001 tvg-id="MaonGrlqkdtlLv" tvg-chno="33" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal 79 Santa Clara del Mar
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
-#EXTINF:0001 tvg-id="K4DoGz5aRpSeyC" tvg-chno="33" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal E
+#EXTINF:0001 tvg-id="K4DoGz5aRpSeyC" tvg-chno="34" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="H9rpBJnqUmZoJB" tvg-chno="34" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal Orbe 21
+#EXTINF:0001 tvg-id="H9rpBJnqUmZoJB" tvg-chno="35" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-#EXTINF:0001 tvg-id="Rexjgi9hzCbRd0" tvg-chno="35" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal Provincial
+#EXTINF:0001 tvg-id="Rexjgi9hzCbRd0" tvg-chno="36" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal Provincial
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:0001 tvg-id="tZLaG8MHkNY9P0" tvg-chno="36" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal Santa María
+#EXTINF:0001 tvg-id="tZLaG8MHkNY9P0" tvg-chno="37" group-title="famelack (ar) [ar] [False]" tvg-logo="", Canal Santa María
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
-#EXTINF:0001 tvg-id="vUd9BZTcBgBOm3" tvg-chno="37" group-title="famelack (ar) [ar] [False]" tvg-logo="", Catamarca TV
+#EXTINF:0001 tvg-id="vUd9BZTcBgBOm3" tvg-chno="38" group-title="famelack (ar) [ar] [False]" tvg-logo="", Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-#EXTINF:0001 tvg-id="YK4jerPW8Ia03w" tvg-chno="38" group-title="famelack (ar) [ar] [False]" tvg-logo="", Chaco TV
+#EXTINF:0001 tvg-id="TyUx4dR3i3hPtN" tvg-chno="39" group-title="famelack (ar) [ar] [False]" tvg-logo="", Celta TV
+https://vivo.solumedia.com:19360/celta/celta.m3u8
+#EXTINF:0001 tvg-id="YK4jerPW8Ia03w" tvg-chno="40" group-title="famelack (ar) [ar] [False]" tvg-logo="", Chaco TV
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-#EXTINF:0001 tvg-id="njewIOEi3Bzjbb" tvg-chno="39" group-title="famelack (ar) [ar] [False]" tvg-logo="", Chilecito TV
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-#EXTINF:0001 tvg-id="OpvFhpo06aVAeg" tvg-chno="40" group-title="famelack (ar) [ar] [False]" tvg-logo="", Ciudad Magazine
+#EXTINF:0001 tvg-id="OpvFhpo06aVAeg" tvg-chno="41" group-title="famelack (ar) [ar] [False]" tvg-logo="", Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:0001 tvg-id="9kZgL2i3JTnTNn" tvg-chno="41" group-title="famelack (ar) [ar] [False]" tvg-logo="", Cumbia Mix
+#EXTINF:0001 tvg-id="9kZgL2i3JTnTNn" tvg-chno="42" group-title="famelack (ar) [ar] [False]" tvg-logo="", Cumbia Mix
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
-#EXTINF:0001 tvg-id="WqrxuaH4hV825l" tvg-chno="42" group-title="famelack (ar) [ar] [False]" tvg-logo="", El Trece
+#EXTINF:0001 tvg-id="WqrxuaH4hV825l" tvg-chno="43" group-title="famelack (ar) [ar] [False]" tvg-logo="", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:0001 tvg-id="4Jx43q3AoFe9Yv" tvg-chno="43" group-title="famelack (ar) [ar] [False]" tvg-logo="", Garage TV Latin America
+#EXTINF:0001 tvg-id="4Jx43q3AoFe9Yv" tvg-chno="44" group-title="famelack (ar) [ar] [False]" tvg-logo="", Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:0001 tvg-id="ijWQA3s6NT8hZx" tvg-chno="44" group-title="famelack (ar) [ar] [False]" tvg-logo="", Kpop Mix
+#EXTINF:0001 tvg-id="ijWQA3s6NT8hZx" tvg-chno="45" group-title="famelack (ar) [ar] [False]" tvg-logo="", Kpop Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
-#EXTINF:0001 tvg-id="mZmnLqHFT8usTq" tvg-chno="45" group-title="famelack (ar) [ar] [False]" tvg-logo="", Litus TV
+#EXTINF:0001 tvg-id="mZmnLqHFT8usTq" tvg-chno="46" group-title="famelack (ar) [ar] [False]" tvg-logo="", Litus TV
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:0001 tvg-id="tIBnek0TFb4DRl" tvg-chno="46" group-title="famelack (ar) [ar] [False]" tvg-logo="", Más FM 95.9
+#EXTINF:0001 tvg-id="tIBnek0TFb4DRl" tvg-chno="47" group-title="famelack (ar) [ar] [False]" tvg-logo="", Más FM 95.9
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:0001 tvg-id="jhtVZGk1rHoaP8" tvg-chno="47" group-title="famelack (ar) [ar] [False]" tvg-logo="", Misiones Cuatro
-https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:0001 tvg-id="nCjEym27rIb7Sc" tvg-chno="48" group-title="famelack (ar) [ar] [False]" tvg-logo="", NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="Qr9hVGq64gpwew" tvg-chno="49" group-title="famelack (ar) [ar] [False]" tvg-logo="", Power Max Radio TV
@@ -111,8 +111,8 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:0001 tvg-id="rMuHd71jVt63rI" tvg-chno="56" group-title="famelack (ar) [ar] [False]" tvg-logo="", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:0001 tvg-id="5dobEuPzzWq3sH" tvg-chno="57" group-title="famelack (ar) [ar] [False]" tvg-logo="", Telenord Corrientes
-https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
+#EXTINF:0001 tvg-id="AWVSaRt2GpdnGp" tvg-chno="57" group-title="famelack (ar) [ar] [False]" tvg-logo="", TV Maná Argentina
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="eeCHy3sBgMLKFi" tvg-chno="58" group-title="famelack (ar) [ar] [False]" tvg-logo="", TV Publica
 https://ola1.com.ar/tvp/index.m3u8
 #EXTINF:0001 tvg-id="y5rT2vxc7ZhUkg" tvg-chno="59" group-title="famelack (ar) [ar] [False]" tvg-logo="", TV Solidaria
@@ -121,19 +121,17 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:0001 tvg-id="3ZLaMvkVe8VBbx" tvg-chno="61" group-title="famelack (ar) [ar] [False]" tvg-logo="", Unife TV
 https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="HowIZnmgVTXqy2" tvg-chno="62" group-title="famelack (ar) [ar] [False]" tvg-logo="", Uniteve
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-#EXTINF:0001 tvg-id="BCglO22FLrAJM4" tvg-chno="63" group-title="famelack (ar) [ar] [False]" tvg-logo="", Urban Mix
+#EXTINF:0001 tvg-id="BCglO22FLrAJM4" tvg-chno="62" group-title="famelack (ar) [ar] [False]" tvg-logo="", Urban Mix
 https://cloud.tvomix.com/URBANMIX/index.m3u8
-#EXTINF:0001 tvg-id="zo8XR2eU3AtpaE" tvg-chno="64" group-title="famelack (ar) [ar] [False]" tvg-logo="", VerTV (VTV)
+#EXTINF:0001 tvg-id="zo8XR2eU3AtpaE" tvg-chno="63" group-title="famelack (ar) [ar] [False]" tvg-logo="", VerTV (VTV)
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-#EXTINF:0001 tvg-id="7AOOQRJwDktOpp" tvg-chno="65" group-title="famelack (ar) [ar] [False]" tvg-logo="", X Level Media
+#EXTINF:0001 tvg-id="7AOOQRJwDktOpp" tvg-chno="64" group-title="famelack (ar) [ar] [False]" tvg-logo="", X Level Media
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
-#EXTINF:0001 tvg-id="HFLT2PMog36fFQ" tvg-chno="66" group-title="famelack (ar) [ar] [False]" tvg-logo="", Xtrema Accion
+#EXTINF:0001 tvg-id="HFLT2PMog36fFQ" tvg-chno="65" group-title="famelack (ar) [ar] [False]" tvg-logo="", Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:0001 tvg-id="hzA9M1g8Uiyjea" tvg-chno="67" group-title="famelack (ar) [ar] [False]" tvg-logo="", Xtrema Cartoons
+#EXTINF:0001 tvg-id="hzA9M1g8Uiyjea" tvg-chno="66" group-title="famelack (ar) [ar] [False]" tvg-logo="", Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:0001 tvg-id="5N50bnTr2ohfWL" tvg-chno="68" group-title="famelack (ar) [ar] [False]" tvg-logo="", Xtrema Cine Clasico
+#EXTINF:0001 tvg-id="5N50bnTr2ohfWL" tvg-chno="67" group-title="famelack (ar) [ar] [False]" tvg-logo="", Xtrema Cine Clasico
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-#EXTINF:0001 tvg-id="tLsh4FQYcu5iT0" tvg-chno="69" group-title="famelack (ar) [ar] [False]" tvg-logo="", Xtrema Terror
+#EXTINF:0001 tvg-id="tLsh4FQYcu5iT0" tvg-chno="68" group-title="famelack (ar) [ar] [False]" tvg-logo="", Xtrema Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8

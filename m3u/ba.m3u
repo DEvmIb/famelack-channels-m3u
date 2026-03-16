@@ -3,13 +3,11 @@
 https://webtvstream.bhtelecom.ba/malta.m3u8
 #EXTINF:0001 tvg-id="yLVZgzeSuuMtfC" tvg-chno="2" group-title="famelack (ba) [ba] [False]" tvg-logo="", NTV IC Kakanj
 https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
-#EXTINF:0001 tvg-id="V8QFLQrHQiMeTN" tvg-chno="3" group-title="famelack (ba) [ba] [False]" tvg-logo="", RTRS Plus
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-#EXTINF:0001 tvg-id="akWVtaxPSDAixs" tvg-chno="4" group-title="famelack (ba) [ba] [False]" tvg-logo="", RTV Herceg-Bosne
+#EXTINF:0001 tvg-id="akWVtaxPSDAixs" tvg-chno="3" group-title="famelack (ba) [ba] [False]" tvg-logo="", RTV Herceg-Bosne
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:0001 tvg-id="WcSJpdrhx3iG3n" tvg-chno="5" group-title="famelack (ba) [ba] [False]" tvg-logo="", RTV Zenica
+#EXTINF:0001 tvg-id="WcSJpdrhx3iG3n" tvg-chno="4" group-title="famelack (ba) [ba] [False]" tvg-logo="", RTV Zenica
 https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:0001 tvg-id="1dAwlMTYk4YTyJ" tvg-chno="6" group-title="famelack (ba) [ba] [False]" tvg-logo="", Televizija 5
+#EXTINF:0001 tvg-id="1dAwlMTYk4YTyJ" tvg-chno="5" group-title="famelack (ba) [ba] [False]" tvg-logo="", Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:0001 tvg-id="aDxZ6NMX7FAxtt" tvg-chno="7" group-title="famelack (ba) [ba] [False]" tvg-logo="", Televizija M
+#EXTINF:0001 tvg-id="aDxZ6NMX7FAxtt" tvg-chno="6" group-title="famelack (ba) [ba] [False]" tvg-logo="", Televizija M
 https://live.tv-m.net/hls/stream.m3u8
