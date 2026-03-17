@@ -127,40 +127,40 @@ https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakute
 https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8
 #EXTINF:0001 tvg-id="frxoUV6KIlJwd1" tvg-chno="64" group-title="famelack (fr) [fr] [False]" tvg-logo="", MyTime Movie Network France
 https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="bpkqoQyazekjjY" tvg-chno="65" group-title="famelack (fr) [fr] [False]" tvg-logo="", Mytime Movies
-https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="hDKihfnR1gIzAi" tvg-chno="66" group-title="famelack (fr) [fr] [False]" tvg-logo="", Myzen TV
+#EXTINF:0001 tvg-id="hDKihfnR1gIzAi" tvg-chno="65" group-title="famelack (fr) [fr] [False]" tvg-logo="", Myzen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
-#EXTINF:0001 tvg-id="9skZE5NCmBDvbB" tvg-chno="67" group-title="famelack (fr) [fr] [False]" tvg-logo="", Nature Time France
+#EXTINF:0001 tvg-id="9skZE5NCmBDvbB" tvg-chno="66" group-title="famelack (fr) [fr] [False]" tvg-logo="", Nature Time France
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="UV2K3Inr6FlKvf" tvg-chno="68" group-title="famelack (fr) [fr] [False]" tvg-logo="", P2M TV
+#EXTINF:0001 tvg-id="UV2K3Inr6FlKvf" tvg-chno="67" group-title="famelack (fr) [fr] [False]" tvg-logo="", P2M TV
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
-#EXTINF:0001 tvg-id="rD66Oim1zZv8fD" tvg-chno="69" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Comedy
+#EXTINF:0001 tvg-id="rD66Oim1zZv8fD" tvg-chno="68" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="JGg2rFfUUHYtg9" tvg-chno="70" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Docs
+#EXTINF:0001 tvg-id="JGg2rFfUUHYtg9" tvg-chno="69" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Docs
 https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="5j0y9VV2S7iUDo" tvg-chno="71" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Family
+#EXTINF:0001 tvg-id="5j0y9VV2S7iUDo" tvg-chno="70" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="4R8avfl25GTImU" tvg-chno="72" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Fight
+#EXTINF:0001 tvg-id="4R8avfl25GTImU" tvg-chno="71" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="B1U2GUqPDMNDTF" tvg-chno="73" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Folk
+#EXTINF:0001 tvg-id="B1U2GUqPDMNDTF" tvg-chno="72" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Folk
 https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="uPEIrA2cPEvQW9" tvg-chno="74" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Iranian
+#EXTINF:0001 tvg-id="uPEIrA2cPEvQW9" tvg-chno="73" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Iranian
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="EXvskphL1UFUHC" tvg-chno="75" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Junior
+#EXTINF:0001 tvg-id="EXvskphL1UFUHC" tvg-chno="74" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="6Bhtf9J05J5UhT" tvg-chno="76" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Korea
+#EXTINF:0001 tvg-id="6Bhtf9J05J5UhT" tvg-chno="75" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="odbTAV6ttz1zzI" tvg-chno="77" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Nostalgia
+#EXTINF:0001 tvg-id="odbTAV6ttz1zzI" tvg-chno="76" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="2JHawHHot0z5wU" tvg-chno="78" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Plus
+#EXTINF:0001 tvg-id="2JHawHHot0z5wU" tvg-chno="77" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Plus
 https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="kA1hesNyoEPp4H" tvg-chno="79" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Series
+#EXTINF:0001 tvg-id="kA1hesNyoEPp4H" tvg-chno="78" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="ORrsSA6EuT5G2P" tvg-chno="80" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Turkiye
+#EXTINF:0001 tvg-id="ORrsSA6EuT5G2P" tvg-chno="79" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="FBqLmUOuh5GGFG" tvg-chno="81" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Vibe
+#EXTINF:0001 tvg-id="FBqLmUOuh5GGFG" tvg-chno="80" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Vibe
 https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:0001 tvg-id="6yK7rD2LKikhPv" tvg-chno="81" group-title="famelack (fr) [fr] [False]" tvg-logo="", Puissance TV
+https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:0001 tvg-id="GBee4ruMbEkHYx" tvg-chno="82" group-title="famelack (fr) [fr] [False]" tvg-logo="", Qui Veut Gagner Des Millions La Chaîne
 https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8
 #EXTINF:0001 tvg-id="PGDjufEBywGkq1" tvg-chno="83" group-title="famelack (fr) [fr] [False]" tvg-logo="", Qwest TV Jazz & Beyond
@@ -219,19 +219,21 @@ https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg0
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:0001 tvg-id="FYoDPpWlyg9gMc" tvg-chno="110" group-title="famelack (fr) [fr] [False]" tvg-logo="", viàTéléPaese
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
-#EXTINF:0001 tvg-id="8MY8QweXbIf30Y" tvg-chno="111" group-title="famelack (fr) [fr] [False]" tvg-logo="", Wasabi la chaîne anime
+#EXTINF:0001 tvg-id="ygqSjKK8HMDyzG" tvg-chno="111" group-title="famelack (fr) [fr] [False]" tvg-logo="", Vosges Télévision
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:0001 tvg-id="8MY8QweXbIf30Y" tvg-chno="112" group-title="famelack (fr) [fr] [False]" tvg-logo="", Wasabi la chaîne anime
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="T8DRD6kDPp2FBt" tvg-chno="112" group-title="famelack (fr) [fr] [False]" tvg-logo="", Y'a Que La Vérité Qui Compte La Chaîne
+#EXTINF:0001 tvg-id="T8DRD6kDPp2FBt" tvg-chno="113" group-title="famelack (fr) [fr] [False]" tvg-logo="", Y'a Que La Vérité Qui Compte La Chaîne
 https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8
-#EXTINF:0001 tvg-id="glNPCf2RbwoWmt" tvg-chno="113" group-title="famelack (fr) [fr] [False]" tvg-logo="", zenith
+#EXTINF:0001 tvg-id="glNPCf2RbwoWmt" tvg-chno="114" group-title="famelack (fr) [fr] [False]" tvg-logo="", zenith
 https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8
-#EXTINF:0001 tvg-id="3j6ECJXr7jPtZ4" tvg-chno="114" group-title="famelack (fr) [fr] [False]" tvg-logo="", Zylo Ciné Nanar
+#EXTINF:0001 tvg-id="3j6ECJXr7jPtZ4" tvg-chno="115" group-title="famelack (fr) [fr] [False]" tvg-logo="", Zylo Ciné Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="ksgzBwpypvyJ3L" tvg-chno="115" group-title="famelack (fr) [fr] [False]" tvg-logo="", Zylo Emotion' L
+#EXTINF:0001 tvg-id="ksgzBwpypvyJ3L" tvg-chno="116" group-title="famelack (fr) [fr] [False]" tvg-logo="", Zylo Emotion' L
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
-#EXTINF:0001 tvg-id="CjoFhcjGvn52D3" tvg-chno="116" group-title="famelack (fr) [fr] [False]" tvg-logo="", Zylo Fréquence Novelas
+#EXTINF:0001 tvg-id="CjoFhcjGvn52D3" tvg-chno="117" group-title="famelack (fr) [fr] [False]" tvg-logo="", Zylo Fréquence Novelas
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
-#EXTINF:0001 tvg-id="fjXXoh4ZYStckG" tvg-chno="117" group-title="famelack (fr) [fr] [False]" tvg-logo="", Zylo Into Crime
+#EXTINF:0001 tvg-id="fjXXoh4ZYStckG" tvg-chno="118" group-title="famelack (fr) [fr] [False]" tvg-logo="", Zylo Into Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="04EoHFS3oATwtH" tvg-chno="118" group-title="famelack (fr) [fr] [False]" tvg-logo="", Zylo ScreamIN
+#EXTINF:0001 tvg-id="04EoHFS3oATwtH" tvg-chno="119" group-title="famelack (fr) [fr] [False]" tvg-logo="", Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8

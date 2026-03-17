@@ -33,7 +33,5 @@ https://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 https://dash3.antik.sk/live/test_vita/playlist.m3u8
 #EXTINF:0001 tvg-id="B5WV8O5RRK6OVb" tvg-chno="17" group-title="famelack (sk) [sk] [False]" tvg-logo="", TV9
 https://dash4.antik.sk/live/test_tv9/playlist.m3u8
-#EXTINF:0001 tvg-id="lY0NSe1C5uyuBW" tvg-chno="18" group-title="famelack (sk) [sk] [False]" tvg-logo="", TVT
-https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
-#EXTINF:0001 tvg-id="5vF3N7IdinbhWc" tvg-chno="19" group-title="famelack (sk) [sk] [False]" tvg-logo="", Zapadoslovenska TV
+#EXTINF:0001 tvg-id="5vF3N7IdinbhWc" tvg-chno="18" group-title="famelack (sk) [sk] [False]" tvg-logo="", Zapadoslovenska TV
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
