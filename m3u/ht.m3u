@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="uwTWKsdpHVYtfE" tvg-chno="1" group-title="famelack (ht) [ht] [False]" tvg-logo="", Haiti News Channel
 https://haititivi.com/website/haitinews/index.m3u8
-#EXTINF:0001 tvg-id="j6PYx6KL1bwCxI" tvg-chno="2" group-title="famelack (ht) [ht] [False]" tvg-logo="", Radio Télé 4VEH
+#EXTINF:0001 tvg-id="RbybGfd6WxqoEp" tvg-chno="2" group-title="famelack (ht) [ht] [False]" tvg-logo="", NETALKOLE TV
+https://watch.haitilive.net/naktvhd/index.m3u8
+#EXTINF:0001 tvg-id="j6PYx6KL1bwCxI" tvg-chno="3" group-title="famelack (ht) [ht] [False]" tvg-logo="", Radio Télé 4VEH
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
-#EXTINF:0001 tvg-id="1tPdXzvdmaUSNJ" tvg-chno="3" group-title="famelack (ht) [ht] [False]" tvg-logo="", Radio Tele 6 Univers
-https://acwstream.com/lakay/tele6/tracks-v1a1/mono.m3u8
 #EXTINF:0001 tvg-id="FG2fPV7i5X0IEO" tvg-chno="4" group-title="famelack (ht) [ht] [False]" tvg-logo="", Radio Tele Full Gospel
 https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
 #EXTINF:0001 tvg-id="C6oSzIHCShu5sK" tvg-chno="5" group-title="famelack (ht) [ht] [False]" tvg-logo="", Radio Télé Hit

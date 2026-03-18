@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="hRgd0Ypxitc2Uq" tvg-chno="1" group-title="famelack (rw) [rw] [False]" tvg-logo="", BTN TV
+#EXTINF:0001 tvg-id="FXQtm2S6eQXf1s" tvg-chno="1" group-title="famelack (rw) [rw] [False]" tvg-logo="", B+ TV
+https://tv.btnrwanda.com:3432/live/bpluslive.m3u8
+#EXTINF:0001 tvg-id="hRgd0Ypxitc2Uq" tvg-chno="2" group-title="famelack (rw) [rw] [False]" tvg-logo="", BTN TV
 https://tv.btnrwanda.com:3086/live/btnlive.m3u8
-#EXTINF:0001 tvg-id="ImKv4xWjIX02Ek" tvg-chno="2" group-title="famelack (rw) [rw] [False]" tvg-logo="", Isibo TV
+#EXTINF:0001 tvg-id="ImKv4xWjIX02Ek" tvg-chno="3" group-title="famelack (rw) [rw] [False]" tvg-logo="", Isibo TV
 https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8
-#EXTINF:0001 tvg-id="NcglAZxaLZ2Lw7" tvg-chno="3" group-title="famelack (rw) [rw] [False]" tvg-logo="", KC2
+#EXTINF:0001 tvg-id="NcglAZxaLZ2Lw7" tvg-chno="4" group-title="famelack (rw) [rw] [False]" tvg-logo="", KC2
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
-#EXTINF:0001 tvg-id="6o8FjUUsDRJiNm" tvg-chno="4" group-title="famelack (rw) [rw] [False]" tvg-logo="", RTV Rwanda
+#EXTINF:0001 tvg-id="6o8FjUUsDRJiNm" tvg-chno="5" group-title="famelack (rw) [rw] [False]" tvg-logo="", RTV Rwanda
 https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8
-#EXTINF:0001 tvg-id="xlbj1xHjnlV1Js" tvg-chno="5" group-title="famelack (rw) [rw] [False]" tvg-logo="", TV10
+#EXTINF:0001 tvg-id="xlbj1xHjnlV1Js" tvg-chno="6" group-title="famelack (rw) [rw] [False]" tvg-logo="", TV10
 https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8
