@@ -9,5 +9,3 @@ https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 #EXTINF:0001 tvg-id="tIKVEzb2A3i7Cz" tvg-chno="5" group-title="famelack (sn) [sn] [False]" tvg-logo="", Seneweb TV
 https://vdo2.pro-fhi.net:3297/stream/play.m3u8
-#EXTINF:0001 tvg-id="RfhIP8Ek1pr7to" tvg-chno="6" group-title="famelack (sn) [sn] [False]" tvg-logo="", SenJeunes TV
-https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8

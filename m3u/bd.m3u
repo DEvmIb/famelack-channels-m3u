@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="GPyu3zvadmUURC" tvg-chno="1" group-title="famelack (bd) [bd] [False]" tvg-logo="", ATN Music
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="bSniDzyHJKXnhh" tvg-chno="2" group-title="famelack (bd) [bd] [False]" tvg-logo="", BTV Chattogram
+#EXTINF:0001 tvg-id="bSniDzyHJKXnhh" tvg-chno="1" group-title="famelack (bd) [bd] [False]" tvg-logo="", BTV Chattogram
 https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8
-#EXTINF:0001 tvg-id="PO6iQaxkIAJ3jh" tvg-chno="3" group-title="famelack (bd) [bd] [False]" tvg-logo="", Jamuna TV
+#EXTINF:0001 tvg-id="PO6iQaxkIAJ3jh" tvg-chno="2" group-title="famelack (bd) [bd] [False]" tvg-logo="", Jamuna TV
 https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8
-#EXTINF:0001 tvg-id="4YEv6QH62bmCSw" tvg-chno="4" group-title="famelack (bd) [bd] [False]" tvg-logo="", Madani Channel Bangla
+#EXTINF:0001 tvg-id="4YEv6QH62bmCSw" tvg-chno="3" group-title="famelack (bd) [bd] [False]" tvg-logo="", Madani Channel Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:0001 tvg-id="rq2drD41O4s9tZ" tvg-chno="5" group-title="famelack (bd) [bd] [False]" tvg-logo="", Sangsad TV
+#EXTINF:0001 tvg-id="rq2drD41O4s9tZ" tvg-chno="4" group-title="famelack (bd) [bd] [False]" tvg-logo="", Sangsad TV
 https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8
-#EXTINF:0001 tvg-id="jRNbdDq68JaIxU" tvg-chno="6" group-title="famelack (bd) [bd] [False]" tvg-logo="", Somoy News TV
+#EXTINF:0001 tvg-id="jRNbdDq68JaIxU" tvg-chno="5" group-title="famelack (bd) [bd] [False]" tvg-logo="", Somoy News TV
 https://bozztv.com/rongo/rongo-somoy/index.m3u8

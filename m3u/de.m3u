@@ -113,24 +113,24 @@ https://api.alpaca.t62a.com/hls/9103/index.m3u8
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:0001 tvg-id="OH65zONOdo7fss" tvg-chno="57" group-title="famelack (de) [de] [False]" tvg-logo="", KiKA HD
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="Ztcv27i6GrEiFD" tvg-chno="58" group-title="famelack (de) [de] [False]" tvg-logo="", Lausitzwelle
+#EXTINF:0001 tvg-id="wK7EPJgrVG5gir" tvg-chno="58" group-title="famelack (de) [de] [False]" tvg-logo="", L-TV
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+#EXTINF:0001 tvg-id="Ztcv27i6GrEiFD" tvg-chno="59" group-title="famelack (de) [de] [False]" tvg-logo="", Lausitzwelle
 https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
-#EXTINF:0001 tvg-id="8KvyJPEhDtGSzk" tvg-chno="59" group-title="famelack (de) [de] [False]" tvg-logo="", Leipzig Fernsehen
+#EXTINF:0001 tvg-id="8KvyJPEhDtGSzk" tvg-chno="60" group-title="famelack (de) [de] [False]" tvg-logo="", Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="HWTSet3C8bbwKJ" tvg-chno="60" group-title="famelack (de) [de] [False]" tvg-logo="", LooLoo Kids TV
+#EXTINF:0001 tvg-id="HWTSet3C8bbwKJ" tvg-chno="61" group-title="famelack (de) [de] [False]" tvg-logo="", LooLoo Kids TV
 https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
-#EXTINF:0001 tvg-id="D9DLpbpBMDweEB" tvg-chno="61" group-title="famelack (de) [de] [False]" tvg-logo="", MDR Fernsehen Thuringen
+#EXTINF:0001 tvg-id="D9DLpbpBMDweEB" tvg-chno="62" group-title="famelack (de) [de] [False]" tvg-logo="", MDR Fernsehen Thuringen
 https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="VV5nh58QSIjuA6" tvg-chno="62" group-title="famelack (de) [de] [False]" tvg-logo="", More Than Sports TV
+#EXTINF:0001 tvg-id="VV5nh58QSIjuA6" tvg-chno="63" group-title="famelack (de) [de] [False]" tvg-logo="", More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:0001 tvg-id="E00cpYmcTm5FiQ" tvg-chno="63" group-title="famelack (de) [de] [False]" tvg-logo="", Motorvision
+#EXTINF:0001 tvg-id="E00cpYmcTm5FiQ" tvg-chno="64" group-title="famelack (de) [de] [False]" tvg-logo="", Motorvision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-#EXTINF:0001 tvg-id="4A8SDIwNHIzU1U" tvg-chno="64" group-title="famelack (de) [de] [False]" tvg-logo="", Motorvision.tv (French)
+#EXTINF:0001 tvg-id="4A8SDIwNHIzU1U" tvg-chno="65" group-title="famelack (de) [de] [False]" tvg-logo="", Motorvision.tv (French)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
-#EXTINF:0001 tvg-id="paDrWcFyUNsNMX" tvg-chno="65" group-title="famelack (de) [de] [False]" tvg-logo="", München TV
+#EXTINF:0001 tvg-id="paDrWcFyUNsNMX" tvg-chno="66" group-title="famelack (de) [de] [False]" tvg-logo="", München TV
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="nSKKagLIpNXooQ" tvg-chno="66" group-title="famelack (de) [de] [False]" tvg-logo="", Naruto Germany
-https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="Z6guN3S2lbqSQy" tvg-chno="67" group-title="famelack (de) [de] [False]" tvg-logo="", NDR Fernsehen International
 https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
 #EXTINF:0001 tvg-id="d8YHTAnPVAiw8c" tvg-chno="68" group-title="famelack (de) [de] [False]" tvg-logo="", Niederbayern TV
