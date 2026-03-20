@@ -97,43 +97,45 @@ https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 https://stream2.jlntv.cn/sytv/sd/live.m3u8
 #EXTINF:0001 tvg-id="THg2ymDAp3wTLF" tvg-chno="49" group-title="famelack (cn) [cn] [False]" tvg-logo="", 河源综合
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:0001 tvg-id="tWjSdo4t72dhtd" tvg-chno="50" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江 Ⅰ 绍兴综合
+#EXTINF:0001 tvg-id="2D80wABwXq6SL0" tvg-chno="50" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江 Ⅰ 绍兴影视
+https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:0001 tvg-id="tWjSdo4t72dhtd" tvg-chno="51" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江 Ⅰ 绍兴综合
 https://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-#EXTINF:0001 tvg-id="q3imX08R99F529" tvg-chno="51" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江国际
+#EXTINF:0001 tvg-id="q3imX08R99F529" tvg-chno="52" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:0001 tvg-id="9lXsFkxoK3Y81Q" tvg-chno="52" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江教科
+#EXTINF:0001 tvg-id="9lXsFkxoK3Y81Q" tvg-chno="53" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:0001 tvg-id="TT80T0Uhd4YSQT" tvg-chno="53" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江新闻
+#EXTINF:0001 tvg-id="TT80T0Uhd4YSQT" tvg-chno="54" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:0001 tvg-id="DGN51eNb7kGHRy" tvg-chno="54" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江民生
+#EXTINF:0001 tvg-id="DGN51eNb7kGHRy" tvg-chno="55" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:0001 tvg-id="bed0qZJ8Xu4Wrw" tvg-chno="55" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江经济
+#EXTINF:0001 tvg-id="bed0qZJ8Xu4Wrw" tvg-chno="56" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:0001 tvg-id="VFiwsFTkgPQkI4" tvg-chno="56" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江钱江
+#EXTINF:0001 tvg-id="VFiwsFTkgPQkI4" tvg-chno="57" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:0001 tvg-id="LeuYUA2aMVmI2f" tvg-chno="57" group-title="famelack (cn) [cn] [False]" tvg-logo="", 白城新闻综合
+#EXTINF:0001 tvg-id="LeuYUA2aMVmI2f" tvg-chno="58" group-title="famelack (cn) [cn] [False]" tvg-logo="", 白城新闻综合
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:0001 tvg-id="uf8i2ptAW9zep4" tvg-chno="58" group-title="famelack (cn) [cn] [False]" tvg-logo="", 白山新闻综合
+#EXTINF:0001 tvg-id="uf8i2ptAW9zep4" tvg-chno="59" group-title="famelack (cn) [cn] [False]" tvg-logo="", 白山新闻综合
 https://stream2.jlntv.cn/baishan1/sd/live.m3u8
-#EXTINF:0001 tvg-id="j1PKhARZuXsXE7" tvg-chno="59" group-title="famelack (cn) [cn] [False]" tvg-logo="", 福州广播电视台新闻综合频道 (FZTV-1)
+#EXTINF:0001 tvg-id="j1PKhARZuXsXE7" tvg-chno="60" group-title="famelack (cn) [cn] [False]" tvg-logo="", 福州广播电视台新闻综合频道 (FZTV-1)
 https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-#EXTINF:0001 tvg-id="1GnEgBr4piVPn4" tvg-chno="60" group-title="famelack (cn) [cn] [False]" tvg-logo="", 福州广播电视台都市生活频道 (FZTV-3)
+#EXTINF:0001 tvg-id="1GnEgBr4piVPn4" tvg-chno="61" group-title="famelack (cn) [cn] [False]" tvg-logo="", 福州广播电视台都市生活频道 (FZTV-3)
 https://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-#EXTINF:0001 tvg-id="53xcrNbACNtdim" tvg-chno="61" group-title="famelack (cn) [cn] [False]" tvg-logo="", 福州电视台少儿频道 (FZTV-少儿)
+#EXTINF:0001 tvg-id="53xcrNbACNtdim" tvg-chno="62" group-title="famelack (cn) [cn] [False]" tvg-logo="", 福州电视台少儿频道 (FZTV-少儿)
 https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-#EXTINF:0001 tvg-id="2nS6uDvT5uur0D" tvg-chno="62" group-title="famelack (cn) [cn] [False]" tvg-logo="", 红牛REDBULL TV
+#EXTINF:0001 tvg-id="2nS6uDvT5uur0D" tvg-chno="63" group-title="famelack (cn) [cn] [False]" tvg-logo="", 红牛REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0001 tvg-id="HGBni7wKrtguXm" tvg-chno="63" group-title="famelack (cn) [cn] [False]" tvg-logo="", 萧山新闻综合
+#EXTINF:0001 tvg-id="HGBni7wKrtguXm" tvg-chno="64" group-title="famelack (cn) [cn] [False]" tvg-logo="", 萧山新闻综合
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:0001 tvg-id="hlJLT7eqdRNqcv" tvg-chno="64" group-title="famelack (cn) [cn] [False]" tvg-logo="", 蕭山生活頻道
+#EXTINF:0001 tvg-id="hlJLT7eqdRNqcv" tvg-chno="65" group-title="famelack (cn) [cn] [False]" tvg-logo="", 蕭山生活頻道
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:0001 tvg-id="NpZu4VK2VQIwa6" tvg-chno="65" group-title="famelack (cn) [cn] [False]" tvg-logo="", 辽源新闻综合
+#EXTINF:0001 tvg-id="NpZu4VK2VQIwa6" tvg-chno="66" group-title="famelack (cn) [cn] [False]" tvg-logo="", 辽源新闻综合
 https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-#EXTINF:0001 tvg-id="GR8ODXBa5AGfBc" tvg-chno="66" group-title="famelack (cn) [cn] [False]" tvg-logo="", 通化新闻
+#EXTINF:0001 tvg-id="GR8ODXBa5AGfBc" tvg-chno="67" group-title="famelack (cn) [cn] [False]" tvg-logo="", 通化新闻
 https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-#EXTINF:0001 tvg-id="oNE3puWdpEsxQb" tvg-chno="67" group-title="famelack (cn) [cn] [False]" tvg-logo="", 长春综合
+#EXTINF:0001 tvg-id="oNE3puWdpEsxQb" tvg-chno="68" group-title="famelack (cn) [cn] [False]" tvg-logo="", 长春综合
 https://stream2.jlntv.cn/jlcc/sd/live.m3u8
-#EXTINF:0001 tvg-id="0pqCht0rSXqoPv" tvg-chno="68" group-title="famelack (cn) [cn] [False]" tvg-logo="", 集安综合
+#EXTINF:0001 tvg-id="0pqCht0rSXqoPv" tvg-chno="69" group-title="famelack (cn) [cn] [False]" tvg-logo="", 集安综合
 https://stream2.jlntv.cn/ja/sd/live.m3u8
-#EXTINF:0001 tvg-id="6nQrzZYDFKwB5C" tvg-chno="69" group-title="famelack (cn) [cn] [False]" tvg-logo="", 餘姚姚江文化
+#EXTINF:0001 tvg-id="6nQrzZYDFKwB5C" tvg-chno="70" group-title="famelack (cn) [cn] [False]" tvg-logo="", 餘姚姚江文化
 https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8

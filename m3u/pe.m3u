@@ -59,10 +59,10 @@ https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 https://redirector.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="AQVGMaAFvW9hRl" tvg-chno="30" group-title="famelack (pe) [pe] [False]" tvg-logo="", RSelvaTV
 https://live.obslivestream.com/selvatv/index.m3u8
-#EXTINF:0001 tvg-id="wbr6x2NZ3c23qF" tvg-chno="31" group-title="famelack (pe) [pe] [False]" tvg-logo="", Señal Perú TV
-https://livestream.perucast.com/hls/stream.m3u8
-#EXTINF:0001 tvg-id="FMvg6xgrss4nnA" tvg-chno="32" group-title="famelack (pe) [pe] [False]" tvg-logo="", Telecolor Yurimaguas
+#EXTINF:0001 tvg-id="FMvg6xgrss4nnA" tvg-chno="31" group-title="famelack (pe) [pe] [False]" tvg-logo="", Telecolor Yurimaguas
 https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:0001 tvg-id="wmJ1QxQIvPF4LM" tvg-chno="32" group-title="famelack (pe) [pe] [False]" tvg-logo="", Teleselva
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:0001 tvg-id="oOdusKQUCbc5q3" tvg-chno="33" group-title="famelack (pe) [pe] [False]" tvg-logo="", Top FM TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:0001 tvg-id="mdiVt9k5G6ApIq" tvg-chno="34" group-title="famelack (pe) [pe] [False]" tvg-logo="", Trivu
@@ -87,7 +87,5 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:0001 tvg-id="I0Rp3YU5Uuox7N" tvg-chno="44" group-title="famelack (pe) [pe] [False]" tvg-logo="", Vía Televisión (720P)
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:0001 tvg-id="dpLqGa5wjsNEE1" tvg-chno="45" group-title="famelack (pe) [pe] [False]" tvg-logo="", Viva TV Yurimaguas
-https://live.obslivestream.com/vivatv/index.m3u8
-#EXTINF:0001 tvg-id="sAN5lqkNeMhvi8" tvg-chno="46" group-title="famelack (pe) [pe] [False]" tvg-logo="", VNP
+#EXTINF:0001 tvg-id="sAN5lqkNeMhvi8" tvg-chno="45" group-title="famelack (pe) [pe] [False]" tvg-logo="", VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8

@@ -17,7 +17,9 @@ https://stream.cmctv.hr:49998/kit/live.m3u8
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:0001 tvg-id="vwVV88p4oCjCFy" tvg-chno="9" group-title="famelack (hr) [hr] [False]" tvg-logo="", Radio Televizija Banovina
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
-#EXTINF:0001 tvg-id="J3nEPCNB7tfIfa" tvg-chno="10" group-title="famelack (hr) [hr] [False]" tvg-logo="", TV Jadran
+#EXTINF:0001 tvg-id="N20HHEdGRq23oN" tvg-chno="10" group-title="famelack (hr) [hr] [False]" tvg-logo="", SBTV
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:0001 tvg-id="J3nEPCNB7tfIfa" tvg-chno="11" group-title="famelack (hr) [hr] [False]" tvg-logo="", TV Jadran
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-#EXTINF:0001 tvg-id="YYX03S5xOVCpAS" tvg-chno="11" group-title="famelack (hr) [hr] [False]" tvg-logo="", TV Nova
+#EXTINF:0001 tvg-id="YYX03S5xOVCpAS" tvg-chno="12" group-title="famelack (hr) [hr] [False]" tvg-logo="", TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
