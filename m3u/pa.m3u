@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="wbP1yV7MoOQbP3" tvg-chno="1" group-title="famelack (pa) [pa] [False]" tvg-logo="", Hispania TV
+#EXTINF:0001 tvg-id="fCOFZ3MkOxf1s6" tvg-chno="1" group-title="famelack (pa) [pa] [False]" tvg-logo="", Fabulosa Estéreo 100.5 FM
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
+#EXTINF:0001 tvg-id="wbP1yV7MoOQbP3" tvg-chno="2" group-title="famelack (pa) [pa] [False]" tvg-logo="", Hispania TV
 https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8
-#EXTINF:0001 tvg-id="sk0pXWYPhoUI0U" tvg-chno="2" group-title="famelack (pa) [pa] [False]" tvg-logo="", Hosanna Vision
+#EXTINF:0001 tvg-id="sk0pXWYPhoUI0U" tvg-chno="3" group-title="famelack (pa) [pa] [False]" tvg-logo="", Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
-#EXTINF:0001 tvg-id="NrKrfT28f0zHMn" tvg-chno="3" group-title="famelack (pa) [pa] [False]" tvg-logo="", Planet 100.9 FM
+#EXTINF:0001 tvg-id="NrKrfT28f0zHMn" tvg-chno="4" group-title="famelack (pa) [pa] [False]" tvg-logo="", Planet 100.9 FM
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
-#EXTINF:0001 tvg-id="dNZF0BG3ys3ZI5" tvg-chno="4" group-title="famelack (pa) [pa] [False]" tvg-logo="", Radio Ancón
+#EXTINF:0001 tvg-id="dNZF0BG3ys3ZI5" tvg-chno="5" group-title="famelack (pa) [pa] [False]" tvg-logo="", Radio Ancón
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
-#EXTINF:0001 tvg-id="mfsWJwtwhG3h3c" tvg-chno="5" group-title="famelack (pa) [pa] [False]" tvg-logo="", Radio Hogar
+#EXTINF:0001 tvg-id="mfsWJwtwhG3h3c" tvg-chno="6" group-title="famelack (pa) [pa] [False]" tvg-logo="", Radio Hogar
 https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
-#EXTINF:0001 tvg-id="rSxoKzYWbixhad" tvg-chno="6" group-title="famelack (pa) [pa] [False]" tvg-logo="", Súper Q Panamá
+#EXTINF:0001 tvg-id="rSxoKzYWbixhad" tvg-chno="7" group-title="famelack (pa) [pa] [False]" tvg-logo="", Súper Q Panamá
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
-#EXTINF:0001 tvg-id="SUR27YVxiEVQoo" tvg-chno="7" group-title="famelack (pa) [pa] [False]" tvg-logo="", Tropi Q 99.7 FM
+#EXTINF:0001 tvg-id="SUR27YVxiEVQoo" tvg-chno="8" group-title="famelack (pa) [pa] [False]" tvg-logo="", Tropi Q 99.7 FM
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8

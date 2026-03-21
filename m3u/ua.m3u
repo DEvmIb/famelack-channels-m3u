@@ -17,9 +17,11 @@ https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 #EXTINF:0001 tvg-id="hthUrV2rQO5a6H" tvg-chno="9" group-title="famelack (ua) [ua] [False]" tvg-logo="", Ланет.TV
 https://kiev1-cdn.lanet.tv/live/1008.m3u8
-#EXTINF:0001 tvg-id="NXqKfcXbbK35QY" tvg-chno="10" group-title="famelack (ua) [ua] [False]" tvg-logo="", НТК ТВ
+#EXTINF:0001 tvg-id="8guglX3waEEweH" tvg-chno="10" group-title="famelack (ua) [ua] [False]" tvg-logo="", Луганск 24
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
+#EXTINF:0001 tvg-id="NXqKfcXbbK35QY" tvg-chno="11" group-title="famelack (ua) [ua] [False]" tvg-logo="", НТК ТВ
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:0001 tvg-id="aWkEDmohDUdyQY" tvg-chno="11" group-title="famelack (ua) [ua] [False]" tvg-logo="", Сфера-ТВ
+#EXTINF:0001 tvg-id="aWkEDmohDUdyQY" tvg-chno="12" group-title="famelack (ua) [ua] [False]" tvg-logo="", Сфера-ТВ
 https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="mzTgarqEQGEgoJ" tvg-chno="12" group-title="famelack (ua) [ua] [False]" tvg-logo="", Тюсо
+#EXTINF:0001 tvg-id="mzTgarqEQGEgoJ" tvg-chno="13" group-title="famelack (ua) [ua] [False]" tvg-logo="", Тюсо
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8

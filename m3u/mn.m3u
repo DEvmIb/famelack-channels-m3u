@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="q40BblBPhjUxxM" tvg-chno="1" group-title="famelack (mn) [mn] [False]" tvg-logo="", MNB
-https://live.mnb.mn/hls/mnb.stream.m3u8
-#EXTINF:0001 tvg-id="WjzlJmHsxUPxpZ" tvg-chno="2" group-title="famelack (mn) [mn] [False]" tvg-logo="", MNB Sport
-https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-#EXTINF:0001 tvg-id="zpHGQwdKXcbDlt" tvg-chno="3" group-title="famelack (mn) [mn] [False]" tvg-logo="", MNB World
-https://live.mnb.mn/hls/mnb_world.stream.m3u8
-#EXTINF:0001 tvg-id="aRQ1y8w3hHJJTt" tvg-chno="4" group-title="famelack (mn) [mn] [False]" tvg-logo="", MNB Монголын Мэдээ
-https://live.mnb.mn/hls/mn2.stream.m3u8
-#EXTINF:0001 tvg-id="zUpP954YCR2OBL" tvg-chno="5" group-title="famelack (mn) [mn] [False]" tvg-logo="", TV5
+#EXTINF:0001 tvg-id="zUpP954YCR2OBL" tvg-chno="1" group-title="famelack (mn) [mn] [False]" tvg-logo="", TV5
 https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
