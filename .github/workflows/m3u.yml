@@ -16,7 +16,7 @@ jobs:
       - name: check for new channels
         id: check_repo
         run: |
-          _latest_remote=$(curl -s https://api.github.com/repos/famelack/famelack-channels/commits/main |jq -r '.sha')
+          _latest_remote=$(curl -Ls https://api.github.com/repos/famelack/famelack-channels/commits/main |jq -r '.sha')
           
           if [ "$(cat .latest 2>/dev/null)" == "$_latest_remote" ]; then
             echo "update=false" >> $GITHUB_OUTPUT
