@@ -10,8 +10,8 @@ try:
     num_all = 1
     if not os.path.isdir("m3u"):
         os.makedirs("m3u", exist_ok=True)
-    if os.path.isdir("famelack-channels/channels/raw/countries"):
-        for file in Path("famelack-channels/channels/raw/countries").glob("*.json"):
+    if os.path.isdir("famelack-channels/tv/raw/countries"):
+        for file in Path("famelack-channels/tv/raw/countries").glob("*.json"):
             if not file.is_file():
                 continue
             country = file.stem
@@ -20,7 +20,7 @@ try:
 
             num = 1
             with open(
-                f"famelack-channels/channels/raw/countries/{country}.json", "r"
+                f"famelack-channels/tv/raw/countries/{country}.json", "r"
             ) as f:
                 try:
                     data = json.load(f)
