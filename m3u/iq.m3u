@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="ddrr8smWgDPaNo" tvg-chno="1" group-title="famelack (iq) [iq] [False]" tvg-logo="", Afarin Baxcha
+#EXTINF:0001 tvg-id="tRJLm7iZgOpKay" tvg-chno="1" group-title="famelack (iq) [iq] [False]" tvg-logo="", ABNsat
+https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+#EXTINF:0001 tvg-id="ddrr8smWgDPaNo" tvg-chno="2" group-title="famelack (iq) [iq] [False]" tvg-logo="", Afarin Baxcha
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="AeG4E88wj1aN3z" tvg-chno="2" group-title="famelack (iq) [iq] [False]" tvg-logo="", Afarin TV
+#EXTINF:0001 tvg-id="AeG4E88wj1aN3z" tvg-chno="3" group-title="famelack (iq) [iq] [False]" tvg-logo="", Afarin TV
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="CM6FuW5WtTCo5H" tvg-chno="3" group-title="famelack (iq) [iq] [False]" tvg-logo="", Al Rasheed TV
+#EXTINF:0001 tvg-id="CM6FuW5WtTCo5H" tvg-chno="4" group-title="famelack (iq) [iq] [False]" tvg-logo="", Al Rasheed TV
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
-#EXTINF:0001 tvg-id="gqagHcGI6e4lYf" tvg-chno="4" group-title="famelack (iq) [iq] [False]" tvg-logo="", Al-Jawadain TV
-https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:0001 tvg-id="O42irmQexc6nDD" tvg-chno="5" group-title="famelack (iq) [iq] [False]" tvg-logo="", Al-Sharqiya
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:0001 tvg-id="F9S4QFLYWa9FpX" tvg-chno="6" group-title="famelack (iq) [iq] [False]" tvg-logo="", Al-Sharqiya News
@@ -25,12 +25,12 @@ https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:0001 tvg-id="HjSyVfRfsJOuSb" tvg-chno="13" group-title="famelack (iq) [iq] [False]" tvg-logo="", Iraq Future
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
-#EXTINF:0001 tvg-id="9RdvwjYBwgdvbP" tvg-chno="14" group-title="famelack (iq) [iq] [False]" tvg-logo="", Kurdistan TV
+#EXTINF:0001 tvg-id="GNcGmADBjc6NVP" tvg-chno="14" group-title="famelack (iq) [iq] [False]" tvg-logo="", Kurd Channel
+https://kurdchhls.wns.live/hls/stream.m3u8
+#EXTINF:0001 tvg-id="9RdvwjYBwgdvbP" tvg-chno="15" group-title="famelack (iq) [iq] [False]" tvg-logo="", Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="O3t69Sz5G9vyIV" tvg-chno="15" group-title="famelack (iq) [iq] [False]" tvg-logo="", KurdMax Music
+#EXTINF:0001 tvg-id="O3t69Sz5G9vyIV" tvg-chno="16" group-title="famelack (iq) [iq] [False]" tvg-logo="", KurdMax Music
 https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8
-#EXTINF:0001 tvg-id="QbuWRonKyyvi1a" tvg-chno="16" group-title="famelack (iq) [iq] [False]" tvg-logo="", KurdMax Sorani
-https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
 #EXTINF:0001 tvg-id="SjoOeqUrGyldOw" tvg-chno="17" group-title="famelack (iq) [iq] [False]" tvg-logo="", Kurdsat News
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:0001 tvg-id="zm44xwiDL9fsin" tvg-chno="18" group-title="famelack (iq) [iq] [False]" tvg-logo="", Marjaeyat TV Arabic

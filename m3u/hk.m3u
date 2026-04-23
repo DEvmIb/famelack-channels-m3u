@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="cq6tthzEoEuekR" tvg-chno="1" group-title="famelack (hk) [hk] [False]" tvg-logo="", Pet Club TV
+#EXTINF:0001 tvg-id="F2ze7vbKV6XjQT" tvg-chno="1" group-title="famelack (hk) [hk] [False]" tvg-logo="", KIX
+https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+#EXTINF:0001 tvg-id="cq6tthzEoEuekR" tvg-chno="2" group-title="famelack (hk) [hk] [False]" tvg-logo="", Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8

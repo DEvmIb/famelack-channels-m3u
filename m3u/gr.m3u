@@ -31,12 +31,12 @@ https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:0001 tvg-id="syiSHu51AliWkD" tvg-chno="16" group-title="famelack (gr) [gr] [False]" tvg-logo="", Lychnos TV
 https://thor.mental-media.gr:19360/imp/imp.m3u8
-#EXTINF:0001 tvg-id="nOgaKVJqtjFRdy" tvg-chno="17" group-title="famelack (gr) [gr] [False]" tvg-logo="", Nea TV
+#EXTINF:0001 tvg-id="YpG1ImfWO1Q3HO" tvg-chno="17" group-title="famelack (gr) [gr] [False]" tvg-logo="", Naftemporiki TV
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
+#EXTINF:0001 tvg-id="nOgaKVJqtjFRdy" tvg-chno="18" group-title="famelack (gr) [gr] [False]" tvg-logo="", Nea TV
 https://live.neatv.gr:8888/hls/neatv.m3u8
-#EXTINF:0001 tvg-id="va1T6JmoihYIa4" tvg-chno="18" group-title="famelack (gr) [gr] [False]" tvg-logo="", Notioi TV
+#EXTINF:0001 tvg-id="va1T6JmoihYIa4" tvg-chno="19" group-title="famelack (gr) [gr] [False]" tvg-logo="", Notioi TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:0001 tvg-id="pjEgd6IVJGjdu8" tvg-chno="19" group-title="famelack (gr) [gr] [False]" tvg-logo="", NRG TV
-https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:0001 tvg-id="NRZMBeU73QGtG9" tvg-chno="20" group-title="famelack (gr) [gr] [False]" tvg-logo="", One Channel
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 #EXTINF:0001 tvg-id="L3j1vKGF6lnpfD" tvg-chno="21" group-title="famelack (gr) [gr] [False]" tvg-logo="", Panik TV
@@ -45,7 +45,7 @@ https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:0001 tvg-id="tIsI0Q7tcEru0t" tvg-chno="23" group-title="famelack (gr) [gr] [False]" tvg-logo="", Skai TV
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:0001 tvg-id="Bvo4qWR2BxTVV4" tvg-chno="24" group-title="famelack (gr) [gr] [False]" tvg-logo="", STAR HD [Non geo blocked]
+#EXTINF:0001 tvg-id="uhkrreTROoHk00" tvg-chno="24" group-title="famelack (gr) [gr] [False]" tvg-logo="", STAR HD  [Non geo blocked]
 https://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:0001 tvg-id="AB50H5YfbCXfVv" tvg-chno="25" group-title="famelack (gr) [gr] [False]" tvg-logo="", STAR International
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8

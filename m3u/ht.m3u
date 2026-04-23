@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="RbybGfd6WxqoEp" tvg-chno="1" group-title="famelack (ht) [ht] [False]" tvg-logo="", NETALKOLE TV
-https://watch.haitilive.net/naktvhd/index.m3u8
+#EXTINF:0001 tvg-id="uwTWKsdpHVYtfE" tvg-chno="1" group-title="famelack (ht) [ht] [False]" tvg-logo="", Haiti News Channel
+https://haititivi.com/website/haitinews/index.m3u8
 #EXTINF:0001 tvg-id="j6PYx6KL1bwCxI" tvg-chno="2" group-title="famelack (ht) [ht] [False]" tvg-logo="", Radio Télé 4VEH
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 #EXTINF:0001 tvg-id="FG2fPV7i5X0IEO" tvg-chno="3" group-title="famelack (ht) [ht] [False]" tvg-logo="", Radio Tele Full Gospel

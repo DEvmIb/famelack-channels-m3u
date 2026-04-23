@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="vntT3Mgu6X5cjh" tvg-chno="1" group-title="famelack (af) [af] [False]" tvg-logo="", AMC
-https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="XPJxz3pe1ma8l2" tvg-chno="2" group-title="famelack (af) [af] [False]" tvg-logo="", Dunya Naw TV
+#EXTINF:0001 tvg-id="XPJxz3pe1ma8l2" tvg-chno="1" group-title="famelack (af) [af] [False]" tvg-logo="", Dunya Naw TV
 https://dunyanhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="kbdcUcRfw9YLk1" tvg-chno="3" group-title="famelack (af) [af] [False]" tvg-logo="", Eslah TV
+#EXTINF:0001 tvg-id="kbdcUcRfw9YLk1" tvg-chno="2" group-title="famelack (af) [af] [False]" tvg-logo="", Eslah TV
 https://eslahtvhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="PMA4oYVtGpr60x" tvg-chno="4" group-title="famelack (af) [af] [False]" tvg-logo="", Kayhan TV
+#EXTINF:0001 tvg-id="PMA4oYVtGpr60x" tvg-chno="3" group-title="famelack (af) [af] [False]" tvg-logo="", Kayhan TV
 https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
-#EXTINF:0001 tvg-id="sZwFjK8uOPwgBp" tvg-chno="5" group-title="famelack (af) [af] [False]" tvg-logo="", Shamshad TV
+#EXTINF:0001 tvg-id="sZwFjK8uOPwgBp" tvg-chno="4" group-title="famelack (af) [af] [False]" tvg-logo="", Shamshad TV
 https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
-#EXTINF:0001 tvg-id="aEHBVjoRvzZifo" tvg-chno="6" group-title="famelack (af) [af] [False]" tvg-logo="", Tamadon TV
+#EXTINF:0001 tvg-id="aEHBVjoRvzZifo" tvg-chno="5" group-title="famelack (af) [af] [False]" tvg-logo="", Tamadon TV
 https://hls.tamadon.live/hls/stream.m3u8

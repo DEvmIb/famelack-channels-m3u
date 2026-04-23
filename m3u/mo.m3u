@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="34ae3uHdQyClQW" tvg-chno="1" group-title="famelack (mo) [mo] [False]" tvg-logo="", Canal Macau Ch. 92
-https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:0001 tvg-id="58vqYx7XTThkiR" tvg-chno="2" group-title="famelack (mo) [mo] [False]" tvg-logo="", Directo das Reuniões da Assembleia de Macau
+#EXTINF:0001 tvg-id="58vqYx7XTThkiR" tvg-chno="1" group-title="famelack (mo) [mo] [False]" tvg-logo="", Directo das Reuniões da Assembleia de Macau
 https://live3.tdm.com.mo/tv/ch22.live/playlist.m3u8
-#EXTINF:0001 tvg-id="6l2elb9HrlyXjY" tvg-chno="3" group-title="famelack (mo) [mo] [False]" tvg-logo="", TDM Info. Macau
-https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:0001 tvg-id="x025lr9V7w4N5p" tvg-chno="4" group-title="famelack (mo) [mo] [False]" tvg-logo="", 立法會直播 (Legislative Council Live)
-https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8
