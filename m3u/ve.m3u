@@ -57,8 +57,8 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 #EXTINF:0001 tvg-id="iQsTa6Z2cWc5Ch" tvg-chno="29" group-title="famelack (ve) [ve] [False]" tvg-logo="", Torococo TV
 https://us.streaminghd.cl/torococotelevision/video.m3u8
-#EXTINF:0001 tvg-id="rO6eV79GxNqt7n" tvg-chno="30" group-title="famelack (ve) [ve] [False]" tvg-logo="", TRT
-https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:0001 tvg-id="b3aSHeBRmQKpi4" tvg-chno="30" group-title="famelack (ve) [ve] [False]" tvg-logo="", TV Oasis Monay
+https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8
 #EXTINF:0001 tvg-id="XdOMLij5yy08uC" tvg-chno="31" group-title="famelack (ve) [ve] [False]" tvg-logo="", TVM para ti
 https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
 #EXTINF:0001 tvg-id="lupM9TqioABtUb" tvg-chno="32" group-title="famelack (ve) [ve] [False]" tvg-logo="", UN24
