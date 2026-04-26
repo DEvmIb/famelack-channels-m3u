@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="eBbpgzBPw5kGpm" tvg-chno="1" group-title="famelack (sa) [sa] [False]" tvg-logo="", Abdulmajeed Abdullah
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
-#EXTINF:0001 tvg-id="O8knzVaQwPKnWC" tvg-chno="2" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Arabiya Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="IFQghqsvUOnfz9" tvg-chno="3" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Arabiya English
+#EXTINF:0001 tvg-id="IFQghqsvUOnfz9" tvg-chno="2" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Arabiya English
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="OfbaNj7uCuziTj" tvg-chno="4" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Ekhbariya
+#EXTINF:0001 tvg-id="OfbaNj7uCuziTj" tvg-chno="3" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Ekhbariya
 https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
+#EXTINF:0001 tvg-id="O5Ua3BgtrfnWGn" tvg-chno="4" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="gUNShL4GZ5DwVP" tvg-chno="5" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Quran Al Kareem TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:0001 tvg-id="Eq3xJxs4Urzf32" tvg-chno="6" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Saudiya
@@ -33,7 +33,7 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m
 https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8
 #EXTINF:0001 tvg-id="hKsePjubKoTvYH" tvg-chno="17" group-title="famelack (sa) [sa] [False]" tvg-logo="", Majid Al Mohandis
 https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
-#EXTINF:0001 tvg-id="yleIKDrRKbucGA" tvg-chno="18" group-title="famelack (sa) [sa] [False]" tvg-logo="", Makkah TV
+#EXTINF:0001 tvg-id="yleIKDrRKbucGA" tvg-chno="18" group-title="famelack (sa) [sa] [True]" tvg-logo="", Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:0001 tvg-id="AQGmKDckGE5Qe6" tvg-chno="19" group-title="famelack (sa) [sa] [False]" tvg-logo="", MBC Loud
 https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8

@@ -3,15 +3,13 @@
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:0001 tvg-id="qnZnUMjCzgKR22" tvg-chno="2" group-title="famelack (sn) [sn] [False]" tvg-logo="", A2i Religion
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
-#EXTINF:0001 tvg-id="T0IEZPe03CJ8Jv" tvg-chno="3" group-title="famelack (sn) [sn] [False]" tvg-logo="", Diaspora 24
+#EXTINF:0001 tvg-id="T0IEZPe03CJ8Jv" tvg-chno="3" group-title="famelack (sn) [sn] [True]" tvg-logo="", Diaspora 24
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 #EXTINF:0001 tvg-id="JUnTXwYpoyd7Ny" tvg-chno="4" group-title="famelack (sn) [sn] [False]" tvg-logo="", Louga TV
 https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
-#EXTINF:0001 tvg-id="tIKVEzb2A3i7Cz" tvg-chno="5" group-title="famelack (sn) [sn] [False]" tvg-logo="", Seneweb TV
-https://vdo2.pro-fhi.net:3297/stream/play.m3u8
-#EXTINF:0001 tvg-id="RfhIP8Ek1pr7to" tvg-chno="6" group-title="famelack (sn) [sn] [False]" tvg-logo="", SenJeunes TV
+#EXTINF:0001 tvg-id="RfhIP8Ek1pr7to" tvg-chno="5" group-title="famelack (sn) [sn] [False]" tvg-logo="", SenJeunes TV
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
-#EXTINF:0001 tvg-id="ox86PswpaoGHYF" tvg-chno="7" group-title="famelack (sn) [sn] [False]" tvg-logo="", TeleMusik Senegal
+#EXTINF:0001 tvg-id="ox86PswpaoGHYF" tvg-chno="6" group-title="famelack (sn) [sn] [False]" tvg-logo="", TeleMusik Senegal
 https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
-#EXTINF:0001 tvg-id="2dRnxxtZOm8ac0" tvg-chno="8" group-title="famelack (sn) [sn] [False]" tvg-logo="", TFM
+#EXTINF:0001 tvg-id="2dRnxxtZOm8ac0" tvg-chno="7" group-title="famelack (sn) [sn] [False]" tvg-logo="", TFM
 https://trn03.bozztv.com/gin-tfmtv/index.m3u8

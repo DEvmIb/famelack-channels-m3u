@@ -37,13 +37,13 @@ https://rdejhls.wns.live/hls/stream.m3u8
 https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
 #EXTINF:0001 tvg-id="J5HDeVjO016Oz1" tvg-chno="19" group-title="famelack (ir) [ir] [False]" tvg-logo="", EPlanet TV
 https://eplhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="iWUUKHrNYmm1vc" tvg-chno="20" group-title="famelack (ir) [ir] [False]" tvg-logo="", FX TV 1
+#EXTINF:0001 tvg-id="5S85oBbAlyHm6s" tvg-chno="20" group-title="famelack (ir) [ir] [False]" tvg-logo="", FX 1
 https://fxtvhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="VMUEMoQp7ZNxmO" tvg-chno="21" group-title="famelack (ir) [ir] [False]" tvg-logo="", FX TV 2
+#EXTINF:0001 tvg-id="Kg8Y9N9U1Cs1tP" tvg-chno="21" group-title="famelack (ir) [ir] [False]" tvg-logo="", FX 2
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:0001 tvg-id="c6W4AcGWKSc8qs" tvg-chno="22" group-title="famelack (ir) [ir] [False]" tvg-logo="", Gold Star
 https://moviethls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="FRDoZrDehG1Lc7" tvg-chno="23" group-title="famelack (ir) [ir] [False]" tvg-logo="", Home Plus
+#EXTINF:0001 tvg-id="gb422U2XCi76AZ" tvg-chno="23" group-title="famelack (ir) [ir] [False]" tvg-logo="", HomePlus
 https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:0001 tvg-id="HW3VPKyt6mpMGb" tvg-chno="24" group-title="famelack (ir) [ir] [False]" tvg-logo="", iFilm 2
 https://live.presstv.ir/hls/ifilm2.m3u8
@@ -63,7 +63,7 @@ https://metafilmhls.wns.live/hls/stream.m3u8
 https://iptv.mihantv.com/mihantv/playlist.m3u8
 #EXTINF:0001 tvg-id="mYoBudQll8V8v1" tvg-chno="32" group-title="famelack (ir) [ir] [False]" tvg-logo="", Mohabat TV
 https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:0001 tvg-id="RYW8cokw1YUAPH" tvg-chno="33" group-title="famelack (ir) [ir] [False]" tvg-logo="", Newflix
+#EXTINF:0001 tvg-id="RYW8cokw1YUAPH" tvg-chno="33" group-title="famelack (ir) [ir] [False]" tvg-logo="", NewFlix
 https://newfhls.wns.live/hls/stream.m3u8
 #EXTINF:0001 tvg-id="Hq5kvgoL2uBOds" tvg-chno="34" group-title="famelack (ir) [ir] [False]" tvg-logo="", OXIR TV
 https://hls.oxir.live/hls/stream.m3u8

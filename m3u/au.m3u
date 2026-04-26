@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="yHegYqGe8Y9Q5E" tvg-chno="1" group-title="famelack (au) [au] [False]" tvg-logo="", 10 Bold Adelaide
+#EXTINF:0001 tvg-id="lxtnwZjaAVKkTo" tvg-chno="1" group-title="famelack (au) [au] [False]" tvg-logo="", 10 Bold
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:0001 tvg-id="l3j5k47cRFPEax" tvg-chno="2" group-title="famelack (au) [au] [False]" tvg-logo="", ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:0001 tvg-id="1kGzlc1JUirLRX" tvg-chno="3" group-title="famelack (au) [au] [False]" tvg-logo="", Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="OTtgOdMuzH3Ad4" tvg-chno="4" group-title="famelack (au) [au] [False]" tvg-logo="", ausbiz TV
+#EXTINF:0001 tvg-id="OTtgOdMuzH3Ad4" tvg-chno="4" group-title="famelack (au) [au] [False]" tvg-logo="", Ausbiz TV
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:0001 tvg-id="aODKbBqnVbvVaT" tvg-chno="5" group-title="famelack (au) [au] [False]" tvg-logo="", Breaking News by LeadStory
 https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
@@ -47,9 +47,9 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:0001 tvg-id="FKERcaDza45HDL" tvg-chno="24" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:0001 tvg-id="kWdBvQFz5aue5n" tvg-chno="25" group-title="famelack (au) [au] [False]" tvg-logo="", Sky Racing 1
+#EXTINF:0001 tvg-id="kWdBvQFz5aue5n" tvg-chno="25" group-title="famelack (au) [au] [True]" tvg-logo="", Sky Racing 1
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
-#EXTINF:0001 tvg-id="mDtjo6SWz3rKx0" tvg-chno="26" group-title="famelack (au) [au] [False]" tvg-logo="", Sky Racing 2
+#EXTINF:0001 tvg-id="mDtjo6SWz3rKx0" tvg-chno="26" group-title="famelack (au) [au] [True]" tvg-logo="", Sky Racing 2
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 #EXTINF:0001 tvg-id="gP0EIOZBWJnKLv" tvg-chno="27" group-title="famelack (au) [au] [False]" tvg-logo="", Surf Cinema
 https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8

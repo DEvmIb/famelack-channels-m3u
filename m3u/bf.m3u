@@ -3,7 +3,5 @@
 https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
 #EXTINF:0001 tvg-id="y8ufu4YXUzuRSK" tvg-chno="2" group-title="famelack (bf) [bf] [False]" tvg-logo="", RTB 3
 https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
-#EXTINF:0001 tvg-id="T5lm0gU60aLLYr" tvg-chno="3" group-title="famelack (bf) [bf] [False]" tvg-logo="", RTB2 Hauts-Basins
-https://edge20.vedge.infomaniak.com/livecast/ik:rtbguiriko-1/manifest.m3u8
-#EXTINF:0001 tvg-id="1uIhZZ1zUEi8XM" tvg-chno="4" group-title="famelack (bf) [bf] [False]" tvg-logo="", Savane TV
+#EXTINF:0001 tvg-id="1uIhZZ1zUEi8XM" tvg-chno="3" group-title="famelack (bf) [bf] [False]" tvg-logo="", Savane TV
 https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8

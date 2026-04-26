@@ -13,15 +13,15 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
 #EXTINF:0001 tvg-id="CPUFPutREQebmN" tvg-chno="7" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Kitchen
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
-#EXTINF:0001 tvg-id="JLqZ7picOIRrVI" tvg-chno="8" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Satellite Channel
-https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:0001 tvg-id="u6ZkGLLqixazm2" tvg-chno="9" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Songs
+#EXTINF:0001 tvg-id="u6ZkGLLqixazm2" tvg-chno="8" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Songs
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
-#EXTINF:0001 tvg-id="5y6EYwtqdTyabX" tvg-chno="10" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Sport
+#EXTINF:0001 tvg-id="5y6EYwtqdTyabX" tvg-chno="9" group-title="famelack (jo) [jo] [True]" tvg-logo="", Jordan Sport
 https://93.184.10.248/JordanSport/index.m3u8
-#EXTINF:0001 tvg-id="qKAl8NiXFdyK7W" tvg-chno="11" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Tourism
+#EXTINF:0001 tvg-id="qKAl8NiXFdyK7W" tvg-chno="10" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan Tourism
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
-#EXTINF:0001 tvg-id="n1NVXrRoMu2hbw" tvg-chno="12" group-title="famelack (jo) [jo] [False]" tvg-logo="", Melody FM Jordan
+#EXTINF:0001 tvg-id="30l6X98ALn4Bjb" tvg-chno="11" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:0001 tvg-id="8JZH2jVeoWilfK" tvg-chno="12" group-title="famelack (jo) [jo] [False]" tvg-logo="", Melody FM
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
 #EXTINF:0001 tvg-id="bSyZI3uj6B02G3" tvg-chno="13" group-title="famelack (jo) [jo] [False]" tvg-logo="", Roya Comedy
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8

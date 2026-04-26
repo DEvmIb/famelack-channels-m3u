@@ -3,11 +3,11 @@
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:0001 tvg-id="L3TjzrSDP4bXza" tvg-chno="2" group-title="famelack (tw) [tw] [False]" tvg-logo="", CGNTV Chinese
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:0001 tvg-id="Ij10cHMBBd4XeY" tvg-chno="3" group-title="famelack (tw) [tw] [False]" tvg-logo="", GOOD TV CH1 綜合台
-https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:0001 tvg-id="0YVHxDTXA7CGGH" tvg-chno="4" group-title="famelack (tw) [tw] [False]" tvg-logo="", GOOD TV CH2 真理台
+#EXTINF:0001 tvg-id="o7kWiawYqRU0mj" tvg-chno="3" group-title="famelack (tw) [tw] [False]" tvg-logo="", Good 2
 https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:0001 tvg-id="9eN6GxYn3h5Pnb" tvg-chno="4" group-title="famelack (tw) [tw] [False]" tvg-logo="", Good TV
+https://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:0001 tvg-id="GKSg7DCpDjlgH0" tvg-chno="5" group-title="famelack (tw) [tw] [False]" tvg-logo="", Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:0001 tvg-id="zQNk8smIwQJMmv" tvg-chno="6" group-title="famelack (tw) [tw] [False]" tvg-logo="", 唯心電視
+#EXTINF:0001 tvg-id="0Dll7iEE7yiI7N" tvg-chno="6" group-title="famelack (tw) [tw] [False]" tvg-logo="", WXTV
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8

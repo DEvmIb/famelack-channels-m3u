@@ -5,15 +5,17 @@ https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:0001 tvg-id="xCsQ7dJnPDumil" tvg-chno="3" group-title="famelack (be) [be] [False]" tvg-logo="", BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:0001 tvg-id="ZH3cJ0x61gRh14" tvg-chno="4" group-title="famelack (be) [be] [False]" tvg-logo="", La Une
+#EXTINF:0001 tvg-id="0KHOlcS3CSZQO6" tvg-chno="4" group-title="famelack (be) [be] [False]" tvg-logo="", JapanimTV
+https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:0001 tvg-id="ZH3cJ0x61gRh14" tvg-chno="5" group-title="famelack (be) [be] [False]" tvg-logo="", La Une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
-#EXTINF:0001 tvg-id="8NTileZb0uFTPL" tvg-chno="5" group-title="famelack (be) [be] [False]" tvg-logo="", MaTele
+#EXTINF:0001 tvg-id="8NTileZb0uFTPL" tvg-chno="6" group-title="famelack (be) [be] [False]" tvg-logo="", Matele
 https://live.matele.be/hls/live.m3u8
-#EXTINF:0001 tvg-id="VaXjiVOr6bKqVn" tvg-chno="6" group-title="famelack (be) [be] [False]" tvg-logo="", Notele
+#EXTINF:0001 tvg-id="VaXjiVOr6bKqVn" tvg-chno="7" group-title="famelack (be) [be] [False]" tvg-logo="", Notele
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="ZBGk2hfKslTEiC" tvg-chno="7" group-title="famelack (be) [be] [False]" tvg-logo="", Radio Contact
+#EXTINF:0001 tvg-id="ZBGk2hfKslTEiC" tvg-chno="8" group-title="famelack (be) [be] [False]" tvg-logo="", Radio Contact
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-#EXTINF:0001 tvg-id="Nawp6hUkpbwpTg" tvg-chno="8" group-title="famelack (be) [be] [False]" tvg-logo="", RTL-TVI
+#EXTINF:0001 tvg-id="Nawp6hUkpbwpTg" tvg-chno="9" group-title="famelack (be) [be] [False]" tvg-logo="", RTL-TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-#EXTINF:0001 tvg-id="lWN9VGjoiBWUeD" tvg-chno="9" group-title="famelack (be) [be] [False]" tvg-logo="", Tipik
+#EXTINF:0001 tvg-id="lWN9VGjoiBWUeD" tvg-chno="10" group-title="famelack (be) [be] [False]" tvg-logo="", Tipik
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/425fb6b1/8a250afc.isml/.m3u8

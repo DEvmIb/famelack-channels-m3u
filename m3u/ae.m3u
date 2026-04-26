@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="o7f2wdALXEzHZs" tvg-chno="1" group-title="famelack (ae) [ae] [False]" tvg-logo="", Ajman TV
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="2TkyVV55zzBzz3" tvg-chno="2" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya Business
+#EXTINF:0001 tvg-id="2TkyVV55zzBzz3" tvg-chno="1" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="tn94bXCcZQXp4I" tvg-chno="3" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya Programs
+#EXTINF:0001 tvg-id="tn94bXCcZQXp4I" tvg-chno="2" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya Programs
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Y4O8X4bPqh2Vx5" tvg-chno="4" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Qamar TV
+#EXTINF:0001 tvg-id="Y4O8X4bPqh2Vx5" tvg-chno="3" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Qamar TV
 https://streamer3.premio.link/alqamar/playlist.m3u8
-#EXTINF:0001 tvg-id="21EXltGyaMhzfR" tvg-chno="5" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Shallal TV
+#EXTINF:0001 tvg-id="21EXltGyaMhzfR" tvg-chno="4" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Shallal TV
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="yR85LzOCV21lPt" tvg-chno="6" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Sharqiya Min Kabla
+#EXTINF:0001 tvg-id="yR85LzOCV21lPt" tvg-chno="5" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Sharqiya Min Kabla
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="U4Ytf8HCWlTZ0o" tvg-chno="7" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Wousta TV
+#EXTINF:0001 tvg-id="U4Ytf8HCWlTZ0o" tvg-chno="6" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Sv9OTAq0k25EOS" tvg-chno="8" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Yaum TV
+#EXTINF:0001 tvg-id="Sv9OTAq0k25EOS" tvg-chno="7" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Yaum TV
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
+#EXTINF:0001 tvg-id="L928jkxbfp0TYR" tvg-chno="8" group-title="famelack (ae) [ae] [False]" tvg-logo="", Alarabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:0001 tvg-id="acbY5wCKKgtMnI" tvg-chno="9" group-title="famelack (ae) [ae] [False]" tvg-logo="", CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:0001 tvg-id="NCWWidJrVWnWto" tvg-chno="10" group-title="famelack (ae) [ae] [False]" tvg-logo="", Fujairah TV
@@ -23,24 +23,24 @@ https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
 #EXTINF:0001 tvg-id="UjnCLfmZ5c3yRj" tvg-chno="12" group-title="famelack (ae) [ae] [False]" tvg-logo="", MBC Persia
 https://hls.mbcpersia.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="9BNETtZqVeBnGA" tvg-chno="13" group-title="famelack (ae) [ae] [False]" tvg-logo="", PMC
+#EXTINF:0001 tvg-id="tjO1W5XivBV60a" tvg-chno="13" group-title="famelack (ae) [ae] [False]" tvg-logo="", Nour TV
+https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:0001 tvg-id="9BNETtZqVeBnGA" tvg-chno="14" group-title="famelack (ae) [ae] [False]" tvg-logo="", PMC
 https://pmchls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="dwZ9cyjkWtVGIa" tvg-chno="14" group-title="famelack (ae) [ae] [False]" tvg-logo="", PMC Royale
+#EXTINF:0001 tvg-id="dwZ9cyjkWtVGIa" tvg-chno="15" group-title="famelack (ae) [ae] [False]" tvg-logo="", PMC Royale
 https://pmcrohls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="fmocYbtQ1fFZhn" tvg-chno="15" group-title="famelack (ae) [ae] [False]" tvg-logo="", Pulse95 Radio
+#EXTINF:0001 tvg-id="fmocYbtQ1fFZhn" tvg-chno="16" group-title="famelack (ae) [ae] [False]" tvg-logo="", Pulse95 Radio
 https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
-#EXTINF:0001 tvg-id="OijQbjwV7a9kgP" tvg-chno="16" group-title="famelack (ae) [ae] [False]" tvg-logo="", Sharjah 2
+#EXTINF:0001 tvg-id="OijQbjwV7a9kgP" tvg-chno="17" group-title="famelack (ae) [ae] [False]" tvg-logo="", Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="IhAqN9CcULw7M0" tvg-chno="17" group-title="famelack (ae) [ae] [False]" tvg-logo="", Sharjah Radio
+#EXTINF:0001 tvg-id="IhAqN9CcULw7M0" tvg-chno="18" group-title="famelack (ae) [ae] [False]" tvg-logo="", Sharjah Radio
 https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
-#EXTINF:0001 tvg-id="8RMhUftFipxVz5" tvg-chno="18" group-title="famelack (ae) [ae] [False]" tvg-logo="", Sharjah Radio Quran
+#EXTINF:0001 tvg-id="8RMhUftFipxVz5" tvg-chno="19" group-title="famelack (ae) [ae] [False]" tvg-logo="", Sharjah Radio Quran
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
-#EXTINF:0001 tvg-id="RC2hZ1z0vrHMtE" tvg-chno="19" group-title="famelack (ae) [ae] [False]" tvg-logo="", Sharjah TV
-https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="lHA8lYSDtLC5LR" tvg-chno="20" group-title="famelack (ae) [ae] [False]" tvg-logo="", Sky News Arabia
-https://stream.skynewsarabia.com/ott/ott.m3u8
-#EXTINF:0001 tvg-id="54585W8guS2T76" tvg-chno="21" group-title="famelack (ae) [ae] [False]" tvg-logo="", Sky News Arabia (Portrait)
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:0001 tvg-id="RC2hZ1z0vrHMtE" tvg-chno="20" group-title="famelack (ae) [ae] [False]" tvg-logo="", Sharjah TV
+https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8
+#EXTINF:0001 tvg-id="lHA8lYSDtLC5LR" tvg-chno="21" group-title="famelack (ae) [ae] [False]" tvg-logo="", Sky News Arabia
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:0001 tvg-id="za3qiXgehwFjJ6" tvg-chno="22" group-title="famelack (ae) [ae] [False]" tvg-logo="", Sky News Arabia Vertical
 https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
 #EXTINF:0001 tvg-id="rbtvbfV1OrLd1T" tvg-chno="23" group-title="famelack (ae) [ae] [False]" tvg-logo="", Watar Radio

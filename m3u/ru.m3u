@@ -1,317 +1,283 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="Ok0YOGbjjwXfMY" tvg-chno="1" group-title="famelack (ru) [ru] [False]" tvg-logo="", 2x2
+#EXTINF:0001 tvg-id="Ok0YOGbjjwXfMY" tvg-chno="1" group-title="famelack (ru) [ru] [True]" tvg-logo="", 2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:0001 tvg-id="FGu69humFuY0mj" tvg-chno="2" group-title="famelack (ru) [ru] [False]" tvg-logo="", 12 канал
-https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:0001 tvg-id="E2Tr0ZxksfVENx" tvg-chno="2" group-title="famelack (ru) [ru] [False]" tvg-logo="", 3ABN Russia
+https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="sQrljGUpW3a5Wd" tvg-chno="3" group-title="famelack (ru) [ru] [False]" tvg-logo="", 15+ Music
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
-#EXTINF:0001 tvg-id="8KkzMzj0gbrJEI" tvg-chno="4" group-title="famelack (ru) [ru] [False]" tvg-logo="", 360°
-https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:0001 tvg-id="YE3lwyUGvtLVBz" tvg-chno="5" group-title="famelack (ru) [ru] [False]" tvg-logo="", 360° Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="miNrjenD6E2QJg" tvg-chno="6" group-title="famelack (ru) [ru] [False]" tvg-logo="", alpha Cinema
-https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:0001 tvg-id="Iv7qvCNAFClLRJ" tvg-chno="7" group-title="famelack (ru) [ru] [False]" tvg-logo="", alpha Funny
-https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:0001 tvg-id="zDrvFUZTP4zt2k" tvg-chno="8" group-title="famelack (ru) [ru] [False]" tvg-logo="", alpha Moretime
-https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:0001 tvg-id="eXRHxuSjLuhKid" tvg-chno="9" group-title="famelack (ru) [ru] [False]" tvg-logo="", Carousel
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:0001 tvg-id="HHYr8wd1E9ioQk" tvg-chno="10" group-title="famelack (ru) [ru] [False]" tvg-logo="", Cinema
-https://catchup.videoline.ru/cinema/playlist.m3u8
-#EXTINF:0001 tvg-id="tVKEKu2ttkc0Bj" tvg-chno="11" group-title="famelack (ru) [ru] [False]" tvg-logo="", Drive (576i)
-https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="u8cltocMOhETQs" tvg-chno="12" group-title="famelack (ru) [ru] [False]" tvg-logo="", DTR Music 1
-https://kino-stream.online/hls/DTRMUSIC1.m3u8
-#EXTINF:0001 tvg-id="XGJucXkt2xCVzL" tvg-chno="13" group-title="famelack (ru) [ru] [False]" tvg-logo="", DTR Zona 1
-https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:0001 tvg-id="gQCvDwyw2kfEF9" tvg-chno="14" group-title="famelack (ru) [ru] [False]" tvg-logo="", DTR Zona 2
-https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:0001 tvg-id="fAUqob7LIqewI8" tvg-chno="15" group-title="famelack (ru) [ru] [False]" tvg-logo="", FON Music
-https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
-#EXTINF:0001 tvg-id="qR0alRDphlQYmL" tvg-chno="16" group-title="famelack (ru) [ru] [False]" tvg-logo="", Glazami Turista (576i)
-https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="KFnZBS7uvG9E90" tvg-chno="17" group-title="famelack (ru) [ru] [False]" tvg-logo="", Gulli Girl
-https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="nXaeivkDQS2yX6" tvg-chno="18" group-title="famelack (ru) [ru] [False]" tvg-logo="", Insayt TV
-https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="gSNslvci5VvEfL" tvg-chno="19" group-title="famelack (ru) [ru] [False]" tvg-logo="", Kino 24
-https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:0001 tvg-id="IPkLjLkp2JBRTC" tvg-chno="20" group-title="famelack (ru) [ru] [False]" tvg-logo="", Leomax 24
-https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
-#EXTINF:0001 tvg-id="9Bjg6c0jyyLRWJ" tvg-chno="21" group-title="famelack (ru) [ru] [False]" tvg-logo="", NSC+
-https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
-#EXTINF:0001 tvg-id="skmeLVfBwTzGbY" tvg-chno="22" group-title="famelack (ru) [ru] [False]" tvg-logo="", Ohotnik i rybolov (576i)
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="oubeKLPS2AIZdf" tvg-chno="23" group-title="famelack (ru) [ru] [False]" tvg-logo="", Pro100TV
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:0001 tvg-id="JnxjBtQt6s0RPO" tvg-chno="24" group-title="famelack (ru) [ru] [False]" tvg-logo="", RT Arabic
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:0001 tvg-id="VMF9bz9jysLZtk" tvg-chno="25" group-title="famelack (ru) [ru] [False]" tvg-logo="", RT Documentary English
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:0001 tvg-id="0mulGVhtSW9kDC" tvg-chno="26" group-title="famelack (ru) [ru] [False]" tvg-logo="", RT Documentary Russian
-https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
-#EXTINF:0001 tvg-id="mPfWobHfV25q8P" tvg-chno="27" group-title="famelack (ru) [ru] [False]" tvg-logo="", RT en Español
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:0001 tvg-id="ekFWl5aVUxSeip" tvg-chno="28" group-title="famelack (ru) [ru] [False]" tvg-logo="", RT News
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:0001 tvg-id="uuwdAM4ggDTLQ4" tvg-chno="29" group-title="famelack (ru) [ru] [False]" tvg-logo="", SONGTV Russia
-https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
-#EXTINF:0001 tvg-id="wKDrJL3M7bezSW" tvg-chno="30" group-title="famelack (ru) [ru] [False]" tvg-logo="", TiJi
-https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="0hiQdgKd6nMh6h" tvg-chno="31" group-title="famelack (ru) [ru] [False]" tvg-logo="", TV BRICS Russian
-https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:0001 tvg-id="qoUkakDtbgDtaT" tvg-chno="32" group-title="famelack (ru) [ru] [False]" tvg-logo="", VITAL Drive
-https://tv.a21network.ru/stream/37909/index.m3u8
-#EXTINF:0001 tvg-id="K5EAZFvuWObb4f" tvg-chno="33" group-title="famelack (ru) [ru] [False]" tvg-logo="", VIVA Russia
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
-#EXTINF:0001 tvg-id="1tGmbGgzdva6hK" tvg-chno="34" group-title="famelack (ru) [ru] [False]" tvg-logo="", Zoopark (576i)
-https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="Rtthjg4Rw9SfrY" tvg-chno="35" group-title="famelack (ru) [ru] [False]" tvg-logo="", Аист ТВ
-https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="wllXuyEivFsvvl" tvg-chno="36" group-title="famelack (ru) [ru] [False]" tvg-logo="", Архыз 24
-https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:0001 tvg-id="GaxdR3CfuVEY6D" tvg-chno="37" group-title="famelack (ru) [ru] [False]" tvg-logo="", Астрахань 24
-https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-#EXTINF:0001 tvg-id="PnYs28KZYftvil" tvg-chno="38" group-title="famelack (ru) [ru] [False]" tvg-logo="", Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:0001 tvg-id="b2LICrzMiejVED" tvg-chno="39" group-title="famelack (ru) [ru] [False]" tvg-logo="", Астрахань.Ru TV
-https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-#EXTINF:0001 tvg-id="qrQBwsfkDewreH" tvg-chno="40" group-title="famelack (ru) [ru] [False]" tvg-logo="", Белгород 24
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:0001 tvg-id="H8wU5vcIBxPEzP" tvg-chno="41" group-title="famelack (ru) [ru] [False]" tvg-logo="", БелРос
-https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:0001 tvg-id="hyGNAyWTM5V3VT" tvg-chno="42" group-title="famelack (ru) [ru] [False]" tvg-logo="", БСТ (Башкирское спутниковое телевидение)
-https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:0001 tvg-id="wKn9dFNFLNZoQX" tvg-chno="43" group-title="famelack (ru) [ru] [False]" tvg-logo="", Вера 24
-https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
-#EXTINF:0001 tvg-id="tRjB1srD2Y47HO" tvg-chno="44" group-title="famelack (ru) [ru] [False]" tvg-logo="", Вместе РФ
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="uwiOfsLMvkb1ym" tvg-chno="45" group-title="famelack (ru) [ru] [False]" tvg-logo="", Волга (HD)
-https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:0001 tvg-id="OBL6eAcx0qwNkD" tvg-chno="46" group-title="famelack (ru) [ru] [False]" tvg-logo="", Восток 24 (Владивосток)
-https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-#EXTINF:0001 tvg-id="WMn4d8yyfRaen5" tvg-chno="47" group-title="famelack (ru) [ru] [False]" tvg-logo="", Дагестан
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:0001 tvg-id="aMcmywa1EUPmvH" tvg-chno="48" group-title="famelack (ru) [ru] [False]" tvg-logo="", Доктор
-https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="GXyfpkGN0MGlca" tvg-chno="49" group-title="famelack (ru) [ru] [False]" tvg-logo="", Дом Кино
-https://streaming.thestream.cyou/live/44.m3u8
-#EXTINF:0001 tvg-id="qEiTrcvSLIUuPW" tvg-chno="50" group-title="famelack (ru) [ru] [False]" tvg-logo="", Евразия (Орск)
-https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:0001 tvg-id="MWpwpmNBFVXPy8" tvg-chno="51" group-title="famelack (ru) [ru] [False]" tvg-logo="", Енисей
-https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:0001 tvg-id="OI13Nk31lvozG8" tvg-chno="52" group-title="famelack (ru) [ru] [False]" tvg-logo="", За!ТВ
-https://streaming.televizor-24-tochka.ru/live/25.m3u8
-#EXTINF:0001 tvg-id="0aNqMqNfvYuTeN" tvg-chno="53" group-title="famelack (ru) [ru] [False]" tvg-logo="", Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:0001 tvg-id="pDyufQ5FcaL7TY" tvg-chno="54" group-title="famelack (ru) [ru] [False]" tvg-logo="", Звезда Плюс
-https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:0001 tvg-id="XjZW6x6PGKTPg0" tvg-chno="55" group-title="famelack (ru) [ru] [False]" tvg-logo="", Известия
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:0001 tvg-id="uKc7FCTFVYx1He" tvg-chno="56" group-title="famelack (ru) [ru] [False]" tvg-logo="", Ингушетия ТВ
-https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-#EXTINF:0001 tvg-id="lQnAhlrKiieUTC" tvg-chno="57" group-title="famelack (ru) [ru] [False]" tvg-logo="", Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:0001 tvg-id="15VRBndlazTkgP" tvg-chno="58" group-title="famelack (ru) [ru] [False]" tvg-logo="", КИНО ТВ
-https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:0001 tvg-id="W3k5nQPsuuFhwy" tvg-chno="59" group-title="famelack (ru) [ru] [False]" tvg-logo="", Красная линия
-https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:0001 tvg-id="l3U18FWIil4l8h" tvg-chno="60" group-title="famelack (ru) [ru] [False]" tvg-logo="", КРИК-ТВ (Екатеринбург)
-https://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-#EXTINF:0001 tvg-id="gfChDHyfiWZR2Q" tvg-chno="61" group-title="famelack (ru) [ru] [False]" tvg-logo="", Кубань 24
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:0001 tvg-id="o4YZnzTzgoxbDb" tvg-chno="62" group-title="famelack (ru) [ru] [False]" tvg-logo="", Курай (Уфа)
-https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:0001 tvg-id="K7MkhCrOepYy6F" tvg-chno="63" group-title="famelack (ru) [ru] [False]" tvg-logo="", Легендарный 24
-https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:0001 tvg-id="ODMzEFguijtAQv" tvg-chno="64" group-title="famelack (ru) [ru] [False]" tvg-logo="", Лен ТВ 24
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:0001 tvg-id="xBvNUxKG46FiuF" tvg-chno="65" group-title="famelack (ru) [ru] [False]" tvg-logo="", Магнат ТВ
-https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:0001 tvg-id="PZBt17abf1Uupk" tvg-chno="66" group-title="famelack (ru) [ru] [False]" tvg-logo="", Миллет
-https://live1.1tvcrimea.ru/milletlive.m3u8
-#EXTINF:0001 tvg-id="spQq9ZgiXsXonS" tvg-chno="67" group-title="famelack (ru) [ru] [False]" tvg-logo="", Мир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:0001 tvg-id="7gbCv4uxxssFoR" tvg-chno="68" group-title="famelack (ru) [ru] [False]" tvg-logo="", Мир +7
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:0001 tvg-id="UpUFNV4zexF7bR" tvg-chno="69" group-title="famelack (ru) [ru] [False]" tvg-logo="", Мир 24
-https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0001 tvg-id="gy8IdM5S5EmD0w" tvg-chno="70" group-title="famelack (ru) [ru] [False]" tvg-logo="", МТВ (Волгоград)
-https://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="XBEmtUuQphx0AS" tvg-chno="71" group-title="famelack (ru) [ru] [False]" tvg-logo="", Муз союз
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:0001 tvg-id="KtNoA2O5GqtSZZ" tvg-chno="72" group-title="famelack (ru) [ru] [False]" tvg-logo="", Муз ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:0001 tvg-id="0T5ExxCBLutEAO" tvg-chno="73" group-title="famelack (ru) [ru] [False]" tvg-logo="", Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:0001 tvg-id="P4d9EwOGhyWfO5" tvg-chno="74" group-title="famelack (ru) [ru] [False]" tvg-logo="", Музыка Кино International
-https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:0001 tvg-id="7injAj3KT0xpKD" tvg-chno="75" group-title="famelack (ru) [ru] [False]" tvg-logo="", Мультиландия
-https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="gJChs4RXWcqghm" tvg-chno="76" group-title="famelack (ru) [ru] [False]" tvg-logo="", Мультимания
-https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="lCl8WMVdJ5MxcZ" tvg-chno="77" group-title="famelack (ru) [ru] [False]" tvg-logo="", Надежда
-https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:0001 tvg-id="sao2rpFyAlLRAD" tvg-chno="78" group-title="famelack (ru) [ru] [False]" tvg-logo="", Нано ТВ HD
-https://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:0001 tvg-id="U1CYvPtiUwkGzD" tvg-chno="79" group-title="famelack (ru) [ru] [False]" tvg-logo="", НАУКА
-https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:0001 tvg-id="gB8tELUDVeaGTe" tvg-chno="80" group-title="famelack (ru) [ru] [False]" tvg-logo="", НВК Саха
-https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:0001 tvg-id="fPNHa2Iphxep7n" tvg-chno="81" group-title="famelack (ru) [ru] [False]" tvg-logo="", Нижний Новгород 24
-https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-#EXTINF:0001 tvg-id="vS6J0kXBLE78kR" tvg-chno="82" group-title="famelack (ru) [ru] [False]" tvg-logo="", Ника ТВ
-https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="AZiFCx73HdMv7M" tvg-chno="83" group-title="famelack (ru) [ru] [False]" tvg-logo="", Новгородское областное телевидение
-https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
-#EXTINF:0001 tvg-id="D1kxUcXu5YSsG7" tvg-chno="84" group-title="famelack (ru) [ru] [False]" tvg-logo="", Новый Век
-https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
-#EXTINF:0001 tvg-id="55k6dnrqaWi7I9" tvg-chno="85" group-title="famelack (ru) [ru] [False]" tvg-logo="", Новый Русский
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:0001 tvg-id="VMki3SFq0fNmtc" tvg-chno="86" group-title="famelack (ru) [ru] [False]" tvg-logo="", НТВ (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:0001 tvg-id="v6hADKFPM0Ioy0" tvg-chno="87" group-title="famelack (ru) [ru] [False]" tvg-logo="", НТК 21 (Биробиджан)
-https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
-#EXTINF:0001 tvg-id="xWysqbFfCvojGt" tvg-chno="88" group-title="famelack (ru) [ru] [False]" tvg-logo="", НТМ (Народное телевидение Мордовии)
-https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="gVmlRCijprTFu3" tvg-chno="89" group-title="famelack (ru) [ru] [False]" tvg-logo="", НТС (Севастополь)
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:0001 tvg-id="RwPXD8LwO5Q5WI" tvg-chno="90" group-title="famelack (ru) [ru] [False]" tvg-logo="", ОСН
-https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:0001 tvg-id="063eG02Q1UEOhi" tvg-chno="91" group-title="famelack (ru) [ru] [False]" tvg-logo="", ОТВ Приморье
-https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="PTb3tdaVEXk3oP" tvg-chno="92" group-title="famelack (ru) [ru] [False]" tvg-logo="", Открытый мир. Здоровье
-https://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:0001 tvg-id="5E6AlGIem28c7M" tvg-chno="93" group-title="famelack (ru) [ru] [False]" tvg-logo="", ОТР
-https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:0001 tvg-id="E9FRjDI7eyLqOr" tvg-chno="94" group-title="famelack (ru) [ru] [False]" tvg-logo="", Патриот (576i)
-https://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:0001 tvg-id="U4INrzVYWsDWWg" tvg-chno="95" group-title="famelack (ru) [ru] [False]" tvg-logo="", Первый канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:0001 tvg-id="MebfmIDc5IgnOG" tvg-chno="96" group-title="famelack (ru) [ru] [False]" tvg-logo="", Первый канал Европа
-https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:0001 tvg-id="Id2JnffsEY0WAk" tvg-chno="97" group-title="famelack (ru) [ru] [False]" tvg-logo="", Первый Крымский
-https://live1.1tvcrimea.ru/1tvcrimea.m3u8
-#EXTINF:0001 tvg-id="n388u8bCUj6J6k" tvg-chno="98" group-title="famelack (ru) [ru] [False]" tvg-logo="", Первый Республиканский
-https://streaming.televizor-24-tochka.ru/live/27.m3u8
-#EXTINF:0001 tvg-id="h4XqYLN5BBAUkl" tvg-chno="99" group-title="famelack (ru) [ru] [False]" tvg-logo="", Первый Ярославский
-https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
-#EXTINF:0001 tvg-id="VzlSomi4YyimMb" tvg-chno="100" group-title="famelack (ru) [ru] [False]" tvg-logo="", Победа
-https://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:0001 tvg-id="G2als9WLQge4uL" tvg-chno="101" group-title="famelack (ru) [ru] [False]" tvg-logo="", Прима
-https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:0001 tvg-id="dgMx8sDoefxlM7" tvg-chno="102" group-title="famelack (ru) [ru] [False]" tvg-logo="", Просвещение
-https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
-#EXTINF:0001 tvg-id="inrIAM0pONvuTd" tvg-chno="103" group-title="famelack (ru) [ru] [False]" tvg-logo="", Пятница!
-https://vod.tuva.ru/friday/index.m3u8
-#EXTINF:0001 tvg-id="drjOcpMWcmy63q" tvg-chno="104" group-title="famelack (ru) [ru] [False]" tvg-logo="", Пятый Канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:0001 tvg-id="S7XWd4ADfnPIn3" tvg-chno="105" group-title="famelack (ru) [ru] [False]" tvg-logo="", Радость моя
-https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-#EXTINF:0001 tvg-id="q4DSKSowsI5CDz" tvg-chno="106" group-title="famelack (ru) [ru] [False]" tvg-logo="", РБК
-https://online-video.rbc.ru/spb/rbctv_spb.m3u8
-#EXTINF:0001 tvg-id="M0h7Lk3DUFgRiy" tvg-chno="107" group-title="famelack (ru) [ru] [False]" tvg-logo="", РЕН ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:0001 tvg-id="C8FO9UkyqQWvnx" tvg-chno="108" group-title="famelack (ru) [ru] [False]" tvg-logo="", Россия 1
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:0001 tvg-id="kR6HdQw1H7YJ4o" tvg-chno="109" group-title="famelack (ru) [ru] [False]" tvg-logo="", Россия 24 (Хабаровск)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:0001 tvg-id="sYlfQFt4z1JKIM" tvg-chno="110" group-title="famelack (ru) [ru] [False]" tvg-logo="", Россия К
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:0001 tvg-id="YtjWPguJ2QyEGB" tvg-chno="111" group-title="famelack (ru) [ru] [False]" tvg-logo="", Рыжий
-https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="AL13wnHi0qOCN5" tvg-chno="112" group-title="famelack (ru) [ru] [False]" tvg-logo="", С1 (Сургут)
-https://sitv.ru/hls/stv.m3u8
-#EXTINF:0001 tvg-id="JaAPl6x6rp2g4q" tvg-chno="113" group-title="famelack (ru) [ru] [False]" tvg-logo="", Салям (Уфа)
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:0001 tvg-id="N8xI5rm9EsShCp" tvg-chno="114" group-title="famelack (ru) [ru] [False]" tvg-logo="", Самара ГИС
-https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="5NuZbNqxuncC8Y" tvg-chno="115" group-title="famelack (ru) [ru] [False]" tvg-logo="", Санкт-Петербург
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
-#EXTINF:0001 tvg-id="PW2xZpZsaU6dJX" tvg-chno="116" group-title="famelack (ru) [ru] [False]" tvg-logo="", Своё ТВ (Ставрополь)
-https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
-#EXTINF:0001 tvg-id="v5BobHbQa3QGys" tvg-chno="117" group-title="famelack (ru) [ru] [False]" tvg-logo="", Север (Нарьян-Мар)
-https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="9KRpqyqyinbL9C" tvg-chno="118" group-title="famelack (ru) [ru] [False]" tvg-logo="", Симферополь 24
-https://simf.1tvcrimea.ru/simferopol24.m3u8
-#EXTINF:0001 tvg-id="v5sPbs1KXBP4Nn" tvg-chno="119" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем Meditation Music
-https://cityeden.catcast.tv/content/47410/index.m3u8
-#EXTINF:0001 tvg-id="FlqlJmUsw0JBUH" tvg-chno="120" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем Play Христианский Музыкальный
-https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:0001 tvg-id="EphM4GTVAEHRzh" tvg-chno="121" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем Бирма Play
-https://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:0001 tvg-id="ZSSUpQyh6iE64U" tvg-chno="122" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:0001 tvg-id="Jqp4ZHvmJjGFio" tvg-chno="123" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:0001 tvg-id="3bwrLU3me5VJ37" tvg-chno="124" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:0001 tvg-id="LN1hGmRGEKcWz7" tvg-chno="125" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:0001 tvg-id="6NRgQX5F3uvhNk" tvg-chno="126" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:0001 tvg-id="ID6NJjfwQAnwkN" tvg-chno="127" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:0001 tvg-id="ZPZLZ7wnuOB2Js" tvg-chno="128" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем Классическая Музыка
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:0001 tvg-id="kmnCkTtdi4cLR8" tvg-chno="129" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:0001 tvg-id="d3MMbYDLvad49A" tvg-chno="130" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем Сиртаки ТВ
-https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:0001 tvg-id="Z4pv4jzB1XcYuX" tvg-chno="131" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем ТВ Христианский
-https://cityeden.catcast.tv/content/34246/index.m3u8
-#EXTINF:0001 tvg-id="N0XEtBmZuJSvlx" tvg-chno="132" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сити Эдем ТелеНовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:0001 tvg-id="XpAUv3L81CCuvw" tvg-chno="133" group-title="famelack (ru) [ru] [False]" tvg-logo="", Смайл ТВ
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:0001 tvg-id="OusIpey2XcPOf5" tvg-chno="134" group-title="famelack (ru) [ru] [False]" tvg-logo="", Смотрим Честный Детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="9Uizi8HMPFF6Ku" tvg-chno="135" group-title="famelack (ru) [ru] [False]" tvg-logo="", Солнце
-https://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:0001 tvg-id="DN9KSZSbROa2qk" tvg-chno="136" group-title="famelack (ru) [ru] [False]" tvg-logo="", Союз
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:0001 tvg-id="Uw6V7zWMYCdfzG" tvg-chno="137" group-title="famelack (ru) [ru] [False]" tvg-logo="", Спас
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
-#EXTINF:0001 tvg-id="zFcQgIj3O4E7R6" tvg-chno="138" group-title="famelack (ru) [ru] [False]" tvg-logo="", Страна FM
-https://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="RwsLetHIvwEHoW" tvg-chno="139" group-title="famelack (ru) [ru] [False]" tvg-logo="", Студия Факт
-https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="snZYO98kl0kLwq" tvg-chno="140" group-title="famelack (ru) [ru] [False]" tvg-logo="", Суббота!
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:0001 tvg-id="84HXD5LPc8NimV" tvg-chno="141" group-title="famelack (ru) [ru] [False]" tvg-logo="", Сургут 24
-https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:0001 tvg-id="Ph3sAZycESjTXH" tvg-chno="142" group-title="famelack (ru) [ru] [False]" tvg-logo="", Тамыр (Уфа)
-https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:0001 tvg-id="bRPEZkt4N2FEWq" tvg-chno="143" group-title="famelack (ru) [ru] [False]" tvg-logo="", ТВ Центр
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:0001 tvg-id="3rEHkykrRD5GA4" tvg-chno="144" group-title="famelack (ru) [ru] [False]" tvg-logo="", ТВ-3
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:0001 tvg-id="P0QpY46NVNwvnd" tvg-chno="145" group-title="famelack (ru) [ru] [False]" tvg-logo="", ТВК 24
-https://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:0001 tvg-id="Y2nF8rGgzUaTr0" tvg-chno="146" group-title="famelack (ru) [ru] [False]" tvg-logo="", Телеканал 86 (Сургут)
+#EXTINF:0001 tvg-id="DnX6s8UUlBogeL" tvg-chno="4" group-title="famelack (ru) [ru] [False]" tvg-logo="", 86
 https://sitv.ru/hls/s86.m3u8
-#EXTINF:0001 tvg-id="EMI75wRd9fhjIw" tvg-chno="147" group-title="famelack (ru) [ru] [False]" tvg-logo="", Телеканал Краснодар
-https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="lFHxymRgYvsnV7" tvg-chno="148" group-title="famelack (ru) [ru] [False]" tvg-logo="", Телплюс ТВ (Астрахань)
-https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:0001 tvg-id="RH6fEJb5kMD2Ge" tvg-chno="149" group-title="famelack (ru) [ru] [False]" tvg-logo="", ТК Алмазный край
+#EXTINF:0001 tvg-id="8KkzMzj0gbrJEI" tvg-chno="5" group-title="famelack (ru) [ru] [False]" tvg-logo="", 360°
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:0001 tvg-id="5Piezdkcn8rLT9" tvg-chno="6" group-title="famelack (ru) [ru] [False]" tvg-logo="", 360° News
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="hCnlUCWzC85Pyo" tvg-chno="7" group-title="famelack (ru) [ru] [False]" tvg-logo="", AIST TV
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="3gQxwsAIecKCZ0" tvg-chno="8" group-title="famelack (ru) [ru] [False]" tvg-logo="", Almaznyy kray
 https://stream.almaz-media.tv:8080/hls/576.m3u8
-#EXTINF:0001 tvg-id="JFQ5DbcibPb6Cs" tvg-chno="150" group-title="famelack (ru) [ru] [False]" tvg-logo="", ТКР (Рязань)
-https://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="NV7wArviCfpaCR" tvg-chno="151" group-title="famelack (ru) [ru] [False]" tvg-logo="", ТНВ-Планета (Казань)
-https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
-#EXTINF:0001 tvg-id="E4ThnpTrd7cBEa" tvg-chno="152" group-title="famelack (ru) [ru] [False]" tvg-logo="", ТНТ (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:0001 tvg-id="YpPpfxwI6rGdov" tvg-chno="153" group-title="famelack (ru) [ru] [False]" tvg-logo="", ТНТ4
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:0001 tvg-id="AIHRA4w3vdxLfI" tvg-chno="154" group-title="famelack (ru) [ru] [False]" tvg-logo="", Толк HD
-https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:0001 tvg-id="TfaEWFgppVp2Rt" tvg-chno="155" group-title="famelack (ru) [ru] [False]" tvg-logo="", Три Ангела
-https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="644fFRd06AWlyf" tvg-chno="156" group-title="famelack (ru) [ru] [False]" tvg-logo="", Хузур ТВ
+#EXTINF:0001 tvg-id="miNrjenD6E2QJg" tvg-chno="9" group-title="famelack (ru) [ru] [False]" tvg-logo="", alpha Cinema
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:0001 tvg-id="Iv7qvCNAFClLRJ" tvg-chno="10" group-title="famelack (ru) [ru] [False]" tvg-logo="", alpha Funny
+https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:0001 tvg-id="zDrvFUZTP4zt2k" tvg-chno="11" group-title="famelack (ru) [ru] [False]" tvg-logo="", alpha Moretime
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:0001 tvg-id="Dp26BhBSy3QLvt" tvg-chno="12" group-title="famelack (ru) [ru] [False]" tvg-logo="", Arkhyz 24
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:0001 tvg-id="pylCnIUgUIOSQ7" tvg-chno="13" group-title="famelack (ru) [ru] [False]" tvg-logo="", Astrahan 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:0001 tvg-id="VEwkzfegp92NSy" tvg-chno="14" group-title="famelack (ru) [ru] [False]" tvg-logo="", Astrahan.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:0001 tvg-id="m5FdV3wlSDvaZN" tvg-chno="15" group-title="famelack (ru) [ru] [False]" tvg-logo="", Astrahan.Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
+#EXTINF:0001 tvg-id="ge7j4UGzAwsFva" tvg-chno="16" group-title="famelack (ru) [ru] [False]" tvg-logo="", Belgorod 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:0001 tvg-id="kVcAUosuLZStms" tvg-chno="17" group-title="famelack (ru) [ru] [False]" tvg-logo="", BelRos
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:0001 tvg-id="XSlKJ9xyYgIwpX" tvg-chno="18" group-title="famelack (ru) [ru] [False]" tvg-logo="", BST
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:0001 tvg-id="eXRHxuSjLuhKid" tvg-chno="19" group-title="famelack (ru) [ru] [True]" tvg-logo="", Carousel
+https://streaming.televizor-24-tochka.ru/live/232.m3u8
+#EXTINF:0001 tvg-id="yVNR591w218Gmb" tvg-chno="20" group-title="famelack (ru) [ru] [True]" tvg-logo="", Channel 5
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:0001 tvg-id="PY8NMbdPt4ZJhu" tvg-chno="21" group-title="famelack (ru) [ru] [False]" tvg-logo="", Channel 12
+https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
+#EXTINF:0001 tvg-id="o1oBh2dtCknAPv" tvg-chno="22" group-title="famelack (ru) [ru] [True]" tvg-logo="", Channel One
+https://streaming.thestream.cyou/live/210.m3u8
+#EXTINF:0001 tvg-id="OhHE64oK7ZXx5g" tvg-chno="23" group-title="famelack (ru) [ru] [True]" tvg-logo="", Che!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:0001 tvg-id="CZ0c6ZasjBnZ4w" tvg-chno="24" group-title="famelack (ru) [ru] [False]" tvg-logo="", City Eden TeleNovella
+https://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:0001 tvg-id="JIOxlnAu1GPh23" tvg-chno="25" group-title="famelack (ru) [ru] [False]" tvg-logo="", City Eden TV
+https://cityeden.catcast.tv/content/34246/index.m3u8
+#EXTINF:0001 tvg-id="qOPKbSdUtm3BNM" tvg-chno="26" group-title="famelack (ru) [ru] [False]" tvg-logo="", Dagestan
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:0001 tvg-id="lMbPpHBoCjzoLt" tvg-chno="27" group-title="famelack (ru) [ru] [False]" tvg-logo="", Doctor
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="TzIN60aLMDMQAJ" tvg-chno="28" group-title="famelack (ru) [ru] [False]" tvg-logo="", Dom kino
+https://streaming.thestream.cyou/live/44.m3u8
+#EXTINF:0001 tvg-id="H02hn1sGkwKEV1" tvg-chno="29" group-title="famelack (ru) [ru] [True]" tvg-logo="", Domashniy
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:0001 tvg-id="tVKEKu2ttkc0Bj" tvg-chno="30" group-title="famelack (ru) [ru] [False]" tvg-logo="", Drive
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="u8cltocMOhETQs" tvg-chno="31" group-title="famelack (ru) [ru] [False]" tvg-logo="", DTR Music 1
+https://kino-stream.online/hls/DTRMUSIC1.m3u8
+#EXTINF:0001 tvg-id="XGJucXkt2xCVzL" tvg-chno="32" group-title="famelack (ru) [ru] [False]" tvg-logo="", DTR Zona 1
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:0001 tvg-id="gQCvDwyw2kfEF9" tvg-chno="33" group-title="famelack (ru) [ru] [False]" tvg-logo="", DTR Zona 2
+https://kino-stream.online/hls/DTRZONA2.m3u8
+#EXTINF:0001 tvg-id="D64rjLP065KQ1v" tvg-chno="34" group-title="famelack (ru) [ru] [False]" tvg-logo="", Enisey
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:0001 tvg-id="u5P0i3DILaL9r3" tvg-chno="35" group-title="famelack (ru) [ru] [False]" tvg-logo="", Eurasia
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:0001 tvg-id="fAUqob7LIqewI8" tvg-chno="36" group-title="famelack (ru) [ru] [False]" tvg-logo="", Fon Music
+https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
+#EXTINF:0001 tvg-id="W7NdP3Tfi9qZIK" tvg-chno="37" group-title="famelack (ru) [ru] [True]" tvg-logo="", Friday!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:0001 tvg-id="qR0alRDphlQYmL" tvg-chno="38" group-title="famelack (ru) [ru] [False]" tvg-logo="", Glazami Turista
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="KFnZBS7uvG9E90" tvg-chno="39" group-title="famelack (ru) [ru] [False]" tvg-logo="", Gulli Girl
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="mhdcDiXTatKlEo" tvg-chno="40" group-title="famelack (ru) [ru] [False]" tvg-logo="", Hope Channel Russia
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:0001 tvg-id="QyASYgL5e57Tu7" tvg-chno="41" group-title="famelack (ru) [ru] [False]" tvg-logo="", Huzur TV
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:0001 tvg-id="p73x9bhXWwHZHY" tvg-chno="157" group-title="famelack (ru) [ru] [False]" tvg-logo="", Ю
+#EXTINF:0001 tvg-id="etbkA5a5Tjztc5" tvg-chno="42" group-title="famelack (ru) [ru] [False]" tvg-logo="", Ingushetia
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+#EXTINF:0001 tvg-id="nXaeivkDQS2yX6" tvg-chno="43" group-title="famelack (ru) [ru] [False]" tvg-logo="", Insayt TV
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="NnC1GZ5G6E4byn" tvg-chno="44" group-title="famelack (ru) [ru] [False]" tvg-logo="", Izvestia
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:0001 tvg-id="JsbwFfNdUCfjhv" tvg-chno="45" group-title="famelack (ru) [ru] [False]" tvg-logo="", Kino 1
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0001 tvg-id="gSNslvci5VvEfL" tvg-chno="46" group-title="famelack (ru) [ru] [False]" tvg-logo="", Kino 24
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:0001 tvg-id="0fhHaRwDLyHBDP" tvg-chno="47" group-title="famelack (ru) [ru] [False]" tvg-logo="", Krik-TV
+https://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+#EXTINF:0001 tvg-id="ikWCW6GqvchRKk" tvg-chno="48" group-title="famelack (ru) [ru] [True]" tvg-logo="", Kuban 24
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:0001 tvg-id="1aAIRengbKXkrk" tvg-chno="49" group-title="famelack (ru) [ru] [False]" tvg-logo="", Kuraj-TV
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:0001 tvg-id="nTIR26728Xpjfo" tvg-chno="50" group-title="famelack (ru) [ru] [False]" tvg-logo="", Legendarnyy 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:0001 tvg-id="S00p2qbV49fypF" tvg-chno="51" group-title="famelack (ru) [ru] [True]" tvg-logo="", LenTV24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:0001 tvg-id="VuVzz3cHZwcEIp" tvg-chno="52" group-title="famelack (ru) [ru] [False]" tvg-logo="", Magnat
+https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+#EXTINF:0001 tvg-id="erxOsx3g2a8Kk4" tvg-chno="53" group-title="famelack (ru) [ru] [False]" tvg-logo="", Millet
+https://live1.1tvcrimea.ru/milletlive.m3u8
+#EXTINF:0001 tvg-id="j5UDNFxJF77lyJ" tvg-chno="54" group-title="famelack (ru) [ru] [True]" tvg-logo="", Mir
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:0001 tvg-id="RBcipQTyHVOX0t" tvg-chno="55" group-title="famelack (ru) [ru] [False]" tvg-logo="", Mir 24
+https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0001 tvg-id="QbSliQh8SqKO7C" tvg-chno="56" group-title="famelack (ru) [ru] [False]" tvg-logo="", MTV Volgograd
+https://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="Pl9PpHSjGV5iKN" tvg-chno="57" group-title="famelack (ru) [ru] [False]" tvg-logo="", Multilandia
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="gcKdwQBnRSpRrD" tvg-chno="58" group-title="famelack (ru) [ru] [False]" tvg-logo="", Multimania
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="CD6tJOVgDMcaFw" tvg-chno="59" group-title="famelack (ru) [ru] [False]" tvg-logo="", Muz Soyuz
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:0001 tvg-id="VuIxmH07laWpCU" tvg-chno="60" group-title="famelack (ru) [ru] [True]" tvg-logo="", Muz-TV
+https://streaming.televizor-24-tochka.ru/live/618.m3u8
+#EXTINF:0001 tvg-id="UptrzheOmTQwWu" tvg-chno="61" group-title="famelack (ru) [ru] [False]" tvg-logo="", Muzyka 1
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:0001 tvg-id="UCMJJw8ybEUxDH" tvg-chno="62" group-title="famelack (ru) [ru] [False]" tvg-logo="", Muzyka Kino
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:0001 tvg-id="yWqRPjIHcgYftM" tvg-chno="63" group-title="famelack (ru) [ru] [False]" tvg-logo="", Nano
+https://s1.tv-nano.com/Nano_rec/index.m3u8
+#EXTINF:0001 tvg-id="0K6Sg1G2bk6cyj" tvg-chno="64" group-title="famelack (ru) [ru] [False]" tvg-logo="", Nika TV
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="y0xVte051Kr4xO" tvg-chno="65" group-title="famelack (ru) [ru] [False]" tvg-logo="", Nizhniy Novgorod 24
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
+#EXTINF:0001 tvg-id="faqGeiRxd1lq7S" tvg-chno="66" group-title="famelack (ru) [ru] [True]" tvg-logo="", NovgorOblTV
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+#EXTINF:0001 tvg-id="VFlQdShsWa2Oh9" tvg-chno="67" group-title="famelack (ru) [ru] [False]" tvg-logo="", NSC Plus
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
+#EXTINF:0001 tvg-id="PQJUP9ib8lXjkv" tvg-chno="68" group-title="famelack (ru) [ru] [True]" tvg-logo="", NTK 21
+https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:0001 tvg-id="uxnzXetk0UmPe4" tvg-chno="69" group-title="famelack (ru) [ru] [False]" tvg-logo="", NTM
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="ZKYBGybJlsgcz0" tvg-chno="70" group-title="famelack (ru) [ru] [False]" tvg-logo="", NTS
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:0001 tvg-id="Sv2VTYi89RjCJK" tvg-chno="71" group-title="famelack (ru) [ru] [True]" tvg-logo="", NTV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:0001 tvg-id="dEANspwI90Hs8o" tvg-chno="72" group-title="famelack (ru) [ru] [False]" tvg-logo="", NTV Mir
+https://streaming.thestream.cyou/live/213.m3u8
+#EXTINF:0001 tvg-id="Fjtpd5BvjmY1Dr" tvg-chno="73" group-title="famelack (ru) [ru] [False]" tvg-logo="", NVK Sakha
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:0001 tvg-id="skmeLVfBwTzGbY" tvg-chno="74" group-title="famelack (ru) [ru] [False]" tvg-logo="", Ohotnik i rybolov
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="Dey2lxno90kK7c" tvg-chno="75" group-title="famelack (ru) [ru] [False]" tvg-logo="", OSN
+https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+#EXTINF:0001 tvg-id="qr9xvBDjARPSP8" tvg-chno="76" group-title="famelack (ru) [ru] [False]" tvg-logo="", Otkritiy mir. Zdorove
+https://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:0001 tvg-id="JlKHz3NWpcFhMg" tvg-chno="77" group-title="famelack (ru) [ru] [True]" tvg-logo="", OTR
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:0001 tvg-id="CdPsbXmKIYhFzA" tvg-chno="78" group-title="famelack (ru) [ru] [False]" tvg-logo="", OTV-Prim
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="ClrLVtv3nyuxRh" tvg-chno="79" group-title="famelack (ru) [ru] [False]" tvg-logo="", Patriot
+https://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:0001 tvg-id="kDIn5P06JUE8QJ" tvg-chno="80" group-title="famelack (ru) [ru] [False]" tvg-logo="", Perviy Krymskiy
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:0001 tvg-id="kCBrKLRK8wKXax" tvg-chno="81" group-title="famelack (ru) [ru] [False]" tvg-logo="", Pobeda
+https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:0001 tvg-id="GiUZg4rfUCBFAk" tvg-chno="82" group-title="famelack (ru) [ru] [True]" tvg-logo="", Prima
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:0001 tvg-id="oubeKLPS2AIZdf" tvg-chno="83" group-title="famelack (ru) [ru] [False]" tvg-logo="", Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:0001 tvg-id="pcI2j43Wt5LTQp" tvg-chno="84" group-title="famelack (ru) [ru] [True]" tvg-logo="", Prosveshchenie
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
+#EXTINF:0001 tvg-id="uuPEZrmKbOVuZJ" tvg-chno="85" group-title="famelack (ru) [ru] [False]" tvg-logo="", Radost Moya
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:0001 tvg-id="CEAdR8bknBDUPA" tvg-chno="86" group-title="famelack (ru) [ru] [False]" tvg-logo="", RBK-TV
+https://online-video.rbc.ru/online2/rbctv.m3u8
+#EXTINF:0001 tvg-id="73U70IdSqhsawL" tvg-chno="87" group-title="famelack (ru) [ru] [False]" tvg-logo="", Red Line
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:0001 tvg-id="ozSzQOoi5TVpjb" tvg-chno="88" group-title="famelack (ru) [ru] [True]" tvg-logo="", REN TV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:0001 tvg-id="7cwJKMK6fPevgm" tvg-chno="89" group-title="famelack (ru) [ru] [True]" tvg-logo="", RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:0001 tvg-id="JnxjBtQt6s0RPO" tvg-chno="90" group-title="famelack (ru) [ru] [True]" tvg-logo="", RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:0001 tvg-id="r8C7T6pSIj0Og4" tvg-chno="91" group-title="famelack (ru) [ru] [True]" tvg-logo="", RT Documentary
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+#EXTINF:0001 tvg-id="ZMZADVi7xlu2yx" tvg-chno="92" group-title="famelack (ru) [ru] [True]" tvg-logo="", RT en Espanol
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:0001 tvg-id="x7Sc16bkKuarK4" tvg-chno="93" group-title="famelack (ru) [ru] [False]" tvg-logo="", RTR-Planeta
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
+#EXTINF:0001 tvg-id="xCt2mJKVQRLYsh" tvg-chno="94" group-title="famelack (ru) [ru] [True]" tvg-logo="", Russia-1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:0001 tvg-id="kE9bsHhgT7dCv2" tvg-chno="95" group-title="famelack (ru) [ru] [True]" tvg-logo="", Russia-24
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
+#EXTINF:0001 tvg-id="p36vvpwTrBuj6A" tvg-chno="96" group-title="famelack (ru) [ru] [True]" tvg-logo="", Russia-K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:0001 tvg-id="b3MNVX3z2oxA71" tvg-chno="97" group-title="famelack (ru) [ru] [False]" tvg-logo="", Ryzhiy
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="Yglik68ssWvklf" tvg-chno="98" group-title="famelack (ru) [ru] [False]" tvg-logo="", S1
+https://sitv.ru/hls/stv.m3u8
+#EXTINF:0001 tvg-id="0iCtP4Yw0JqFxI" tvg-chno="99" group-title="famelack (ru) [ru] [False]" tvg-logo="", Salyam
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:0001 tvg-id="8Hde8aJv6IJm4i" tvg-chno="100" group-title="famelack (ru) [ru] [False]" tvg-logo="", Samara-GIS
+https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="hQgDaeyJfdzNfx" tvg-chno="101" group-title="famelack (ru) [ru] [False]" tvg-logo="", Sankt-Peterburg
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+#EXTINF:0001 tvg-id="vOtrXXsk5F3fig" tvg-chno="102" group-title="famelack (ru) [ru] [False]" tvg-logo="", Sever
+https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="OU8aCzJR3XgtbJ" tvg-chno="103" group-title="famelack (ru) [ru] [False]" tvg-logo="", Simferopol 24
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+#EXTINF:0001 tvg-id="JIPUpjryYJZoMO" tvg-chno="104" group-title="famelack (ru) [ru] [False]" tvg-logo="", Smile TV
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:0001 tvg-id="XsDojCA8SLZ0wU" tvg-chno="105" group-title="famelack (ru) [ru] [False]" tvg-logo="", Smotrim Chestnyy Detektiv
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="jVAavKgp3OBX31" tvg-chno="106" group-title="famelack (ru) [ru] [True]" tvg-logo="", Solnce
+https://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:0001 tvg-id="gG2sCG4QdpdTl7" tvg-chno="107" group-title="famelack (ru) [ru] [False]" tvg-logo="", Soyuz
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:0001 tvg-id="3w30y8OQCcGoAy" tvg-chno="108" group-title="famelack (ru) [ru] [True]" tvg-logo="", Spas
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:0001 tvg-id="4fSWekqVzO4BQS" tvg-chno="109" group-title="famelack (ru) [ru] [False]" tvg-logo="", Strana FM
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="Q2BhpM1IToL6dc" tvg-chno="110" group-title="famelack (ru) [ru] [True]" tvg-logo="", STS
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:0001 tvg-id="d8wK3YuIEkuIYv" tvg-chno="111" group-title="famelack (ru) [ru] [True]" tvg-logo="", STS Love
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:0001 tvg-id="cqRI47XhJmXOWU" tvg-chno="112" group-title="famelack (ru) [ru] [False]" tvg-logo="", Studiya Fakt
+https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="eKfYqU6hglotWE" tvg-chno="113" group-title="famelack (ru) [ru] [True]" tvg-logo="", Subbota!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:0001 tvg-id="VvHs0le0kh5DyD" tvg-chno="114" group-title="famelack (ru) [ru] [False]" tvg-logo="", Surgut 24
+https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:0001 tvg-id="nb5MYVmBj2KvUf" tvg-chno="115" group-title="famelack (ru) [ru] [False]" tvg-logo="", Svoyo TV
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+#EXTINF:0001 tvg-id="99DtWOF0uOZLNA" tvg-chno="116" group-title="famelack (ru) [ru] [False]" tvg-logo="", Tamyr
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:0001 tvg-id="IjfaeT61g4IFJ9" tvg-chno="117" group-title="famelack (ru) [ru] [False]" tvg-logo="", Telekanal Krasnodar
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="4LYbtSIziaVivG" tvg-chno="118" group-title="famelack (ru) [ru] [False]" tvg-logo="", Telplus
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
+#EXTINF:0001 tvg-id="uNWpwawKxaERb1" tvg-chno="119" group-title="famelack (ru) [ru] [False]" tvg-logo="", TiJi
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="ykkeMlR0XOtHqW" tvg-chno="120" group-title="famelack (ru) [ru] [False]" tvg-logo="", TKR
+https://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="ifTYV3LUxWMK3L" tvg-chno="121" group-title="famelack (ru) [ru] [True]" tvg-logo="", TNT
+https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#EXTINF:0001 tvg-id="pHCP5XUV54XUTL" tvg-chno="122" group-title="famelack (ru) [ru] [True]" tvg-logo="", TNT4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:0001 tvg-id="6yBLRoSzypIDNJ" tvg-chno="123" group-title="famelack (ru) [ru] [False]" tvg-logo="", TNV-Planet
+https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+#EXTINF:0001 tvg-id="qNo5nKmdri2pF3" tvg-chno="124" group-title="famelack (ru) [ru] [False]" tvg-logo="", Tolk
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:0001 tvg-id="0hiQdgKd6nMh6h" tvg-chno="125" group-title="famelack (ru) [ru] [False]" tvg-logo="", TV BRICS Russian
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:0001 tvg-id="Szpgy7EpmRPYV0" tvg-chno="126" group-title="famelack (ru) [ru] [True]" tvg-logo="", TV Centr
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="2oOBy2H7RVg3AY" tvg-chno="127" group-title="famelack (ru) [ru] [True]" tvg-logo="", TV-3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:0001 tvg-id="kdCila39s1AU8k" tvg-chno="128" group-title="famelack (ru) [ru] [False]" tvg-logo="", TVK
+https://air.tvk6.ru/tvk24/playlist.m3u8
+#EXTINF:0001 tvg-id="iKbsITYVtirmyF" tvg-chno="129" group-title="famelack (ru) [ru] [True]" tvg-logo="", U
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:0001 tvg-id="8iOK4Asu2pvPAa" tvg-chno="158" group-title="famelack (ru) [ru] [False]" tvg-logo="", Ювелирочка ТВ
+#EXTINF:0001 tvg-id="HLEoRKBCS06HUI" tvg-chno="130" group-title="famelack (ru) [ru] [False]" tvg-logo="", Ugra-TV
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:0001 tvg-id="3OOeiozk8ilduN" tvg-chno="131" group-title="famelack (ru) [ru] [False]" tvg-logo="", Univer TV
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="SP0kNtTm9KEzd5" tvg-chno="132" group-title="famelack (ru) [ru] [False]" tvg-logo="", Vera 24
+https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
+#EXTINF:0001 tvg-id="qoUkakDtbgDtaT" tvg-chno="133" group-title="famelack (ru) [ru] [False]" tvg-logo="", Vital Drive
+https://tv.a21network.ru/stream/37909/index.m3u8
+#EXTINF:0001 tvg-id="pnRdmB03EI7cgW" tvg-chno="134" group-title="famelack (ru) [ru] [False]" tvg-logo="", Vmeste-RF
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="yjqlyDxVZ1PJXX" tvg-chno="135" group-title="famelack (ru) [ru] [True]" tvg-logo="", Vostok 24
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+#EXTINF:0001 tvg-id="MzPT9rWsVbKTNy" tvg-chno="136" group-title="famelack (ru) [ru] [False]" tvg-logo="", YaPervyy
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+#EXTINF:0001 tvg-id="UduqqsC4bcIebm" tvg-chno="137" group-title="famelack (ru) [ru] [False]" tvg-logo="", Yuvelirochka
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:0001 tvg-id="ep4eseqBm4UkmF" tvg-chno="138" group-title="famelack (ru) [ru] [False]" tvg-logo="", Za! TV
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
+#EXTINF:0001 tvg-id="1tGmbGgzdva6hK" tvg-chno="139" group-title="famelack (ru) [ru] [False]" tvg-logo="", Zoopark
+https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="RRz92yn8V5E9Cn" tvg-chno="140" group-title="famelack (ru) [ru] [True]" tvg-logo="", Zvezda
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:0001 tvg-id="VXgZWR9GlvTCmv" tvg-chno="141" group-title="famelack (ru) [ru] [False]" tvg-logo="", Zvezda Plus
+https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8

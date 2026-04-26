@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="GidYAgXI85sI6d" tvg-chno="1" group-title="famelack (np) [np] [False]" tvg-logo="", Capital TV
+#EXTINF:0001 tvg-id="7g4HH41gB1MWxY" tvg-chno="1" group-title="famelack (np) [np] [False]" tvg-logo="", Capital TV HD
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 #EXTINF:0001 tvg-id="DfD3tq4WpLgfKH" tvg-chno="2" group-title="famelack (np) [np] [False]" tvg-logo="", Divya Darshan TV
 https://live.divyadarshantv.com/hls/stream.m3u8
