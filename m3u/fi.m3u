@@ -5,29 +5,27 @@ https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="J7RQA4WoEvPkLl" tvg-chno="3" group-title="famelack (fi) [fi] [False]" tvg-logo="", Come Dine With Me
 https://amg00654-itv-amg00654c2-rakuten-uk-1281.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="RXkTjTqpb8UDSl" tvg-chno="4" group-title="famelack (fi) [fi] [False]" tvg-logo="", Himlen TV7
-https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="khHjtS0a6tOj4o" tvg-chno="5" group-title="famelack (fi) [fi] [False]" tvg-logo="", JRTV Jarviradio
+#EXTINF:0001 tvg-id="khHjtS0a6tOj4o" tvg-chno="4" group-title="famelack (fi) [fi] [False]" tvg-logo="", JRTV Jarviradio
 https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
-#EXTINF:0001 tvg-id="ymyzvymgU1533k" tvg-chno="6" group-title="famelack (fi) [fi] [False]" tvg-logo="", MTV Uutiset
+#EXTINF:0001 tvg-id="ymyzvymgU1533k" tvg-chno="5" group-title="famelack (fi) [fi] [False]" tvg-logo="", MTV Uutiset
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-#EXTINF:0001 tvg-id="RDsjWhSWVAr0bK" tvg-chno="7" group-title="famelack (fi) [fi] [False]" tvg-logo="", Nar-TV
+#EXTINF:0001 tvg-id="RDsjWhSWVAr0bK" tvg-chno="6" group-title="famelack (fi) [fi] [False]" tvg-logo="", Nar-TV
 https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
-#EXTINF:0001 tvg-id="DSxOBANqbGCYcT" tvg-chno="8" group-title="famelack (fi) [fi] [False]" tvg-logo="", Navahang TV
+#EXTINF:0001 tvg-id="DSxOBANqbGCYcT" tvg-chno="7" group-title="famelack (fi) [fi] [False]" tvg-logo="", Navahang TV
 https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="2woYjnnnE6JSW8" tvg-chno="9" group-title="famelack (fi) [fi] [False]" tvg-logo="", Nopola News
+#EXTINF:0001 tvg-id="2woYjnnnE6JSW8" tvg-chno="8" group-title="famelack (fi) [fi] [False]" tvg-logo="", Nopola News
 https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="knoFkqODtHFsAU" tvg-chno="10" group-title="famelack (fi) [fi] [False]" tvg-logo="", Onni TV
+#EXTINF:0001 tvg-id="knoFkqODtHFsAU" tvg-chno="9" group-title="famelack (fi) [fi] [False]" tvg-logo="", Onni TV
 https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
-#EXTINF:0001 tvg-id="5kldbIEO7owMXN" tvg-chno="11" group-title="famelack (fi) [fi] [False]" tvg-logo="", Taevas TV7
-https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="xqKdOYRVMSVleX" tvg-chno="12" group-title="famelack (fi) [fi] [False]" tvg-logo="", Taivas TV7
+#EXTINF:0001 tvg-id="CECa40HPlHGlAI" tvg-chno="10" group-title="famelack (fi) [fi] [False]" tvg-logo="", Rakuten TV Top Movies Finland
+https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
+#EXTINF:0001 tvg-id="xqKdOYRVMSVleX" tvg-chno="11" group-title="famelack (fi) [fi] [False]" tvg-logo="", Taivas TV7
 https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="3kvMeRQNc7yJgV" tvg-chno="13" group-title="famelack (fi) [fi] [False]" tvg-logo="", World of Love Island
+#EXTINF:0001 tvg-id="3kvMeRQNc7yJgV" tvg-chno="12" group-title="famelack (fi) [fi] [False]" tvg-logo="", World of Love Island
 https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="TpuV7cZ7ley7jL" tvg-chno="14" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle Teema & Fem
+#EXTINF:0001 tvg-id="TpuV7cZ7ley7jL" tvg-chno="13" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle Teema & Fem
 https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
-#EXTINF:0001 tvg-id="yckusHOMD6vE3i" tvg-chno="15" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle TV1
+#EXTINF:0001 tvg-id="yckusHOMD6vE3i" tvg-chno="14" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle TV1
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
-#EXTINF:0001 tvg-id="2j4i6yHaNK9dPs" tvg-chno="16" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle TV2
+#EXTINF:0001 tvg-id="2j4i6yHaNK9dPs" tvg-chno="15" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle TV2
 https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8

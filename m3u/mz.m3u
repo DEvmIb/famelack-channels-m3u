@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="HY7rVLsoZbudni" tvg-chno="1" group-title="famelack (mz) [mz] [False]" tvg-logo="", TV Vitoria
+#EXTINF:0001 tvg-id="m6EnoHPyxPHtyb" tvg-chno="1" group-title="famelack (mz) [mz] [False]" tvg-logo="", TV Mana Mocambique
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="HY7rVLsoZbudni" tvg-chno="2" group-title="famelack (mz) [mz] [False]" tvg-logo="", TV Vitoria
 https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8

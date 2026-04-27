@@ -5,13 +5,15 @@ https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
 #EXTINF:0001 tvg-id="vVfgeuE3MFU5jS" tvg-chno="3" group-title="famelack (se) [se] [False]" tvg-logo="", Expressen TV
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
-#EXTINF:0001 tvg-id="MFBhdF22oHPsQx" tvg-chno="4" group-title="famelack (se) [se] [False]" tvg-logo="", Komala TV
+#EXTINF:0001 tvg-id="1hR84SIj6p8xoC" tvg-chno="4" group-title="famelack (se) [se] [False]" tvg-logo="", Himlen TV7
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="MFBhdF22oHPsQx" tvg-chno="5" group-title="famelack (se) [se] [False]" tvg-logo="", Komala TV
 https://komhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="An1Is33qOccMLw" tvg-chno="5" group-title="famelack (se) [se] [False]" tvg-logo="", Miracle TV
+#EXTINF:0001 tvg-id="An1Is33qOccMLw" tvg-chno="6" group-title="famelack (se) [se] [False]" tvg-logo="", Miracle TV
 https://live.miracleonline.org/hls/miracle1.m3u8
-#EXTINF:0001 tvg-id="LWXmSBrEE8B8bT" tvg-chno="6" group-title="famelack (se) [se] [False]" tvg-logo="", Myzen Fit
+#EXTINF:0001 tvg-id="LWXmSBrEE8B8bT" tvg-chno="7" group-title="famelack (se) [se] [False]" tvg-logo="", Myzen Fit
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungse/playlist.m3u8
-#EXTINF:0001 tvg-id="yRFpQt0Uge4TEm" tvg-chno="7" group-title="famelack (se) [se] [False]" tvg-logo="", The Wicked Tuna Channel
+#EXTINF:0001 tvg-id="yRFpQt0Uge4TEm" tvg-chno="8" group-title="famelack (se) [se] [False]" tvg-logo="", The Wicked Tuna Channel
 https://amg00353-lionsgatestudio-wickedtunase-samsungse-w4kcr.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtunase-samsungse/playlist.m3u8
-#EXTINF:0001 tvg-id="wETjJuUNWWDAGH" tvg-chno="8" group-title="famelack (se) [se] [False]" tvg-logo="", Waterbear
+#EXTINF:0001 tvg-id="wETjJuUNWWDAGH" tvg-chno="9" group-title="famelack (se) [se] [False]" tvg-logo="", Waterbear
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
