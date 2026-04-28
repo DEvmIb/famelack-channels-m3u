@@ -1,283 +1,265 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="LAPj7zIAvtxGKM" tvg-chno="1" group-title="famelack (de) [de] [False]" tvg-logo="", Alex Berlin
 https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
-#EXTINF:0001 tvg-id="KgfZTMdFAXl97l" tvg-chno="2" group-title="famelack (de) [de] [False]" tvg-logo="", Allgau TV
-https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
-#EXTINF:0001 tvg-id="I4If5zWiJMNu7L" tvg-chno="3" group-title="famelack (de) [de] [False]" tvg-logo="", Anixe +
+#EXTINF:0001 tvg-id="I4If5zWiJMNu7L" tvg-chno="2" group-title="famelack (de) [de] [False]" tvg-logo="", Anixe +
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
-#EXTINF:0001 tvg-id="BznBvcwYehpK8k" tvg-chno="4" group-title="famelack (de) [de] [False]" tvg-logo="", Anixe HD Serie
+#EXTINF:0001 tvg-id="BznBvcwYehpK8k" tvg-chno="3" group-title="famelack (de) [de] [False]" tvg-logo="", Anixe HD Serie
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:0001 tvg-id="IJpns8FI8lNpRr" tvg-chno="5" group-title="famelack (de) [de] [False]" tvg-logo="", ARD-alpha
+#EXTINF:0001 tvg-id="IJpns8FI8lNpRr" tvg-chno="4" group-title="famelack (de) [de] [False]" tvg-logo="", ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:0001 tvg-id="FvDnlZIql02wuL" tvg-chno="6" group-title="famelack (de) [de] [False]" tvg-logo="", Aristo TV
+#EXTINF:0001 tvg-id="FvDnlZIql02wuL" tvg-chno="5" group-title="famelack (de) [de] [False]" tvg-logo="", Aristo TV
 https://ma.anixa.tv/clips/stream/aristo/index.m3u8
-#EXTINF:0001 tvg-id="o8Dfvg1m7ashdC" tvg-chno="7" group-title="famelack (de) [de] [True]" tvg-logo="", arte
+#EXTINF:0001 tvg-id="o8Dfvg1m7ashdC" tvg-chno="6" group-title="famelack (de) [de] [True]" tvg-logo="", arte
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-#EXTINF:0001 tvg-id="LGLjherg6GkxIA" tvg-chno="8" group-title="famelack (de) [de] [False]" tvg-logo="", Augsburg TV
+#EXTINF:0001 tvg-id="LGLjherg6GkxIA" tvg-chno="7" group-title="famelack (de) [de] [False]" tvg-logo="", Augsburg TV
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="HISiOL7NmfoR6g" tvg-chno="9" group-title="famelack (de) [de] [False]" tvg-logo="", Baden TV
+#EXTINF:0001 tvg-id="HISiOL7NmfoR6g" tvg-chno="8" group-title="famelack (de) [de] [False]" tvg-logo="", Baden TV
 https://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:0001 tvg-id="z9Ufj8FAdnJn7C" tvg-chno="10" group-title="famelack (de) [de] [False]" tvg-logo="", Baden TV Sud
+#EXTINF:0001 tvg-id="z9Ufj8FAdnJn7C" tvg-chno="9" group-title="famelack (de) [de] [False]" tvg-logo="", Baden TV Sud
 https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="uVgni6lRnPbvo9" tvg-chno="11" group-title="famelack (de) [de] [False]" tvg-logo="", BBC Top Gear Germany
+#EXTINF:0001 tvg-id="uVgni6lRnPbvo9" tvg-chno="10" group-title="famelack (de) [de] [False]" tvg-logo="", BBC Top Gear Germany
 https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="oqgc5Cjf5Bpv9j" tvg-chno="12" group-title="famelack (de) [de] [False]" tvg-logo="", Bibel TV
+#EXTINF:0001 tvg-id="oqgc5Cjf5Bpv9j" tvg-chno="11" group-title="famelack (de) [de] [False]" tvg-logo="", Bibel TV
 https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
-#EXTINF:0001 tvg-id="TidiMBUKgHqdwZ" tvg-chno="13" group-title="famelack (de) [de] [False]" tvg-logo="", Bibel TV Impuls
+#EXTINF:0001 tvg-id="TidiMBUKgHqdwZ" tvg-chno="12" group-title="famelack (de) [de] [False]" tvg-logo="", Bibel TV Impuls
 https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="yHOMIT6YTjFRD3" tvg-chno="14" group-title="famelack (de) [de] [False]" tvg-logo="", Bibel TV Musik
+#EXTINF:0001 tvg-id="yHOMIT6YTjFRD3" tvg-chno="13" group-title="famelack (de) [de] [False]" tvg-logo="", Bibel TV Musik
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="5Sr9qxxUmLUHZa" tvg-chno="15" group-title="famelack (de) [de] [False]" tvg-logo="", BLK Regional TV
+#EXTINF:0001 tvg-id="5Sr9qxxUmLUHZa" tvg-chno="14" group-title="famelack (de) [de] [False]" tvg-logo="", BLK Regional TV
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:0001 tvg-id="95qUyvmztON27u" tvg-chno="16" group-title="famelack (de) [de] [False]" tvg-logo="", Das Erste
+#EXTINF:0001 tvg-id="95qUyvmztON27u" tvg-chno="15" group-title="famelack (de) [de] [False]" tvg-logo="", Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-#EXTINF:0001 tvg-id="FM7JnUFlNQHUFD" tvg-chno="17" group-title="famelack (de) [de] [False]" tvg-logo="", DASDING 90.8
+#EXTINF:0001 tvg-id="FM7JnUFlNQHUFD" tvg-chno="16" group-title="famelack (de) [de] [False]" tvg-logo="", DASDING 90.8
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
-#EXTINF:0001 tvg-id="E3Fuo7LqwAfWE9" tvg-chno="18" group-title="famelack (de) [de] [False]" tvg-logo="", Deluxe Dance
+#EXTINF:0001 tvg-id="E3Fuo7LqwAfWE9" tvg-chno="17" group-title="famelack (de) [de] [False]" tvg-logo="", Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:0001 tvg-id="hoEK50b8RIgSOh" tvg-chno="19" group-title="famelack (de) [de] [False]" tvg-logo="", Deluxe Music
+#EXTINF:0001 tvg-id="hoEK50b8RIgSOh" tvg-chno="18" group-title="famelack (de) [de] [False]" tvg-logo="", Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0001 tvg-id="kxfwLfpFpzHMm2" tvg-chno="20" group-title="famelack (de) [de] [False]" tvg-logo="", Deluxe Rap
+#EXTINF:0001 tvg-id="kxfwLfpFpzHMm2" tvg-chno="19" group-title="famelack (de) [de] [False]" tvg-logo="", Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0001 tvg-id="04DHM2NaCjakkb" tvg-chno="21" group-title="famelack (de) [de] [False]" tvg-logo="", DMF
+#EXTINF:0001 tvg-id="04DHM2NaCjakkb" tvg-chno="20" group-title="famelack (de) [de] [False]" tvg-logo="", DMF
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
-#EXTINF:0001 tvg-id="FQVKNsI92Y63Vf" tvg-chno="22" group-title="famelack (de) [de] [False]" tvg-logo="", Dokusat
+#EXTINF:0001 tvg-id="FQVKNsI92Y63Vf" tvg-chno="21" group-title="famelack (de) [de] [False]" tvg-logo="", Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:0001 tvg-id="yDe8P2yjEx9yM2" tvg-chno="23" group-title="famelack (de) [de] [False]" tvg-logo="", DW Arabic
+#EXTINF:0001 tvg-id="yDe8P2yjEx9yM2" tvg-chno="22" group-title="famelack (de) [de] [False]" tvg-logo="", DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
-#EXTINF:0001 tvg-id="lpYmUDR5HpXALT" tvg-chno="24" group-title="famelack (de) [de] [True]" tvg-logo="", DW English
+#EXTINF:0001 tvg-id="lpYmUDR5HpXALT" tvg-chno="23" group-title="famelack (de) [de] [True]" tvg-logo="", DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:0001 tvg-id="H4HR8svz54XngH" tvg-chno="25" group-title="famelack (de) [de] [False]" tvg-logo="", DW Espanol
+#EXTINF:0001 tvg-id="H4HR8svz54XngH" tvg-chno="24" group-title="famelack (de) [de] [False]" tvg-logo="", DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:0001 tvg-id="ptE116wUMswJaQ" tvg-chno="26" group-title="famelack (de) [de] [False]" tvg-logo="", DW Russian
+#EXTINF:0001 tvg-id="ptE116wUMswJaQ" tvg-chno="25" group-title="famelack (de) [de] [False]" tvg-logo="", DW Russian
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
-#EXTINF:0001 tvg-id="VVcQY1hOdMpI1U" tvg-chno="27" group-title="famelack (de) [de] [False]" tvg-logo="", EchtJetzt TV
+#EXTINF:0001 tvg-id="VVcQY1hOdMpI1U" tvg-chno="26" group-title="famelack (de) [de] [False]" tvg-logo="", EchtJetzt TV
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
-#EXTINF:0001 tvg-id="FkwHKfpMGiYx0r" tvg-chno="28" group-title="famelack (de) [de] [False]" tvg-logo="", ems TV Lingen
+#EXTINF:0001 tvg-id="FkwHKfpMGiYx0r" tvg-chno="27" group-title="famelack (de) [de] [False]" tvg-logo="", ems TV Lingen
 https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="dikaN7zl5U7F3z" tvg-chno="29" group-title="famelack (de) [de] [False]" tvg-logo="", Erz-TV Stollberg
+#EXTINF:0001 tvg-id="dikaN7zl5U7F3z" tvg-chno="28" group-title="famelack (de) [de] [False]" tvg-logo="", Erz-TV Stollberg
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="uDLeBfdzdIX1Oi" tvg-chno="30" group-title="famelack (de) [de] [False]" tvg-logo="", EWTN
+#EXTINF:0001 tvg-id="uDLeBfdzdIX1Oi" tvg-chno="29" group-title="famelack (de) [de] [False]" tvg-logo="", EWTN
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
-#EXTINF:0001 tvg-id="0deWs8tTLyJPRE" tvg-chno="31" group-title="famelack (de) [de] [False]" tvg-logo="", FilmGold Germany
+#EXTINF:0001 tvg-id="0deWs8tTLyJPRE" tvg-chno="30" group-title="famelack (de) [de] [False]" tvg-logo="", FilmGold Germany
 https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="CiGC7hiaz7dMhM" tvg-chno="32" group-title="famelack (de) [de] [False]" tvg-logo="", Filstalwelle
+#EXTINF:0001 tvg-id="CiGC7hiaz7dMhM" tvg-chno="31" group-title="famelack (de) [de] [False]" tvg-logo="", Filstalwelle
 https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="JUHY7ZFUwE8O9n" tvg-chno="33" group-title="famelack (de) [de] [False]" tvg-logo="", Finest TV
+#EXTINF:0001 tvg-id="JUHY7ZFUwE8O9n" tvg-chno="32" group-title="famelack (de) [de] [False]" tvg-logo="", Finest TV
 https://media.finest.tv/hls/live.m3u8
-#EXTINF:0001 tvg-id="6ftPsR4C1PTDrI" tvg-chno="34" group-title="famelack (de) [de] [False]" tvg-logo="", Fluss Monster
+#EXTINF:0001 tvg-id="6ftPsR4C1PTDrI" tvg-chno="33" group-title="famelack (de) [de] [False]" tvg-logo="", Fluss Monster
 https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="cmt0eNnG0G5SGu" tvg-chno="35" group-title="famelack (de) [de] [False]" tvg-logo="", Franken Fernsehen
+#EXTINF:0001 tvg-id="cmt0eNnG0G5SGu" tvg-chno="34" group-title="famelack (de) [de] [False]" tvg-logo="", Franken Fernsehen
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="XvhMxajfmHe1iL" tvg-chno="36" group-title="famelack (de) [de] [False]" tvg-logo="", FrankenPlus
-https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
-#EXTINF:0001 tvg-id="NYCRxxM21wcIxY" tvg-chno="37" group-title="famelack (de) [de] [False]" tvg-logo="", Graham Norton Germany
+#EXTINF:0001 tvg-id="NYCRxxM21wcIxY" tvg-chno="35" group-title="famelack (de) [de] [False]" tvg-logo="", Graham Norton Germany
 https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="KWubgLKIN9lBtR" tvg-chno="38" group-title="famelack (de) [de] [False]" tvg-logo="", Handystar
+#EXTINF:0001 tvg-id="KWubgLKIN9lBtR" tvg-chno="36" group-title="famelack (de) [de] [False]" tvg-logo="", Handystar
 https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
-#EXTINF:0001 tvg-id="9akXuoxRiw2xMb" tvg-chno="39" group-title="famelack (de) [de] [False]" tvg-logo="", Hell's Kitchen Germany
+#EXTINF:0001 tvg-id="9akXuoxRiw2xMb" tvg-chno="37" group-title="famelack (de) [de] [False]" tvg-logo="", Hell's Kitchen Germany
 https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="C38uFQgyi8ggWU" tvg-chno="40" group-title="famelack (de) [de] [False]" tvg-logo="", hr-fernsehen
-https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="00SFFti9BYGccf" tvg-chno="41" group-title="famelack (de) [de] [False]" tvg-logo="", HSE
+#EXTINF:0001 tvg-id="C38uFQgyi8ggWU" tvg-chno="38" group-title="famelack (de) [de] [False]" tvg-logo="", hr-fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:0001 tvg-id="00SFFti9BYGccf" tvg-chno="39" group-title="famelack (de) [de] [False]" tvg-logo="", HSE
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-#EXTINF:0001 tvg-id="soxgLbqzLAaHgC" tvg-chno="42" group-title="famelack (de) [de] [False]" tvg-logo="", HSE Extra
+#EXTINF:0001 tvg-id="soxgLbqzLAaHgC" tvg-chno="40" group-title="famelack (de) [de] [False]" tvg-logo="", HSE Extra
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
-#EXTINF:0001 tvg-id="fglFXMh5Qykdut" tvg-chno="43" group-title="famelack (de) [de] [False]" tvg-logo="", HSE Trend
+#EXTINF:0001 tvg-id="fglFXMh5Qykdut" tvg-chno="41" group-title="famelack (de) [de] [False]" tvg-logo="", HSE Trend
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
-#EXTINF:0001 tvg-id="wBMPZbYU5rhwEy" tvg-chno="44" group-title="famelack (de) [de] [False]" tvg-logo="", iSTUFF
+#EXTINF:0001 tvg-id="wBMPZbYU5rhwEy" tvg-chno="42" group-title="famelack (de) [de] [False]" tvg-logo="", iSTUFF
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
-#EXTINF:0001 tvg-id="fpJtwlTBFuWrLw" tvg-chno="45" group-title="famelack (de) [de] [False]" tvg-logo="", Juwelo
+#EXTINF:0001 tvg-id="fpJtwlTBFuWrLw" tvg-chno="43" group-title="famelack (de) [de] [False]" tvg-logo="", Juwelo
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
-#EXTINF:0001 tvg-id="NVz2ZnKyBDLvrQ" tvg-chno="46" group-title="famelack (de) [de] [False]" tvg-logo="", kabel eins
+#EXTINF:0001 tvg-id="NVz2ZnKyBDLvrQ" tvg-chno="44" group-title="famelack (de) [de] [False]" tvg-logo="", kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="Wb0Im4H36585vz" tvg-chno="47" group-title="famelack (de) [de] [False]" tvg-logo="", Kanal12 Spremberg TV
+#EXTINF:0001 tvg-id="Wb0Im4H36585vz" tvg-chno="45" group-title="famelack (de) [de] [False]" tvg-logo="", Kanal12 Spremberg TV
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="hkGnYbKbnHGzDM" tvg-chno="48" group-title="famelack (de) [de] [False]" tvg-logo="", KaufBei TV
-https://api.alpaca.t62a.com/hls/9103/index.m3u8
-#EXTINF:0001 tvg-id="0yjVBN9zD5VvoM" tvg-chno="49" group-title="famelack (de) [de] [True]" tvg-logo="", KiKA
-https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="veVA32nZqDrhse" tvg-chno="50" group-title="famelack (de) [de] [False]" tvg-logo="", KulturMD
+#EXTINF:0001 tvg-id="hkGnYbKbnHGzDM" tvg-chno="46" group-title="famelack (de) [de] [False]" tvg-logo="", KaufBei TV
+https://elephant.t62a.com/hls/8103/index.m3u8
+#EXTINF:0001 tvg-id="0yjVBN9zD5VvoM" tvg-chno="47" group-title="famelack (de) [de] [True]" tvg-logo="", KiKA
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+#EXTINF:0001 tvg-id="veVA32nZqDrhse" tvg-chno="48" group-title="famelack (de) [de] [False]" tvg-logo="", KulturMD
 https://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:0001 tvg-id="CqTFTkcYouQywi" tvg-chno="51" group-title="famelack (de) [de] [False]" tvg-logo="", L TV
+#EXTINF:0001 tvg-id="CqTFTkcYouQywi" tvg-chno="49" group-title="famelack (de) [de] [False]" tvg-logo="", L TV
 https://live2.telvi.de/hls/l-tv_s1.m3u8
-#EXTINF:0001 tvg-id="Qm2znUA46MmZwc" tvg-chno="52" group-title="famelack (de) [de] [False]" tvg-logo="", labor14
-https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="Ztcv27i6GrEiFD" tvg-chno="53" group-title="famelack (de) [de] [False]" tvg-logo="", Lausitzwelle
+#EXTINF:0001 tvg-id="Ztcv27i6GrEiFD" tvg-chno="50" group-title="famelack (de) [de] [False]" tvg-logo="", Lausitzwelle
 https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
-#EXTINF:0001 tvg-id="HWTSet3C8bbwKJ" tvg-chno="54" group-title="famelack (de) [de] [False]" tvg-logo="", LooLoo Kids TV
+#EXTINF:0001 tvg-id="HWTSet3C8bbwKJ" tvg-chno="51" group-title="famelack (de) [de] [False]" tvg-logo="", LooLoo Kids TV
 https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
-#EXTINF:0001 tvg-id="AfL5oyVqCpLDJk" tvg-chno="55" group-title="famelack (de) [de] [False]" tvg-logo="", MDF.1
+#EXTINF:0001 tvg-id="AfL5oyVqCpLDJk" tvg-chno="52" group-title="famelack (de) [de] [False]" tvg-logo="", MDF.1
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:0001 tvg-id="mUa6AudaIQeV3S" tvg-chno="56" group-title="famelack (de) [de] [True]" tvg-logo="", MDR Fernsehen Thuringen
+#EXTINF:0001 tvg-id="mUa6AudaIQeV3S" tvg-chno="53" group-title="famelack (de) [de] [True]" tvg-logo="", MDR Fernsehen Thuringen
 https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="ojY3PgU9rwk9x4" tvg-chno="57" group-title="famelack (de) [de] [True]" tvg-logo="", Motorvision
+#EXTINF:0001 tvg-id="ojY3PgU9rwk9x4" tvg-chno="54" group-title="famelack (de) [de] [True]" tvg-logo="", Motorvision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-#EXTINF:0001 tvg-id="5zsvZbp5i40Gds" tvg-chno="58" group-title="famelack (de) [de] [False]" tvg-logo="", Motorvision+
+#EXTINF:0001 tvg-id="5zsvZbp5i40Gds" tvg-chno="55" group-title="famelack (de) [de] [False]" tvg-logo="", Motorvision+
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
-#EXTINF:0001 tvg-id="YY7dAU666LVx7L" tvg-chno="59" group-title="famelack (de) [de] [False]" tvg-logo="", Munchen TV
+#EXTINF:0001 tvg-id="YY7dAU666LVx7L" tvg-chno="56" group-title="famelack (de) [de] [False]" tvg-logo="", Munchen TV
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="4YOpv1CYox1W50" tvg-chno="60" group-title="famelack (de) [de] [False]" tvg-logo="", Naruto Germany
+#EXTINF:0001 tvg-id="4YOpv1CYox1W50" tvg-chno="57" group-title="famelack (de) [de] [False]" tvg-logo="", Naruto Germany
 https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="d8YHTAnPVAiw8c" tvg-chno="61" group-title="famelack (de) [de] [False]" tvg-logo="", Niederbayern TV
-https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
-#EXTINF:0001 tvg-id="5HPuRsaIZ7wi9S" tvg-chno="62" group-title="famelack (de) [de] [False]" tvg-logo="", Niederbayern TV Deggendorf & Straubing
-https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
-#EXTINF:0001 tvg-id="dqYeIYeXXFZBkI" tvg-chno="63" group-title="famelack (de) [de] [False]" tvg-logo="", Niederbayern TV Landshut
-https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
-#EXTINF:0001 tvg-id="0xxDuqMMk42taZ" tvg-chno="64" group-title="famelack (de) [de] [False]" tvg-logo="", Niederbayern TV Passau
-https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
-#EXTINF:0001 tvg-id="1lj5zvclavtoue" tvg-chno="65" group-title="famelack (de) [de] [False]" tvg-logo="", noa4 Hamburg
+#EXTINF:0001 tvg-id="1lj5zvclavtoue" tvg-chno="58" group-title="famelack (de) [de] [False]" tvg-logo="", noa4 Hamburg
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:0001 tvg-id="tP3635LuUuZ9t3" tvg-chno="66" group-title="famelack (de) [de] [False]" tvg-logo="", noa4 Norderstedt
+#EXTINF:0001 tvg-id="tP3635LuUuZ9t3" tvg-chno="59" group-title="famelack (de) [de] [False]" tvg-logo="", noa4 Norderstedt
 https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:0001 tvg-id="dYt045ogXamqS6" tvg-chno="67" group-title="famelack (de) [de] [False]" tvg-logo="", NRWision
+#EXTINF:0001 tvg-id="dYt045ogXamqS6" tvg-chno="60" group-title="famelack (de) [de] [False]" tvg-logo="", NRWision
 https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="uulIpGX9jYzIDT" tvg-chno="68" group-title="famelack (de) [de] [False]" tvg-logo="", Oberpfalz TV
+#EXTINF:0001 tvg-id="uulIpGX9jYzIDT" tvg-chno="61" group-title="famelack (de) [de] [False]" tvg-logo="", Oberpfalz TV
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="t25XYUZkAL9Kgw" tvg-chno="69" group-title="famelack (de) [de] [False]" tvg-logo="", OF-TV Offenbach
+#EXTINF:0001 tvg-id="t25XYUZkAL9Kgw" tvg-chno="62" group-title="famelack (de) [de] [False]" tvg-logo="", OF-TV Offenbach
 https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
-#EXTINF:0001 tvg-id="MUm8U37A4OvXc2" tvg-chno="70" group-title="famelack (de) [de] [False]" tvg-logo="", OK Dessau
+#EXTINF:0001 tvg-id="MUm8U37A4OvXc2" tvg-chno="63" group-title="famelack (de) [de] [False]" tvg-logo="", OK Dessau
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
-#EXTINF:0001 tvg-id="ixhyYhnKxhDZBe" tvg-chno="71" group-title="famelack (de) [de] [False]" tvg-logo="", OK Flensburg
+#EXTINF:0001 tvg-id="ixhyYhnKxhDZBe" tvg-chno="64" group-title="famelack (de) [de] [False]" tvg-logo="", OK Flensburg
 https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-#EXTINF:0001 tvg-id="TAd1Ubg7TEmAUU" tvg-chno="72" group-title="famelack (de) [de] [False]" tvg-logo="", OK Kiel
+#EXTINF:0001 tvg-id="TAd1Ubg7TEmAUU" tvg-chno="65" group-title="famelack (de) [de] [False]" tvg-logo="", OK Kiel
 https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
-#EXTINF:0001 tvg-id="3sRXXJs8hqTfO5" tvg-chno="73" group-title="famelack (de) [de] [False]" tvg-logo="", OK Magdeburg
+#EXTINF:0001 tvg-id="3sRXXJs8hqTfO5" tvg-chno="66" group-title="famelack (de) [de] [False]" tvg-logo="", OK Magdeburg
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8
-#EXTINF:0001 tvg-id="FYuXPwk6jlP8bJ" tvg-chno="74" group-title="famelack (de) [de] [False]" tvg-logo="", OK Merseburg-Querfurt
+#EXTINF:0001 tvg-id="FYuXPwk6jlP8bJ" tvg-chno="67" group-title="famelack (de) [de] [False]" tvg-logo="", OK Merseburg-Querfurt
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8
-#EXTINF:0001 tvg-id="rBGrW8kNGesFFe" tvg-chno="75" group-title="famelack (de) [de] [False]" tvg-logo="", OK Salzwedel
+#EXTINF:0001 tvg-id="rBGrW8kNGesFFe" tvg-chno="68" group-title="famelack (de) [de] [False]" tvg-logo="", OK Salzwedel
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
-#EXTINF:0001 tvg-id="WyGGx8bh7zihHI" tvg-chno="76" group-title="famelack (de) [de] [False]" tvg-logo="", OK Stendal
+#EXTINF:0001 tvg-id="WyGGx8bh7zihHI" tvg-chno="69" group-title="famelack (de) [de] [False]" tvg-logo="", OK Stendal
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
-#EXTINF:0001 tvg-id="iD1O3DGfgUMF59" tvg-chno="77" group-title="famelack (de) [de] [False]" tvg-logo="", OK Wernigerode
+#EXTINF:0001 tvg-id="iD1O3DGfgUMF59" tvg-chno="70" group-title="famelack (de) [de] [False]" tvg-logo="", OK Wernigerode
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
-#EXTINF:0001 tvg-id="hKXziqHmvJRVZi" tvg-chno="78" group-title="famelack (de) [de] [True]" tvg-logo="", Parlamentsfernsehen 1
+#EXTINF:0001 tvg-id="hKXziqHmvJRVZi" tvg-chno="71" group-title="famelack (de) [de] [True]" tvg-logo="", Parlamentsfernsehen 1
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:0001 tvg-id="Ubrmy3xb62Fg9U" tvg-chno="79" group-title="famelack (de) [de] [False]" tvg-logo="", ProSieben
+#EXTINF:0001 tvg-id="Ubrmy3xb62Fg9U" tvg-chno="72" group-title="famelack (de) [de] [False]" tvg-logo="", ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="dQC6hnK8bEtRAv" tvg-chno="80" group-title="famelack (de) [de] [False]" tvg-logo="", PUNKTum Fernsehen
+#EXTINF:0001 tvg-id="dQC6hnK8bEtRAv" tvg-chno="73" group-title="famelack (de) [de] [False]" tvg-logo="", PUNKTum Fernsehen
 https://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
-#EXTINF:0001 tvg-id="OLmlejUUhCqlk2" tvg-chno="81" group-title="famelack (de) [de] [False]" tvg-logo="", QVC
+#EXTINF:0001 tvg-id="OLmlejUUhCqlk2" tvg-chno="74" group-title="famelack (de) [de] [False]" tvg-logo="", QVC
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
-#EXTINF:0001 tvg-id="FfKKaHEk2MpmA6" tvg-chno="82" group-title="famelack (de) [de] [False]" tvg-logo="", Radio Weser TV Bremen
+#EXTINF:0001 tvg-id="FfKKaHEk2MpmA6" tvg-chno="75" group-title="famelack (de) [de] [False]" tvg-logo="", Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:0001 tvg-id="jrhvPj9Sfa0uyr" tvg-chno="83" group-title="famelack (de) [de] [False]" tvg-logo="", Rakuten TV Family Movies Germany
-https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
-#EXTINF:0001 tvg-id="ILjNpPssxRQReN" tvg-chno="84" group-title="famelack (de) [de] [False]" tvg-logo="", RAN1
+#EXTINF:0001 tvg-id="FT8VcZltRS1FOf" tvg-chno="76" group-title="famelack (de) [de] [False]" tvg-logo="", Rakuten TV Action Movies Germany
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+#EXTINF:0001 tvg-id="ILjNpPssxRQReN" tvg-chno="77" group-title="famelack (de) [de] [False]" tvg-logo="", RAN1
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8
-#EXTINF:0001 tvg-id="D4fjmuUPITRfet" tvg-chno="85" group-title="famelack (de) [de] [False]" tvg-logo="", rbb Fernsehen
+#EXTINF:0001 tvg-id="D4fjmuUPITRfet" tvg-chno="78" group-title="famelack (de) [de] [False]" tvg-logo="", rbb Fernsehen
 https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="eDxTJNmoxWEurz" tvg-chno="86" group-title="famelack (de) [de] [False]" tvg-logo="", RBW
+#EXTINF:0001 tvg-id="eDxTJNmoxWEurz" tvg-chno="79" group-title="famelack (de) [de] [False]" tvg-logo="", RBW
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
-#EXTINF:0001 tvg-id="i2oVTNlM3TCzLz" tvg-chno="87" group-title="famelack (de) [de] [False]" tvg-logo="", Regio TV Bodensee
+#EXTINF:0001 tvg-id="i2oVTNlM3TCzLz" tvg-chno="80" group-title="famelack (de) [de] [False]" tvg-logo="", Regio TV Bodensee
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="1BfHLDA67bx4O6" tvg-chno="88" group-title="famelack (de) [de] [False]" tvg-logo="", Regio TV Stuttgart
+#EXTINF:0001 tvg-id="1BfHLDA67bx4O6" tvg-chno="81" group-title="famelack (de) [de] [False]" tvg-logo="", Regio TV Stuttgart
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="x5Tm4sSiBqyqwq" tvg-chno="89" group-title="famelack (de) [de] [False]" tvg-logo="", Rennsteig TV
+#EXTINF:0001 tvg-id="x5Tm4sSiBqyqwq" tvg-chno="82" group-title="famelack (de) [de] [False]" tvg-logo="", Rennsteig TV
 https://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
-#EXTINF:0001 tvg-id="6I4CQI5DQQYidR" tvg-chno="90" group-title="famelack (de) [de] [False]" tvg-logo="", RFH
+#EXTINF:0001 tvg-id="6I4CQI5DQQYidR" tvg-chno="83" group-title="famelack (de) [de] [False]" tvg-logo="", RFH
 https://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
-#EXTINF:0001 tvg-id="Wm5wGl36SAC05e" tvg-chno="91" group-title="famelack (de) [de] [False]" tvg-logo="", RFO
-https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
-#EXTINF:0001 tvg-id="50AOLuz78mWfKm" tvg-chno="92" group-title="famelack (de) [de] [False]" tvg-logo="", RiC
+#EXTINF:0001 tvg-id="50AOLuz78mWfKm" tvg-chno="84" group-title="famelack (de) [de] [False]" tvg-logo="", RiC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
-#EXTINF:0001 tvg-id="4uVJ6q6wliLG97" tvg-chno="93" group-title="famelack (de) [de] [False]" tvg-logo="", RT DE
+#EXTINF:0001 tvg-id="4uVJ6q6wliLG97" tvg-chno="85" group-title="famelack (de) [de] [False]" tvg-logo="", RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-#EXTINF:0001 tvg-id="5GZMPi9AV9upaO" tvg-chno="94" group-title="famelack (de) [de] [False]" tvg-logo="", Saarland Fernsehen 1
+#EXTINF:0001 tvg-id="5GZMPi9AV9upaO" tvg-chno="86" group-title="famelack (de) [de] [False]" tvg-logo="", Saarland Fernsehen 1
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="fUPLgxn46ADnP7" tvg-chno="95" group-title="famelack (de) [de] [False]" tvg-logo="", Saarland Fernsehen 2
+#EXTINF:0001 tvg-id="fUPLgxn46ADnP7" tvg-chno="87" group-title="famelack (de) [de] [False]" tvg-logo="", Saarland Fernsehen 2
 https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-#EXTINF:0001 tvg-id="7piv9vbkWJv13J" tvg-chno="96" group-title="famelack (de) [de] [False]" tvg-logo="", Sachsen Eins
+#EXTINF:0001 tvg-id="7piv9vbkWJv13J" tvg-chno="88" group-title="famelack (de) [de] [False]" tvg-logo="", Sachsen Eins
 https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="2vJDADluU5tnYG" tvg-chno="97" group-title="famelack (de) [de] [False]" tvg-logo="", Sachsen Fernsehen Chemnitz
+#EXTINF:0001 tvg-id="2vJDADluU5tnYG" tvg-chno="89" group-title="famelack (de) [de] [False]" tvg-logo="", Sachsen Fernsehen Chemnitz
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="AtD4MGqRmLyT2k" tvg-chno="98" group-title="famelack (de) [de] [False]" tvg-logo="", Sachsen Fernsehen Dresden
+#EXTINF:0001 tvg-id="AtD4MGqRmLyT2k" tvg-chno="90" group-title="famelack (de) [de] [False]" tvg-logo="", Sachsen Fernsehen Dresden
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="HcBGbHAxvXnicl" tvg-chno="99" group-title="famelack (de) [de] [False]" tvg-logo="", Sachsen Fernsehen Leipzig
+#EXTINF:0001 tvg-id="HcBGbHAxvXnicl" tvg-chno="91" group-title="famelack (de) [de] [False]" tvg-logo="", Sachsen Fernsehen Leipzig
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="UFym6UV0MF6AZF" tvg-chno="100" group-title="famelack (de) [de] [False]" tvg-logo="", SAT.1 Gold
+#EXTINF:0001 tvg-id="UFym6UV0MF6AZF" tvg-chno="92" group-title="famelack (de) [de] [False]" tvg-logo="", SAT.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="5J132TbInkq065" tvg-chno="101" group-title="famelack (de) [de] [False]" tvg-logo="", Seenluft24
+#EXTINF:0001 tvg-id="5J132TbInkq065" tvg-chno="93" group-title="famelack (de) [de] [False]" tvg-logo="", Seenluft24
 https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
-#EXTINF:0001 tvg-id="RYdZg82PmuShbI" tvg-chno="102" group-title="famelack (de) [de] [False]" tvg-logo="", Sender Neu Jerusalem
+#EXTINF:0001 tvg-id="RYdZg82PmuShbI" tvg-chno="94" group-title="famelack (de) [de] [False]" tvg-logo="", Sender Neu Jerusalem
 https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
-#EXTINF:0001 tvg-id="fWZxKZWO7ZnqqI" tvg-chno="103" group-title="famelack (de) [de] [False]" tvg-logo="", sixx
+#EXTINF:0001 tvg-id="fWZxKZWO7ZnqqI" tvg-chno="95" group-title="famelack (de) [de] [False]" tvg-logo="", sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="e8rG5QU8htEE7k" tvg-chno="104" group-title="famelack (de) [de] [False]" tvg-logo="", Sophia TV
+#EXTINF:0001 tvg-id="e8rG5QU8htEE7k" tvg-chno="96" group-title="famelack (de) [de] [False]" tvg-logo="", Sophia TV
 https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="JaVEBZI59FJaVc" tvg-chno="105" group-title="famelack (de) [de] [False]" tvg-logo="", Sophia TV Espanol
+#EXTINF:0001 tvg-id="JaVEBZI59FJaVc" tvg-chno="97" group-title="famelack (de) [de] [False]" tvg-logo="", Sophia TV Espanol
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="1gbXonkFceJ3sY" tvg-chno="106" group-title="famelack (de) [de] [False]" tvg-logo="", Sophia TV Francais
+#EXTINF:0001 tvg-id="1gbXonkFceJ3sY" tvg-chno="98" group-title="famelack (de) [de] [False]" tvg-logo="", Sophia TV Francais
 https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="7GzTauEieAnCzl" tvg-chno="107" group-title="famelack (de) [de] [False]" tvg-logo="", SR Fernsehen
+#EXTINF:0001 tvg-id="7GzTauEieAnCzl" tvg-chno="99" group-title="famelack (de) [de] [False]" tvg-logo="", SR Fernsehen
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:0001 tvg-id="v3xxGRtiYvFu9f" tvg-chno="108" group-title="famelack (de) [de] [False]" tvg-logo="", SRF
+#EXTINF:0001 tvg-id="v3xxGRtiYvFu9f" tvg-chno="100" group-title="famelack (de) [de] [False]" tvg-logo="", SRF
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
-#EXTINF:0001 tvg-id="nUHCgjRUR5TBtm" tvg-chno="109" group-title="famelack (de) [de] [False]" tvg-logo="", Studio 47
+#EXTINF:0001 tvg-id="nUHCgjRUR5TBtm" tvg-chno="101" group-title="famelack (de) [de] [False]" tvg-logo="", Studio 47
 https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="fPZSt9vCYtA22m" tvg-chno="110" group-title="famelack (de) [de] [False]" tvg-logo="", SWR 3 Visual Radio
+#EXTINF:0001 tvg-id="fPZSt9vCYtA22m" tvg-chno="102" group-title="famelack (de) [de] [False]" tvg-logo="", SWR 3 Visual Radio
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
-#EXTINF:0001 tvg-id="dViXNUvwXWn2sW" tvg-chno="111" group-title="famelack (de) [de] [False]" tvg-logo="", tagesschau24
+#EXTINF:0001 tvg-id="dViXNUvwXWn2sW" tvg-chno="103" group-title="famelack (de) [de] [False]" tvg-logo="", tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:0001 tvg-id="APsiDTtaBUvYQA" tvg-chno="112" group-title="famelack (de) [de] [False]" tvg-logo="", teltOwkanal
+#EXTINF:0001 tvg-id="APsiDTtaBUvYQA" tvg-chno="104" group-title="famelack (de) [de] [False]" tvg-logo="", teltOwkanal
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
-#EXTINF:0001 tvg-id="Dh2uUg08yXJN7u" tvg-chno="113" group-title="famelack (de) [de] [False]" tvg-logo="", Tennis Channel Germany
+#EXTINF:0001 tvg-id="Dh2uUg08yXJN7u" tvg-chno="105" group-title="famelack (de) [de] [False]" tvg-logo="", Tennis Channel Germany
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="26XgnwsMGpjD8v" tvg-chno="114" group-title="famelack (de) [de] [False]" tvg-logo="", Tide TV
+#EXTINF:0001 tvg-id="26XgnwsMGpjD8v" tvg-chno="106" group-title="famelack (de) [de] [False]" tvg-logo="", Tide TV
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="zSAQDtp3HsePwB" tvg-chno="115" group-title="famelack (de) [de] [False]" tvg-logo="", Top Sci-Fi
+#EXTINF:0001 tvg-id="zSAQDtp3HsePwB" tvg-chno="107" group-title="famelack (de) [de] [False]" tvg-logo="", Top Sci-Fi
 https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8
-#EXTINF:0001 tvg-id="PWJyz4VQQm82vO" tvg-chno="116" group-title="famelack (de) [de] [False]" tvg-logo="", Top Serien
+#EXTINF:0001 tvg-id="PWJyz4VQQm82vO" tvg-chno="108" group-title="famelack (de) [de] [False]" tvg-logo="", Top Serien
 https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8
-#EXTINF:0001 tvg-id="1FPfpylopFQcAU" tvg-chno="117" group-title="famelack (de) [de] [False]" tvg-logo="", TV Ingolstadt
-https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
-#EXTINF:0001 tvg-id="ufMx2DHRyBEUuN" tvg-chno="118" group-title="famelack (de) [de] [False]" tvg-logo="", TV Mainfranken
+#EXTINF:0001 tvg-id="ufMx2DHRyBEUuN" tvg-chno="109" group-title="famelack (de) [de] [False]" tvg-logo="", TV Mainfranken
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="zapTNBihBIwpoV" tvg-chno="119" group-title="famelack (de) [de] [False]" tvg-logo="", TV Oberfranken
+#EXTINF:0001 tvg-id="zapTNBihBIwpoV" tvg-chno="110" group-title="famelack (de) [de] [False]" tvg-logo="", TV Oberfranken
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="NDLIjfW5RlERZP" tvg-chno="120" group-title="famelack (de) [de] [False]" tvg-logo="", TV38 Sudost-Niedersachen
+#EXTINF:0001 tvg-id="NDLIjfW5RlERZP" tvg-chno="111" group-title="famelack (de) [de] [False]" tvg-logo="", TV38 Sudost-Niedersachen
 https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
-#EXTINF:0001 tvg-id="vdlrNTq7TC5hbk" tvg-chno="121" group-title="famelack (de) [de] [False]" tvg-logo="", TVA
+#EXTINF:0001 tvg-id="vdlrNTq7TC5hbk" tvg-chno="112" group-title="famelack (de) [de] [False]" tvg-logo="", TVA
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:0001 tvg-id="aaowsSWPgbYhP0" tvg-chno="122" group-title="famelack (de) [de] [False]" tvg-logo="", Vevo Pop Germany
+#EXTINF:0001 tvg-id="aaowsSWPgbYhP0" tvg-chno="113" group-title="famelack (de) [de] [False]" tvg-logo="", Vevo Pop Germany
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="5V7Di07ISqyIML" tvg-chno="123" group-title="famelack (de) [de] [False]" tvg-logo="", Vevo Schlager Pop
+#EXTINF:0001 tvg-id="5V7Di07ISqyIML" tvg-chno="114" group-title="famelack (de) [de] [False]" tvg-logo="", Vevo Schlager Pop
 https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="WAshLHkYNk3KeX" tvg-chno="124" group-title="famelack (de) [de] [False]" tvg-logo="", Volksmusik TV
+#EXTINF:0001 tvg-id="WAshLHkYNk3KeX" tvg-chno="115" group-title="famelack (de) [de] [False]" tvg-logo="", Volksmusik TV
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
-#EXTINF:0001 tvg-id="4YJWj04hCfbsQM" tvg-chno="125" group-title="famelack (de) [de] [False]" tvg-logo="", WDR 1 Live
+#EXTINF:0001 tvg-id="4YJWj04hCfbsQM" tvg-chno="116" group-title="famelack (de) [de] [False]" tvg-logo="", WDR 1 Live
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:0001 tvg-id="VX0nmnBQ8D5Pdv" tvg-chno="126" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Aachen
+#EXTINF:0001 tvg-id="VX0nmnBQ8D5Pdv" tvg-chno="117" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Aachen
 https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
-#EXTINF:0001 tvg-id="kpnjh9YYciFo9a" tvg-chno="127" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Bielefeld
+#EXTINF:0001 tvg-id="kpnjh9YYciFo9a" tvg-chno="118" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Bielefeld
 https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
-#EXTINF:0001 tvg-id="9bq9EK8pK09oGU" tvg-chno="128" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Bonn
+#EXTINF:0001 tvg-id="9bq9EK8pK09oGU" tvg-chno="119" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Bonn
 https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
-#EXTINF:0001 tvg-id="syMY9oojgpG8KI" tvg-chno="129" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Dortmund
+#EXTINF:0001 tvg-id="syMY9oojgpG8KI" tvg-chno="120" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Dortmund
 https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
-#EXTINF:0001 tvg-id="mhLwW0aVVzdJ90" tvg-chno="130" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Duisburg
+#EXTINF:0001 tvg-id="mhLwW0aVVzdJ90" tvg-chno="121" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Duisburg
 https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
-#EXTINF:0001 tvg-id="Gt6McIqzqsAgE1" tvg-chno="131" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Düsseldorf
+#EXTINF:0001 tvg-id="Gt6McIqzqsAgE1" tvg-chno="122" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Düsseldorf
 https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-#EXTINF:0001 tvg-id="6Lz1ceHetsyoUa" tvg-chno="132" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Essen
+#EXTINF:0001 tvg-id="6Lz1ceHetsyoUa" tvg-chno="123" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Essen
 https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
-#EXTINF:0001 tvg-id="HOEGJfbN2vEljn" tvg-chno="133" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Köln
-https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="wxs1H0scf0XK4q" tvg-chno="134" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Münster
+#EXTINF:0001 tvg-id="HOEGJfbN2vEljn" tvg-chno="124" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Köln
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:0001 tvg-id="wxs1H0scf0XK4q" tvg-chno="125" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Münster
 https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
-#EXTINF:0001 tvg-id="dEZtPa59baOyrW" tvg-chno="135" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Siegen
+#EXTINF:0001 tvg-id="dEZtPa59baOyrW" tvg-chno="126" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Siegen
 https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
-#EXTINF:0001 tvg-id="dC86JbiDgYV1qp" tvg-chno="136" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Wuppertal
+#EXTINF:0001 tvg-id="dC86JbiDgYV1qp" tvg-chno="127" group-title="famelack (de) [de] [True]" tvg-logo="", WDR Fernsehen Wuppertal
 https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
-#EXTINF:0001 tvg-id="K22wa9GZBp59RQ" tvg-chno="137" group-title="famelack (de) [de] [False]" tvg-logo="", Welt der Wunder TV
+#EXTINF:0001 tvg-id="K22wa9GZBp59RQ" tvg-chno="128" group-title="famelack (de) [de] [False]" tvg-logo="", Welt der Wunder TV
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:0001 tvg-id="QB9QqJ3GnR2vau" tvg-chno="138" group-title="famelack (de) [de] [False]" tvg-logo="", Wicked Tuna Germany
+#EXTINF:0001 tvg-id="QB9QqJ3GnR2vau" tvg-chno="129" group-title="famelack (de) [de] [False]" tvg-logo="", Wicked Tuna Germany
 https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="79fVSOpRIHlsyq" tvg-chno="139" group-title="famelack (de) [de] [False]" tvg-logo="", World of Freesports
+#EXTINF:0001 tvg-id="79fVSOpRIHlsyq" tvg-chno="130" group-title="famelack (de) [de] [False]" tvg-logo="", World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTINF:0001 tvg-id="sdSeYOOTM2qvju" tvg-chno="140" group-title="famelack (de) [de] [False]" tvg-logo="", World of Freesports
+#EXTINF:0001 tvg-id="sdSeYOOTM2qvju" tvg-chno="131" group-title="famelack (de) [de] [False]" tvg-logo="", World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="MTSj2olhZiM1t9" tvg-chno="141" group-title="famelack (de) [de] [False]" tvg-logo="", XITE Hits Germany
+#EXTINF:0001 tvg-id="MTSj2olhZiM1t9" tvg-chno="132" group-title="famelack (de) [de] [False]" tvg-logo="", XITE Hits Germany
 https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8

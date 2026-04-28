@@ -28,4 +28,4 @@ https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="Es7qApbSf615KN" tvg-chno="14" group-title="famelack (za) [za] [False]" tvg-logo="", TV BRICS Africa
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="NpJ5K3Avxx4otV" tvg-chno="15" group-title="famelack (za) [za] [True]" tvg-logo="", WildEarth
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+https://wildearth-xumo.amagi.tv/master.m3u8

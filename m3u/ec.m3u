@@ -19,16 +19,16 @@ https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:0001 tvg-id="PTQFFWtSbaHuZ3" tvg-chno="10" group-title="famelack (ec) [ec] [False]" tvg-logo="", Ecuavisa Guayaquil
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-#EXTINF:0001 tvg-id="sJtHUQ2FEosClO" tvg-chno="11" group-title="famelack (ec) [ec] [False]" tvg-logo="", Educa TV
+#EXTINF:0001 tvg-id="In4LvC44XoPkwN" tvg-chno="11" group-title="famelack (ec) [ec] [False]" tvg-logo="", Ecuavisa Quito
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="sJtHUQ2FEosClO" tvg-chno="12" group-title="famelack (ec) [ec] [False]" tvg-logo="", Educa TV
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="c6puAkcPu1cmVK" tvg-chno="12" group-title="famelack (ec) [ec] [False]" tvg-logo="", El Sol Network TV
+#EXTINF:0001 tvg-id="c6puAkcPu1cmVK" tvg-chno="13" group-title="famelack (ec) [ec] [False]" tvg-logo="", El Sol Network TV
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
-#EXTINF:0001 tvg-id="XUbd7x9yt2DTFl" tvg-chno="13" group-title="famelack (ec) [ec] [False]" tvg-logo="", FM Mundo
+#EXTINF:0001 tvg-id="XUbd7x9yt2DTFl" tvg-chno="14" group-title="famelack (ec) [ec] [False]" tvg-logo="", FM Mundo
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
-#EXTINF:0001 tvg-id="c0ayJmoC3gtMTu" tvg-chno="14" group-title="famelack (ec) [ec] [False]" tvg-logo="", Hechos Ecuador
+#EXTINF:0001 tvg-id="c0ayJmoC3gtMTu" tvg-chno="15" group-title="famelack (ec) [ec] [False]" tvg-logo="", Hechos Ecuador
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
-#EXTINF:0001 tvg-id="IpJn6TkjLhDwxt" tvg-chno="15" group-title="famelack (ec) [ec] [False]" tvg-logo="", IeanJesus Ecuador
-https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
 #EXTINF:0001 tvg-id="2m0gEtXYdWeCIN" tvg-chno="16" group-title="famelack (ec) [ec] [False]" tvg-logo="", Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:0001 tvg-id="BQiZCJpf4JlMdt" tvg-chno="17" group-title="famelack (ec) [ec] [False]" tvg-logo="", La Nueva Radio TV 97.7

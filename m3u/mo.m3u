@@ -1,3 +1,17 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="58vqYx7XTThkiR" tvg-chno="1" group-title="famelack (mo) [mo] [False]" tvg-logo="", Directo das Reuniões da Assembleia de Macau
+#EXTINF:0001 tvg-id="AWUVY2VKvTt6lo" tvg-chno="1" group-title="famelack (mo) [mo] [False]" tvg-logo="", Canal Macau
+https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:0001 tvg-id="58vqYx7XTThkiR" tvg-chno="2" group-title="famelack (mo) [mo] [False]" tvg-logo="", Directo das Reuniões da Assembleia de Macau
 https://live3.tdm.com.mo/tv/ch22.live/playlist.m3u8
+#EXTINF:0001 tvg-id="BEXQ5W8tyoYSyP" tvg-chno="3" group-title="famelack (mo) [mo] [False]" tvg-logo="", TDM Entertainment
+https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:0001 tvg-id="spHeIy93DVRSNQ" tvg-chno="4" group-title="famelack (mo) [mo] [False]" tvg-logo="", TDM Information
+https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:0001 tvg-id="JIYaCzyyA8AVYN" tvg-chno="5" group-title="famelack (mo) [mo] [False]" tvg-logo="", TDM Ou Mun
+https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:0001 tvg-id="5f6bpRedKmTZgN" tvg-chno="6" group-title="famelack (mo) [mo] [False]" tvg-logo="", TDM Sports
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:0001 tvg-id="ea4e8DXTfVHXzd" tvg-chno="7" group-title="famelack (mo) [mo] [False]" tvg-logo="", TDM-Macau Satellite
+https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:0001 tvg-id="x025lr9V7w4N5p" tvg-chno="8" group-title="famelack (mo) [mo] [False]" tvg-logo="", 立法會直播 (Legislative Council Live)
+https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8

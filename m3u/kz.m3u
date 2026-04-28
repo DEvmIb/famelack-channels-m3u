@@ -6,7 +6,7 @@ https://otv.wotom.net/alau/stream.m3u8
 #EXTINF:0001 tvg-id="NsRP1rTNLBH991" tvg-chno="3" group-title="famelack (kz) [kz] [False]" tvg-logo="", Balapan
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:0001 tvg-id="3AVsF9F3MmLx0i" tvg-chno="4" group-title="famelack (kz) [kz] [False]" tvg-logo="", KTK
-https://89.218.30.37/ktklive/live.hq/playlist.m3u8
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="5b8XYlH65LRz6N" tvg-chno="5" group-title="famelack (kz) [kz] [False]" tvg-logo="", MTRK
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:0001 tvg-id="PUtkKNBhatXQzk" tvg-chno="6" group-title="famelack (kz) [kz] [False]" tvg-logo="", Qazaqstan

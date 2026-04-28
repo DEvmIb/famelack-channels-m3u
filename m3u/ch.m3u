@@ -6,9 +6,9 @@ https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 #EXTINF:0001 tvg-id="fjYriRacd46Tsw" tvg-chno="3" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 1
 https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 #EXTINF:0001 tvg-id="cIkg0H43fAL4zk" tvg-chno="4" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 2
-https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
+https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:0001 tvg-id="uPhFpY546jefo6" tvg-chno="5" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 3
-https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
 #EXTINF:0001 tvg-id="trjWtKrUtelzEV" tvg-chno="6" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 4
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:0001 tvg-id="2iFt0H3obXxR8a" tvg-chno="7" group-title="famelack (ch) [ch] [False]" tvg-logo="", Clubbing TV France
@@ -26,7 +26,7 @@ https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:0001 tvg-id="xYgLb0tc6pAHED" tvg-chno="13" group-title="famelack (ch) [ch] [False]" tvg-logo="", More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:0001 tvg-id="ZUrwxBDVVmyicG" tvg-chno="14" group-title="famelack (ch) [ch] [False]" tvg-logo="", NDR Fernsehen International
-https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:0001 tvg-id="dL9dqEvKPfjTXy" tvg-chno="15" group-title="famelack (ch) [ch] [False]" tvg-logo="", QS24.tv
 https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="mb7i550xYVEaod" tvg-chno="16" group-title="famelack (ch) [ch] [False]" tvg-logo="", Radio 3i

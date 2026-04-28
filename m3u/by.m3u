@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="pnA6yb0AQTRKeR" tvg-chno="1" group-title="famelack (by) [by] [False]" tvg-logo="", Belarus-2
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="yxXfCHd5uHQMJD" tvg-chno="2" group-title="famelack (by) [by] [False]" tvg-logo="", Belarus-5
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Fzrfx3wDU4y6Uc" tvg-chno="3" group-title="famelack (by) [by] [False]" tvg-logo="", Belarus-24
+#EXTINF:0001 tvg-id="Fzrfx3wDU4y6Uc" tvg-chno="1" group-title="famelack (by) [by] [False]" tvg-logo="", Belarus-24
 https://edge53.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="sLUJ6TnLS6Lwbj" tvg-chno="4" group-title="famelack (by) [by] [False]" tvg-logo="", BelRos
+#EXTINF:0001 tvg-id="sLUJ6TnLS6Lwbj" tvg-chno="2" group-title="famelack (by) [by] [False]" tvg-logo="", BelRos
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:0001 tvg-id="esaPDq84VF68oV" tvg-chno="5" group-title="famelack (by) [by] [False]" tvg-logo="", Perviy Informationniy
+#EXTINF:0001 tvg-id="esaPDq84VF68oV" tvg-chno="3" group-title="famelack (by) [by] [False]" tvg-logo="", Perviy Informationniy
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="iVRQOIdUpv5uQH" tvg-chno="6" group-title="famelack (by) [by] [False]" tvg-logo="", STV
+#EXTINF:0001 tvg-id="iVRQOIdUpv5uQH" tvg-chno="4" group-title="famelack (by) [by] [False]" tvg-logo="", STV
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
