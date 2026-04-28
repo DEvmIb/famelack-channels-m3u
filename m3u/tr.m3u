@@ -9,14 +9,14 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:0001 tvg-id="yDEgoB2ibEbyA5" tvg-chno="5" group-title="famelack (tr) [tr] [False]" tvg-logo="", Al Qanat 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-#EXTINF:0001 tvg-id="Mmz7MUwsZ62HWK" tvg-chno="6" group-title="famelack (tr) [tr] [False]" tvg-logo="", Almahriah TV
+#EXTINF:0001 tvg-id="3GgXVbdK2cjuBg" tvg-chno="6" group-title="famelack (tr) [tr] [False]" tvg-logo="", Alanya Posta TV
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:0001 tvg-id="Mmz7MUwsZ62HWK" tvg-chno="7" group-title="famelack (tr) [tr] [False]" tvg-logo="", Almahriah TV
 https://starmenajo.com/hls/almahriah/index.m3u8
-#EXTINF:0001 tvg-id="yL3s4jwp0ivExp" tvg-chno="7" group-title="famelack (tr) [tr] [False]" tvg-logo="", Anadolu Net TV
+#EXTINF:0001 tvg-id="yL3s4jwp0ivExp" tvg-chno="8" group-title="famelack (tr) [tr] [False]" tvg-logo="", Anadolu Net TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:0001 tvg-id="laMNKAVyTuHniN" tvg-chno="8" group-title="famelack (tr) [tr] [True]" tvg-logo="", AS TV
+#EXTINF:0001 tvg-id="laMNKAVyTuHniN" tvg-chno="9" group-title="famelack (tr) [tr] [True]" tvg-logo="", AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
-#EXTINF:0001 tvg-id="UBjqGDOceqJLt2" tvg-chno="9" group-title="famelack (tr) [tr] [False]" tvg-logo="", ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:0001 tvg-id="NxCKTyzKVXGji0" tvg-chno="10" group-title="famelack (tr) [tr] [False]" tvg-logo="", Benguturk TV
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:0001 tvg-id="GQEjero7WWkJqT" tvg-chno="11" group-title="famelack (tr) [tr] [False]" tvg-logo="", Bloomberg HT
@@ -161,36 +161,36 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:0001 tvg-id="9O4Xod3xobbM50" tvg-chno="81" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:0001 tvg-id="YCPZsdEDhEaJOB" tvg-chno="82" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Cocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:0001 tvg-id="aIKbRpQHmkkXLq" tvg-chno="83" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Diyanet Cocuk
+#EXTINF:0001 tvg-id="aIKbRpQHmkkXLq" tvg-chno="82" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:0001 tvg-id="3JgrZVIyLGdoxu" tvg-chno="84" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT EBA
+#EXTINF:0001 tvg-id="3JgrZVIyLGdoxu" tvg-chno="83" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT EBA
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:0001 tvg-id="owJJC4tX2SQL4u" tvg-chno="85" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Haber
+#EXTINF:0001 tvg-id="owJJC4tX2SQL4u" tvg-chno="84" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:0001 tvg-id="E5bRl4JchxbV74" tvg-chno="86" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Kurdi
+#EXTINF:0001 tvg-id="E5bRl4JchxbV74" tvg-chno="85" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:0001 tvg-id="C9IVKYDQo5BjBO" tvg-chno="87" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Muzik
+#EXTINF:0001 tvg-id="C9IVKYDQo5BjBO" tvg-chno="86" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:0001 tvg-id="3plQYqBTSXG2ii" tvg-chno="88" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Turk
+#EXTINF:0001 tvg-id="3plQYqBTSXG2ii" tvg-chno="87" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:0001 tvg-id="egFyCvci4RMv2r" tvg-chno="89" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT World
+#EXTINF:0001 tvg-id="egFyCvci4RMv2r" tvg-chno="88" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:0001 tvg-id="3FSzos0dAYiYAN" tvg-chno="90" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 4
+#EXTINF:0001 tvg-id="3FSzos0dAYiYAN" tvg-chno="89" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:0001 tvg-id="deH7vlwlXSBCxY" tvg-chno="91" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 41
+#EXTINF:0001 tvg-id="deH7vlwlXSBCxY" tvg-chno="90" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 41
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
-#EXTINF:0001 tvg-id="W5plAUUYqWIZ2k" tvg-chno="92" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 100
+#EXTINF:0001 tvg-id="W5plAUUYqWIZ2k" tvg-chno="91" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF:0001 tvg-id="ZdxrMEOa28PZnq" tvg-chno="93" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 264
+#EXTINF:0001 tvg-id="ZdxrMEOa28PZnq" tvg-chno="92" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 264
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="8UTFNpq46IxrH2" tvg-chno="94" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV Den
+#EXTINF:0001 tvg-id="8UTFNpq46IxrH2" tvg-chno="93" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV Den
 https://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:0001 tvg-id="fiUFmaRESDKun4" tvg-chno="95" group-title="famelack (tr) [tr] [False]" tvg-logo="", TVNET
+#EXTINF:0001 tvg-id="fiUFmaRESDKun4" tvg-chno="94" group-title="famelack (tr) [tr] [False]" tvg-logo="", TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:0001 tvg-id="TKQbSmFlgXq83c" tvg-chno="96" group-title="famelack (tr) [tr] [False]" tvg-logo="", Urfa Natik TV
+#EXTINF:0001 tvg-id="TKQbSmFlgXq83c" tvg-chno="95" group-title="famelack (tr) [tr] [False]" tvg-logo="", Urfa Natik TV
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+#EXTINF:0001 tvg-id="jR1pEYmA9cImfH" tvg-chno="96" group-title="famelack (tr) [tr] [False]" tvg-logo="", UU TV 2
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:0001 tvg-id="o42XfPEZyBkZVI" tvg-chno="97" group-title="famelack (tr) [tr] [False]" tvg-logo="", Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:0001 tvg-id="z7fzuBK8WkQvBK" tvg-chno="98" group-title="famelack (tr) [tr] [False]" tvg-logo="", Zarok TV

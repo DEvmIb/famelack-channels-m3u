@@ -29,45 +29,41 @@ https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8
 #EXTINF:0001 tvg-id="5jBZcISN5C325C" tvg-chno="15" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands TV Tagalog
 https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8
-#EXTINF:0001 tvg-id="MJZCJdg9pFYsCd" tvg-chno="16" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands TV Urdu
-https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
-#EXTINF:0001 tvg-id="y7f5txzCbtS5vm" tvg-chno="17" group-title="famelack (pk) [pk] [False]" tvg-logo="", Grace Network
+#EXTINF:0001 tvg-id="y7f5txzCbtS5vm" tvg-chno="16" group-title="famelack (pk) [pk] [False]" tvg-logo="", Grace Network
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="WknJSHyVxUbWNW" tvg-chno="18" group-title="famelack (pk) [pk] [False]" tvg-logo="", HarPal Geo
+#EXTINF:0001 tvg-id="WknJSHyVxUbWNW" tvg-chno="17" group-title="famelack (pk) [pk] [False]" tvg-logo="", HarPal Geo
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="TuY2V6p7ao7BEP" tvg-chno="19" group-title="famelack (pk) [pk] [False]" tvg-logo="", Isaac TV
+#EXTINF:0001 tvg-id="TuY2V6p7ao7BEP" tvg-chno="18" group-title="famelack (pk) [pk] [False]" tvg-logo="", Isaac TV
 https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="keDnMBwKoBk3De" tvg-chno="20" group-title="famelack (pk) [pk] [False]" tvg-logo="", JooMusic
+#EXTINF:0001 tvg-id="keDnMBwKoBk3De" tvg-chno="19" group-title="famelack (pk) [pk] [False]" tvg-logo="", JooMusic
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="8aAcpwzM4vGEQS" tvg-chno="21" group-title="famelack (pk) [pk] [False]" tvg-logo="", Joshua TV
+#EXTINF:0001 tvg-id="8aAcpwzM4vGEQS" tvg-chno="20" group-title="famelack (pk) [pk] [False]" tvg-logo="", Joshua TV
 https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="0DyoG3XduwwwLj" tvg-chno="22" group-title="famelack (pk) [pk] [False]" tvg-logo="", King TV
+#EXTINF:0001 tvg-id="0DyoG3XduwwwLj" tvg-chno="21" group-title="famelack (pk) [pk] [False]" tvg-logo="", King TV
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
-#EXTINF:0001 tvg-id="C3sLhVrqf1lZz5" tvg-chno="23" group-title="famelack (pk) [pk] [False]" tvg-logo="", KTN News
+#EXTINF:0001 tvg-id="C3sLhVrqf1lZz5" tvg-chno="22" group-title="famelack (pk) [pk] [False]" tvg-logo="", KTN News
 https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
-#EXTINF:0001 tvg-id="ey0C6dKSzvDUaH" tvg-chno="24" group-title="famelack (pk) [pk] [False]" tvg-logo="", Lahore News
+#EXTINF:0001 tvg-id="ey0C6dKSzvDUaH" tvg-chno="23" group-title="famelack (pk) [pk] [False]" tvg-logo="", Lahore News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-#EXTINF:0001 tvg-id="0YXdU5lN1xFzdX" tvg-chno="25" group-title="famelack (pk) [pk] [False]" tvg-logo="", Madani Channel English
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
-#EXTINF:0001 tvg-id="XNoYUMV4eTzrsQ" tvg-chno="26" group-title="famelack (pk) [pk] [False]" tvg-logo="", Madani Channel Urdu
+#EXTINF:0001 tvg-id="XNoYUMV4eTzrsQ" tvg-chno="24" group-title="famelack (pk) [pk] [False]" tvg-logo="", Madani Channel Urdu
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
-#EXTINF:0001 tvg-id="zYIClJMSMxWG01" tvg-chno="27" group-title="famelack (pk) [pk] [False]" tvg-logo="", Minimax
+#EXTINF:0001 tvg-id="zYIClJMSMxWG01" tvg-chno="25" group-title="famelack (pk) [pk] [False]" tvg-logo="", Minimax
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-#EXTINF:0001 tvg-id="S1n88rMuz1tEg9" tvg-chno="28" group-title="famelack (pk) [pk] [False]" tvg-logo="", Neo News
+#EXTINF:0001 tvg-id="S1n88rMuz1tEg9" tvg-chno="26" group-title="famelack (pk) [pk] [False]" tvg-logo="", Neo News
 https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
-#EXTINF:0001 tvg-id="Dn8J2Ex2jjyZWp" tvg-chno="29" group-title="famelack (pk) [pk] [False]" tvg-logo="", News One
+#EXTINF:0001 tvg-id="Dn8J2Ex2jjyZWp" tvg-chno="27" group-title="famelack (pk) [pk] [False]" tvg-logo="", News One
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
-#EXTINF:0001 tvg-id="qYVU4HXVDlQp2P" tvg-chno="30" group-title="famelack (pk) [pk] [False]" tvg-logo="", PMI TV
+#EXTINF:0001 tvg-id="qYVU4HXVDlQp2P" tvg-chno="28" group-title="famelack (pk) [pk] [False]" tvg-logo="", PMI TV
 https://cdn.live247stream.com/pmi/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="77LBTTq4JvQf4h" tvg-chno="31" group-title="famelack (pk) [pk] [False]" tvg-logo="", Praise TV
+#EXTINF:0001 tvg-id="77LBTTq4JvQf4h" tvg-chno="29" group-title="famelack (pk) [pk] [False]" tvg-logo="", Praise TV
 https://livecdn.live247stream.com/praise/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="DzzedUhln9Zwfs" tvg-chno="32" group-title="famelack (pk) [pk] [False]" tvg-logo="", SAB TV
+#EXTINF:0001 tvg-id="DzzedUhln9Zwfs" tvg-chno="30" group-title="famelack (pk) [pk] [False]" tvg-logo="", SAB TV
 https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0001 tvg-id="HxH54ypKcC1Xvq" tvg-chno="33" group-title="famelack (pk) [pk] [False]" tvg-logo="", Samaa TV
+#EXTINF:0001 tvg-id="HxH54ypKcC1Xvq" tvg-chno="31" group-title="famelack (pk) [pk] [False]" tvg-logo="", Samaa TV
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
-#EXTINF:0001 tvg-id="TCN83EFEG11Pdt" tvg-chno="34" group-title="famelack (pk) [pk] [False]" tvg-logo="", Sindh TV
+#EXTINF:0001 tvg-id="TCN83EFEG11Pdt" tvg-chno="32" group-title="famelack (pk) [pk] [False]" tvg-logo="", Sindh TV
 https://mumt01.tangotv.in/SINDHTV/index.m3u8
-#EXTINF:0001 tvg-id="oy323hi3qdqwPY" tvg-chno="35" group-title="famelack (pk) [pk] [False]" tvg-logo="", Such TV
+#EXTINF:0001 tvg-id="oy323hi3qdqwPY" tvg-chno="33" group-title="famelack (pk) [pk] [False]" tvg-logo="", Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
-#EXTINF:0001 tvg-id="LBVPGHScrFCXER" tvg-chno="36" group-title="famelack (pk) [pk] [False]" tvg-logo="", Zindagi TV
+#EXTINF:0001 tvg-id="LBVPGHScrFCXER" tvg-chno="34" group-title="famelack (pk) [pk] [False]" tvg-logo="", Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8

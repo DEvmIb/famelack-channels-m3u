@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="1iuIRvnoniSJBQ" tvg-chno="1" group-title="famelack (ba) [ba] [True]" tvg-logo="", BHRT
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
-#EXTINF:0001 tvg-id="V8QFLQrHQiMeTN" tvg-chno="2" group-title="famelack (ba) [ba] [False]" tvg-logo="", RTRS plus
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:0001 tvg-id="1mg1i4tpsnA6yL" tvg-chno="2" group-title="famelack (ba) [ba] [False]" tvg-logo="", Malta
+https://webtvstream.bhtelecom.ba/malta.m3u8
 #EXTINF:0001 tvg-id="ZZiuO9trJGMIcY" tvg-chno="3" group-title="famelack (ba) [ba] [False]" tvg-logo="", RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:0001 tvg-id="WcSJpdrhx3iG3n" tvg-chno="4" group-title="famelack (ba) [ba] [False]" tvg-logo="", RTV Zenica

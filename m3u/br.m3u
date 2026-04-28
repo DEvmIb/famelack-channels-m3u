@@ -53,70 +53,70 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:0001 tvg-id="Kqr3JHbCw7DAtR" tvg-chno="27" group-title="famelack (br) [br] [False]" tvg-logo="", ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:0001 tvg-id="j2PNx5Xg25mTJj" tvg-chno="28" group-title="famelack (br) [br] [False]" tvg-logo="", KpopTV Play
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-#EXTINF:0001 tvg-id="NxqeGIVjUY8tcI" tvg-chno="29" group-title="famelack (br) [br] [False]" tvg-logo="", Loading
+#EXTINF:0001 tvg-id="NxqeGIVjUY8tcI" tvg-chno="28" group-title="famelack (br) [br] [False]" tvg-logo="", Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:0001 tvg-id="AWbO3MTrOLeQig" tvg-chno="30" group-title="famelack (br) [br] [False]" tvg-logo="", MyTime Movie Network
+#EXTINF:0001 tvg-id="AWbO3MTrOLeQig" tvg-chno="29" group-title="famelack (br) [br] [False]" tvg-logo="", MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="1JYYpqQgnjcE3u" tvg-chno="31" group-title="famelack (br) [br] [False]" tvg-logo="", NickOnline
+#EXTINF:0001 tvg-id="1JYYpqQgnjcE3u" tvg-chno="30" group-title="famelack (br) [br] [False]" tvg-logo="", NickOnline
 https://x1co.com.br/hls/stream.m3u8
-#EXTINF:0001 tvg-id="Vq8mDnKI72KTqe" tvg-chno="32" group-title="famelack (br) [br] [False]" tvg-logo="", NickOnline Spongebob
-https://pc.x1co.com.br/hls/stream.m3u8
-#EXTINF:0001 tvg-id="VvHhOWwHL2G6fH" tvg-chno="33" group-title="famelack (br) [br] [False]" tvg-logo="", NickToons Brasil
+#EXTINF:0001 tvg-id="Vq8mDnKI72KTqe" tvg-chno="31" group-title="famelack (br) [br] [False]" tvg-logo="", NickOnline Spongebob
+https://lowa8026-cmyk.github.io/Brazil/NickOnlineSpongebob.m3u8
+#EXTINF:0001 tvg-id="VvHhOWwHL2G6fH" tvg-chno="32" group-title="famelack (br) [br] [False]" tvg-logo="", NickToons Brasil
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:0001 tvg-id="OpSrCbImNuNiXk" tvg-chno="34" group-title="famelack (br) [br] [False]" tvg-logo="", Novo Tempo
+#EXTINF:0001 tvg-id="OpSrCbImNuNiXk" tvg-chno="33" group-title="famelack (br) [br] [False]" tvg-logo="", Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="cjEG8uZCZ337nx" tvg-chno="35" group-title="famelack (br) [br] [False]" tvg-logo="", Nuevo Tiempo
+#EXTINF:0001 tvg-id="cjEG8uZCZ337nx" tvg-chno="34" group-title="famelack (br) [br] [False]" tvg-logo="", Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="x42kDC1pU1frE7" tvg-chno="36" group-title="famelack (br) [br] [False]" tvg-logo="", Plena TV
+#EXTINF:0001 tvg-id="x42kDC1pU1frE7" tvg-chno="35" group-title="famelack (br) [br] [False]" tvg-logo="", Plena TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:0001 tvg-id="jKDEdNqLxjs3LB" tvg-chno="37" group-title="famelack (br) [br] [False]" tvg-logo="", RBATV
+#EXTINF:0001 tvg-id="jKDEdNqLxjs3LB" tvg-chno="36" group-title="famelack (br) [br] [False]" tvg-logo="", RBATV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:0001 tvg-id="rt7SLz6glAqm6R" tvg-chno="38" group-title="famelack (br) [br] [False]" tvg-logo="", Record
+#EXTINF:0001 tvg-id="rt7SLz6glAqm6R" tvg-chno="37" group-title="famelack (br) [br] [False]" tvg-logo="", Record
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:0001 tvg-id="TPTBqvtnc5kyaM" tvg-chno="39" group-title="famelack (br) [br] [True]" tvg-logo="", Record News
+#EXTINF:0001 tvg-id="TPTBqvtnc5kyaM" tvg-chno="38" group-title="famelack (br) [br] [True]" tvg-logo="", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:0001 tvg-id="Uk3TstZNoN0RvI" tvg-chno="40" group-title="famelack (br) [br] [False]" tvg-logo="", Red Bull TV BR
+#EXTINF:0001 tvg-id="Uk3TstZNoN0RvI" tvg-chno="39" group-title="famelack (br) [br] [False]" tvg-logo="", Red Bull TV BR
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
-#EXTINF:0001 tvg-id="G7hfnJjWbtmF49" tvg-chno="41" group-title="famelack (br) [br] [False]" tvg-logo="", Rede Gospel
+#EXTINF:0001 tvg-id="G7hfnJjWbtmF49" tvg-chno="40" group-title="famelack (br) [br] [False]" tvg-logo="", Rede Gospel
 https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="jGHLE7FGPpDgid" tvg-chno="42" group-title="famelack (br) [br] [False]" tvg-logo="", Rede NGT
+#EXTINF:0001 tvg-id="jGHLE7FGPpDgid" tvg-chno="41" group-title="famelack (br) [br] [False]" tvg-logo="", Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:0001 tvg-id="trGjHBEHG2rfsL" tvg-chno="43" group-title="famelack (br) [br] [False]" tvg-logo="", Rede SPTV
+#EXTINF:0001 tvg-id="trGjHBEHG2rfsL" tvg-chno="42" group-title="famelack (br) [br] [False]" tvg-logo="", Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:0001 tvg-id="IyieYUb9Gof8hU" tvg-chno="44" group-title="famelack (br) [br] [False]" tvg-logo="", RIT TV
+#EXTINF:0001 tvg-id="IyieYUb9Gof8hU" tvg-chno="43" group-title="famelack (br) [br] [False]" tvg-logo="", RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:0001 tvg-id="zMInhl6JZJHQnT" tvg-chno="45" group-title="famelack (br) [br] [False]" tvg-logo="", SBT Interior
+#EXTINF:0001 tvg-id="zMInhl6JZJHQnT" tvg-chno="44" group-title="famelack (br) [br] [False]" tvg-logo="", SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:0001 tvg-id="kny4XXw9tKaiju" tvg-chno="46" group-title="famelack (br) [br] [False]" tvg-logo="", SBT Rondonopolis
+#EXTINF:0001 tvg-id="kny4XXw9tKaiju" tvg-chno="45" group-title="famelack (br) [br] [False]" tvg-logo="", SBT Rondonopolis
 https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
-#EXTINF:0001 tvg-id="425RDGbJLE1OIn" tvg-chno="47" group-title="famelack (br) [br] [False]" tvg-logo="", SBT Sinop
+#EXTINF:0001 tvg-id="425RDGbJLE1OIn" tvg-chno="46" group-title="famelack (br) [br] [False]" tvg-logo="", SBT Sinop
 https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
-#EXTINF:0001 tvg-id="mkDXSFnWSkyCF2" tvg-chno="48" group-title="famelack (br) [br] [False]" tvg-logo="", Sertao TV
+#EXTINF:0001 tvg-id="mkDXSFnWSkyCF2" tvg-chno="47" group-title="famelack (br) [br] [False]" tvg-logo="", Sertao TV
 https://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="wQwzJWldq22ymG" tvg-chno="49" group-title="famelack (br) [br] [False]" tvg-logo="", SIC TV
+#EXTINF:0001 tvg-id="wQwzJWldq22ymG" tvg-chno="48" group-title="famelack (br) [br] [False]" tvg-logo="", SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:0001 tvg-id="7omf3emk4fDdL8" tvg-chno="50" group-title="famelack (br) [br] [False]" tvg-logo="", STZ TV
+#EXTINF:0001 tvg-id="7omf3emk4fDdL8" tvg-chno="49" group-title="famelack (br) [br] [False]" tvg-logo="", STZ TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
-#EXTINF:0001 tvg-id="tlMRtrczD2xa0E" tvg-chno="51" group-title="famelack (br) [br] [False]" tvg-logo="", TCM 10 HD
+#EXTINF:0001 tvg-id="tlMRtrczD2xa0E" tvg-chno="50" group-title="famelack (br) [br] [False]" tvg-logo="", TCM 10 HD
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:0001 tvg-id="nYK5boMixVyZNl" tvg-chno="52" group-title="famelack (br) [br] [False]" tvg-logo="", TV A Critica
+#EXTINF:0001 tvg-id="nYK5boMixVyZNl" tvg-chno="51" group-title="famelack (br) [br] [False]" tvg-logo="", TV A Critica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
-#EXTINF:0001 tvg-id="uFUnpsEwjM0TgY" tvg-chno="53" group-title="famelack (br) [br] [False]" tvg-logo="", TV A Folha
+#EXTINF:0001 tvg-id="uFUnpsEwjM0TgY" tvg-chno="52" group-title="famelack (br) [br] [False]" tvg-logo="", TV A Folha
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:0001 tvg-id="WxSrWAmqcJscq8" tvg-chno="54" group-title="famelack (br) [br] [False]" tvg-logo="", TV Aldeia
+#EXTINF:0001 tvg-id="WxSrWAmqcJscq8" tvg-chno="53" group-title="famelack (br) [br] [False]" tvg-logo="", TV Aldeia
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
-#EXTINF:0001 tvg-id="g9CYymT71D0CvN" tvg-chno="55" group-title="famelack (br) [br] [False]" tvg-logo="", TV Alianca Catarinense
+#EXTINF:0001 tvg-id="g9CYymT71D0CvN" tvg-chno="54" group-title="famelack (br) [br] [False]" tvg-logo="", TV Alianca Catarinense
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
-#EXTINF:0001 tvg-id="YT6xhGpFtzQ7eS" tvg-chno="56" group-title="famelack (br) [br] [False]" tvg-logo="", TV Alternativa
+#EXTINF:0001 tvg-id="YT6xhGpFtzQ7eS" tvg-chno="55" group-title="famelack (br) [br] [False]" tvg-logo="", TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:0001 tvg-id="sDQABoW0Q83Dxf" tvg-chno="57" group-title="famelack (br) [br] [False]" tvg-logo="", TV Aparecida
+#EXTINF:0001 tvg-id="sDQABoW0Q83Dxf" tvg-chno="56" group-title="famelack (br) [br] [False]" tvg-logo="", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:0001 tvg-id="pP6SnedE0hiHpP" tvg-chno="58" group-title="famelack (br) [br] [False]" tvg-logo="", TV Arapuan
+#EXTINF:0001 tvg-id="pP6SnedE0hiHpP" tvg-chno="57" group-title="famelack (br) [br] [False]" tvg-logo="", TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:0001 tvg-id="ZJOYM3VaO0rhgL" tvg-chno="59" group-title="famelack (br) [br] [False]" tvg-logo="", TV Brasil
+#EXTINF:0001 tvg-id="ZJOYM3VaO0rhgL" tvg-chno="58" group-title="famelack (br) [br] [False]" tvg-logo="", TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:0001 tvg-id="2bhXPviPJO5yGg" tvg-chno="59" group-title="famelack (br) [br] [False]" tvg-logo="", TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:0001 tvg-id="KVllxnWTBDMvKb" tvg-chno="60" group-title="famelack (br) [br] [False]" tvg-logo="", TV BRICS Portuguese
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:0001 tvg-id="riJfvbebPYWsNV" tvg-chno="61" group-title="famelack (br) [br] [False]" tvg-logo="", TV Brusque
@@ -167,37 +167,39 @@ https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:0001 tvg-id="mYmsNZmHBieLeB" tvg-chno="84" group-title="famelack (br) [br] [False]" tvg-logo="", TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:0001 tvg-id="26hxUXThjWRyJw" tvg-chno="85" group-title="famelack (br) [br] [False]" tvg-logo="", TV Sim Sao Mateus
+#EXTINF:0001 tvg-id="AOrzbD7QEj8vaf" tvg-chno="85" group-title="famelack (br) [br] [False]" tvg-logo="", TV Sim Cachoeiro
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:0001 tvg-id="26hxUXThjWRyJw" tvg-chno="86" group-title="famelack (br) [br] [False]" tvg-logo="", TV Sim Sao Mateus
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:0001 tvg-id="3SFbEQ5XiHL1nO" tvg-chno="86" group-title="famelack (br) [br] [False]" tvg-logo="", TV Sul Bahia
+#EXTINF:0001 tvg-id="3SFbEQ5XiHL1nO" tvg-chno="87" group-title="famelack (br) [br] [False]" tvg-logo="", TV Sul Bahia
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="9fu5cWbGv1LvVt" tvg-chno="87" group-title="famelack (br) [br] [False]" tvg-logo="", TV Sul de Minas
+#EXTINF:0001 tvg-id="9fu5cWbGv1LvVt" tvg-chno="88" group-title="famelack (br) [br] [False]" tvg-logo="", TV Sul de Minas
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-#EXTINF:0001 tvg-id="RR1JUgMyYIDOOG" tvg-chno="88" group-title="famelack (br) [br] [False]" tvg-logo="", TV Terceiro Anjo
+#EXTINF:0001 tvg-id="RR1JUgMyYIDOOG" tvg-chno="89" group-title="famelack (br) [br] [False]" tvg-logo="", TV Terceiro Anjo
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
-#EXTINF:0001 tvg-id="HhUtzRJjCR6lUu" tvg-chno="89" group-title="famelack (br) [br] [False]" tvg-logo="", TV UFOP
+#EXTINF:0001 tvg-id="HhUtzRJjCR6lUu" tvg-chno="90" group-title="famelack (br) [br] [False]" tvg-logo="", TV UFOP
 https://app.tvufop.com.br/hls/tvufop.m3u8
-#EXTINF:0001 tvg-id="gCVJcKLK6bSl2b" tvg-chno="90" group-title="famelack (br) [br] [False]" tvg-logo="", TV Universal
+#EXTINF:0001 tvg-id="gCVJcKLK6bSl2b" tvg-chno="91" group-title="famelack (br) [br] [False]" tvg-logo="", TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="N95AOZ9ohWI6WG" tvg-chno="91" group-title="famelack (br) [br] [False]" tvg-logo="", TV Vicosa
+#EXTINF:0001 tvg-id="N95AOZ9ohWI6WG" tvg-chno="92" group-title="famelack (br) [br] [False]" tvg-logo="", TV Vicosa
 https://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="Usf2BltRW6eJ5I" tvg-chno="92" group-title="famelack (br) [br] [False]" tvg-logo="", TV Vila Real
+#EXTINF:0001 tvg-id="Usf2BltRW6eJ5I" tvg-chno="93" group-title="famelack (br) [br] [False]" tvg-logo="", TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:0001 tvg-id="cq3PWw1jPUEwbQ" tvg-chno="93" group-title="famelack (br) [br] [False]" tvg-logo="", TV Zoom
+#EXTINF:0001 tvg-id="cq3PWw1jPUEwbQ" tvg-chno="94" group-title="famelack (br) [br] [False]" tvg-logo="", TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:0001 tvg-id="zBjyTtvDBTgspi" tvg-chno="94" group-title="famelack (br) [br] [False]" tvg-logo="", TVC-Rio
+#EXTINF:0001 tvg-id="zBjyTtvDBTgspi" tvg-chno="95" group-title="famelack (br) [br] [False]" tvg-logo="", TVC-Rio
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
-#EXTINF:0001 tvg-id="UnzV9n8PzA8nFp" tvg-chno="95" group-title="famelack (br) [br] [False]" tvg-logo="", TVCOM Maceio
+#EXTINF:0001 tvg-id="UnzV9n8PzA8nFp" tvg-chno="96" group-title="famelack (br) [br] [False]" tvg-logo="", TVCOM Maceio
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-#EXTINF:0001 tvg-id="eTCuy4QKHtum76" tvg-chno="96" group-title="famelack (br) [br] [False]" tvg-logo="", TVE RS
+#EXTINF:0001 tvg-id="eTCuy4QKHtum76" tvg-chno="97" group-title="famelack (br) [br] [False]" tvg-logo="", TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
-#EXTINF:0001 tvg-id="PwSUtqNu2t8L9G" tvg-chno="97" group-title="famelack (br) [br] [False]" tvg-logo="", TVideoNews
+#EXTINF:0001 tvg-id="PwSUtqNu2t8L9G" tvg-chno="98" group-title="famelack (br) [br] [False]" tvg-logo="", TVideoNews
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:0001 tvg-id="a7CMXw0bn8ka0Y" tvg-chno="98" group-title="famelack (br) [br] [False]" tvg-logo="", TVitape
+#EXTINF:0001 tvg-id="a7CMXw0bn8ka0Y" tvg-chno="99" group-title="famelack (br) [br] [False]" tvg-logo="", TVitape
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:0001 tvg-id="XvuJoSDFPUMMIb" tvg-chno="99" group-title="famelack (br) [br] [False]" tvg-logo="", TVNBN
+#EXTINF:0001 tvg-id="XvuJoSDFPUMMIb" tvg-chno="100" group-title="famelack (br) [br] [False]" tvg-logo="", TVNBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:0001 tvg-id="ttXq8ZNg7RXMjI" tvg-chno="100" group-title="famelack (br) [br] [False]" tvg-logo="", UMA TV
+#EXTINF:0001 tvg-id="ttXq8ZNg7RXMjI" tvg-chno="101" group-title="famelack (br) [br] [False]" tvg-logo="", UMA TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="7UeLUueVRqvHR1" tvg-chno="101" group-title="famelack (br) [br] [False]" tvg-logo="", Unisul TV
+#EXTINF:0001 tvg-id="7UeLUueVRqvHR1" tvg-chno="102" group-title="famelack (br) [br] [False]" tvg-logo="", Unisul TV
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
