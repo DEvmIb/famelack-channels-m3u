@@ -21,13 +21,11 @@ https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:0001 tvg-id="TnYj2ZiJkibGxp" tvg-chno="11" group-title="famelack (ua) [ua] [True]" tvg-logo="", Suspilne. Sport
 https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
-#EXTINF:0001 tvg-id="Pqrkg7U9owFXx2" tvg-chno="12" group-title="famelack (ua) [ua] [False]" tvg-logo="", Telekanal RAI
-https://stream.rai.ua/rai/stream.m3u8
-#EXTINF:0001 tvg-id="KNtnaXZuhjC6uj" tvg-chno="13" group-title="famelack (ua) [ua] [False]" tvg-logo="", TIS TV
+#EXTINF:0001 tvg-id="KNtnaXZuhjC6uj" tvg-chno="12" group-title="famelack (ua) [ua] [False]" tvg-logo="", TIS TV
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
-#EXTINF:0001 tvg-id="WcoZqsaKguXix1" tvg-chno="14" group-title="famelack (ua) [ua] [False]" tvg-logo="", TUSO
+#EXTINF:0001 tvg-id="WcoZqsaKguXix1" tvg-chno="13" group-title="famelack (ua) [ua] [False]" tvg-logo="", TUSO
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
-#EXTINF:0001 tvg-id="TSbUr1OhqLkxuT" tvg-chno="15" group-title="famelack (ua) [ua] [False]" tvg-logo="", TVA
+#EXTINF:0001 tvg-id="TSbUr1OhqLkxuT" tvg-chno="14" group-title="famelack (ua) [ua] [False]" tvg-logo="", TVA
 https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="ZWMy6L1tUWrepR" tvg-chno="16" group-title="famelack (ua) [ua] [False]" tvg-logo="", Z
+#EXTINF:0001 tvg-id="ZWMy6L1tUWrepR" tvg-chno="15" group-title="famelack (ua) [ua] [False]" tvg-logo="", Z
 https://stream.ztv.zp.ua/hls/live.m3u8

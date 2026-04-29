@@ -27,8 +27,8 @@ https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8
 https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion
 #EXTINF:0001 tvg-id="KorxP0jgE3cFyZ" tvg-chno="14" group-title="famelack (py) [py] [False]" tvg-logo="", GO TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-#EXTINF:0001 tvg-id="GscXL8j6OKttHk" tvg-chno="15" group-title="famelack (py) [py] [False]" tvg-logo="", Latele
-https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:0001 tvg-id="8vX1XPEH9jNBSM" tvg-chno="15" group-title="famelack (py) [py] [False]" tvg-logo="", HEi Now
+https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 #EXTINF:0001 tvg-id="vCORrvB9khbwBn" tvg-chno="16" group-title="famelack (py) [py] [False]" tvg-logo="", Mega TV
 https://www.desde-paraguay.com/mega.m3u8
 #EXTINF:0001 tvg-id="ksZqh8hqVd6zjZ" tvg-chno="17" group-title="famelack (py) [py] [False]" tvg-logo="", MiTV
@@ -37,49 +37,41 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 #EXTINF:0001 tvg-id="KiwbZFxfIOXSsb" tvg-chno="19" group-title="famelack (py) [py] [False]" tvg-logo="", Nande Portetepe TV
 https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
-#EXTINF:0001 tvg-id="wJRs4rnzQYYV7u" tvg-chno="20" group-title="famelack (py) [py] [False]" tvg-logo="", Nandejara Ne'e TV
-https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
-#EXTINF:0001 tvg-id="KKXSDc79SjuRMG" tvg-chno="21" group-title="famelack (py) [py] [False]" tvg-logo="", Nanduti
+#EXTINF:0001 tvg-id="KKXSDc79SjuRMG" tvg-chno="20" group-title="famelack (py) [py] [False]" tvg-logo="", Nanduti
 https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8
-#EXTINF:0001 tvg-id="7RybIRrll1cJpa" tvg-chno="22" group-title="famelack (py) [py] [False]" tvg-logo="", NPY
-https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:0001 tvg-id="VI1f12kgFZ6WBR" tvg-chno="23" group-title="famelack (py) [py] [False]" tvg-logo="", Oasis TV
+#EXTINF:0001 tvg-id="VI1f12kgFZ6WBR" tvg-chno="21" group-title="famelack (py) [py] [False]" tvg-logo="", Oasis TV
 https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-#EXTINF:0001 tvg-id="BIxYEYuD3nW89V" tvg-chno="24" group-title="famelack (py) [py] [False]" tvg-logo="", Obedira TV
+#EXTINF:0001 tvg-id="BIxYEYuD3nW89V" tvg-chno="22" group-title="famelack (py) [py] [False]" tvg-logo="", Obedira TV
 https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8
-#EXTINF:0001 tvg-id="zFyIVU3GskBml9" tvg-chno="25" group-title="famelack (py) [py] [False]" tvg-logo="", Occidental TV
+#EXTINF:0001 tvg-id="zFyIVU3GskBml9" tvg-chno="23" group-title="famelack (py) [py] [False]" tvg-logo="", Occidental TV
 https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
-#EXTINF:0001 tvg-id="HxsHxTV92v3WvN" tvg-chno="26" group-title="famelack (py) [py] [False]" tvg-logo="", Oviedo TV
+#EXTINF:0001 tvg-id="HxsHxTV92v3WvN" tvg-chno="24" group-title="famelack (py) [py] [False]" tvg-logo="", Oviedo TV
 https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-#EXTINF:0001 tvg-id="2BUOGme9iVm1bq" tvg-chno="27" group-title="famelack (py) [py] [False]" tvg-logo="", Popu TV
+#EXTINF:0001 tvg-id="2BUOGme9iVm1bq" tvg-chno="25" group-title="famelack (py) [py] [False]" tvg-logo="", Popu TV
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:0001 tvg-id="IwiHkBn6cit4Xp" tvg-chno="28" group-title="famelack (py) [py] [False]" tvg-logo="", Radio Ciudad 98.9 FM TV
-https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8
-#EXTINF:0001 tvg-id="Oy0RzzLMHXV3WJ" tvg-chno="29" group-title="famelack (py) [py] [False]" tvg-logo="", Radio San Cristobal 88.7 FM
+#EXTINF:0001 tvg-id="Oy0RzzLMHXV3WJ" tvg-chno="26" group-title="famelack (py) [py] [False]" tvg-logo="", Radio San Cristobal 88.7 FM
 https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
-#EXTINF:0001 tvg-id="TeqRUHz0t6Kdc6" tvg-chno="30" group-title="famelack (py) [py] [False]" tvg-logo="", Radio TV El Arca del Pacto
+#EXTINF:0001 tvg-id="TeqRUHz0t6Kdc6" tvg-chno="27" group-title="famelack (py) [py] [False]" tvg-logo="", Radio TV El Arca del Pacto
 https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
-#EXTINF:0001 tvg-id="dLi3714dJiy1F0" tvg-chno="31" group-title="famelack (py) [py] [False]" tvg-logo="", RCC TV
-https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
-#EXTINF:0001 tvg-id="ERBtwPcBChyLTj" tvg-chno="32" group-title="famelack (py) [py] [False]" tvg-logo="", Red Digital
+#EXTINF:0001 tvg-id="ERBtwPcBChyLTj" tvg-chno="28" group-title="famelack (py) [py] [False]" tvg-logo="", Red Digital
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
-#EXTINF:0001 tvg-id="3UsrfCo6SJ3Ltz" tvg-chno="33" group-title="famelack (py) [py] [False]" tvg-logo="", Red Interior TV
+#EXTINF:0001 tvg-id="3UsrfCo6SJ3Ltz" tvg-chno="29" group-title="famelack (py) [py] [False]" tvg-logo="", Red Interior TV
 https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
-#EXTINF:0001 tvg-id="XcPehwc2847FMp" tvg-chno="34" group-title="famelack (py) [py] [False]" tvg-logo="", Regional TV Yaguaron
+#EXTINF:0001 tvg-id="XcPehwc2847FMp" tvg-chno="30" group-title="famelack (py) [py] [False]" tvg-logo="", Regional TV Yaguaron
 https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
-#EXTINF:0001 tvg-id="Bh84z57kxBjP95" tvg-chno="35" group-title="famelack (py) [py] [False]" tvg-logo="", Republica TV
+#EXTINF:0001 tvg-id="Bh84z57kxBjP95" tvg-chno="31" group-title="famelack (py) [py] [False]" tvg-logo="", Republica TV
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
-#EXTINF:0001 tvg-id="ZvkiWYEeuwp6wf" tvg-chno="36" group-title="famelack (py) [py] [False]" tvg-logo="", Suceso TV
+#EXTINF:0001 tvg-id="ZvkiWYEeuwp6wf" tvg-chno="32" group-title="famelack (py) [py] [False]" tvg-logo="", Suceso TV
 https://live.enhdtv.com:8081/8060/index.m3u8
-#EXTINF:0001 tvg-id="ZeeVONu1t8gGrx" tvg-chno="37" group-title="famelack (py) [py] [False]" tvg-logo="", Telequince
+#EXTINF:0001 tvg-id="ZeeVONu1t8gGrx" tvg-chno="33" group-title="famelack (py) [py] [False]" tvg-logo="", Telequince
 https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8
-#EXTINF:0001 tvg-id="cwbcfkhV6RVquj" tvg-chno="38" group-title="famelack (py) [py] [False]" tvg-logo="", TV Aire
+#EXTINF:0001 tvg-id="cwbcfkhV6RVquj" tvg-chno="34" group-title="famelack (py) [py] [False]" tvg-logo="", TV Aire
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
-#EXTINF:0001 tvg-id="1z2nJHij72nN8A" tvg-chno="39" group-title="famelack (py) [py] [False]" tvg-logo="", TV Canindeyu
+#EXTINF:0001 tvg-id="1z2nJHij72nN8A" tvg-chno="35" group-title="famelack (py) [py] [False]" tvg-logo="", TV Canindeyu
 https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
-#EXTINF:0001 tvg-id="T8h23OPq9dfwrV" tvg-chno="40" group-title="famelack (py) [py] [False]" tvg-logo="", Union TV
+#EXTINF:0001 tvg-id="T8h23OPq9dfwrV" tvg-chno="36" group-title="famelack (py) [py] [False]" tvg-logo="", Union TV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-#EXTINF:0001 tvg-id="nx1oFHhjhBuFCV" tvg-chno="41" group-title="famelack (py) [py] [False]" tvg-logo="", UniRadio TV
+#EXTINF:0001 tvg-id="nx1oFHhjhBuFCV" tvg-chno="37" group-title="famelack (py) [py] [False]" tvg-logo="", UniRadio TV
 https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
-#EXTINF:0001 tvg-id="9Ihh2szFUbQs2q" tvg-chno="42" group-title="famelack (py) [py] [False]" tvg-logo="", Villa Elisa Radio TV
+#EXTINF:0001 tvg-id="9Ihh2szFUbQs2q" tvg-chno="38" group-title="famelack (py) [py] [False]" tvg-logo="", Villa Elisa Radio TV
 https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion

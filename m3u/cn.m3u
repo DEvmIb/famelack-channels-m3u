@@ -93,8 +93,8 @@ https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:0001 tvg-id="UKPg4OIuLFiPtH" tvg-chno="47" group-title="famelack (cn) [cn] [True]" tvg-logo="", 松原新闻综合
 https://stream2.jlntv.cn/sytv/sd/live.m3u8
-#EXTINF:0001 tvg-id="THg2ymDAp3wTLF" tvg-chno="48" group-title="famelack (cn) [cn] [False]" tvg-logo="", 河源综合
-https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:0001 tvg-id="2D80wABwXq6SL0" tvg-chno="48" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江 I 绍兴影视
+https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 #EXTINF:0001 tvg-id="tWjSdo4t72dhtd" tvg-chno="49" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江 I 绍兴综合
 https://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 #EXTINF:0001 tvg-id="q3imX08R99F529" tvg-chno="50" group-title="famelack (cn) [cn] [False]" tvg-logo="", 浙江国际

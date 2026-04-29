@@ -11,8 +11,8 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 #EXTINF:0001 tvg-id="5Hkd3G2uCyMEyH" tvg-chno="6" group-title="famelack (ee) [ee] [False]" tvg-logo="", DanceTV Techno Warehouse
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
-#EXTINF:0001 tvg-id="FYDzTh0N4duFas" tvg-chno="7" group-title="famelack (ee) [ee] [False]" tvg-logo="", ETV
-https://sb.err.ee/live/etv.m3u8
+#EXTINF:0001 tvg-id="w1TyAWzZva88k1" tvg-chno="7" group-title="famelack (ee) [ee] [False]" tvg-logo="", ETV 2
+https://sb.err.ee/live/etv2.m3u8
 #EXTINF:0001 tvg-id="SY6JGWv0oWKy6h" tvg-chno="8" group-title="famelack (ee) [ee] [False]" tvg-logo="", Life TV
 https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:0001 tvg-id="FP0DHXJTw0LYfi" tvg-chno="9" group-title="famelack (ee) [ee] [False]" tvg-logo="", Riigikogu
