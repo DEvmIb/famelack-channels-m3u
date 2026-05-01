@@ -17,9 +17,11 @@ https://master.tucableip.com/redtvshop/index.m3u8
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:0001 tvg-id="JLRlLiosJOhAzH" tvg-chno="9" group-title="famelack (bo) [bo] [False]" tvg-logo="", UMSA TVU Internacional
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="igJmo5J6YhgXmV" tvg-chno="10" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unifranz
-https://live.enhdtv.com:8081/8192/index.m3u8
-#EXTINF:0001 tvg-id="9u6WNgsEYDn11w" tvg-chno="11" group-title="famelack (bo) [bo] [False]" tvg-logo="", Univalle Television
-https://master.tucableip.com/univalletv/playlist.m3u8
+#EXTINF:0001 tvg-id="fcllzx7ENtLcnw" tvg-chno="10" group-title="famelack (bo) [bo] [False]" tvg-logo="", UMSA TVU LP
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="T3D6a3NyVvl2H9" tvg-chno="11" group-title="famelack (bo) [bo] [False]" tvg-logo="", UniversidadMayordeSanAndres
+https://live.enhdtv.com:8081/8190/index.m3u8
 #EXTINF:0001 tvg-id="GMFO5ANQ5nEa2e" tvg-chno="12" group-title="famelack (bo) [bo] [False]" tvg-logo="", UPEA TV
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+#EXTINF:0001 tvg-id="bXD4q6ffj1GZXZ" tvg-chno="13" group-title="famelack (bo) [bo] [False]" tvg-logo="", VTV Canal 17
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8

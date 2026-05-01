@@ -7,14 +7,14 @@ https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 #EXTINF:0001 tvg-id="Gg9cAjQw6QXEKr" tvg-chno="4" group-title="famelack (co) [co] [False]" tvg-logo="", BUM Television
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:0001 tvg-id="oSdd0QQnxFVsc5" tvg-chno="5" group-title="famelack (co) [co] [False]" tvg-logo="", CaliTV
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:0001 tvg-id="G9r4ymgFpyAcFs" tvg-chno="6" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 2 Alpavision Neiva
+#EXTINF:0001 tvg-id="G9r4ymgFpyAcFs" tvg-chno="5" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 2 Alpavision Neiva
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:0001 tvg-id="WwkDGrZMJxcaPL" tvg-chno="7" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 8 TV+
+#EXTINF:0001 tvg-id="WwkDGrZMJxcaPL" tvg-chno="6" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 8 TV+
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:0001 tvg-id="s64BgUfTafeYF2" tvg-chno="8" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 14 Codazzi
+#EXTINF:0001 tvg-id="s64BgUfTafeYF2" tvg-chno="7" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 14 Codazzi
 https://eu1.servers10.com:8081/8056/index.m3u8
+#EXTINF:0001 tvg-id="dIQhSN2tH9x7qG" tvg-chno="8" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 55 Telemorisco TV
+https://canal.mediaserver.com.co/live/telemorisco.m3u8
 #EXTINF:0001 tvg-id="4tOQsHNAnrUk50" tvg-chno="9" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Calima TV
 https://movil.ejeserver.com/live/calimatv.m3u8
 #EXTINF:0001 tvg-id="nZ3VlBbXU9SC9N" tvg-chno="10" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Institucional
@@ -121,3 +121,5 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 https://asucap.com/livestream/asucap_envivo.m3u8
 #EXTINF:0001 tvg-id="s1gW58b5trEZhx" tvg-chno="61" group-title="famelack (co) [co] [False]" tvg-logo="", Ultra Casanare TV
 https://eu1.servers10.com:8081/8072/index.m3u8
+#EXTINF:0001 tvg-id="lOEoXHnp8Sj0dx" tvg-chno="62" group-title="famelack (co) [co] [False]" tvg-logo="", UMC TV
+https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8

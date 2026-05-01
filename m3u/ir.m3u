@@ -43,125 +43,133 @@ https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
 https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
 #EXTINF:0001 tvg-id="yfslif1KmKHSGS" tvg-chno="22" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Drama
 https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
-#EXTINF:0001 tvg-id="SOotUeCwjiyN0g" tvg-chno="23" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Film
+#EXTINF:0001 tvg-id="j2UxLyZK3bVit1" tvg-chno="23" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Drama +
+https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202
+#EXTINF:0001 tvg-id="SOotUeCwjiyN0g" tvg-chno="24" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Film
 https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202
-#EXTINF:0001 tvg-id="NiVgCy0mmGxAMD" tvg-chno="24" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Life
+#EXTINF:0001 tvg-id="NiVgCy0mmGxAMD" tvg-chno="25" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Life
 https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
-#EXTINF:0001 tvg-id="kKremBL5h6Xu9h" tvg-chno="25" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Mifa
+#EXTINF:0001 tvg-id="kKremBL5h6Xu9h" tvg-chno="26" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Mifa
 https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
-#EXTINF:0001 tvg-id="r2MvNOrMG4ApNg" tvg-chno="26" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Mifa +
+#EXTINF:0001 tvg-id="r2MvNOrMG4ApNg" tvg-chno="27" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Mifa +
 https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
-#EXTINF:0001 tvg-id="xIRyeY536kkKQd" tvg-chno="27" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Nature
+#EXTINF:0001 tvg-id="xIRyeY536kkKQd" tvg-chno="28" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Nature
 https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
-#EXTINF:0001 tvg-id="QCb8mMbBKkmfSE" tvg-chno="28" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Pixel
+#EXTINF:0001 tvg-id="EkUJy9ZWKl64v0" tvg-chno="29" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Onyx
+https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
+#EXTINF:0001 tvg-id="QCb8mMbBKkmfSE" tvg-chno="30" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Pixel
 https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
-#EXTINF:0001 tvg-id="kLHHUDsRYmlBPL" tvg-chno="29" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Series
+#EXTINF:0001 tvg-id="mq7Qzxdrc6QS0N" tvg-chno="31" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM River +
+https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202
+#EXTINF:0001 tvg-id="OVDUiZGyxtXYXz" tvg-chno="32" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Rubix +
+https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202
+#EXTINF:0001 tvg-id="kLHHUDsRYmlBPL" tvg-chno="33" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Series
 https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
-#EXTINF:0001 tvg-id="Jw404M5EjXQCzL" tvg-chno="30" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Series +
+#EXTINF:0001 tvg-id="Jw404M5EjXQCzL" tvg-chno="34" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Series +
 https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
-#EXTINF:0001 tvg-id="4gzjBAwp9jxpT3" tvg-chno="31" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM TV +
+#EXTINF:0001 tvg-id="4gzjBAwp9jxpT3" tvg-chno="35" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM TV +
 https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202
-#EXTINF:0001 tvg-id="c6W4AcGWKSc8qs" tvg-chno="32" group-title="famelack (ir) [ir] [False]" tvg-logo="", Gold Star
+#EXTINF:0001 tvg-id="c6W4AcGWKSc8qs" tvg-chno="36" group-title="famelack (ir) [ir] [False]" tvg-logo="", Gold Star
 https://moviethls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="A3MFn4yUihk4dh" tvg-chno="33" group-title="famelack (ir) [ir] [False]" tvg-logo="", Grand Cinema
+#EXTINF:0001 tvg-id="A3MFn4yUihk4dh" tvg-chno="37" group-title="famelack (ir) [ir] [False]" tvg-logo="", Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="3IdSqyUsjeV7nB" tvg-chno="34" group-title="famelack (ir) [ir] [False]" tvg-logo="", ICC plus
+#EXTINF:0001 tvg-id="3IdSqyUsjeV7nB" tvg-chno="38" group-title="famelack (ir) [ir] [False]" tvg-logo="", ICC plus
 https://icchls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="PdKuN3BQgxSz80" tvg-chno="35" group-title="famelack (ir) [ir] [False]" tvg-logo="", ICnet 2
+#EXTINF:0001 tvg-id="PdKuN3BQgxSz80" tvg-chno="39" group-title="famelack (ir) [ir] [False]" tvg-logo="", ICnet 2
 https://icnet2hls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="ZkSJuMrIZoal1s" tvg-chno="36" group-title="famelack (ir) [ir] [False]" tvg-logo="", icnet 3
+#EXTINF:0001 tvg-id="ZkSJuMrIZoal1s" tvg-chno="40" group-title="famelack (ir) [ir] [False]" tvg-logo="", icnet 3
 https://ic3hls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="HW3VPKyt6mpMGb" tvg-chno="37" group-title="famelack (ir) [ir] [False]" tvg-logo="", iFilm 2
+#EXTINF:0001 tvg-id="HW3VPKyt6mpMGb" tvg-chno="41" group-title="famelack (ir) [ir] [False]" tvg-logo="", iFilm 2
 https://live.presstv.ir/hls/ifilm2.m3u8
-#EXTINF:0001 tvg-id="FThMLWk2PqeTHZ" tvg-chno="38" group-title="famelack (ir) [ir] [False]" tvg-logo="", iFilm Arabic
+#EXTINF:0001 tvg-id="FThMLWk2PqeTHZ" tvg-chno="42" group-title="famelack (ir) [ir] [False]" tvg-logo="", iFilm Arabic
 https://live.presstv.ir/hls/ifilmar.m3u8
-#EXTINF:0001 tvg-id="ELGjlFyEtfJ19e" tvg-chno="39" group-title="famelack (ir) [ir] [False]" tvg-logo="", iFilm English
+#EXTINF:0001 tvg-id="ELGjlFyEtfJ19e" tvg-chno="43" group-title="famelack (ir) [ir] [False]" tvg-logo="", iFilm English
 https://live.presstv.ir/hls/ifilmen.m3u8
-#EXTINF:0001 tvg-id="g3vaXRs7MKcSOW" tvg-chno="40" group-title="famelack (ir) [ir] [False]" tvg-logo="", iFilm Persian
+#EXTINF:0001 tvg-id="g3vaXRs7MKcSOW" tvg-chno="44" group-title="famelack (ir) [ir] [False]" tvg-logo="", iFilm Persian
 https://live.presstv.ir/hls/ifilmfa.m3u8
-#EXTINF:0001 tvg-id="R9FnmV2MnrJvNR" tvg-chno="41" group-title="famelack (ir) [ir] [False]" tvg-logo="", Iran Nama
+#EXTINF:0001 tvg-id="R9FnmV2MnrJvNR" tvg-chno="45" group-title="famelack (ir) [ir] [False]" tvg-logo="", Iran Nama
 https://iran613hls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="bO295QluU8GdVM" tvg-chno="42" group-title="famelack (ir) [ir] [False]" tvg-logo="", Iran National Revolution TV
+#EXTINF:0001 tvg-id="bO295QluU8GdVM" tvg-chno="46" group-title="famelack (ir) [ir] [False]" tvg-logo="", Iran National Revolution TV
 https://hls.irannrtv.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="WqlviZN2uXxQxE" tvg-chno="43" group-title="famelack (ir) [ir] [False]" tvg-logo="", Iran Press
+#EXTINF:0001 tvg-id="WqlviZN2uXxQxE" tvg-chno="47" group-title="famelack (ir) [ir] [False]" tvg-logo="", Iran Press
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:0001 tvg-id="yZ6BTpbezMPkEI" tvg-chno="44" group-title="famelack (ir) [ir] [False]" tvg-logo="", Khabarbin TV
+#EXTINF:0001 tvg-id="yZ6BTpbezMPkEI" tvg-chno="48" group-title="famelack (ir) [ir] [False]" tvg-logo="", Khabarbin TV
 https://khbhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="1h3TgefRfR3aSM" tvg-chno="45" group-title="famelack (ir) [ir] [False]" tvg-logo="", Maah TV
+#EXTINF:0001 tvg-id="1h3TgefRfR3aSM" tvg-chno="49" group-title="famelack (ir) [ir] [False]" tvg-logo="", Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="fdBcgQ5GuYU5TW" tvg-chno="46" group-title="famelack (ir) [ir] [False]" tvg-logo="", Manoto
+#EXTINF:0001 tvg-id="fdBcgQ5GuYU5TW" tvg-chno="50" group-title="famelack (ir) [ir] [False]" tvg-logo="", Manoto
 https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
-#EXTINF:0001 tvg-id="r3pcMeCTNiXCm8" tvg-chno="47" group-title="famelack (ir) [ir] [False]" tvg-logo="", Meta Film TV
+#EXTINF:0001 tvg-id="r3pcMeCTNiXCm8" tvg-chno="51" group-title="famelack (ir) [ir] [False]" tvg-logo="", Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="mOhUb3tHaXu2I9" tvg-chno="48" group-title="famelack (ir) [ir] [False]" tvg-logo="", Mihan TV
+#EXTINF:0001 tvg-id="mOhUb3tHaXu2I9" tvg-chno="52" group-title="famelack (ir) [ir] [False]" tvg-logo="", Mihan TV
 https://iptv.mihantv.com/mihantv/playlist.m3u8
-#EXTINF:0001 tvg-id="mYoBudQll8V8v1" tvg-chno="49" group-title="famelack (ir) [ir] [False]" tvg-logo="", Mohabat TV
+#EXTINF:0001 tvg-id="mYoBudQll8V8v1" tvg-chno="53" group-title="famelack (ir) [ir] [False]" tvg-logo="", Mohabat TV
 https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:0001 tvg-id="2NOtI7fQ0BMhTi" tvg-chno="50" group-title="famelack (ir) [ir] [False]" tvg-logo="", National Iranian Congress TV
+#EXTINF:0001 tvg-id="2NOtI7fQ0BMhTi" tvg-chno="54" group-title="famelack (ir) [ir] [False]" tvg-logo="", National Iranian Congress TV
 https://tv.iraniancongress.com/stream/tv.m3u8
-#EXTINF:0001 tvg-id="RYW8cokw1YUAPH" tvg-chno="51" group-title="famelack (ir) [ir] [False]" tvg-logo="", NewFlix
+#EXTINF:0001 tvg-id="RYW8cokw1YUAPH" tvg-chno="55" group-title="famelack (ir) [ir] [False]" tvg-logo="", NewFlix
 https://newfhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="Hq5kvgoL2uBOds" tvg-chno="52" group-title="famelack (ir) [ir] [False]" tvg-logo="", OXIR TV
+#EXTINF:0001 tvg-id="Hq5kvgoL2uBOds" tvg-chno="56" group-title="famelack (ir) [ir] [False]" tvg-logo="", OXIR TV
 https://hls.oxir.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="G9AYfGVY8dfNSq" tvg-chno="53" group-title="famelack (ir) [ir] [False]" tvg-logo="", Payvand TV
+#EXTINF:0001 tvg-id="G9AYfGVY8dfNSq" tvg-chno="57" group-title="famelack (ir) [ir] [False]" tvg-logo="", Payvand TV
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
-#EXTINF:0001 tvg-id="6Tz1v2Gda1zHcO" tvg-chno="54" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Cinema
+#EXTINF:0001 tvg-id="6Tz1v2Gda1zHcO" tvg-chno="58" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="pjKu0XmbXTkJlc" tvg-chno="55" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Comedy
+#EXTINF:0001 tvg-id="pjKu0XmbXTkJlc" tvg-chno="59" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="6nVDnHEbOf1hio" tvg-chno="56" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Docs
+#EXTINF:0001 tvg-id="6nVDnHEbOf1hio" tvg-chno="60" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Docs
 https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="Le8JNyyzvdvGX9" tvg-chno="57" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Family
+#EXTINF:0001 tvg-id="Le8JNyyzvdvGX9" tvg-chno="61" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="T0WISoye0VXycS" tvg-chno="58" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Fight
+#EXTINF:0001 tvg-id="T0WISoye0VXycS" tvg-chno="62" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="BKwwWetfO9R72v" tvg-chno="59" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Folk
+#EXTINF:0001 tvg-id="BKwwWetfO9R72v" tvg-chno="63" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Folk
 https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="UwXUhaGhsJsbJY" tvg-chno="60" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Iranian
+#EXTINF:0001 tvg-id="UwXUhaGhsJsbJY" tvg-chno="64" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Iranian
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="58RSnZgHiw5v1T" tvg-chno="61" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Junior
+#EXTINF:0001 tvg-id="58RSnZgHiw5v1T" tvg-chno="65" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="QNDhisv50dVPjl" tvg-chno="62" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Korea
+#EXTINF:0001 tvg-id="QNDhisv50dVPjl" tvg-chno="66" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="fcecLpv40jkIKK" tvg-chno="63" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Latino
+#EXTINF:0001 tvg-id="fcecLpv40jkIKK" tvg-chno="67" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Latino
 https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="plcbFbhZX5D3nx" tvg-chno="64" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Medical
+#EXTINF:0001 tvg-id="plcbFbhZX5D3nx" tvg-chno="68" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Medical
 https://phd2hls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="eCX0RwFfFIFc73" tvg-chno="65" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Nostalgia
+#EXTINF:0001 tvg-id="eCX0RwFfFIFc73" tvg-chno="69" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="p3UIBhQreTrSmL" tvg-chno="66" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Plus
+#EXTINF:0001 tvg-id="p3UIBhQreTrSmL" tvg-chno="70" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Plus
 https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="pyxg7WrXUVQ7nj" tvg-chno="67" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Series
+#EXTINF:0001 tvg-id="pyxg7WrXUVQ7nj" tvg-chno="71" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="1awQzLMKT020rN" tvg-chno="68" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Teen
+#EXTINF:0001 tvg-id="1awQzLMKT020rN" tvg-chno="72" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Teen
 https://kphls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="gEeVOh2cSKdMiu" tvg-chno="69" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Travel
+#EXTINF:0001 tvg-id="gEeVOh2cSKdMiu" tvg-chno="73" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Travel
 https://mardomhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="pGp24DvGOMHEiZ" tvg-chno="70" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Turkiye
+#EXTINF:0001 tvg-id="pGp24DvGOMHEiZ" tvg-chno="74" group-title="famelack (ir) [ir] [False]" tvg-logo="", Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="Z0k0qEYEWnFz7F" tvg-chno="71" group-title="famelack (ir) [ir] [False]" tvg-logo="", Press TV
+#EXTINF:0001 tvg-id="Z0k0qEYEWnFz7F" tvg-chno="75" group-title="famelack (ir) [ir] [False]" tvg-logo="", Press TV
 https://live.presstv.ir/hls/presstv.m3u8
-#EXTINF:0001 tvg-id="xRGq4FvGDTWgUJ" tvg-chno="72" group-title="famelack (ir) [ir] [False]" tvg-logo="", RasoulallahTv
+#EXTINF:0001 tvg-id="xRGq4FvGDTWgUJ" tvg-chno="76" group-title="famelack (ir) [ir] [False]" tvg-logo="", RasoulallahTv
 https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
-#EXTINF:0001 tvg-id="UxlWXKU576oMex" tvg-chno="73" group-title="famelack (ir) [ir] [False]" tvg-logo="", RJTV
+#EXTINF:0001 tvg-id="UxlWXKU576oMex" tvg-chno="77" group-title="famelack (ir) [ir] [False]" tvg-logo="", RJTV
 https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="8ASIayZG97M5CC" tvg-chno="74" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 1
+#EXTINF:0001 tvg-id="8ASIayZG97M5CC" tvg-chno="78" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 1
 https://slonehls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="917SD3APUmI0IC" tvg-chno="75" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 2
+#EXTINF:0001 tvg-id="917SD3APUmI0IC" tvg-chno="79" group-title="famelack (ir) [ir] [False]" tvg-logo="", SL 2
 https://sltwohls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="XuWfe4a08uRwNd" tvg-chno="76" group-title="famelack (ir) [ir] [False]" tvg-logo="", T2 Movies
+#EXTINF:0001 tvg-id="XuWfe4a08uRwNd" tvg-chno="80" group-title="famelack (ir) [ir] [False]" tvg-logo="", T2 Movies
 https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
-#EXTINF:0001 tvg-id="cu7YGaPAVwkgGg" tvg-chno="77" group-title="famelack (ir) [ir] [False]" tvg-logo="", T2 TV
+#EXTINF:0001 tvg-id="cu7YGaPAVwkgGg" tvg-chno="81" group-title="famelack (ir) [ir] [False]" tvg-logo="", T2 TV
 https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="twF2oDz7S9EOtz" tvg-chno="78" group-title="famelack (ir) [ir] [False]" tvg-logo="", TBN Nejat TV
+#EXTINF:0001 tvg-id="twF2oDz7S9EOtz" tvg-chno="82" group-title="famelack (ir) [ir] [False]" tvg-logo="", TBN Nejat TV
 https://hls.nejat.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="ME0BNcj7isVnrR" tvg-chno="79" group-title="famelack (ir) [ir] [False]" tvg-logo="", TM TV
+#EXTINF:0001 tvg-id="ME0BNcj7isVnrR" tvg-chno="83" group-title="famelack (ir) [ir] [False]" tvg-logo="", TM TV
 https://hls.tmtv.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="PDYUVQOORGvET6" tvg-chno="80" group-title="famelack (ir) [ir] [False]" tvg-logo="", TV ITN
+#EXTINF:0001 tvg-id="PDYUVQOORGvET6" tvg-chno="84" group-title="famelack (ir) [ir] [False]" tvg-logo="", TV ITN
 https://itnhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="gNhOgT2v5bREO2" tvg-chno="81" group-title="famelack (ir) [ir] [False]" tvg-logo="", VOX1
+#EXTINF:0001 tvg-id="gNhOgT2v5bREO2" tvg-chno="85" group-title="famelack (ir) [ir] [False]" tvg-logo="", VOX1
 https://hls.vox1.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="hukeqny6nOwPuT" tvg-chno="82" group-title="famelack (ir) [ir] [False]" tvg-logo="", WiseHumanTv
+#EXTINF:0001 tvg-id="hukeqny6nOwPuT" tvg-chno="86" group-title="famelack (ir) [ir] [False]" tvg-logo="", WiseHumanTv
 https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
-#EXTINF:0001 tvg-id="sufBrIYaOUMBHf" tvg-chno="83" group-title="famelack (ir) [ir] [False]" tvg-logo="", Zed TV
+#EXTINF:0001 tvg-id="sufBrIYaOUMBHf" tvg-chno="87" group-title="famelack (ir) [ir] [False]" tvg-logo="", Zed TV
 https://zedhls.wns.live/hls/stream.m3u8
