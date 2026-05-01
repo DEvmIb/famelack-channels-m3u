@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="440EBhNILeBYuU" tvg-chno="1" group-title="famelack (tj) [tj] [False]" tvg-logo="", Futbol
-https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:0001 tvg-id="RT0JEyafMJmHcV" tvg-chno="2" group-title="famelack (tj) [tj] [False]" tvg-logo="", Jahonnamo
-https://live.teleradiocom.tj/4/3m.m3u8
-#EXTINF:0001 tvg-id="RAthqT63xOqzQc" tvg-chno="3" group-title="famelack (tj) [tj] [False]" tvg-logo="", TV Sinamo
-https://live.teleradiocom.tj/6/3m.m3u8
+#EXTINF:0001 tvg-id="Ii5lz7MUdFsm2f" tvg-chno="1" group-title="famelack (tj) [tj] [False]" tvg-logo="", Badakhshon
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:0001 tvg-id="GqXXOFod3ywbyV" tvg-chno="2" group-title="famelack (tj) [tj] [False]" tvg-logo="", Khatlon
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:0001 tvg-id="P4B1vZV4yfBcQ2" tvg-chno="3" group-title="famelack (tj) [tj] [False]" tvg-logo="", Tojikiston
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:0001 tvg-id="V4jGt9xEkE4lxd" tvg-chno="4" group-title="famelack (tj) [tj] [False]" tvg-logo="", TV Safina
+https://live.teleradiocom.tj/2/3m.m3u8

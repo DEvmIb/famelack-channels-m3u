@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="0y6A0PfJfOwnxT" tvg-chno="1" group-title="famelack (jp) [jp] [False]" tvg-logo="", CGNTV Japan
+#EXTINF:0001 tvg-id="er9g2gU6CcPeIA" tvg-chno="1" group-title="famelack (jp) [jp] [False]" tvg-logo="", Animax
+https://nl.utako.moe/Animax/index.m3u8
+#EXTINF:0001 tvg-id="0y6A0PfJfOwnxT" tvg-chno="2" group-title="famelack (jp) [jp] [False]" tvg-logo="", CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:0001 tvg-id="bt1m1v4h1CmExI" tvg-chno="2" group-title="famelack (jp) [jp] [True]" tvg-logo="", NHK World-Japan
+#EXTINF:0001 tvg-id="bt1m1v4h1CmExI" tvg-chno="3" group-title="famelack (jp) [jp] [True]" tvg-logo="", NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:0001 tvg-id="VFHPY4Y8ToG3zS" tvg-chno="3" group-title="famelack (jp) [jp] [False]" tvg-logo="", Shop Channel
+#EXTINF:0001 tvg-id="VFHPY4Y8ToG3zS" tvg-chno="4" group-title="famelack (jp) [jp] [False]" tvg-logo="", Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8

@@ -23,30 +23,30 @@ https://live.obslivestream.com/conecta2/index.m3u8
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:0001 tvg-id="hHL0MOROCgmSKr" tvg-chno="12" group-title="famelack (pe) [pe] [False]" tvg-logo="", CR Television
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:0001 tvg-id="M8nsyNmz1k1pVX" tvg-chno="13" group-title="famelack (pe) [pe] [False]" tvg-logo="", Exitosa TV
+#EXTINF:0001 tvg-id="XzRqOxUzNRtPhH" tvg-chno="13" group-title="famelack (pe) [pe] [False]" tvg-logo="", ECO Television
+https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
+#EXTINF:0001 tvg-id="M8nsyNmz1k1pVX" tvg-chno="14" group-title="famelack (pe) [pe] [False]" tvg-logo="", Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
-#EXTINF:0001 tvg-id="qKV2RWLFM5rjJT" tvg-chno="14" group-title="famelack (pe) [pe] [False]" tvg-logo="", Impacto Television
+#EXTINF:0001 tvg-id="qKV2RWLFM5rjJT" tvg-chno="15" group-title="famelack (pe) [pe] [False]" tvg-logo="", Impacto Television
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:0001 tvg-id="8VadQ9bvVXyzrj" tvg-chno="15" group-title="famelack (pe) [pe] [False]" tvg-logo="", Intuitiva TV
+#EXTINF:0001 tvg-id="8VadQ9bvVXyzrj" tvg-chno="16" group-title="famelack (pe) [pe] [False]" tvg-logo="", Intuitiva TV
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:0001 tvg-id="UjSZg1tYKKZuy2" tvg-chno="16" group-title="famelack (pe) [pe] [False]" tvg-logo="", JN 19
+#EXTINF:0001 tvg-id="UjSZg1tYKKZuy2" tvg-chno="17" group-title="famelack (pe) [pe] [False]" tvg-logo="", JN 19
 https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:0001 tvg-id="3hbUF3ouea162A" tvg-chno="17" group-title="famelack (pe) [pe] [False]" tvg-logo="", La Fabulosa TV
+#EXTINF:0001 tvg-id="3hbUF3ouea162A" tvg-chno="18" group-title="famelack (pe) [pe] [False]" tvg-logo="", La Fabulosa TV
 https://eu1.servers10.com:8081/8004/index.m3u8
-#EXTINF:0001 tvg-id="qm7kjjw4XjKxtz" tvg-chno="18" group-title="famelack (pe) [pe] [False]" tvg-logo="", Mega TV Jaen
+#EXTINF:0001 tvg-id="qm7kjjw4XjKxtz" tvg-chno="19" group-title="famelack (pe) [pe] [False]" tvg-logo="", Mega TV Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-#EXTINF:0001 tvg-id="ZgK3gN33Rh7QOj" tvg-chno="19" group-title="famelack (pe) [pe] [False]" tvg-logo="", Miel TV
+#EXTINF:0001 tvg-id="ZgK3gN33Rh7QOj" tvg-chno="20" group-title="famelack (pe) [pe] [False]" tvg-logo="", Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:0001 tvg-id="UDdMtzxSFo4KG2" tvg-chno="20" group-title="famelack (pe) [pe] [False]" tvg-logo="", MO Channel
+#EXTINF:0001 tvg-id="UDdMtzxSFo4KG2" tvg-chno="21" group-title="famelack (pe) [pe] [False]" tvg-logo="", MO Channel
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
-#EXTINF:0001 tvg-id="mi7Zl9xYkTcqpw" tvg-chno="21" group-title="famelack (pe) [pe] [False]" tvg-logo="", Nativa TV Satipo
+#EXTINF:0001 tvg-id="mi7Zl9xYkTcqpw" tvg-chno="22" group-title="famelack (pe) [pe] [False]" tvg-logo="", Nativa TV Satipo
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:0001 tvg-id="zXicYaSu58NdOA" tvg-chno="22" group-title="famelack (pe) [pe] [False]" tvg-logo="", ONDA DIGITAL
+#EXTINF:0001 tvg-id="zXicYaSu58NdOA" tvg-chno="23" group-title="famelack (pe) [pe] [False]" tvg-logo="", ONDA DIGITAL
 https://tv.ondadigital.pe/ondadigital/index.m3u8
-#EXTINF:0001 tvg-id="ED9LIeqOxr36Iv" tvg-chno="23" group-title="famelack (pe) [pe] [False]" tvg-logo="", Ovacion TV
+#EXTINF:0001 tvg-id="ED9LIeqOxr36Iv" tvg-chno="24" group-title="famelack (pe) [pe] [False]" tvg-logo="", Ovacion TV
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:0001 tvg-id="rIUi7QauvvK3mU" tvg-chno="24" group-title="famelack (pe) [pe] [False]" tvg-logo="", Radio Master
-https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
 #EXTINF:0001 tvg-id="b7ZeRZC6NDPLni" tvg-chno="25" group-title="famelack (pe) [pe] [False]" tvg-logo="", Radio Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:0001 tvg-id="3Wu9MC7OO3N4Ss" tvg-chno="26" group-title="famelack (pe) [pe] [False]" tvg-logo="", RadioTV Oriente

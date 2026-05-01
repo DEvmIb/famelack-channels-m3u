@@ -5,18 +5,18 @@ https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af78
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:0001 tvg-id="1kGzlc1JUirLRX" tvg-chno="3" group-title="famelack (au) [au] [False]" tvg-logo="", Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="7UCxQXCWlbGvPF" tvg-chno="4" group-title="famelack (au) [au] [False]" tvg-logo="", Angel TV Australia
-https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8
-#EXTINF:0001 tvg-id="OTtgOdMuzH3Ad4" tvg-chno="5" group-title="famelack (au) [au] [False]" tvg-logo="", Ausbiz TV
+#EXTINF:0001 tvg-id="OTtgOdMuzH3Ad4" tvg-chno="4" group-title="famelack (au) [au] [False]" tvg-logo="", Ausbiz TV
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:0001 tvg-id="aODKbBqnVbvVaT" tvg-chno="6" group-title="famelack (au) [au] [False]" tvg-logo="", Breaking News by LeadStory
+#EXTINF:0001 tvg-id="aODKbBqnVbvVaT" tvg-chno="5" group-title="famelack (au) [au] [False]" tvg-logo="", Breaking News by LeadStory
 https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="GQz6svOBo4mRax" tvg-chno="7" group-title="famelack (au) [au] [False]" tvg-logo="", C31 Melbourne
+#EXTINF:0001 tvg-id="GQz6svOBo4mRax" tvg-chno="6" group-title="famelack (au) [au] [False]" tvg-logo="", C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:0001 tvg-id="1U3UtAxYHSHl5p" tvg-chno="8" group-title="famelack (au) [au] [False]" tvg-logo="", Channel 44
+#EXTINF:0001 tvg-id="1U3UtAxYHSHl5p" tvg-chno="7" group-title="famelack (au) [au] [False]" tvg-logo="", Channel 44
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
-#EXTINF:0001 tvg-id="FGk4W1SOac0zWS" tvg-chno="9" group-title="famelack (au) [au] [False]" tvg-logo="", Come Dine With Me
+#EXTINF:0001 tvg-id="FGk4W1SOac0zWS" tvg-chno="8" group-title="famelack (au) [au] [False]" tvg-logo="", Come Dine With Me
 https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8
+#EXTINF:0001 tvg-id="tlEUsUBRmTifZg" tvg-chno="9" group-title="famelack (au) [au] [False]" tvg-logo="", ERT World
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.m3u8
 #EXTINF:0001 tvg-id="SDpOmaM8ReQVej" tvg-chno="10" group-title="famelack (au) [au] [False]" tvg-logo="", Escape to the Country
 https://amg00145-amg00145c11-samsung-au-6579.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="1urxVFjg7HoQcm" tvg-chno="11" group-title="famelack (au) [au] [False]" tvg-logo="", Expo Channel

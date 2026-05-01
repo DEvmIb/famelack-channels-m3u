@@ -33,27 +33,25 @@ https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 #EXTINF:0001 tvg-id="WRhrhAcp8QVCZv" tvg-chno="17" group-title="famelack (pr) [pr] [False]" tvg-logo="", TeleOnce
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="QYv70qSnNhaax1" tvg-chno="18" group-title="famelack (pr) [pr] [False]" tvg-logo="", Triunfo 96.9 FM
-https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
-#EXTINF:0001 tvg-id="vETwdWDS6Ys3LC" tvg-chno="19" group-title="famelack (pr) [pr] [False]" tvg-logo="", WDWL 58.1
+#EXTINF:0001 tvg-id="vETwdWDS6Ys3LC" tvg-chno="18" group-title="famelack (pr) [pr] [False]" tvg-logo="", WDWL 58.1
 https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
-#EXTINF:0001 tvg-id="pCErNDOF1ndRX6" tvg-chno="20" group-title="famelack (pr) [pr] [False]" tvg-logo="", WECN
+#EXTINF:0001 tvg-id="pCErNDOF1ndRX6" tvg-chno="19" group-title="famelack (pr) [pr] [False]" tvg-logo="", WECN
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
-#EXTINF:0001 tvg-id="MvEadpgWzJjCTE" tvg-chno="21" group-title="famelack (pr) [pr] [False]" tvg-logo="", WELU 8.1
+#EXTINF:0001 tvg-id="MvEadpgWzJjCTE" tvg-chno="20" group-title="famelack (pr) [pr] [False]" tvg-logo="", WELU 8.1
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
-#EXTINF:0001 tvg-id="bwDkPgO9EH6E9o" tvg-chno="22" group-title="famelack (pr) [pr] [False]" tvg-logo="", WIPR-TV 6.1
+#EXTINF:0001 tvg-id="bwDkPgO9EH6E9o" tvg-chno="21" group-title="famelack (pr) [pr] [False]" tvg-logo="", WIPR-TV 6.1
 https://streamwipr.pr/hls/stream/index.m3u8
-#EXTINF:0001 tvg-id="6DxixUnn8FbaeV" tvg-chno="23" group-title="famelack (pr) [pr] [False]" tvg-logo="", WKAQ-TV 2.1
+#EXTINF:0001 tvg-id="6DxixUnn8FbaeV" tvg-chno="22" group-title="famelack (pr) [pr] [False]" tvg-logo="", WKAQ-TV 2.1
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:0001 tvg-id="XjdAPMm3YO01Fo" tvg-chno="24" group-title="famelack (pr) [pr] [False]" tvg-logo="", WKAQ-TV 2.2
+#EXTINF:0001 tvg-id="XjdAPMm3YO01Fo" tvg-chno="23" group-title="famelack (pr) [pr] [False]" tvg-logo="", WKAQ-TV 2.2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:0001 tvg-id="pK67X1nTuCfVIB" tvg-chno="25" group-title="famelack (pr) [pr] [False]" tvg-logo="", WRUA-DT1
+#EXTINF:0001 tvg-id="pK67X1nTuCfVIB" tvg-chno="24" group-title="famelack (pr) [pr] [False]" tvg-logo="", WRUA-DT1
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
-#EXTINF:0001 tvg-id="zi89aJl9FoLNYA" tvg-chno="26" group-title="famelack (pr) [pr] [False]" tvg-logo="", WWXY-DT1
+#EXTINF:0001 tvg-id="zi89aJl9FoLNYA" tvg-chno="25" group-title="famelack (pr) [pr] [False]" tvg-logo="", WWXY-DT1
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:0001 tvg-id="IiR71uuMJmqUVL" tvg-chno="27" group-title="famelack (pr) [pr] [False]" tvg-logo="", WWXY-DT3
+#EXTINF:0001 tvg-id="IiR71uuMJmqUVL" tvg-chno="26" group-title="famelack (pr) [pr] [False]" tvg-logo="", WWXY-DT3
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
-#EXTINF:0001 tvg-id="8a8fZdLhOTX7As" tvg-chno="28" group-title="famelack (pr) [pr] [False]" tvg-logo="", WXWZ-LD 23.1
+#EXTINF:0001 tvg-id="8a8fZdLhOTX7As" tvg-chno="27" group-title="famelack (pr) [pr] [False]" tvg-logo="", WXWZ-LD 23.1
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
-#EXTINF:0001 tvg-id="0JcLmPgiPRNsh2" tvg-chno="29" group-title="famelack (pr) [pr] [False]" tvg-logo="", X Level Media
+#EXTINF:0001 tvg-id="0JcLmPgiPRNsh2" tvg-chno="28" group-title="famelack (pr) [pr] [False]" tvg-logo="", X Level Media
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
