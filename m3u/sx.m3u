@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="pvP7Er0o72Q8Z2" tvg-chno="1" group-title="famelack (sx) [sx] [False]" tvg-logo="", Nolan Nanton Productions
+#EXTINF:0001 tvg-id="aN8uGsIctN5GGv" tvg-chno="1" group-title="famelack (sx) [sx] [False]" tvg-logo="", 98.1 Pearl FM
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:0001 tvg-id="pvP7Er0o72Q8Z2" tvg-chno="2" group-title="famelack (sx) [sx] [False]" tvg-logo="", Nolan Nanton Productions
 https://cdn.mycloudstream.io/hls/live/broadcast/wbxpvv7l/index.m3u8
-#EXTINF:0001 tvg-id="q642f1lR53cD10" tvg-chno="2" group-title="famelack (sx) [sx] [False]" tvg-logo="", TVCARiB Cinema
+#EXTINF:0001 tvg-id="q642f1lR53cD10" tvg-chno="3" group-title="famelack (sx) [sx] [False]" tvg-logo="", TVCARiB Cinema
 https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
-#EXTINF:0001 tvg-id="2rNqvS3cyFL1gx" tvg-chno="3" group-title="famelack (sx) [sx] [False]" tvg-logo="", TVCARiB Gospel
+#EXTINF:0001 tvg-id="2rNqvS3cyFL1gx" tvg-chno="4" group-title="famelack (sx) [sx] [False]" tvg-logo="", TVCARiB Gospel
 https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
-#EXTINF:0001 tvg-id="G5MvNhKDTwrAEa" tvg-chno="4" group-title="famelack (sx) [sx] [False]" tvg-logo="", TVCARiB Kids & Teens
+#EXTINF:0001 tvg-id="G5MvNhKDTwrAEa" tvg-chno="5" group-title="famelack (sx) [sx] [False]" tvg-logo="", TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
-#EXTINF:0001 tvg-id="6rzlGn5vI0TLE3" tvg-chno="5" group-title="famelack (sx) [sx] [False]" tvg-logo="", TVCARiB Latino
+#EXTINF:0001 tvg-id="6rzlGn5vI0TLE3" tvg-chno="6" group-title="famelack (sx) [sx] [False]" tvg-logo="", TVCARiB Latino
 https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
-#EXTINF:0001 tvg-id="E0JH3B3Z6Nseer" tvg-chno="6" group-title="famelack (sx) [sx] [False]" tvg-logo="", TVCARiB Radio
+#EXTINF:0001 tvg-id="E0JH3B3Z6Nseer" tvg-chno="7" group-title="famelack (sx) [sx] [False]" tvg-logo="", TVCARiB Radio
 https://cdn.mycloudstream.io/hls/live/broadcast/agf7yo9x/index.m3u8

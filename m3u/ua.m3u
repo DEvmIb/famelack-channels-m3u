@@ -23,7 +23,7 @@ https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
 https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 #EXTINF:0001 tvg-id="KNtnaXZuhjC6uj" tvg-chno="12" group-title="famelack (ua) [ua] [False]" tvg-logo="", TIS TV
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
-#EXTINF:0001 tvg-id="WcoZqsaKguXix1" tvg-chno="13" group-title="famelack (ua) [ua] [False]" tvg-logo="", TUSO
-https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
-#EXTINF:0001 tvg-id="TSbUr1OhqLkxuT" tvg-chno="14" group-title="famelack (ua) [ua] [False]" tvg-logo="", TVA
-https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+#EXTINF:0001 tvg-id="TSbUr1OhqLkxuT" tvg-chno="13" group-title="famelack (ua) [ua] [False]" tvg-logo="", TVA
+https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:0001 tvg-id="ZWMy6L1tUWrepR" tvg-chno="14" group-title="famelack (ua) [ua] [False]" tvg-logo="", Z
+https://stream.ztv.zp.ua/hls/live.m3u8

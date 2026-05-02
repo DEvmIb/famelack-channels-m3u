@@ -39,15 +39,13 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="UxOgU5kfFfuxCm" tvg-chno="20" group-title="famelack (hu) [hu] [False]" tvg-logo="", Tatai TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="uOI7Fr7hGWDmjp" tvg-chno="21" group-title="famelack (hu) [hu] [False]" tvg-logo="", TelePaks
-https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="qptCnK4GQXEAoT" tvg-chno="22" group-title="famelack (hu) [hu] [True]" tvg-logo="", Trimedio TV
+#EXTINF:0001 tvg-id="qptCnK4GQXEAoT" tvg-chno="21" group-title="famelack (hu) [hu] [True]" tvg-logo="", Trimedio TV
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
-#EXTINF:0001 tvg-id="V9OoiU0u2pwSNH" tvg-chno="23" group-title="famelack (hu) [hu] [False]" tvg-logo="", TV Keszthely
+#EXTINF:0001 tvg-id="V9OoiU0u2pwSNH" tvg-chno="22" group-title="famelack (hu) [hu] [False]" tvg-logo="", TV Keszthely
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="zm1DJdY6bU4270" tvg-chno="24" group-title="famelack (hu) [hu] [False]" tvg-logo="", Vasarhelyi Televizio
+#EXTINF:0001 tvg-id="zm1DJdY6bU4270" tvg-chno="23" group-title="famelack (hu) [hu] [False]" tvg-logo="", Vasarhelyi Televizio
 https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
-#EXTINF:0001 tvg-id="2SBZd0F52NzMui" tvg-chno="25" group-title="famelack (hu) [hu] [False]" tvg-logo="", XV TV
+#EXTINF:0001 tvg-id="2SBZd0F52NzMui" tvg-chno="24" group-title="famelack (hu) [hu] [False]" tvg-logo="", XV TV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="CV0Wnf3LNtBbuS" tvg-chno="26" group-title="famelack (hu) [hu] [False]" tvg-logo="", Zalaegerszegi TV
+#EXTINF:0001 tvg-id="CV0Wnf3LNtBbuS" tvg-chno="25" group-title="famelack (hu) [hu] [False]" tvg-logo="", Zalaegerszegi TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8

@@ -51,7 +51,5 @@ https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 #EXTINF:0001 tvg-id="IiR71uuMJmqUVL" tvg-chno="26" group-title="famelack (pr) [pr] [False]" tvg-logo="", WWXY-DT3
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
-#EXTINF:0001 tvg-id="8a8fZdLhOTX7As" tvg-chno="27" group-title="famelack (pr) [pr] [False]" tvg-logo="", WXWZ-LD 23.1
-https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
-#EXTINF:0001 tvg-id="0JcLmPgiPRNsh2" tvg-chno="28" group-title="famelack (pr) [pr] [False]" tvg-logo="", X Level Media
+#EXTINF:0001 tvg-id="0JcLmPgiPRNsh2" tvg-chno="27" group-title="famelack (pr) [pr] [False]" tvg-logo="", X Level Media
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
