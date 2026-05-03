@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="0vWRP5qYJXkBiC" tvg-chno="1" group-title="famelack (tn) [tn] [False]" tvg-logo="", Mosaique FM
+#EXTINF:0001 tvg-id="lDxRAC8VIZPSTr" tvg-chno="1" group-title="famelack (tn) [tn] [False]" tvg-logo="", El Watania 1
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
+#EXTINF:0001 tvg-id="0vWRP5qYJXkBiC" tvg-chno="2" group-title="famelack (tn) [tn] [False]" tvg-logo="", Mosaique FM
 https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR

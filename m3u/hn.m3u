@@ -37,25 +37,21 @@ https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
 https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:0001 tvg-id="nsgQYKfhfBKpgj" tvg-chno="19" group-title="famelack (hn) [hn] [False]" tvg-logo="", Radio Ideal
 https://www.idealfm104-7.com/hls/0/stream.m3u8
-#EXTINF:0001 tvg-id="Hj05yr3irV5W4y" tvg-chno="20" group-title="famelack (hn) [hn] [False]" tvg-logo="", Radio Omega TV
-https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
-#EXTINF:0001 tvg-id="geOpkQODtnZbnn" tvg-chno="21" group-title="famelack (hn) [hn] [False]" tvg-logo="", RCV TV
+#EXTINF:0001 tvg-id="geOpkQODtnZbnn" tvg-chno="20" group-title="famelack (hn) [hn] [False]" tvg-logo="", RCV TV
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
-#EXTINF:0001 tvg-id="ZL6itoyroCEVU7" tvg-chno="22" group-title="famelack (hn) [hn] [False]" tvg-logo="", Sula TV
+#EXTINF:0001 tvg-id="ZL6itoyroCEVU7" tvg-chno="21" group-title="famelack (hn) [hn] [False]" tvg-logo="", Sula TV
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="THKN8j8NPbhAcj" tvg-chno="23" group-title="famelack (hn) [hn] [False]" tvg-logo="", Telemas
+#EXTINF:0001 tvg-id="THKN8j8NPbhAcj" tvg-chno="22" group-title="famelack (hn) [hn] [False]" tvg-logo="", Telemas
 https://viewhn.com/telemas/live/playlist.m3u8
-#EXTINF:0001 tvg-id="bogtDcaAWtOFRz" tvg-chno="24" group-title="famelack (hn) [hn] [False]" tvg-logo="", Telerayo
+#EXTINF:0001 tvg-id="bogtDcaAWtOFRz" tvg-chno="23" group-title="famelack (hn) [hn] [False]" tvg-logo="", Telerayo
 https://s.emisoras.tv:8081/telerayo/index.m3u8
-#EXTINF:0001 tvg-id="YjpTIsdhrTKDB8" tvg-chno="25" group-title="famelack (hn) [hn] [False]" tvg-logo="", Television Metropolis 19.1
+#EXTINF:0001 tvg-id="YjpTIsdhrTKDB8" tvg-chno="24" group-title="famelack (hn) [hn] [False]" tvg-logo="", Television Metropolis 19.1
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-#EXTINF:0001 tvg-id="r9T8ukgsfSELlS" tvg-chno="26" group-title="famelack (hn) [hn] [False]" tvg-logo="", Television Metropolis 19.2
+#EXTINF:0001 tvg-id="r9T8ukgsfSELlS" tvg-chno="25" group-title="famelack (hn) [hn] [False]" tvg-logo="", Television Metropolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-#EXTINF:0001 tvg-id="yH1S0lEj15Dojl" tvg-chno="27" group-title="famelack (hn) [hn] [False]" tvg-logo="", Television Olanchana
+#EXTINF:0001 tvg-id="yH1S0lEj15Dojl" tvg-chno="26" group-title="famelack (hn) [hn] [False]" tvg-logo="", Television Olanchana
 https://viewhn.com/canal30/live/playlist.m3u8
-#EXTINF:0001 tvg-id="qWRNlLMLdjrPV7" tvg-chno="28" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro 27.2 HD
+#EXTINF:0001 tvg-id="qWRNlLMLdjrPV7" tvg-chno="27" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro 27.2 HD
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-#EXTINF:0001 tvg-id="OPNVhQbPeZ6MyD" tvg-chno="29" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro HD
-https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-#EXTINF:0001 tvg-id="pT9oAXkeRbqGBU" tvg-chno="30" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Copan
+#EXTINF:0001 tvg-id="pT9oAXkeRbqGBU" tvg-chno="28" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Copan
 https://s.emisoras.tv:8081/tvcopan/index.m3u8

@@ -29,14 +29,14 @@ https://ms02.w24.at/R9Partner/lt1.smil/playlist.m3u8
 https://183.bozztv.com/ssh101/ssh101/melodietvlive/playlist.m3u8
 #EXTINF:0001 tvg-id="hUh8zOVsiGJwtZ" tvg-chno="15" group-title="famelack (at) [at] [False]" tvg-logo="", N1 TV
 https://z4atvie10snsr101.rtccdn.com/r9_live/r9_n1media_abr/playlist.m3u8
-#EXTINF:0001 tvg-id="5xY9cw7ypbOud1" tvg-chno="16" group-title="famelack (at) [at] [False]" tvg-logo="", R9
+#EXTINF:0001 tvg-id="2YKn96rbCyY3de" tvg-chno="16" group-title="famelack (at) [at] [False]" tvg-logo="", ORF III
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:0001 tvg-id="5xY9cw7ypbOud1" tvg-chno="17" group-title="famelack (at) [at] [False]" tvg-logo="", R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="znLSEaZWfm2KZE" tvg-chno="17" group-title="famelack (at) [at] [False]" tvg-logo="", Red Bull TV
+#EXTINF:0001 tvg-id="znLSEaZWfm2KZE" tvg-chno="18" group-title="famelack (at) [at] [False]" tvg-logo="", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0001 tvg-id="jHe1OEHTcksowX" tvg-chno="18" group-title="famelack (at) [at] [False]" tvg-logo="", Red Bull TV AU
+#EXTINF:0001 tvg-id="jHe1OEHTcksowX" tvg-chno="19" group-title="famelack (at) [at] [False]" tvg-logo="", Red Bull TV AU
 https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:0001 tvg-id="L5wf5IamZyqkNz" tvg-chno="19" group-title="famelack (at) [at] [False]" tvg-logo="", Regional TV Salzburg
-https://ms02.w24.at/R9Partner/rts.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="LmXiHP1vY6XyzS" tvg-chno="20" group-title="famelack (at) [at] [False]" tvg-logo="", RTV
 https://streamtest.rtv-ooe.at/stream.m3u8
 #EXTINF:0001 tvg-id="K8THRi8hdcH82I" tvg-chno="21" group-title="famelack (at) [at] [False]" tvg-logo="", Schladming-Dachstein TV

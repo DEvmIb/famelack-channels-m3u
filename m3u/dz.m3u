@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:0001 tvg-id="tmU8g7gIv8cUFI" tvg-chno="1" group-title="famelack (dz) [dz] [False]" tvg-logo="", AL24 News
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
+#EXTINF:0001 tvg-id="ofHo5b95IBOhZz" tvg-chno="2" group-title="famelack (dz) [dz] [False]" tvg-logo="", Elwatania TV
+https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
