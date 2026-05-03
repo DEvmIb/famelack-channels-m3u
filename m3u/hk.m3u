@@ -3,3 +3,5 @@
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 #EXTINF:0001 tvg-id="cq6tthzEoEuekR" tvg-chno="2" group-title="famelack (hk) [hk] [False]" tvg-logo="", Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:0001 tvg-id="fY95vrYP3HAi8i" tvg-chno="3" group-title="famelack (hk) [hk] [True]" tvg-logo="", RTHK TV 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8

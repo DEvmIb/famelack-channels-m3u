@@ -1,17 +1,21 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="OxqDpNnYgAPFde" tvg-chno="1" group-title="famelack (il) [il] [False]" tvg-logo="", Channel 13
+#EXTINF:0001 tvg-id="bxBN5jknhS0mp6" tvg-chno="1" group-title="famelack (il) [il] [False]" tvg-logo="", Angel TV Hebrew
+https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
+#EXTINF:0001 tvg-id="OxqDpNnYgAPFde" tvg-chno="2" group-title="famelack (il) [il] [False]" tvg-logo="", Channel 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:0001 tvg-id="VA3cqCrSqxmpeS" tvg-chno="2" group-title="famelack (il) [il] [False]" tvg-logo="", Hala TV
+#EXTINF:0001 tvg-id="VA3cqCrSqxmpeS" tvg-chno="3" group-title="famelack (il) [il] [False]" tvg-logo="", Hala TV
 https://stream.panet.com/edge/halaTV/playlist.m3u8
-#EXTINF:0001 tvg-id="pQUGWp5bwsAJ2Q" tvg-chno="3" group-title="famelack (il) [il] [False]" tvg-logo="", Hidabroot
+#EXTINF:0001 tvg-id="pQUGWp5bwsAJ2Q" tvg-chno="4" group-title="famelack (il) [il] [False]" tvg-logo="", Hidabroot
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-#EXTINF:0001 tvg-id="C4dIuiVOqNKLrn" tvg-chno="4" group-title="famelack (il) [il] [False]" tvg-logo="", Kabbalah for the People Israel
+#EXTINF:0001 tvg-id="C4dIuiVOqNKLrn" tvg-chno="5" group-title="famelack (il) [il] [False]" tvg-logo="", Kabbalah for the People Israel
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
-#EXTINF:0001 tvg-id="LhZndlIRjXe2MN" tvg-chno="5" group-title="famelack (il) [il] [False]" tvg-logo="", Kan 11
+#EXTINF:0001 tvg-id="LhZndlIRjXe2MN" tvg-chno="6" group-title="famelack (il) [il] [False]" tvg-logo="", Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:0001 tvg-id="hbcJB1RCRT6pmz" tvg-chno="6" group-title="famelack (il) [il] [False]" tvg-logo="", Makan 33
+#EXTINF:0001 tvg-id="hbcJB1RCRT6pmz" tvg-chno="7" group-title="famelack (il) [il] [False]" tvg-logo="", Makan 33
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:0001 tvg-id="BE24TaDtAzeVFU" tvg-chno="7" group-title="famelack (il) [il] [False]" tvg-logo="", Musayof (Israel)
+#EXTINF:0001 tvg-id="BE24TaDtAzeVFU" tvg-chno="8" group-title="famelack (il) [il] [False]" tvg-logo="", Musayof (Israel)
 https://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="tHJWXIh983bKTp" tvg-chno="8" group-title="famelack (il) [il] [False]" tvg-logo="", Shelanu.TV
+#EXTINF:0001 tvg-id="9JfMUyW3Js7KeX" tvg-chno="9" group-title="famelack (il) [il] [False]" tvg-logo="", Now 14
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:0001 tvg-id="tHJWXIh983bKTp" tvg-chno="10" group-title="famelack (il) [il] [False]" tvg-logo="", Shelanu.TV
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
