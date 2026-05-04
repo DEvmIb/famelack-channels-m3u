@@ -26,4 +26,4 @@ https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee94412
 #EXTINF:0001 tvg-id="sCYZ4Box9Vsqsi" tvg-chno="13" group-title="famelack (qa) [qa] [False]" tvg-logo="", Qatar Television
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="nRS5DLp96YBtfJ" tvg-chno="14" group-title="famelack (qa) [qa] [False]" tvg-logo="", Qatar Television 2
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
