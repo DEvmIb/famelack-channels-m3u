@@ -37,17 +37,19 @@ https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
 https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8
 #EXTINF:0001 tvg-id="Wo8fpFkweOsxrT" tvg-chno="19" group-title="famelack (vn) [vn] [False]" tvg-logo="", SCTV16
 https://liveh34.vtvprime.vn/hls/SCTV16/03.m3u8
-#EXTINF:0001 tvg-id="P3wFK2is4nhE2c" tvg-chno="20" group-title="famelack (vn) [vn] [False]" tvg-logo="", Tea TV
+#EXTINF:0001 tvg-id="78sapvlwKrQ0tt" tvg-chno="20" group-title="famelack (vn) [vn] [False]" tvg-logo="", Tay Ninh TV
+https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
+#EXTINF:0001 tvg-id="P3wFK2is4nhE2c" tvg-chno="21" group-title="famelack (vn) [vn] [False]" tvg-logo="", Tea TV
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="pr9APH9dYjEJHa" tvg-chno="21" group-title="famelack (vn) [vn] [False]" tvg-logo="", Thai Nguyen TV
+#EXTINF:0001 tvg-id="pr9APH9dYjEJHa" tvg-chno="22" group-title="famelack (vn) [vn] [False]" tvg-logo="", Thai Nguyen TV
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:0001 tvg-id="3ssQc7PdBXGpNU" tvg-chno="22" group-title="famelack (vn) [vn] [False]" tvg-logo="", Tien Giang TV
+#EXTINF:0001 tvg-id="3ssQc7PdBXGpNU" tvg-chno="23" group-title="famelack (vn) [vn] [False]" tvg-logo="", Tien Giang TV
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
-#EXTINF:0001 tvg-id="gh2TkRWTUyBId2" tvg-chno="23" group-title="famelack (vn) [vn] [False]" tvg-logo="", Uniquely Thai
+#EXTINF:0001 tvg-id="gh2TkRWTUyBId2" tvg-chno="24" group-title="famelack (vn) [vn] [False]" tvg-logo="", Uniquely Thai
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="ixbj5BMW5hNHQj" tvg-chno="24" group-title="famelack (vn) [vn] [False]" tvg-logo="", Vietnam Today
+#EXTINF:0001 tvg-id="ixbj5BMW5hNHQj" tvg-chno="25" group-title="famelack (vn) [vn] [False]" tvg-logo="", Vietnam Today
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
-#EXTINF:0001 tvg-id="HMQVG3VqYbd8Od" tvg-chno="25" group-title="famelack (vn) [vn] [False]" tvg-logo="", VTV5 Tay Nam Bo
+#EXTINF:0001 tvg-id="HMQVG3VqYbd8Od" tvg-chno="26" group-title="famelack (vn) [vn] [False]" tvg-logo="", VTV5 Tay Nam Bo
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
-#EXTINF:0001 tvg-id="jANbKtRbxTMsEi" tvg-chno="26" group-title="famelack (vn) [vn] [False]" tvg-logo="", VTV5 Tay Nguyen
+#EXTINF:0001 tvg-id="jANbKtRbxTMsEi" tvg-chno="27" group-title="famelack (vn) [vn] [False]" tvg-logo="", VTV5 Tay Nguyen
 https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
