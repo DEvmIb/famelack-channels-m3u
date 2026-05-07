@@ -37,28 +37,28 @@ https://videostream.jpbgdigital.com/NOWTV.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:0001 tvg-id="QtZoQSlu8071bX" tvg-chno="19" group-title="famelack (ca) [ca] [False]" tvg-logo="", Eawaz TV
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
-#EXTINF:0001 tvg-id="nuCkj2isILRO5a" tvg-chno="20" group-title="famelack (ca) [ca] [False]" tvg-logo="", EET TV
-https://eu.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:0001 tvg-id="BFpewkLm3lqPGP" tvg-chno="21" group-title="famelack (ca) [ca] [False]" tvg-logo="", Erfan Halgheh TV
+#EXTINF:0001 tvg-id="BFpewkLm3lqPGP" tvg-chno="20" group-title="famelack (ca) [ca] [False]" tvg-logo="", Erfan Halgheh TV
 https://hls.erfanhalgheh.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="sNCSSkAhJ29ovz" tvg-chno="22" group-title="famelack (ca) [ca] [False]" tvg-logo="", EWTN Canada
+#EXTINF:0001 tvg-id="sNCSSkAhJ29ovz" tvg-chno="21" group-title="famelack (ca) [ca] [False]" tvg-logo="", EWTN Canada
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
-#EXTINF:0001 tvg-id="RzzPNaiJrn9Oe1" tvg-chno="23" group-title="famelack (ca) [ca] [False]" tvg-logo="", FEVA TV
+#EXTINF:0001 tvg-id="RzzPNaiJrn9Oe1" tvg-chno="22" group-title="famelack (ca) [ca] [False]" tvg-logo="", FEVA TV
 https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu
-#EXTINF:0001 tvg-id="LRBUacm9msNRQ8" tvg-chno="24" group-title="famelack (ca) [ca] [False]" tvg-logo="", Fight Network
+#EXTINF:0001 tvg-id="LRBUacm9msNRQ8" tvg-chno="23" group-title="famelack (ca) [ca] [False]" tvg-logo="", Fight Network
 https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
-#EXTINF:0001 tvg-id="jA3Wlh1PpHv23F" tvg-chno="25" group-title="famelack (ca) [ca] [False]" tvg-logo="", Gaunda Punjab TV
+#EXTINF:0001 tvg-id="jA3Wlh1PpHv23F" tvg-chno="24" group-title="famelack (ca) [ca] [False]" tvg-logo="", Gaunda Punjab TV
 https://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="N7y193rYKVUHc8" tvg-chno="26" group-title="famelack (ca) [ca] [True]" tvg-logo="", GTN Canada
+#EXTINF:0001 tvg-id="N7y193rYKVUHc8" tvg-chno="25" group-title="famelack (ca) [ca] [True]" tvg-logo="", GTN Canada
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
-#EXTINF:0001 tvg-id="D9wYQdvH3cwnxL" tvg-chno="27" group-title="famelack (ca) [ca] [False]" tvg-logo="", Gusto TV
+#EXTINF:0001 tvg-id="D9wYQdvH3cwnxL" tvg-chno="26" group-title="famelack (ca) [ca] [False]" tvg-logo="", Gusto TV
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="Pb2kJOQ71503Nc" tvg-chno="28" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hamdard TV
+#EXTINF:0001 tvg-id="Pb2kJOQ71503Nc" tvg-chno="27" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hamdard TV
 https://tv.hamdardtv.com/hamdard/index.m3u8
-#EXTINF:0001 tvg-id="bhT3j01Nh3aRCQ" tvg-chno="29" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hard Knocks
+#EXTINF:0001 tvg-id="bhT3j01Nh3aRCQ" tvg-chno="28" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
-#EXTINF:0001 tvg-id="1sLAPLROMZOQfz" tvg-chno="30" group-title="famelack (ca) [ca] [False]" tvg-logo="", Holidayscapes
+#EXTINF:0001 tvg-id="1sLAPLROMZOQfz" tvg-chno="29" group-title="famelack (ca) [ca] [False]" tvg-logo="", Holidayscapes
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+#EXTINF:0001 tvg-id="9zPq4BsfegnAtl" tvg-chno="30" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hyder TV
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 #EXTINF:0001 tvg-id="VW8nguM4FsiBz7" tvg-chno="31" group-title="famelack (ca) [ca] [False]" tvg-logo="", Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:0001 tvg-id="j79baqwQIoh0JH" tvg-chno="32" group-title="famelack (ca) [ca] [False]" tvg-logo="", ICnet 1
@@ -195,7 +195,5 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="7MJcYnhqkdKmZp" tvg-chno="98" group-title="famelack (ca) [ca] [False]" tvg-logo="", Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-#EXTINF:0001 tvg-id="yfBSi8T77pzJ7v" tvg-chno="99" group-title="famelack (ca) [ca] [False]" tvg-logo="", WCGtv
-https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
-#EXTINF:0001 tvg-id="aENvvGnq2jgpEh" tvg-chno="100" group-title="famelack (ca) [ca] [False]" tvg-logo="", Wild TV
+#EXTINF:0001 tvg-id="aENvvGnq2jgpEh" tvg-chno="99" group-title="famelack (ca) [ca] [False]" tvg-logo="", Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="fggC9IDaIV7QIQ" tvg-chno="1" group-title="famelack (ir) [ir] [False]" tvg-logo="", 4 Music
-https://musichls.persiana.live/hls/stream.m3u8
+https://itthls.wns.live/hls/stream.m3u8
 #EXTINF:0001 tvg-id="H6MgSXQWhc1xON" tvg-chno="2" group-title="famelack (ir) [ir] [False]" tvg-logo="", 4Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:0001 tvg-id="oKPWYpqDC2QiXh" tvg-chno="3" group-title="famelack (ir) [ir] [False]" tvg-logo="", 247 Box TV
@@ -57,10 +57,10 @@ https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
 https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
 #EXTINF:0001 tvg-id="xIRyeY536kkKQd" tvg-chno="29" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Nature
 https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
-#EXTINF:0001 tvg-id="EkUJy9ZWKl64v0" tvg-chno="30" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Onyx
-https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
-#EXTINF:0001 tvg-id="QCb8mMbBKkmfSE" tvg-chno="31" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Pixel
+#EXTINF:0001 tvg-id="QCb8mMbBKkmfSE" tvg-chno="30" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Pixel
 https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
+#EXTINF:0001 tvg-id="mq7Qzxdrc6QS0N" tvg-chno="31" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM River +
+https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202
 #EXTINF:0001 tvg-id="OVDUiZGyxtXYXz" tvg-chno="32" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Rubix +
 https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202
 #EXTINF:0001 tvg-id="kLHHUDsRYmlBPL" tvg-chno="33" group-title="famelack (ir) [ir] [False]" tvg-logo="", GEM Series

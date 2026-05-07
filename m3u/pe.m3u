@@ -33,12 +33,12 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:0001 tvg-id="UjSZg1tYKKZuy2" tvg-chno="17" group-title="famelack (pe) [pe] [False]" tvg-logo="", JN 19
 https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:0001 tvg-id="3hbUF3ouea162A" tvg-chno="18" group-title="famelack (pe) [pe] [False]" tvg-logo="", La Fabulosa TV
-https://eu1.servers10.com:8081/8004/index.m3u8
-#EXTINF:0001 tvg-id="qm7kjjw4XjKxtz" tvg-chno="19" group-title="famelack (pe) [pe] [False]" tvg-logo="", Mega TV Jaen
+#EXTINF:0001 tvg-id="qm7kjjw4XjKxtz" tvg-chno="18" group-title="famelack (pe) [pe] [False]" tvg-logo="", Mega TV Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-#EXTINF:0001 tvg-id="ZgK3gN33Rh7QOj" tvg-chno="20" group-title="famelack (pe) [pe] [False]" tvg-logo="", Miel TV
+#EXTINF:0001 tvg-id="ZgK3gN33Rh7QOj" tvg-chno="19" group-title="famelack (pe) [pe] [False]" tvg-logo="", Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:0001 tvg-id="UDdMtzxSFo4KG2" tvg-chno="20" group-title="famelack (pe) [pe] [False]" tvg-logo="", MO Channel
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:0001 tvg-id="mi7Zl9xYkTcqpw" tvg-chno="21" group-title="famelack (pe) [pe] [False]" tvg-logo="", Nativa TV Satipo
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:0001 tvg-id="zXicYaSu58NdOA" tvg-chno="22" group-title="famelack (pe) [pe] [False]" tvg-logo="", ONDA DIGITAL
