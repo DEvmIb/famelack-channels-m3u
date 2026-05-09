@@ -3,7 +3,5 @@
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:0001 tvg-id="1fyxJbeOBe9SyI" tvg-chno="2" group-title="famelack (bj) [bj] [False]" tvg-logo="", Eden TV
 https://rtmp.edentv.bj/hls/stream.m3u8
-#EXTINF:0001 tvg-id="wl2lwPjKKxNRiK" tvg-chno="3" group-title="famelack (bj) [bj] [False]" tvg-logo="", ORTB TV
-https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
-#EXTINF:0001 tvg-id="r701W6Krlv63Lr" tvg-chno="4" group-title="famelack (bj) [bj] [False]" tvg-logo="", TVC Benin
+#EXTINF:0001 tvg-id="r701W6Krlv63Lr" tvg-chno="3" group-title="famelack (bj) [bj] [False]" tvg-logo="", TVC Benin
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
