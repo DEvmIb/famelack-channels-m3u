@@ -2,7 +2,7 @@
 #EXTINF:0001 tvg-id="fooBWNn7lAf85s" tvg-chno="1" group-title="famelack (pl) [pl] [False]" tvg-logo="", 4 Fun Kids
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:0001 tvg-id="gnXbQSLxnNAtTV" tvg-chno="2" group-title="famelack (pl) [pl] [False]" tvg-logo="", 4 Fun TV
-https://stream.4fun.tv:8888/hls/4f.m3u8
+https://srv1.adriatelekom.com/4FunTV/index.m3u8
 #EXTINF:0001 tvg-id="XCeIlVYmtUB3hr" tvg-chno="3" group-title="famelack (pl) [pl] [False]" tvg-logo="", American Crime Channel Poland
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 #EXTINF:0001 tvg-id="kJrXloIeM5KZgw" tvg-chno="4" group-title="famelack (pl) [pl] [False]" tvg-logo="", Bialogardzka Telewizja Kablowa
