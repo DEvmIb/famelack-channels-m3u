@@ -29,10 +29,10 @@ https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:0001 tvg-id="c0ayJmoC3gtMTu" tvg-chno="15" group-title="famelack (ec) [ec] [False]" tvg-logo="", Hechos Ecuador
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
-#EXTINF:0001 tvg-id="IpJn6TkjLhDwxt" tvg-chno="16" group-title="famelack (ec) [ec] [False]" tvg-logo="", IeanJesus Ecuador
-https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
-#EXTINF:0001 tvg-id="2m0gEtXYdWeCIN" tvg-chno="17" group-title="famelack (ec) [ec] [False]" tvg-logo="", Infinita TV
+#EXTINF:0001 tvg-id="2m0gEtXYdWeCIN" tvg-chno="16" group-title="famelack (ec) [ec] [False]" tvg-logo="", Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:0001 tvg-id="BQiZCJpf4JlMdt" tvg-chno="17" group-title="famelack (ec) [ec] [False]" tvg-logo="", La Nueva Radio TV 97.7
+https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
 #EXTINF:0001 tvg-id="L7QnCoaelggBZN" tvg-chno="18" group-title="famelack (ec) [ec] [False]" tvg-logo="", La Perla Radio TV
 https://eu1.servers10.com:8081/8068/index.m3u8
 #EXTINF:0001 tvg-id="9Sf0ejjNeAblBj" tvg-chno="19" group-title="famelack (ec) [ec] [False]" tvg-logo="", LatacungaTV
@@ -91,5 +91,7 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
 #EXTINF:0001 tvg-id="uhXaKy0zwMPJAb" tvg-chno="46" group-title="famelack (ec) [ec] [False]" tvg-logo="", UNIANDES TV
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-#EXTINF:0001 tvg-id="M10FM4kxvf869B" tvg-chno="47" group-title="famelack (ec) [ec] [False]" tvg-logo="", Zaracay TV
+#EXTINF:0001 tvg-id="9TUqw93GWA6FwZ" tvg-chno="47" group-title="famelack (ec) [ec] [False]" tvg-logo="", Vos y TV
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:0001 tvg-id="M10FM4kxvf869B" tvg-chno="48" group-title="famelack (ec) [ec] [False]" tvg-logo="", Zaracay TV
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8

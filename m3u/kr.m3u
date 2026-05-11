@@ -37,8 +37,8 @@ https://etv.publichs.com/live5.stream/playlist.m3u8
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="tTyhlQIbf96cqF" tvg-chno="19" group-title="famelack (kr) [kr] [False]" tvg-logo="", GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="hJP0GSnYM15Xax" tvg-chno="20" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLAJ-DTV
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:0001 tvg-id="cqIhg7ovb7n2hP" tvg-chno="20" group-title="famelack (kr) [kr] [False]" tvg-logo="", Gugak TV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="LeEKq1Wp81fOe3" tvg-chno="21" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLAN-DTV
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:0001 tvg-id="pnA1ESNuQBhdp0" tvg-chno="22" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLAT-DTV

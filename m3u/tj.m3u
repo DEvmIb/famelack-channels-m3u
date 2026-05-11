@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="dpWlLcrelGoz5q" tvg-chno="1" group-title="famelack (tj) [tj] [False]" tvg-logo="", Dushanbe HD
 https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:0001 tvg-id="3FpVoaPbSswbhr" tvg-chno="2" group-title="famelack (tj) [tj] [False]" tvg-logo="", TV Kulob
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:0001 tvg-id="V4jGt9xEkE4lxd" tvg-chno="3" group-title="famelack (tj) [tj] [False]" tvg-logo="", TV Safina
+https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:0001 tvg-id="1ONog0eu0K0fg5" tvg-chno="4" group-title="famelack (tj) [tj] [False]" tvg-logo="", TV Sayohi
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:0001 tvg-id="NShw7xJgxDD1cS" tvg-chno="5" group-title="famelack (tj) [tj] [False]" tvg-logo="", TV Sugd
+https://live.teleradiocom.tj/14/3m.m3u8

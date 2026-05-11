@@ -10,7 +10,7 @@ https://bsmbialogard.pl/live/index.m3u8
 #EXTINF:0001 tvg-id="5fsuYuCG8ydAtN" tvg-chno="5" group-title="famelack (pl) [pl] [False]" tvg-logo="", Bigtime
 https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
 #EXTINF:0001 tvg-id="JwjTtBdIXCgMJP" tvg-chno="6" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8
+https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
 #EXTINF:0001 tvg-id="DHR1El8JiIdfUH" tvg-chno="7" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB 3
 https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
 #EXTINF:0001 tvg-id="vifXiIDfcyAksy" tvg-chno="8" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB Info

@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="CyX7gTzMI3L05o" tvg-chno="1" group-title="famelack (sv) [sv] [False]" tvg-logo="", Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="ClqJYJmuvjGxXn" tvg-chno="2" group-title="famelack (sv) [sv] [False]" tvg-logo="", Arbol de Vida TV
-https://yupistream.top:19360/livearbol/livearbol.m3u8
-#EXTINF:0001 tvg-id="YYSyi5o00uvneu" tvg-chno="3" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 3 Impresionante
+#EXTINF:0001 tvg-id="YYSyi5o00uvneu" tvg-chno="2" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+#EXTINF:0001 tvg-id="vNCLFtuOMVJo2z" tvg-chno="3" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 10
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:0001 tvg-id="aM75JGWBPQWWgI" tvg-chno="4" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:0001 tvg-id="2JuIWNzpBvexFE" tvg-chno="5" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 26 TV IAP
