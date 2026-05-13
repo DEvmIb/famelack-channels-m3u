@@ -47,46 +47,46 @@ https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu
 #EXTINF:0001 tvg-id="LRBUacm9msNRQ8" tvg-chno="24" group-title="famelack (ca) [ca] [False]" tvg-logo="", Fight Network
 https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
-#EXTINF:0001 tvg-id="jA3Wlh1PpHv23F" tvg-chno="25" group-title="famelack (ca) [ca] [False]" tvg-logo="", Gaunda Punjab TV
+#EXTINF:0001 tvg-id="3PWIwG9FFIlO5Y" tvg-chno="25" group-title="famelack (ca) [ca] [False]" tvg-logo="", Game+
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:0001 tvg-id="jA3Wlh1PpHv23F" tvg-chno="26" group-title="famelack (ca) [ca] [False]" tvg-logo="", Gaunda Punjab TV
 https://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="N7y193rYKVUHc8" tvg-chno="26" group-title="famelack (ca) [ca] [True]" tvg-logo="", GTN Canada
+#EXTINF:0001 tvg-id="N7y193rYKVUHc8" tvg-chno="27" group-title="famelack (ca) [ca] [True]" tvg-logo="", GTN Canada
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
-#EXTINF:0001 tvg-id="D9wYQdvH3cwnxL" tvg-chno="27" group-title="famelack (ca) [ca] [False]" tvg-logo="", Gusto TV
+#EXTINF:0001 tvg-id="D9wYQdvH3cwnxL" tvg-chno="28" group-title="famelack (ca) [ca] [False]" tvg-logo="", Gusto TV
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="Pb2kJOQ71503Nc" tvg-chno="28" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hamdard TV
+#EXTINF:0001 tvg-id="Pb2kJOQ71503Nc" tvg-chno="29" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hamdard TV
 https://tv.hamdardtv.com/hamdard/index.m3u8
-#EXTINF:0001 tvg-id="bhT3j01Nh3aRCQ" tvg-chno="29" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hard Knocks
+#EXTINF:0001 tvg-id="bhT3j01Nh3aRCQ" tvg-chno="30" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
-#EXTINF:0001 tvg-id="1sLAPLROMZOQfz" tvg-chno="30" group-title="famelack (ca) [ca] [False]" tvg-logo="", Holidayscapes
+#EXTINF:0001 tvg-id="1sLAPLROMZOQfz" tvg-chno="31" group-title="famelack (ca) [ca] [False]" tvg-logo="", Holidayscapes
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
-#EXTINF:0001 tvg-id="9zPq4BsfegnAtl" tvg-chno="31" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hyder TV
+#EXTINF:0001 tvg-id="9zPq4BsfegnAtl" tvg-chno="32" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hyder TV
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="VW8nguM4FsiBz7" tvg-chno="32" group-title="famelack (ca) [ca] [False]" tvg-logo="", Ici RDI
+#EXTINF:0001 tvg-id="VW8nguM4FsiBz7" tvg-chno="33" group-title="famelack (ca) [ca] [False]" tvg-logo="", Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:0001 tvg-id="j79baqwQIoh0JH" tvg-chno="33" group-title="famelack (ca) [ca] [False]" tvg-logo="", ICnet 1
+#EXTINF:0001 tvg-id="j79baqwQIoh0JH" tvg-chno="34" group-title="famelack (ca) [ca] [False]" tvg-logo="", ICnet 1
 https://icnet1hls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="Mv6EQSLomOzZH0" tvg-chno="34" group-title="famelack (ca) [ca] [True]" tvg-logo="", IIPC TV
+#EXTINF:0001 tvg-id="Mv6EQSLomOzZH0" tvg-chno="35" group-title="famelack (ca) [ca] [True]" tvg-logo="", IIPC TV
 https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
-#EXTINF:0001 tvg-id="0bMKdIaIAwnMdw" tvg-chno="35" group-title="famelack (ca) [ca] [False]" tvg-logo="", Kidoodle.TV
+#EXTINF:0001 tvg-id="0bMKdIaIAwnMdw" tvg-chno="36" group-title="famelack (ca) [ca] [False]" tvg-logo="", Kidoodle.TV
 https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="mh8ffIuQVJBAom" tvg-chno="36" group-title="famelack (ca) [ca] [True]" tvg-logo="", Knowledge Network
+#EXTINF:0001 tvg-id="mh8ffIuQVJBAom" tvg-chno="37" group-title="famelack (ca) [ca] [True]" tvg-logo="", Knowledge Network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
-#EXTINF:0001 tvg-id="I6uCCfd71b4oev" tvg-chno="37" group-title="famelack (ca) [ca] [False]" tvg-logo="", Legislative Assembly of Ontario
+#EXTINF:0001 tvg-id="I6uCCfd71b4oev" tvg-chno="38" group-title="famelack (ca) [ca] [False]" tvg-logo="", Legislative Assembly of Ontario
 https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8
-#EXTINF:0001 tvg-id="uUGOxH0a6eS5ZE" tvg-chno="38" group-title="famelack (ca) [ca] [False]" tvg-logo="", Legislative Assembly of Ontario Committees (room 1)
+#EXTINF:0001 tvg-id="uUGOxH0a6eS5ZE" tvg-chno="39" group-title="famelack (ca) [ca] [False]" tvg-logo="", Legislative Assembly of Ontario Committees (room 1)
 https://temp2.isilive.ca/live/_definst_/ontla/committee_1-en/playlist.m3u8
-#EXTINF:0001 tvg-id="Dxr4tHRhpiu8Xi" tvg-chno="39" group-title="famelack (ca) [ca] [False]" tvg-logo="", Legislative Assembly of Ontario Committees (room 2)
+#EXTINF:0001 tvg-id="Dxr4tHRhpiu8Xi" tvg-chno="40" group-title="famelack (ca) [ca] [False]" tvg-logo="", Legislative Assembly of Ontario Committees (room 2)
 https://lin13.isilive.ca/live/_definst_/ontla/committee_2-en/playlist.m3u8
-#EXTINF:0001 tvg-id="0KUROtebe5Hr0N" tvg-chno="40" group-title="famelack (ca) [ca] [False]" tvg-logo="", Legislative Assembly of Ontario Committees (room 151)
+#EXTINF:0001 tvg-id="0KUROtebe5Hr0N" tvg-chno="41" group-title="famelack (ca) [ca] [False]" tvg-logo="", Legislative Assembly of Ontario Committees (room 151)
 https://temp3.isilive.ca/live/_definst_/ontla/rm151-en/playlist.m3u8
-#EXTINF:0001 tvg-id="ggVaTzuCKy1JEd" tvg-chno="41" group-title="famelack (ca) [ca] [False]" tvg-logo="", Legislative Assembly TV Nunavut
+#EXTINF:0001 tvg-id="ggVaTzuCKy1JEd" tvg-chno="42" group-title="famelack (ca) [ca] [False]" tvg-logo="", Legislative Assembly TV Nunavut
 https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
-#EXTINF:0001 tvg-id="lQWrqWxPSBgWUI" tvg-chno="42" group-title="famelack (ca) [ca] [True]" tvg-logo="", Love Nature
+#EXTINF:0001 tvg-id="lQWrqWxPSBgWUI" tvg-chno="43" group-title="famelack (ca) [ca] [True]" tvg-logo="", Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:0001 tvg-id="j56bM55OvfqWlx" tvg-chno="43" group-title="famelack (ca) [ca] [True]" tvg-logo="", Love Nature 4K
+#EXTINF:0001 tvg-id="j56bM55OvfqWlx" tvg-chno="44" group-title="famelack (ca) [ca] [True]" tvg-logo="", Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:0001 tvg-id="Iz0NChVF5yie3L" tvg-chno="44" group-title="famelack (ca) [ca] [False]" tvg-logo="", Melody Hits
-https://mumt03.tangotv.in/MELODYHITS/index.m3u8
 #EXTINF:0001 tvg-id="XLkNES6kyKfJ4o" tvg-chno="45" group-title="famelack (ca) [ca] [False]" tvg-logo="", Montreal Greek TV
 https://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:0001 tvg-id="PcZvzmtUOxudPS" tvg-chno="46" group-title="famelack (ca) [ca] [False]" tvg-logo="", NACTV
