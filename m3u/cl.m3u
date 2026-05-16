@@ -75,22 +75,22 @@ https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:0001 tvg-id="YcrRaOKPB5tVF8" tvg-chno="38" group-title="famelack (cl) [cl] [False]" tvg-logo="", Santa Maria Television
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="RtV9rPOW8b3zIG" tvg-chno="39" group-title="famelack (cl) [cl] [False]" tvg-logo="", Solo Bailalo
-https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
-#EXTINF:0001 tvg-id="ZHWfamNislyUpU" tvg-chno="40" group-title="famelack (cl) [cl] [False]" tvg-logo="", SUR TV
+#EXTINF:0001 tvg-id="ZHWfamNislyUpU" tvg-chno="39" group-title="famelack (cl) [cl] [False]" tvg-logo="", SUR TV
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Ap4jlb2z9FPcau" tvg-chno="41" group-title="famelack (cl) [cl] [False]" tvg-logo="", T-Vinet
+#EXTINF:0001 tvg-id="Ap4jlb2z9FPcau" tvg-chno="40" group-title="famelack (cl) [cl] [False]" tvg-logo="", T-Vinet
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="QCubHZSGzvkAVk" tvg-chno="42" group-title="famelack (cl) [cl] [False]" tvg-logo="", Teletrak TV
+#EXTINF:0001 tvg-id="QCubHZSGzvkAVk" tvg-chno="41" group-title="famelack (cl) [cl] [False]" tvg-logo="", Teletrak TV
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="v7CKSlcO8gjGok" tvg-chno="43" group-title="famelack (cl) [cl] [False]" tvg-logo="", Televida
+#EXTINF:0001 tvg-id="v7CKSlcO8gjGok" tvg-chno="42" group-title="famelack (cl) [cl] [False]" tvg-logo="", Televida
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-#EXTINF:0001 tvg-id="Buf371rRZBbDSG" tvg-chno="44" group-title="famelack (cl) [cl] [False]" tvg-logo="", Tevex
+#EXTINF:0001 tvg-id="Buf371rRZBbDSG" tvg-chno="43" group-title="famelack (cl) [cl] [False]" tvg-logo="", Tevex
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:0001 tvg-id="P9srym3kVAIkYw" tvg-chno="45" group-title="famelack (cl) [cl] [False]" tvg-logo="", Thema Television
+#EXTINF:0001 tvg-id="P9srym3kVAIkYw" tvg-chno="44" group-title="famelack (cl) [cl] [False]" tvg-logo="", Thema Television
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="k0nYFEHOKnqOiZ" tvg-chno="46" group-title="famelack (cl) [cl] [False]" tvg-logo="", TNE
+#EXTINF:0001 tvg-id="k0nYFEHOKnqOiZ" tvg-chno="45" group-title="famelack (cl) [cl] [False]" tvg-logo="", TNE
 https://v2.tustreaming.cl/tnetv/index.m3u8
+#EXTINF:0001 tvg-id="aE41LbUT8Fnd7w" tvg-chno="46" group-title="famelack (cl) [cl] [False]" tvg-logo="", Turf Movil
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
 #EXTINF:0001 tvg-id="byUbvXPv80AteN" tvg-chno="47" group-title="famelack (cl) [cl] [False]" tvg-logo="", TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 #EXTINF:0001 tvg-id="hOfMwcYwkqMasz" tvg-chno="48" group-title="famelack (cl) [cl] [False]" tvg-logo="", TV UCT

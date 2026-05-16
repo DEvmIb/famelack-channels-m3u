@@ -2,7 +2,7 @@
 #EXTINF:0001 tvg-id="2H7AGmwfBbb0P2" tvg-chno="1" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Araby TV
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:0001 tvg-id="VyhE2uMDKGWvi8" tvg-chno="2" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Araby TV 2
-https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="o5kbiFCgZZTyJH" tvg-chno="3" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Jazeera 2
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
 #EXTINF:0001 tvg-id="mIaAqLMCDH73r4" tvg-chno="4" group-title="famelack (qa) [qa] [True]" tvg-logo="", Al Jazeera Arabic
