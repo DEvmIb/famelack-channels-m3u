@@ -10,7 +10,7 @@ https://bsmbialogard.pl/live/index.m3u8
 #EXTINF:0001 tvg-id="5fsuYuCG8ydAtN" tvg-chno="5" group-title="famelack (pl) [pl] [False]" tvg-logo="", Bigtime
 https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
 #EXTINF:0001 tvg-id="JwjTtBdIXCgMJP" tvg-chno="6" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB
-https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8
 #EXTINF:0001 tvg-id="DHR1El8JiIdfUH" tvg-chno="7" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB 3
 https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
 #EXTINF:0001 tvg-id="vifXiIDfcyAksy" tvg-chno="8" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB Info
@@ -91,15 +91,17 @@ https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8
 https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
 #EXTINF:0001 tvg-id="XOB3inPkwkHuWb" tvg-chno="46" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP1
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
-#EXTINF:0001 tvg-id="UJrA93oKFNB1K1" tvg-chno="47" group-title="famelack (pl) [pl] [False]" tvg-logo="", Twoja.TV
+#EXTINF:0001 tvg-id="4UCysSCkmhRS1I" tvg-chno="47" group-title="famelack (pl) [pl] [True]" tvg-logo="", TVS
+https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8
+#EXTINF:0001 tvg-id="UJrA93oKFNB1K1" tvg-chno="48" group-title="famelack (pl) [pl] [False]" tvg-logo="", Twoja.TV
 https://stream.twoja.tv/ttv_hls/live.m3u8
-#EXTINF:0001 tvg-id="fZI48V3oPHwUhn" tvg-chno="48" group-title="famelack (pl) [pl] [False]" tvg-logo="", W Polsce PL
+#EXTINF:0001 tvg-id="fZI48V3oPHwUhn" tvg-chno="49" group-title="famelack (pl) [pl] [False]" tvg-logo="", W Polsce PL
 https://lowa8026-cmyk.github.io/WPolscePL.m3u8
-#EXTINF:0001 tvg-id="XEnaPj4TUOsp8a" tvg-chno="49" group-title="famelack (pl) [pl] [False]" tvg-logo="", wedotv Auta FAST
+#EXTINF:0001 tvg-id="XEnaPj4TUOsp8a" tvg-chno="50" group-title="famelack (pl) [pl] [False]" tvg-logo="", wedotv Auta FAST
 https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8
-#EXTINF:0001 tvg-id="MJU7VJSTDePIik" tvg-chno="50" group-title="famelack (pl) [pl] [False]" tvg-logo="", World Billiards
+#EXTINF:0001 tvg-id="MJU7VJSTDePIik" tvg-chno="51" group-title="famelack (pl) [pl] [False]" tvg-logo="", World Billiards
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-#EXTINF:0001 tvg-id="B03jGEe29rjEvW" tvg-chno="51" group-title="famelack (pl) [pl] [False]" tvg-logo="", World Poker Tour Poland
+#EXTINF:0001 tvg-id="B03jGEe29rjEvW" tvg-chno="52" group-title="famelack (pl) [pl] [False]" tvg-logo="", World Poker Tour Poland
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
-#EXTINF:0001 tvg-id="xUqnXZyWFKx10m" tvg-chno="52" group-title="famelack (pl) [pl] [False]" tvg-logo="", Z Nation
+#EXTINF:0001 tvg-id="xUqnXZyWFKx10m" tvg-chno="53" group-title="famelack (pl) [pl] [False]" tvg-logo="", Z Nation
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098

@@ -23,15 +23,13 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 #EXTINF:0001 tvg-id="wYWPJvEa4MemLW" tvg-chno="12" group-title="famelack (sv) [sv] [False]" tvg-logo="", TaberTV
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
-#EXTINF:0001 tvg-id="MQP7BpQJdqA0hQ" tvg-chno="13" group-title="famelack (sv) [sv] [True]" tvg-logo="", Tigo Sports
-https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
-#EXTINF:0001 tvg-id="Blt46frCkDVO7v" tvg-chno="14" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV CRET
+#EXTINF:0001 tvg-id="Blt46frCkDVO7v" tvg-chno="13" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV CRET
 https://radiocret.net:8082/hls/tvcret.m3u8
-#EXTINF:0001 tvg-id="TXY73YSlkmlSSz" tvg-chno="15" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV Getsemani
+#EXTINF:0001 tvg-id="TXY73YSlkmlSSz" tvg-chno="14" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV Getsemani
 https://serversv.com:8080/hls/tvgetsemani.m3u8
-#EXTINF:0001 tvg-id="tHW7zvl92sqoa9" tvg-chno="16" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV Leon de Juda
+#EXTINF:0001 tvg-id="tHW7zvl92sqoa9" tvg-chno="15" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV Leon de Juda
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
-#EXTINF:0001 tvg-id="2fDbweulZuyK2h" tvg-chno="17" group-title="famelack (sv) [sv] [False]" tvg-logo="", TVCa
+#EXTINF:0001 tvg-id="2fDbweulZuyK2h" tvg-chno="16" group-title="famelack (sv) [sv] [False]" tvg-logo="", TVCa
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
-#EXTINF:0001 tvg-id="1jzCwLIvYDfCXS" tvg-chno="18" group-title="famelack (sv) [sv] [False]" tvg-logo="", WOW TV
+#EXTINF:0001 tvg-id="1jzCwLIvYDfCXS" tvg-chno="17" group-title="famelack (sv) [sv] [False]" tvg-logo="", WOW TV
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
