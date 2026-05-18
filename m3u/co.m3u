@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="KstfcDMjN0CcgR" tvg-chno="1" group-title="famelack (co) [co] [False]" tvg-logo="", Bendicion Channel
+#EXTINF:0001 tvg-id="DhFWPxFh4aKhyC" tvg-chno="1" group-title="famelack (co) [co] [False]" tvg-logo="", Avivamiento TV
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:0001 tvg-id="KstfcDMjN0CcgR" tvg-chno="2" group-title="famelack (co) [co] [False]" tvg-logo="", Bendicion Channel
 https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
-#EXTINF:0001 tvg-id="MOtKHm5z126roR" tvg-chno="2" group-title="famelack (co) [co] [False]" tvg-logo="", Blu Radio
+#EXTINF:0001 tvg-id="MOtKHm5z126roR" tvg-chno="3" group-title="famelack (co) [co] [False]" tvg-logo="", Blu Radio
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
-#EXTINF:0001 tvg-id="Gg9cAjQw6QXEKr" tvg-chno="3" group-title="famelack (co) [co] [False]" tvg-logo="", BUM Television
+#EXTINF:0001 tvg-id="Gg9cAjQw6QXEKr" tvg-chno="4" group-title="famelack (co) [co] [False]" tvg-logo="", BUM Television
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:0001 tvg-id="oSdd0QQnxFVsc5" tvg-chno="4" group-title="famelack (co) [co] [False]" tvg-logo="", CaliTV
+#EXTINF:0001 tvg-id="oSdd0QQnxFVsc5" tvg-chno="5" group-title="famelack (co) [co] [False]" tvg-logo="", CaliTV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:0001 tvg-id="G9r4ymgFpyAcFs" tvg-chno="5" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 2 Alpavision Neiva
+#EXTINF:0001 tvg-id="G9r4ymgFpyAcFs" tvg-chno="6" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 2 Alpavision Neiva
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:0001 tvg-id="WwkDGrZMJxcaPL" tvg-chno="6" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 8 TV+
+#EXTINF:0001 tvg-id="WwkDGrZMJxcaPL" tvg-chno="7" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 8 TV+
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:0001 tvg-id="s64BgUfTafeYF2" tvg-chno="7" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 14 Codazzi
+#EXTINF:0001 tvg-id="s64BgUfTafeYF2" tvg-chno="8" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 14 Codazzi
 https://eu1.servers10.com:8081/8056/index.m3u8
-#EXTINF:0001 tvg-id="dIQhSN2tH9x7qG" tvg-chno="8" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 55 Telemorisco TV
-https://canal.mediaserver.com.co/live/telemorisco.m3u8
 #EXTINF:0001 tvg-id="4tOQsHNAnrUk50" tvg-chno="9" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Calima TV
 https://movil.ejeserver.com/live/calimatv.m3u8
 #EXTINF:0001 tvg-id="nZ3VlBbXU9SC9N" tvg-chno="10" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Institucional
@@ -25,18 +25,18 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
 #EXTINF:0001 tvg-id="QA1x5OQRH7UVPJ" tvg-chno="13" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Nets
 https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:0001 tvg-id="HolomefezhLkUD" tvg-chno="14" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Oracion Con Son
-https://canal.mediaserver.com.co/live/oracionconson.m3u8
-#EXTINF:0001 tvg-id="rbVGB4gc6vGSpJ" tvg-chno="15" group-title="famelack (co) [co] [False]" tvg-logo="", Canal PyC
+#EXTINF:0001 tvg-id="rbVGB4gc6vGSpJ" tvg-chno="14" group-title="famelack (co) [co] [False]" tvg-logo="", Canal PyC
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-#EXTINF:0001 tvg-id="KjfXoBdjtuGuIn" tvg-chno="16" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Telefamilia
+#EXTINF:0001 tvg-id="KjfXoBdjtuGuIn" tvg-chno="15" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Telefamilia
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-#EXTINF:0001 tvg-id="A9tPf7Rzt5ngpc" tvg-chno="17" group-title="famelack (co) [co] [False]" tvg-logo="", Canica TV
+#EXTINF:0001 tvg-id="A9tPf7Rzt5ngpc" tvg-chno="16" group-title="famelack (co) [co] [False]" tvg-logo="", Canica TV
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
-#EXTINF:0001 tvg-id="DJujsKbajr1MwV" tvg-chno="18" group-title="famelack (co) [co] [False]" tvg-logo="", CMB Television
+#EXTINF:0001 tvg-id="DJujsKbajr1MwV" tvg-chno="17" group-title="famelack (co) [co] [False]" tvg-logo="", CMB Television
 https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8
-#EXTINF:0001 tvg-id="5UNNnPvR2HyEJi" tvg-chno="19" group-title="famelack (co) [co] [False]" tvg-logo="", CNC Bugavision
+#EXTINF:0001 tvg-id="5UNNnPvR2HyEJi" tvg-chno="18" group-title="famelack (co) [co] [False]" tvg-logo="", CNC Bugavision
 https://movil.ejeserver.com/live/cncbuga.m3u8
+#EXTINF:0001 tvg-id="vlNh6cGmLuP4h1" tvg-chno="19" group-title="famelack (co) [co] [False]" tvg-logo="", CNC Pereira
+https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
 #EXTINF:0001 tvg-id="b33gHrv8dtanp4" tvg-chno="20" group-title="famelack (co) [co] [False]" tvg-logo="", CNC Santander de Quilichao
 https://movil.ejeserver.com/live/cncsantander.m3u8
 #EXTINF:0001 tvg-id="vbjKgzPYYiGyx1" tvg-chno="21" group-title="famelack (co) [co] [False]" tvg-logo="", Cristovision
@@ -101,17 +101,21 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTINF:0001 tvg-id="nBCtUGxdm8WZSP" tvg-chno="51" group-title="famelack (co) [co] [False]" tvg-logo="", Suram TV
 https://us.streaminghd.cl/suramtv/index.m3u8
-#EXTINF:0001 tvg-id="J0rJwxe8lgoosT" tvg-chno="52" group-title="famelack (co) [co] [True]" tvg-logo="", Telepacifico
+#EXTINF:0001 tvg-id="aJPAtWT0lETbk1" tvg-chno="52" group-title="famelack (co) [co] [False]" tvg-logo="", Telebolivar
+https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
+#EXTINF:0001 tvg-id="NNAoypPSm0OCzN" tvg-chno="53" group-title="famelack (co) [co] [False]" tvg-logo="", Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:0001 tvg-id="J0rJwxe8lgoosT" tvg-chno="54" group-title="famelack (co) [co] [True]" tvg-logo="", Telepacifico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-#EXTINF:0001 tvg-id="Clv7XzV3Q51izu" tvg-chno="53" group-title="famelack (co) [co] [False]" tvg-logo="", Telesangil
+#EXTINF:0001 tvg-id="Clv7XzV3Q51izu" tvg-chno="55" group-title="famelack (co) [co] [False]" tvg-logo="", Telesangil
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
-#EXTINF:0001 tvg-id="BTUtiIKXJH39q3" tvg-chno="54" group-title="famelack (co) [co] [False]" tvg-logo="", TeveColombia
+#EXTINF:0001 tvg-id="BTUtiIKXJH39q3" tvg-chno="56" group-title="famelack (co) [co] [False]" tvg-logo="", TeveColombia
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
-#EXTINF:0001 tvg-id="Fvqin9l62Fj8Z2" tvg-chno="55" group-title="famelack (co) [co] [False]" tvg-logo="", Tu Universo TV
+#EXTINF:0001 tvg-id="Fvqin9l62Fj8Z2" tvg-chno="57" group-title="famelack (co) [co] [False]" tvg-logo="", Tu Universo TV
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-#EXTINF:0001 tvg-id="VcAQv2UIywMiiL" tvg-chno="56" group-title="famelack (co) [co] [False]" tvg-logo="", TV San Jorge
+#EXTINF:0001 tvg-id="VcAQv2UIywMiiL" tvg-chno="58" group-title="famelack (co) [co] [False]" tvg-logo="", TV San Jorge
 https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:0001 tvg-id="s1gW58b5trEZhx" tvg-chno="57" group-title="famelack (co) [co] [False]" tvg-logo="", Ultra Casanare TV
+#EXTINF:0001 tvg-id="s1gW58b5trEZhx" tvg-chno="59" group-title="famelack (co) [co] [False]" tvg-logo="", Ultra Casanare TV
 https://eu1.servers10.com:8081/8072/index.m3u8
-#EXTINF:0001 tvg-id="lOEoXHnp8Sj0dx" tvg-chno="58" group-title="famelack (co) [co] [False]" tvg-logo="", UMC TV
+#EXTINF:0001 tvg-id="lOEoXHnp8Sj0dx" tvg-chno="60" group-title="famelack (co) [co] [False]" tvg-logo="", UMC TV
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8

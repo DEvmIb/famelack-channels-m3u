@@ -13,14 +13,14 @@ https://starmenajo.com/hls/almahriah/index.m3u8
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:0001 tvg-id="laMNKAVyTuHniN" tvg-chno="7" group-title="famelack (tr) [tr] [True]" tvg-logo="", AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
-#EXTINF:0001 tvg-id="UBjqGDOceqJLt2" tvg-chno="8" group-title="famelack (tr) [tr] [False]" tvg-logo="", ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-#EXTINF:0001 tvg-id="GQEjero7WWkJqT" tvg-chno="9" group-title="famelack (tr) [tr] [False]" tvg-logo="", Bloomberg HT
+#EXTINF:0001 tvg-id="GQEjero7WWkJqT" tvg-chno="8" group-title="famelack (tr) [tr] [False]" tvg-logo="", Bloomberg HT
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
-#EXTINF:0001 tvg-id="lnPH0Jssl2BDkS" tvg-chno="10" group-title="famelack (tr) [tr] [False]" tvg-logo="", Bric ve Satranc TV
+#EXTINF:0001 tvg-id="lnPH0Jssl2BDkS" tvg-chno="9" group-title="famelack (tr) [tr] [False]" tvg-logo="", Bric ve Satranc TV
 https://139.162.182.79/live/test/index.m3u8
-#EXTINF:0001 tvg-id="WjndAfYgzOKuol" tvg-chno="11" group-title="famelack (tr) [tr] [True]" tvg-logo="", BRTV
+#EXTINF:0001 tvg-id="WjndAfYgzOKuol" tvg-chno="10" group-title="famelack (tr) [tr] [True]" tvg-logo="", BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:0001 tvg-id="pwwbm1gJHFpZMn" tvg-chno="11" group-title="famelack (tr) [tr] [False]" tvg-logo="", Can TV
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 #EXTINF:0001 tvg-id="u6zpmHPrnF1o3c" tvg-chno="12" group-title="famelack (tr) [tr] [False]" tvg-logo="", CGTN Documentary
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:0001 tvg-id="Sb9t7HbJFX4dw4" tvg-chno="13" group-title="famelack (tr) [tr] [False]" tvg-logo="", Ciftci TV
@@ -171,12 +171,12 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 #EXTINF:0001 tvg-id="W5plAUUYqWIZ2k" tvg-chno="86" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF:0001 tvg-id="ZdxrMEOa28PZnq" tvg-chno="87" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 264
-https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="8UTFNpq46IxrH2" tvg-chno="88" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV Den
+#EXTINF:0001 tvg-id="8UTFNpq46IxrH2" tvg-chno="87" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV Den
 https://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:0001 tvg-id="TKQbSmFlgXq83c" tvg-chno="89" group-title="famelack (tr) [tr] [False]" tvg-logo="", Urfa Natik TV
+#EXTINF:0001 tvg-id="TKQbSmFlgXq83c" tvg-chno="88" group-title="famelack (tr) [tr] [False]" tvg-logo="", Urfa Natik TV
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+#EXTINF:0001 tvg-id="jR1pEYmA9cImfH" tvg-chno="89" group-title="famelack (tr) [tr] [False]" tvg-logo="", UU TV 2
+https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:0001 tvg-id="o42XfPEZyBkZVI" tvg-chno="90" group-title="famelack (tr) [tr] [False]" tvg-logo="", Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:0001 tvg-id="z7fzuBK8WkQvBK" tvg-chno="91" group-title="famelack (tr) [tr] [False]" tvg-logo="", Zarok TV
