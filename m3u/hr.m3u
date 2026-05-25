@@ -13,3 +13,7 @@ https://stream.luci.xyz/hls/LTV.m3u8
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
 #EXTINF:0001 tvg-id="N20HHEdGRq23oN" tvg-chno="7" group-title="famelack (hr) [hr] [False]" tvg-logo="", SBTV
 https://live.leveex.hr/hls/live.m3u8
+#EXTINF:0001 tvg-id="J3nEPCNB7tfIfa" tvg-chno="8" group-title="famelack (hr) [hr] [False]" tvg-logo="", TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:0001 tvg-id="YYX03S5xOVCpAS" tvg-chno="9" group-title="famelack (hr) [hr] [False]" tvg-logo="", TV Nova
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
