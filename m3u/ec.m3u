@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="1PJE0RldSK4FL3" tvg-chno="1" group-title="famelack (ec) [ec] [False]" tvg-logo="", America Estereo Guayaquil
-https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
-#EXTINF:0001 tvg-id="S4rLEDzjcTuaYb" tvg-chno="2" group-title="famelack (ec) [ec] [False]" tvg-logo="", America Estereo Ibarra
+#EXTINF:0001 tvg-id="S4rLEDzjcTuaYb" tvg-chno="1" group-title="famelack (ec) [ec] [False]" tvg-logo="", America Estereo Ibarra
 https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
-#EXTINF:0001 tvg-id="y1pSHIh9PqpE80" tvg-chno="3" group-title="famelack (ec) [ec] [False]" tvg-logo="", America Estereo Quito
+#EXTINF:0001 tvg-id="y1pSHIh9PqpE80" tvg-chno="2" group-title="famelack (ec) [ec] [False]" tvg-logo="", America Estereo Quito
 https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+#EXTINF:0001 tvg-id="9rZVPlxNd1hrQ9" tvg-chno="3" group-title="famelack (ec) [ec] [False]" tvg-logo="", America Estereo Tulcan
+https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
 #EXTINF:0001 tvg-id="8Bv8hcX2tNuzZb" tvg-chno="4" group-title="famelack (ec) [ec] [False]" tvg-logo="", Antena Uno Radiovideo
 https://tvdatta.com:3578/live/antenaunolive.m3u8
 #EXTINF:0001 tvg-id="foqtQhn0xjFGsZ" tvg-chno="5" group-title="famelack (ec) [ec] [False]" tvg-logo="", Asomavision

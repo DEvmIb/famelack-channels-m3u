@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="dpWlLcrelGoz5q" tvg-chno="1" group-title="famelack (tj) [tj] [False]" tvg-logo="", Dushanbe HD
-https://live.teleradiocom.tj/7/3m.m3u8
-#EXTINF:0001 tvg-id="V4jGt9xEkE4lxd" tvg-chno="2" group-title="famelack (tj) [tj] [False]" tvg-logo="", TV Safina
-https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:0001 tvg-id="Ii5lz7MUdFsm2f" tvg-chno="1" group-title="famelack (tj) [tj] [False]" tvg-logo="", Badakhshon
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:0001 tvg-id="XyJbjiw5j7Ws7W" tvg-chno="2" group-title="famelack (tj) [tj] [False]" tvg-logo="", Ilm va Tabiat
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:0001 tvg-id="P4B1vZV4yfBcQ2" tvg-chno="3" group-title="famelack (tj) [tj] [False]" tvg-logo="", Tojikiston
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:0001 tvg-id="NShw7xJgxDD1cS" tvg-chno="4" group-title="famelack (tj) [tj] [False]" tvg-logo="", TV Sugd
+https://live.teleradiocom.tj/14/3m.m3u8

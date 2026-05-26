@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="lcey07WMBla5Ew" tvg-chno="1" group-title="famelack (kg) [kg] [False]" tvg-logo="", Ala-Too 24
+https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
+#EXTINF:0001 tvg-id="9rNYuwo2hNvOTo" tvg-chno="2" group-title="famelack (kg) [kg] [False]" tvg-logo="", Balastan
+https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
+#EXTINF:0001 tvg-id="HFfUv9WYOt4Tyh" tvg-chno="3" group-title="famelack (kg) [kg] [False]" tvg-logo="", Music
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+#EXTINF:0001 tvg-id="OO2lWZlEQ0XbMC" tvg-chno="4" group-title="famelack (kg) [kg] [False]" tvg-logo="", UTRK
+https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8
