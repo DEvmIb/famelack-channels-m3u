@@ -5,18 +5,18 @@ https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
 https://live.alittihad.tv:444/ittihad/index.m3u8
 #EXTINF:0001 tvg-id="h1ncAaz3z6G5rC" tvg-chno="3" group-title="famelack (lb) [lb] [False]" tvg-logo="", Al Mayadeen TV
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="SJ1fJzR4YH5Qub" tvg-chno="4" group-title="famelack (lb) [lb] [False]" tvg-logo="", Al-Iman TV
-https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="adH0u7bdwEN6Q4" tvg-chno="5" group-title="famelack (lb) [lb] [False]" tvg-logo="", Al-Manar
+#EXTINF:0001 tvg-id="adH0u7bdwEN6Q4" tvg-chno="4" group-title="famelack (lb) [lb] [False]" tvg-logo="", Al-Manar
 https://edge.fastpublish.me/live/index.m3u8
-#EXTINF:0001 tvg-id="oHpWSCiwHvXaJw" tvg-chno="6" group-title="famelack (lb) [lb] [False]" tvg-logo="", Assirat TV
+#EXTINF:0001 tvg-id="oHpWSCiwHvXaJw" tvg-chno="5" group-title="famelack (lb) [lb] [False]" tvg-logo="", Assirat TV
 https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
-#EXTINF:0001 tvg-id="o4YWqt8qnKLyde" tvg-chno="7" group-title="famelack (lb) [lb] [False]" tvg-logo="", Charity TV
+#EXTINF:0001 tvg-id="o4YWqt8qnKLyde" tvg-chno="6" group-title="famelack (lb) [lb] [False]" tvg-logo="", Charity TV
 https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
-#EXTINF:0001 tvg-id="zbc7OvMJjNYiAj" tvg-chno="8" group-title="famelack (lb) [lb] [False]" tvg-logo="", Future TV
+#EXTINF:0001 tvg-id="zbc7OvMJjNYiAj" tvg-chno="7" group-title="famelack (lb) [lb] [False]" tvg-logo="", Future TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="svC7kYWZwwTnpS" tvg-chno="9" group-title="famelack (lb) [lb] [False]" tvg-logo="", Lana TV
+#EXTINF:0001 tvg-id="svC7kYWZwwTnpS" tvg-chno="8" group-title="famelack (lb) [lb] [False]" tvg-logo="", Lana TV
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
+#EXTINF:0001 tvg-id="OZojwzo0g4hoz6" tvg-chno="9" group-title="famelack (lb) [lb] [False]" tvg-logo="", mfm
+https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
 #EXTINF:0001 tvg-id="chS5L1lWnmt9Lq" tvg-chno="10" group-title="famelack (lb) [lb] [False]" tvg-logo="", Nour Al Koddass
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
 #EXTINF:0001 tvg-id="jTdu7ZWaX25z1l" tvg-chno="11" group-title="famelack (lb) [lb] [False]" tvg-logo="", Nour Al Sharq
@@ -25,9 +25,13 @@ https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:0001 tvg-id="ZBLEdJObtRX5b1" tvg-chno="13" group-title="famelack (lb) [lb] [False]" tvg-logo="", Noursat English
 https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="2IP0NHvFLY6hEX" tvg-chno="14" group-title="famelack (lb) [lb] [False]" tvg-logo="", Palestine Al Yawm
+#EXTINF:0001 tvg-id="emIP3T2eF8irvD" tvg-chno="14" group-title="famelack (lb) [lb] [False]" tvg-logo="", One TV
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
+#EXTINF:0001 tvg-id="gnuuMkH7mNSzfZ" tvg-chno="15" group-title="famelack (lb) [lb] [False]" tvg-logo="", OneFM
+https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
+#EXTINF:0001 tvg-id="2IP0NHvFLY6hEX" tvg-chno="16" group-title="famelack (lb) [lb] [False]" tvg-logo="", Palestine Al Yawm
 https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
-#EXTINF:0001 tvg-id="rcAVPicFrfGwrS" tvg-chno="15" group-title="famelack (lb) [lb] [False]" tvg-logo="", Red TV Lebanon
+#EXTINF:0001 tvg-id="rcAVPicFrfGwrS" tvg-chno="17" group-title="famelack (lb) [lb] [False]" tvg-logo="", Red TV Lebanon
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="fWdgIuiyR31OcO" tvg-chno="16" group-title="famelack (lb) [lb] [False]" tvg-logo="", Voice of Lebanon
+#EXTINF:0001 tvg-id="fWdgIuiyR31OcO" tvg-chno="18" group-title="famelack (lb) [lb] [False]" tvg-logo="", Voice of Lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
