@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="hmJBHkCQQky6u9" tvg-chno="1" group-title="famelack (eg) [eg] [False]" tvg-logo="", Aghapy TV
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="PKOl6YLNA3xe6A" tvg-chno="2" group-title="famelack (eg) [eg] [False]" tvg-logo="", ATVSat
+#EXTINF:0001 tvg-id="R3nEpkv51x8AF7" tvg-chno="2" group-title="famelack (eg) [eg] [False]" tvg-logo="", Al Ghad TV
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:0001 tvg-id="PKOl6YLNA3xe6A" tvg-chno="3" group-title="famelack (eg) [eg] [False]" tvg-logo="", ATVSat
 https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="cldgrOT0slw0oJ" tvg-chno="3" group-title="famelack (eg) [eg] [False]" tvg-logo="", Coptic TV
+#EXTINF:0001 tvg-id="cldgrOT0slw0oJ" tvg-chno="4" group-title="famelack (eg) [eg] [False]" tvg-logo="", Coptic TV
 https://ctv.icopts.app/CTV/index.fmp4.m3u8
-#EXTINF:0001 tvg-id="dSBCv9wMIeHZkP" tvg-chno="4" group-title="famelack (eg) [eg] [False]" tvg-logo="", El Radio 9090 FM
+#EXTINF:0001 tvg-id="dSBCv9wMIeHZkP" tvg-chno="5" group-title="famelack (eg) [eg] [False]" tvg-logo="", El Radio 9090 FM
 https://9090video.mobtada.com/hls/stream.m3u8
-#EXTINF:0001 tvg-id="9PE4R6NdLx4OF9" tvg-chno="5" group-title="famelack (eg) [eg] [False]" tvg-logo="", Huda TV
-https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:0001 tvg-id="7QNwjfAH3tZtOn" tvg-chno="6" group-title="famelack (eg) [eg] [False]" tvg-logo="", Koogi TV
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="zNKcIL8vSfNOiJ" tvg-chno="7" group-title="famelack (eg) [eg] [False]" tvg-logo="", Mix Hollywood
