@@ -27,3 +27,5 @@ https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
 #EXTINF:0001 tvg-id="R193ToXFYYRnV4" tvg-chno="14" group-title="famelack (ci) [ci] [False]" tvg-logo="", Serie Max
 https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
+#EXTINF:0001 tvg-id="twgsMNbK1cPcS5" tvg-chno="15" group-title="famelack (ci) [ci] [False]" tvg-logo="", TV La Capitale
+https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8

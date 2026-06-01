@@ -83,17 +83,19 @@ https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:0001 tvg-id="lH4dJFZ2RLNxKP" tvg-chno="42" group-title="famelack (gr) [gr] [False]" tvg-logo="", Syros TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:0001 tvg-id="Nhov9FRmWvJ4cy" tvg-chno="43" group-title="famelack (gr) [gr] [False]" tvg-logo="", Thraki Net TV
+#EXTINF:0001 tvg-id="ExXGZtUJaG1vOi" tvg-chno="43" group-title="famelack (gr) [gr] [False]" tvg-logo="", Telekriti
+https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:0001 tvg-id="Nhov9FRmWvJ4cy" tvg-chno="44" group-title="famelack (gr) [gr] [False]" tvg-logo="", Thraki Net TV
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:0001 tvg-id="L7DGt24WcQkuGo" tvg-chno="44" group-title="famelack (gr) [gr] [False]" tvg-logo="", Top Channel
+#EXTINF:0001 tvg-id="L7DGt24WcQkuGo" tvg-chno="45" group-title="famelack (gr) [gr] [False]" tvg-logo="", Top Channel
 https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
-#EXTINF:0001 tvg-id="m8BDyIFQ09DrYt" tvg-chno="45" group-title="famelack (gr) [gr] [False]" tvg-logo="", TRT
+#EXTINF:0001 tvg-id="m8BDyIFQ09DrYt" tvg-chno="46" group-title="famelack (gr) [gr] [False]" tvg-logo="", TRT
 https://av.hellasnet.tv/rst/trt/main_stream.m3u8
-#EXTINF:0001 tvg-id="TGMLWTxBfujR39" tvg-chno="46" group-title="famelack (gr) [gr] [False]" tvg-logo="", TV 100
+#EXTINF:0001 tvg-id="TGMLWTxBfujR39" tvg-chno="47" group-title="famelack (gr) [gr] [False]" tvg-logo="", TV 100
 https://gwebstream.net/hls/master.m3u8
-#EXTINF:0001 tvg-id="Xstsz3HxvmyGSQ" tvg-chno="47" group-title="famelack (gr) [gr] [False]" tvg-logo="", TV Creta
+#EXTINF:0001 tvg-id="Xstsz3HxvmyGSQ" tvg-chno="48" group-title="famelack (gr) [gr] [False]" tvg-logo="", TV Creta
 https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
-#EXTINF:0001 tvg-id="cu6RCMF1x7RHRd" tvg-chno="48" group-title="famelack (gr) [gr] [False]" tvg-logo="", Vergina TV
+#EXTINF:0001 tvg-id="cu6RCMF1x7RHRd" tvg-chno="49" group-title="famelack (gr) [gr] [False]" tvg-logo="", Vergina TV
 https://verginanews.gr:8443/hls_live/stream1.m3u8
-#EXTINF:0001 tvg-id="at2mNido4XOnuc" tvg-chno="49" group-title="famelack (gr) [gr] [False]" tvg-logo="", Zougla TV
+#EXTINF:0001 tvg-id="at2mNido4XOnuc" tvg-chno="50" group-title="famelack (gr) [gr] [False]" tvg-logo="", Zougla TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8

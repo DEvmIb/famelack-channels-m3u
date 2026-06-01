@@ -103,17 +103,17 @@ https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/
 https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8
 #EXTINF:0001 tvg-id="PsqmjTAcyqo2QW" tvg-chno="52" group-title="famelack (fr) [fr] [False]" tvg-logo="", Les Secrets de Nos Régions
 https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="FSarTXtXzxj5ih" tvg-chno="53" group-title="famelack (fr) [fr] [False]" tvg-logo="", Les Z'amours
+#EXTINF:0001 tvg-id="FSarTXtXzxj5ih" tvg-chno="53" group-title="famelack (fr) [fr] [False]" tvg-logo="", Les Z'Amours
 https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="rOt2GRHARiewoL" tvg-chno="54" group-title="famelack (fr) [fr] [False]" tvg-logo="", Littoral FM TV
-https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:0001 tvg-id="5oNNwRbeufUj8K" tvg-chno="55" group-title="famelack (fr) [fr] [False]" tvg-logo="", Monte Carlo Digital Television
+#EXTINF:0001 tvg-id="5oNNwRbeufUj8K" tvg-chno="54" group-title="famelack (fr) [fr] [False]" tvg-logo="", Monte Carlo Digital Television
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
-#EXTINF:0001 tvg-id="kD5MBV5ey6hKbh" tvg-chno="56" group-title="famelack (fr) [fr] [False]" tvg-logo="", Motus La Chaîne
+#EXTINF:0001 tvg-id="kD5MBV5ey6hKbh" tvg-chno="55" group-title="famelack (fr) [fr] [False]" tvg-logo="", Motus La Chaîne
 https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
+#EXTINF:0001 tvg-id="frxoUV6KIlJwd1" tvg-chno="56" group-title="famelack (fr) [fr] [False]" tvg-logo="", MyTime Movie Network France
+https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="hDKihfnR1gIzAi" tvg-chno="57" group-title="famelack (fr) [fr] [True]" tvg-logo="", MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:0001 tvg-id="SbCVyIRCGshv9Z" tvg-chno="58" group-title="famelack (fr) [fr] [False]" tvg-logo="", Nature Time
+#EXTINF:0001 tvg-id="SbCVyIRCGshv9Z" tvg-chno="58" group-title="famelack (fr) [fr] [False]" tvg-logo="", Nature Time France
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="UV2K3Inr6FlKvf" tvg-chno="59" group-title="famelack (fr) [fr] [False]" tvg-logo="", P2M TV
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8

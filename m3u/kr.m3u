@@ -31,14 +31,14 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:0001 tvg-id="iHYNLGETdvi3C5" tvg-chno="16" group-title="famelack (kr) [kr] [False]" tvg-logo="", FGTV
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="BHUk7W2sHiMZn9" tvg-chno="17" group-title="famelack (kr) [kr] [False]" tvg-logo="", Gongyoung Home Shopping
-https://etv.publichs.com/live5.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="Ha2TQrOiJuUiVm" tvg-chno="18" group-title="famelack (kr) [kr] [False]" tvg-logo="", GS My Shop
+#EXTINF:0001 tvg-id="Ha2TQrOiJuUiVm" tvg-chno="17" group-title="famelack (kr) [kr] [False]" tvg-logo="", GS My Shop
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="tTyhlQIbf96cqF" tvg-chno="19" group-title="famelack (kr) [kr] [False]" tvg-logo="", GS Shop
+#EXTINF:0001 tvg-id="tTyhlQIbf96cqF" tvg-chno="18" group-title="famelack (kr) [kr] [False]" tvg-logo="", GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="hJP0GSnYM15Xax" tvg-chno="20" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLAJ-DTV
+#EXTINF:0001 tvg-id="hJP0GSnYM15Xax" tvg-chno="19" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLAJ-DTV
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:0001 tvg-id="LeEKq1Wp81fOe3" tvg-chno="20" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLAN-DTV
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:0001 tvg-id="pnA1ESNuQBhdp0" tvg-chno="21" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLAT-DTV
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:0001 tvg-id="GCDtsdmWOrJKEn" tvg-chno="22" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLCQ-DTV
