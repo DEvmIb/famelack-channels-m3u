@@ -41,27 +41,25 @@ https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0001 tvg-id="jHe1OEHTcksowX" tvg-chno="21" group-title="famelack (at) [at] [False]" tvg-logo="", Red Bull TV AU
 https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:0001 tvg-id="L5wf5IamZyqkNz" tvg-chno="22" group-title="famelack (at) [at] [False]" tvg-logo="", Regional TV Salzburg
-https://ms02.w24.at/R9Partner/rts.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="LmXiHP1vY6XyzS" tvg-chno="23" group-title="famelack (at) [at] [False]" tvg-logo="", RTV
+#EXTINF:0001 tvg-id="LmXiHP1vY6XyzS" tvg-chno="22" group-title="famelack (at) [at] [False]" tvg-logo="", RTV
 https://streamtest.rtv-ooe.at/stream.m3u8
-#EXTINF:0001 tvg-id="K8THRi8hdcH82I" tvg-chno="24" group-title="famelack (at) [at] [False]" tvg-logo="", Schladming-Dachstein TV
+#EXTINF:0001 tvg-id="K8THRi8hdcH82I" tvg-chno="23" group-title="famelack (at) [at] [False]" tvg-logo="", Schladming-Dachstein TV
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="ArpzONQunFnW4f" tvg-chno="25" group-title="famelack (at) [at] [True]" tvg-logo="", ServusTV
+#EXTINF:0001 tvg-id="ArpzONQunFnW4f" tvg-chno="24" group-title="famelack (at) [at] [True]" tvg-logo="", ServusTV
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
-#EXTINF:0001 tvg-id="FprwnAkCKvi17W" tvg-chno="26" group-title="famelack (at) [at] [False]" tvg-logo="", Steiermark TV
+#EXTINF:0001 tvg-id="FprwnAkCKvi17W" tvg-chno="25" group-title="famelack (at) [at] [False]" tvg-logo="", Steiermark TV
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
-#EXTINF:0001 tvg-id="dHIKj0PT3rIpW8" tvg-chno="27" group-title="famelack (at) [at] [False]" tvg-logo="", Stimmungsgarten TV
+#EXTINF:0001 tvg-id="dHIKj0PT3rIpW8" tvg-chno="26" group-title="famelack (at) [at] [False]" tvg-logo="", Stimmungsgarten TV
 https://stimmungsgartentv.iptv-playoutcenter.de/stimmungsgartentv/stimmungsgartentv-all/playlist.m3u8
-#EXTINF:0001 tvg-id="0mEe54Ekw1mj61" tvg-chno="28" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV American
+#EXTINF:0001 tvg-id="0mEe54Ekw1mj61" tvg-chno="27" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV American
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="5ZPKeEUbFRktME" tvg-chno="29" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV Australian
+#EXTINF:0001 tvg-id="5ZPKeEUbFRktME" tvg-chno="28" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV Australian
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="FJL8QhoyygdV5z" tvg-chno="30" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV European
+#EXTINF:0001 tvg-id="FJL8QhoyygdV5z" tvg-chno="29" group-title="famelack (at) [at] [False]" tvg-logo="", Swamiji TV European
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="YQPekJKCEusA1c" tvg-chno="31" group-title="famelack (at) [at] [False]" tvg-logo="", Tirol TV
+#EXTINF:0001 tvg-id="YQPekJKCEusA1c" tvg-chno="30" group-title="famelack (at) [at] [False]" tvg-logo="", Tirol TV
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:0001 tvg-id="rKCjw7q21G4IO1" tvg-chno="32" group-title="famelack (at) [at] [False]" tvg-logo="", TV 1 Oberosterreich
+#EXTINF:0001 tvg-id="rKCjw7q21G4IO1" tvg-chno="31" group-title="famelack (at) [at] [False]" tvg-logo="", TV 1 Oberosterreich
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
-#EXTINF:0001 tvg-id="poBLTECPZ1p4X6" tvg-chno="33" group-title="famelack (at) [at] [False]" tvg-logo="", W24
+#EXTINF:0001 tvg-id="poBLTECPZ1p4X6" tvg-chno="32" group-title="famelack (at) [at] [False]" tvg-logo="", W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8

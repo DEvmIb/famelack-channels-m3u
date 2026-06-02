@@ -57,5 +57,3 @@ https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 #EXTINF:0001 tvg-id="pT9oAXkeRbqGBU" tvg-chno="29" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Copan
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
-#EXTINF:0001 tvg-id="68v5jZBiXMRfcB" tvg-chno="30" group-title="famelack (hn) [hn] [False]" tvg-logo="", UNE TV
-https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
