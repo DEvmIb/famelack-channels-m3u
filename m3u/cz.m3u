@@ -21,11 +21,9 @@ https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 #EXTINF:0001 tvg-id="B1D7ROeH3iyq1i" tvg-chno="11" group-title="famelack (cz) [cz] [False]" tvg-logo="", Polar2
 https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
-#EXTINF:0001 tvg-id="2MBpmC0kG7TZ8G" tvg-chno="12" group-title="famelack (cz) [cz] [False]" tvg-logo="", Retro Music TV
-https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0001 tvg-id="fTApFWHNaUxcOH" tvg-chno="13" group-title="famelack (cz) [cz] [False]" tvg-logo="", TV Brno 1
+#EXTINF:0001 tvg-id="fTApFWHNaUxcOH" tvg-chno="12" group-title="famelack (cz) [cz] [False]" tvg-logo="", TV Brno 1
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
-#EXTINF:0001 tvg-id="cWzKFLiigGaQzp" tvg-chno="14" group-title="famelack (cz) [cz] [False]" tvg-logo="", UTV
+#EXTINF:0001 tvg-id="cWzKFLiigGaQzp" tvg-chno="13" group-title="famelack (cz) [cz] [False]" tvg-logo="", UTV
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:0001 tvg-id="NTuQpCvDO7jZXl" tvg-chno="15" group-title="famelack (cz) [cz] [False]" tvg-logo="", Vychodoceska TV
+#EXTINF:0001 tvg-id="NTuQpCvDO7jZXl" tvg-chno="14" group-title="famelack (cz) [cz] [False]" tvg-logo="", Vychodoceska TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8

@@ -9,10 +9,10 @@ https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 #EXTINF:0001 tvg-id="exPdjFAwdnd4RU" tvg-chno="5" group-title="famelack (vn) [vn] [False]" tvg-logo="", Ha Tinh TV
 https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
-#EXTINF:0001 tvg-id="MO8deGVLY2zQ9f" tvg-chno="6" group-title="famelack (vn) [vn] [True]" tvg-logo="", HanoiTV2
+#EXTINF:0001 tvg-id="QnYbafq8SSO9v0" tvg-chno="6" group-title="famelack (vn) [vn] [True]" tvg-logo="", HanoiTV1
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
+#EXTINF:0001 tvg-id="MO8deGVLY2zQ9f" tvg-chno="7" group-title="famelack (vn) [vn] [True]" tvg-logo="", HanoiTV2
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="IzIeB6PQT3Mcyn" tvg-chno="7" group-title="famelack (vn) [vn] [False]" tvg-logo="", HTV3
-https://liveh12byt.vtvprime.vn/hls/HTV3/03.m3u8
 #EXTINF:0001 tvg-id="PYD65sKTsyBg8u" tvg-chno="8" group-title="famelack (vn) [vn] [False]" tvg-logo="", Lao Cai TV
 https://live.baolaocai.vn/channel2/stream.m3u8
 #EXTINF:0001 tvg-id="nfUMYUgBEhhJaP" tvg-chno="9" group-title="famelack (vn) [vn] [False]" tvg-logo="", Lao SV TV
