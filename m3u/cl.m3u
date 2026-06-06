@@ -103,13 +103,11 @@ https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="uiKxEXDS2qwujf" tvg-chno="52" group-title="famelack (cl) [cl] [False]" tvg-logo="", U Los Lagos TV
 https://tv.ulagos.cl/web/live.m3u8
-#EXTINF:0001 tvg-id="kTSEb5mta8wgr6" tvg-chno="53" group-title="famelack (cl) [cl] [False]" tvg-logo="", UATV
-https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="L90TWymzbjAtJm" tvg-chno="54" group-title="famelack (cl) [cl] [False]" tvg-logo="", UCV TV
+#EXTINF:0001 tvg-id="L90TWymzbjAtJm" tvg-chno="53" group-title="famelack (cl) [cl] [False]" tvg-logo="", UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="rZh1GpFWO9ft0O" tvg-chno="55" group-title="famelack (cl) [cl] [False]" tvg-logo="", UTV
+#EXTINF:0001 tvg-id="rZh1GpFWO9ft0O" tvg-chno="54" group-title="famelack (cl) [cl] [False]" tvg-logo="", UTV
 https://v2.tustreaming.cl/utv/index.m3u8
-#EXTINF:0001 tvg-id="Y2Z36ASHb1vcNr" tvg-chno="56" group-title="famelack (cl) [cl] [False]" tvg-logo="", VC Online
+#EXTINF:0001 tvg-id="Y2Z36ASHb1vcNr" tvg-chno="55" group-title="famelack (cl) [cl] [False]" tvg-logo="", VC Online
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:0001 tvg-id="55jNFzDbCSLLQk" tvg-chno="57" group-title="famelack (cl) [cl] [False]" tvg-logo="", VTV Valle de Aconcagua
+#EXTINF:0001 tvg-id="55jNFzDbCSLLQk" tvg-chno="56" group-title="famelack (cl) [cl] [False]" tvg-logo="", VTV Valle de Aconcagua
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8

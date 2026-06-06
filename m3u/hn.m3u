@@ -45,19 +45,17 @@ https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
 #EXTINF:0001 tvg-id="ZL6itoyroCEVU7" tvg-chno="23" group-title="famelack (hn) [hn] [False]" tvg-logo="", Sula TV
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="CdFanpx5ODdkpP" tvg-chno="24" group-title="famelack (hn) [hn] [False]" tvg-logo="", Teleceiba
-https://teleceiba.com/stream/tlcb720.m3u8
-#EXTINF:0001 tvg-id="bogtDcaAWtOFRz" tvg-chno="25" group-title="famelack (hn) [hn] [False]" tvg-logo="", Telerayo
+#EXTINF:0001 tvg-id="bogtDcaAWtOFRz" tvg-chno="24" group-title="famelack (hn) [hn] [False]" tvg-logo="", Telerayo
 https://s.emisoras.tv:8081/telerayo/index.m3u8
-#EXTINF:0001 tvg-id="YjpTIsdhrTKDB8" tvg-chno="26" group-title="famelack (hn) [hn] [False]" tvg-logo="", Television Metropolis 19.1
+#EXTINF:0001 tvg-id="YjpTIsdhrTKDB8" tvg-chno="25" group-title="famelack (hn) [hn] [False]" tvg-logo="", Television Metropolis 19.1
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-#EXTINF:0001 tvg-id="r9T8ukgsfSELlS" tvg-chno="27" group-title="famelack (hn) [hn] [False]" tvg-logo="", Television Metropolis 19.2
+#EXTINF:0001 tvg-id="r9T8ukgsfSELlS" tvg-chno="26" group-title="famelack (hn) [hn] [False]" tvg-logo="", Television Metropolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-#EXTINF:0001 tvg-id="qWRNlLMLdjrPV7" tvg-chno="28" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro 27.2 HD
+#EXTINF:0001 tvg-id="qWRNlLMLdjrPV7" tvg-chno="27" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro 27.2 HD
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-#EXTINF:0001 tvg-id="OPNVhQbPeZ6MyD" tvg-chno="29" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro HD
+#EXTINF:0001 tvg-id="OPNVhQbPeZ6MyD" tvg-chno="28" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro HD
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-#EXTINF:0001 tvg-id="pT9oAXkeRbqGBU" tvg-chno="30" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Copan
+#EXTINF:0001 tvg-id="pT9oAXkeRbqGBU" tvg-chno="29" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Copan
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
-#EXTINF:0001 tvg-id="68v5jZBiXMRfcB" tvg-chno="31" group-title="famelack (hn) [hn] [False]" tvg-logo="", UNE TV
+#EXTINF:0001 tvg-id="68v5jZBiXMRfcB" tvg-chno="30" group-title="famelack (hn) [hn] [False]" tvg-logo="", UNE TV
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
