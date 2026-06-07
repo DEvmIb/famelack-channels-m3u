@@ -139,11 +139,9 @@ https://t2hls.wns.live/hls/stream.m3u8
 https://hls.nejat.live/hls/stream.m3u8
 #EXTINF:0001 tvg-id="ME0BNcj7isVnrR" tvg-chno="70" group-title="famelack (ir) [ir] [False]" tvg-logo="", TM TV
 https://hls.tmtv.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="PDYUVQOORGvET6" tvg-chno="71" group-title="famelack (ir) [ir] [False]" tvg-logo="", TV ITN
-https://itnhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="gNhOgT2v5bREO2" tvg-chno="72" group-title="famelack (ir) [ir] [False]" tvg-logo="", VOX1
+#EXTINF:0001 tvg-id="gNhOgT2v5bREO2" tvg-chno="71" group-title="famelack (ir) [ir] [False]" tvg-logo="", VOX1
 https://hls.vox1.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="hukeqny6nOwPuT" tvg-chno="73" group-title="famelack (ir) [ir] [False]" tvg-logo="", WiseHumanTv
+#EXTINF:0001 tvg-id="hukeqny6nOwPuT" tvg-chno="72" group-title="famelack (ir) [ir] [False]" tvg-logo="", WiseHumanTv
 https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
-#EXTINF:0001 tvg-id="sufBrIYaOUMBHf" tvg-chno="74" group-title="famelack (ir) [ir] [False]" tvg-logo="", Zed TV
+#EXTINF:0001 tvg-id="sufBrIYaOUMBHf" tvg-chno="73" group-title="famelack (ir) [ir] [False]" tvg-logo="", Zed TV
 https://zedhls.wns.live/hls/stream.m3u8

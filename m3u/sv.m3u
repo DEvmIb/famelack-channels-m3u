@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="CyX7gTzMI3L05o" tvg-chno="1" group-title="famelack (sv) [sv] [False]" tvg-logo="", Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="ClqJYJmuvjGxXn" tvg-chno="2" group-title="famelack (sv) [sv] [False]" tvg-logo="", Arbol de Vida TV
-https://yupistream.top:19360/livearbol/livearbol.m3u8
-#EXTINF:0001 tvg-id="YYSyi5o00uvneu" tvg-chno="3" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 3 Impresionante
+#EXTINF:0001 tvg-id="YYSyi5o00uvneu" tvg-chno="2" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
-#EXTINF:0001 tvg-id="vNCLFtuOMVJo2z" tvg-chno="4" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 10
+#EXTINF:0001 tvg-id="vNCLFtuOMVJo2z" tvg-chno="3" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
-#EXTINF:0001 tvg-id="aM75JGWBPQWWgI" tvg-chno="5" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 11 TuTV
+#EXTINF:0001 tvg-id="aM75JGWBPQWWgI" tvg-chno="4" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
-#EXTINF:0001 tvg-id="JNkGygM92uxejo" tvg-chno="6" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 15 El Zamorano
+#EXTINF:0001 tvg-id="JNkGygM92uxejo" tvg-chno="5" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 15 El Zamorano
 https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8
-#EXTINF:0001 tvg-id="2JuIWNzpBvexFE" tvg-chno="7" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 26 TV IAP
+#EXTINF:0001 tvg-id="2JuIWNzpBvexFE" tvg-chno="6" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 26 TV IAP
 https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
+#EXTINF:0001 tvg-id="AE1cyZ7vhCfggL" tvg-chno="7" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 65
+https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
 #EXTINF:0001 tvg-id="lZCJ28tnHKpEgP" tvg-chno="8" group-title="famelack (sv) [sv] [False]" tvg-logo="", El Camino TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:0001 tvg-id="1RlshLkT58Kj6I" tvg-chno="9" group-title="famelack (sv) [sv] [False]" tvg-logo="", Josue TV
@@ -33,7 +33,5 @@ https://radiocret.net:8082/hls/tvcret.m3u8
 https://serversv.com:8080/hls/tvgetsemani.m3u8
 #EXTINF:0001 tvg-id="tHW7zvl92sqoa9" tvg-chno="17" group-title="famelack (sv) [sv] [False]" tvg-logo="", TV Leon de Juda
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
-#EXTINF:0001 tvg-id="2fDbweulZuyK2h" tvg-chno="18" group-title="famelack (sv) [sv] [False]" tvg-logo="", TVCa
-https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
-#EXTINF:0001 tvg-id="1jzCwLIvYDfCXS" tvg-chno="19" group-title="famelack (sv) [sv] [False]" tvg-logo="", WOW TV
+#EXTINF:0001 tvg-id="1jzCwLIvYDfCXS" tvg-chno="18" group-title="famelack (sv) [sv] [False]" tvg-logo="", WOW TV
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8

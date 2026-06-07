@@ -27,34 +27,34 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
 #EXTINF:0001 tvg-id="MsdbQSAkSSWayB" tvg-chno="14" group-title="famelack (pl) [pl] [False]" tvg-logo="", DAZN Combat Poland
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:0001 tvg-id="9IWJvqi8MKA5iX" tvg-chno="15" group-title="famelack (pl) [pl] [False]" tvg-logo="", Dr G Medical Examiner
+#EXTINF:0001 tvg-id="YVXMNDK2rpUCOO" tvg-chno="15" group-title="famelack (pl) [pl] [False]" tvg-logo="", dlaCiebie.tv
+https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8
+#EXTINF:0001 tvg-id="9IWJvqi8MKA5iX" tvg-chno="16" group-title="famelack (pl) [pl] [False]" tvg-logo="", Dr G Medical Examiner
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
-#EXTINF:0001 tvg-id="Yu5wceoQ17tjtg" tvg-chno="16" group-title="famelack (pl) [pl] [False]" tvg-logo="", Euronews FAST
+#EXTINF:0001 tvg-id="Yu5wceoQ17tjtg" tvg-chno="17" group-title="famelack (pl) [pl] [False]" tvg-logo="", Euronews FAST
 https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8
-#EXTINF:0001 tvg-id="BrhdrwsQAO4B4e" tvg-chno="17" group-title="famelack (pl) [pl] [False]" tvg-logo="", EWTN Poland
+#EXTINF:0001 tvg-id="BrhdrwsQAO4B4e" tvg-chno="18" group-title="famelack (pl) [pl] [False]" tvg-logo="", EWTN Poland
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
-#EXTINF:0001 tvg-id="WWlg5pGjVUMKba" tvg-chno="18" group-title="famelack (pl) [pl] [False]" tvg-logo="", Grjngo
+#EXTINF:0001 tvg-id="WWlg5pGjVUMKba" tvg-chno="19" group-title="famelack (pl) [pl] [False]" tvg-logo="", Grjngo
 https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
-#EXTINF:0001 tvg-id="FGu0fYqXfBQdVu" tvg-chno="19" group-title="famelack (pl) [pl] [False]" tvg-logo="", Hard Knocks Fighting Championship
+#EXTINF:0001 tvg-id="FGu0fYqXfBQdVu" tvg-chno="20" group-title="famelack (pl) [pl] [False]" tvg-logo="", Hard Knocks Fighting Championship
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
-#EXTINF:0001 tvg-id="SPKf8qiF4zzrz5" tvg-chno="20" group-title="famelack (pl) [pl] [False]" tvg-logo="", Jail
+#EXTINF:0001 tvg-id="SPKf8qiF4zzrz5" tvg-chno="21" group-title="famelack (pl) [pl] [False]" tvg-logo="", Jail
 https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
-#EXTINF:0001 tvg-id="IaxDYWaZAHhrQ0" tvg-chno="21" group-title="famelack (pl) [pl] [False]" tvg-logo="", Moconomy
+#EXTINF:0001 tvg-id="IaxDYWaZAHhrQ0" tvg-chno="22" group-title="famelack (pl) [pl] [False]" tvg-logo="", Moconomy
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
-#EXTINF:0001 tvg-id="eNWb8bLZwMFVpE" tvg-chno="22" group-title="famelack (pl) [pl] [False]" tvg-logo="", NewsWorld FAST
+#EXTINF:0001 tvg-id="eNWb8bLZwMFVpE" tvg-chno="23" group-title="famelack (pl) [pl] [False]" tvg-logo="", NewsWorld FAST
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
-#EXTINF:0001 tvg-id="lgqzeQFxqCN8jW" tvg-chno="23" group-title="famelack (pl) [pl] [False]" tvg-logo="", NewTV
+#EXTINF:0001 tvg-id="lgqzeQFxqCN8jW" tvg-chno="24" group-title="famelack (pl) [pl] [False]" tvg-logo="", NewTV
 https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8
-#EXTINF:0001 tvg-id="9fqsOnS7piqaUr" tvg-chno="24" group-title="famelack (pl) [pl] [False]" tvg-logo="", Now 90s & 00s
+#EXTINF:0001 tvg-id="9fqsOnS7piqaUr" tvg-chno="25" group-title="famelack (pl) [pl] [False]" tvg-logo="", Now 90s & 00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:0001 tvg-id="HCuXiJRBY0QrpX" tvg-chno="25" group-title="famelack (pl) [pl] [False]" tvg-logo="", Puls 2
+#EXTINF:0001 tvg-id="HCuXiJRBY0QrpX" tvg-chno="26" group-title="famelack (pl) [pl] [False]" tvg-logo="", Puls 2
 https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8
-#EXTINF:0001 tvg-id="PgSQJkjlJAZPaq" tvg-chno="26" group-title="famelack (pl) [pl] [False]" tvg-logo="", RACER International FAST
+#EXTINF:0001 tvg-id="PgSQJkjlJAZPaq" tvg-chno="27" group-title="famelack (pl) [pl] [False]" tvg-logo="", RACER International FAST
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-#EXTINF:0001 tvg-id="oNpOE0EguTlVfK" tvg-chno="27" group-title="famelack (pl) [pl] [False]" tvg-logo="", Radio RAM
+#EXTINF:0001 tvg-id="oNpOE0EguTlVfK" tvg-chno="28" group-title="famelack (pl) [pl] [False]" tvg-logo="", Radio RAM
 https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
-#EXTINF:0001 tvg-id="cVaJUABGdrFesO" tvg-chno="28" group-title="famelack (pl) [pl] [False]" tvg-logo="", Radiowa Czworka
-https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="uro7Gvibaed6g8" tvg-chno="29" group-title="famelack (pl) [pl] [False]" tvg-logo="", Rakuten Viki Poland
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:0001 tvg-id="C6XvznJzAsAnIZ" tvg-chno="30" group-title="famelack (pl) [pl] [False]" tvg-logo="", Red Carpet TV International
