@@ -33,28 +33,28 @@ https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
 #EXTINF:0001 tvg-id="y7f5txzCbtS5vm" tvg-chno="17" group-title="famelack (pk) [pk] [False]" tvg-logo="", Grace Network
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="keDnMBwKoBk3De" tvg-chno="18" group-title="famelack (pk) [pk] [False]" tvg-logo="", JooMusic
+#EXTINF:0001 tvg-id="WknJSHyVxUbWNW" tvg-chno="18" group-title="famelack (pk) [pk] [False]" tvg-logo="", HarPal Geo
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="keDnMBwKoBk3De" tvg-chno="19" group-title="famelack (pk) [pk] [False]" tvg-logo="", JooMusic
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="8aAcpwzM4vGEQS" tvg-chno="19" group-title="famelack (pk) [pk] [False]" tvg-logo="", Joshua TV
+#EXTINF:0001 tvg-id="8aAcpwzM4vGEQS" tvg-chno="20" group-title="famelack (pk) [pk] [False]" tvg-logo="", Joshua TV
 https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="0DyoG3XduwwwLj" tvg-chno="20" group-title="famelack (pk) [pk] [False]" tvg-logo="", King TV
+#EXTINF:0001 tvg-id="0DyoG3XduwwwLj" tvg-chno="21" group-title="famelack (pk) [pk] [False]" tvg-logo="", King TV
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
-#EXTINF:0001 tvg-id="C3sLhVrqf1lZz5" tvg-chno="21" group-title="famelack (pk) [pk] [False]" tvg-logo="", KTN News
+#EXTINF:0001 tvg-id="C3sLhVrqf1lZz5" tvg-chno="22" group-title="famelack (pk) [pk] [False]" tvg-logo="", KTN News
 https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
-#EXTINF:0001 tvg-id="ey0C6dKSzvDUaH" tvg-chno="22" group-title="famelack (pk) [pk] [False]" tvg-logo="", Lahore News
+#EXTINF:0001 tvg-id="ey0C6dKSzvDUaH" tvg-chno="23" group-title="famelack (pk) [pk] [False]" tvg-logo="", Lahore News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-#EXTINF:0001 tvg-id="0YXdU5lN1xFzdX" tvg-chno="23" group-title="famelack (pk) [pk] [False]" tvg-logo="", Madani Channel English
+#EXTINF:0001 tvg-id="0YXdU5lN1xFzdX" tvg-chno="24" group-title="famelack (pk) [pk] [False]" tvg-logo="", Madani Channel English
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
-#EXTINF:0001 tvg-id="XNoYUMV4eTzrsQ" tvg-chno="24" group-title="famelack (pk) [pk] [False]" tvg-logo="", Madani Channel Urdu
+#EXTINF:0001 tvg-id="XNoYUMV4eTzrsQ" tvg-chno="25" group-title="famelack (pk) [pk] [False]" tvg-logo="", Madani Channel Urdu
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
-#EXTINF:0001 tvg-id="zYIClJMSMxWG01" tvg-chno="25" group-title="famelack (pk) [pk] [False]" tvg-logo="", Minimax
+#EXTINF:0001 tvg-id="zYIClJMSMxWG01" tvg-chno="26" group-title="famelack (pk) [pk] [False]" tvg-logo="", Minimax
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-#EXTINF:0001 tvg-id="S1n88rMuz1tEg9" tvg-chno="26" group-title="famelack (pk) [pk] [False]" tvg-logo="", Neo News
+#EXTINF:0001 tvg-id="S1n88rMuz1tEg9" tvg-chno="27" group-title="famelack (pk) [pk] [False]" tvg-logo="", Neo News
 https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
-#EXTINF:0001 tvg-id="Dn8J2Ex2jjyZWp" tvg-chno="27" group-title="famelack (pk) [pk] [False]" tvg-logo="", News One
+#EXTINF:0001 tvg-id="Dn8J2Ex2jjyZWp" tvg-chno="28" group-title="famelack (pk) [pk] [False]" tvg-logo="", News One
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
-#EXTINF:0001 tvg-id="SgbKpnUMcIpXd6" tvg-chno="28" group-title="famelack (pk) [pk] [False]" tvg-logo="", Peace TV Urdu
-https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:0001 tvg-id="qYVU4HXVDlQp2P" tvg-chno="29" group-title="famelack (pk) [pk] [False]" tvg-logo="", PMI TV
 https://cdn.live247stream.com/pmi/tv/playlist.m3u8
 #EXTINF:0001 tvg-id="77LBTTq4JvQf4h" tvg-chno="30" group-title="famelack (pk) [pk] [False]" tvg-logo="", Praise TV

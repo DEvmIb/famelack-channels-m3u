@@ -27,11 +27,9 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
 https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="5ajptuhyjIdeFx" tvg-chno="14" group-title="famelack (za) [za] [False]" tvg-logo="", Sports Connect
 https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
-#EXTINF:0001 tvg-id="7LzkeThbFKLAsm" tvg-chno="15" group-title="famelack (za) [za] [False]" tvg-logo="", True African
-https://streamdot.broadpeak.io/cff02a74da64d1457be50b4b7f746bff/afxpstr/TrueAfrican/index.m3u8
-#EXTINF:0001 tvg-id="OFNCxJwQlhXnh3" tvg-chno="16" group-title="famelack (za) [za] [False]" tvg-logo="", Tshwane TV
+#EXTINF:0001 tvg-id="OFNCxJwQlhXnh3" tvg-chno="15" group-title="famelack (za) [za] [False]" tvg-logo="", Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Es7qApbSf615KN" tvg-chno="17" group-title="famelack (za) [za] [False]" tvg-logo="", TV BRICS Africa
+#EXTINF:0001 tvg-id="Es7qApbSf615KN" tvg-chno="16" group-title="famelack (za) [za] [False]" tvg-logo="", TV BRICS Africa
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="NpJ5K3Avxx4otV" tvg-chno="18" group-title="famelack (za) [za] [True]" tvg-logo="", WildEarth
+#EXTINF:0001 tvg-id="NpJ5K3Avxx4otV" tvg-chno="17" group-title="famelack (za) [za] [True]" tvg-logo="", WildEarth
 https://wildearth-xumo.amagi.tv/master.m3u8
