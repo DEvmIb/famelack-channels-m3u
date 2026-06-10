@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="EZwR8j6rykcDkh" tvg-chno="1" group-title="famelack (mk) [mk] [False]" tvg-logo="", Nasa TV
-https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-#EXTINF:0001 tvg-id="6jTUHlY33vUmQu" tvg-chno="2" group-title="famelack (mk) [mk] [False]" tvg-logo="", Sky Folk TV
+#EXTINF:0001 tvg-id="6jTUHlY33vUmQu" tvg-chno="1" group-title="famelack (mk) [mk] [False]" tvg-logo="", Sky Folk TV
 https://eu.live.skyfolk.mk/live.m3u8

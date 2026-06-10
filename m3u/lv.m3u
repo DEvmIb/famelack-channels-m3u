@@ -15,3 +15,5 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://iptv.prosto.tv/ch238/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783415537&st=ZaoIsMGp0fhGIcz28s9nTg
 #EXTINF:0001 tvg-id="sgMHs1obQ8lL7A" tvg-chno="8" group-title="famelack (lv) [lv] [False]" tvg-logo="", TVNET
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+#EXTINF:0001 tvg-id="D4XzxfQIBxlNgz" tvg-chno="9" group-title="famelack (lv) [lv] [False]" tvg-logo="", Vidusdaugavas Televizija
+https://straume.vdtv.lv/vdtv2/index.m3u8
