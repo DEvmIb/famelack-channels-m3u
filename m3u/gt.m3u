@@ -27,12 +27,12 @@ https://s.emisoras.tv:8081/penielmusical/index.m3u8
 https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
 #EXTINF:0001 tvg-id="2LfjTVfmckF8U9" tvg-chno="14" group-title="famelack (gt) [gt] [False]" tvg-logo="", Rhema TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
-#EXTINF:0001 tvg-id="AXMHX6tuUnfRvm" tvg-chno="15" group-title="famelack (gt) [gt] [False]" tvg-logo="", SIL TV
+#EXTINF:0001 tvg-id="0hAaySENFA4XTT" tvg-chno="15" group-title="famelack (gt) [gt] [False]" tvg-logo="", SAS TV
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:0001 tvg-id="AXMHX6tuUnfRvm" tvg-chno="16" group-title="famelack (gt) [gt] [False]" tvg-logo="", SIL TV
 https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
-#EXTINF:0001 tvg-id="OsYebOtVABr4xl" tvg-chno="16" group-title="famelack (gt) [gt] [False]" tvg-logo="", Sol TV
+#EXTINF:0001 tvg-id="OsYebOtVABr4xl" tvg-chno="17" group-title="famelack (gt) [gt] [False]" tvg-logo="", Sol TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:0001 tvg-id="sjT63Yqrczmdqs" tvg-chno="17" group-title="famelack (gt) [gt] [False]" tvg-logo="", Telecosta
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:0001 tvg-id="fGTZi0sSjZTjHF" tvg-chno="18" group-title="famelack (gt) [gt] [False]" tvg-logo="", TV Florencia
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:0001 tvg-id="r1oGqxJA7bXTXS" tvg-chno="19" group-title="famelack (gt) [gt] [False]" tvg-logo="", TV Maya

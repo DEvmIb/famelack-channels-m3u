@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="bw6HViNkjYr015" tvg-chno="1" group-title="famelack (bh) [bh] [False]" tvg-logo="", Bahrain International
-https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:0001 tvg-id="YFqOd9RFAP2HGq" tvg-chno="2" group-title="famelack (bh) [bh] [False]" tvg-logo="", Bahrain Sports 1
+#EXTINF:0001 tvg-id="YFqOd9RFAP2HGq" tvg-chno="1" group-title="famelack (bh) [bh] [False]" tvg-logo="", Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:0001 tvg-id="SBDiIYv6gMiZbW" tvg-chno="3" group-title="famelack (bh) [bh] [False]" tvg-logo="", Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:0001 tvg-id="niLMahX60eXzLT" tvg-chno="4" group-title="famelack (bh) [bh] [False]" tvg-logo="", Bahrain TV
+#EXTINF:0001 tvg-id="niLMahX60eXzLT" tvg-chno="2" group-title="famelack (bh) [bh] [False]" tvg-logo="", Bahrain TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8

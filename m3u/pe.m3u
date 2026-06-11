@@ -15,22 +15,22 @@ https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:0001 tvg-id="1Tx6FQUGbACDss" tvg-chno="8" group-title="famelack (pe) [pe] [False]" tvg-logo="", Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:0001 tvg-id="JWF3Hmgh7M8jJ3" tvg-chno="9" group-title="famelack (pe) [pe] [False]" tvg-logo="", Conecta2TV
+#EXTINF:0001 tvg-id="FzS0czimg1wdVt" tvg-chno="9" group-title="famelack (pe) [pe] [False]" tvg-logo="", Canal 21 Huancayo
+https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
+#EXTINF:0001 tvg-id="JWF3Hmgh7M8jJ3" tvg-chno="10" group-title="famelack (pe) [pe] [False]" tvg-logo="", Conecta2TV
 https://live.obslivestream.com/conecta2/index.m3u8
-#EXTINF:0001 tvg-id="mlTXxUmbTG3Ish" tvg-chno="10" group-title="famelack (pe) [pe] [False]" tvg-logo="", Controversia TV
+#EXTINF:0001 tvg-id="mlTXxUmbTG3Ish" tvg-chno="11" group-title="famelack (pe) [pe] [False]" tvg-logo="", Controversia TV
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:0001 tvg-id="hHL0MOROCgmSKr" tvg-chno="11" group-title="famelack (pe) [pe] [False]" tvg-logo="", CR Television
+#EXTINF:0001 tvg-id="hHL0MOROCgmSKr" tvg-chno="12" group-title="famelack (pe) [pe] [False]" tvg-logo="", CR Television
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:0001 tvg-id="XzRqOxUzNRtPhH" tvg-chno="12" group-title="famelack (pe) [pe] [False]" tvg-logo="", ECO Television
+#EXTINF:0001 tvg-id="XzRqOxUzNRtPhH" tvg-chno="13" group-title="famelack (pe) [pe] [False]" tvg-logo="", ECO Television
 https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="M8nsyNmz1k1pVX" tvg-chno="13" group-title="famelack (pe) [pe] [False]" tvg-logo="", Exitosa TV
+#EXTINF:0001 tvg-id="M8nsyNmz1k1pVX" tvg-chno="14" group-title="famelack (pe) [pe] [False]" tvg-logo="", Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
-#EXTINF:0001 tvg-id="qKV2RWLFM5rjJT" tvg-chno="14" group-title="famelack (pe) [pe] [False]" tvg-logo="", Impacto Television
+#EXTINF:0001 tvg-id="qKV2RWLFM5rjJT" tvg-chno="15" group-title="famelack (pe) [pe] [False]" tvg-logo="", Impacto Television
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:0001 tvg-id="8VadQ9bvVXyzrj" tvg-chno="15" group-title="famelack (pe) [pe] [False]" tvg-logo="", Intuitiva TV
+#EXTINF:0001 tvg-id="8VadQ9bvVXyzrj" tvg-chno="16" group-title="famelack (pe) [pe] [False]" tvg-logo="", Intuitiva TV
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:0001 tvg-id="UjSZg1tYKKZuy2" tvg-chno="16" group-title="famelack (pe) [pe] [False]" tvg-logo="", JN 19
-https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:0001 tvg-id="qm7kjjw4XjKxtz" tvg-chno="17" group-title="famelack (pe) [pe] [False]" tvg-logo="", Mega TV Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:0001 tvg-id="ZgK3gN33Rh7QOj" tvg-chno="18" group-title="famelack (pe) [pe] [False]" tvg-logo="", Miel TV
@@ -63,8 +63,8 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:0001 tvg-id="wmJ1QxQIvPF4LM" tvg-chno="32" group-title="famelack (pe) [pe] [False]" tvg-logo="", Teleselva
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-#EXTINF:0001 tvg-id="IimzzIwURjFsYr" tvg-chno="33" group-title="famelack (pe) [pe] [False]" tvg-logo="", Top TV
-https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:0001 tvg-id="StOVmvLhNdQ5uq" tvg-chno="33" group-title="famelack (pe) [pe] [False]" tvg-logo="", Television Tarapoto
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:0001 tvg-id="mdiVt9k5G6ApIq" tvg-chno="34" group-title="famelack (pe) [pe] [False]" tvg-logo="", Trivu
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:0001 tvg-id="gh6WHvpQmXShdI" tvg-chno="35" group-title="famelack (pe) [pe] [False]" tvg-logo="", Turbo Mix Radio TV

@@ -20,7 +20,7 @@ https://sb.err.ee/live/etv2.m3u8
 #EXTINF:0001 tvg-id="g3tSCZ3A6RSOUd" tvg-chno="10" group-title="famelack (ee) [ee] [False]" tvg-logo="", ETV+
 https://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:0001 tvg-id="5nsjkGo2zkW45n" tvg-chno="11" group-title="famelack (ee) [ee] [False]" tvg-logo="", FilmBox Baltics
-https://iptv.prosto.tv/ch64/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783193705&st=MZPvPD4AwsRPTggeYFQLrA
+https://iptv.prosto.tv/ch64/index.m3u8
 #EXTINF:0001 tvg-id="SY6JGWv0oWKy6h" tvg-chno="12" group-title="famelack (ee) [ee] [False]" tvg-logo="", Life TV
 https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:0001 tvg-id="FP0DHXJTw0LYfi" tvg-chno="13" group-title="famelack (ee) [ee] [False]" tvg-logo="", Riigikogu

@@ -41,10 +41,10 @@ https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
 #EXTINF:0001 tvg-id="FGu0fYqXfBQdVu" tvg-chno="21" group-title="famelack (pl) [pl] [False]" tvg-logo="", Hard Knocks Fighting Championship
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
-#EXTINF:0001 tvg-id="SPKf8qiF4zzrz5" tvg-chno="22" group-title="famelack (pl) [pl] [False]" tvg-logo="", Jail
-https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
-#EXTINF:0001 tvg-id="IaxDYWaZAHhrQ0" tvg-chno="23" group-title="famelack (pl) [pl] [False]" tvg-logo="", Moconomy
+#EXTINF:0001 tvg-id="IaxDYWaZAHhrQ0" tvg-chno="22" group-title="famelack (pl) [pl] [False]" tvg-logo="", Moconomy
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
+#EXTINF:0001 tvg-id="jzFKU5qfcCYERI" tvg-chno="23" group-title="famelack (pl) [pl] [False]" tvg-logo="", NewsWorld FAST
+https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
 #EXTINF:0001 tvg-id="lgqzeQFxqCN8jW" tvg-chno="24" group-title="famelack (pl) [pl] [False]" tvg-logo="", NewTV
 https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8
 #EXTINF:0001 tvg-id="9fqsOnS7piqaUr" tvg-chno="25" group-title="famelack (pl) [pl] [False]" tvg-logo="", Now 90s & 00s
@@ -67,14 +67,14 @@ https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
 https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
 #EXTINF:0001 tvg-id="coRLnGknftkVsQ" tvg-chno="34" group-title="famelack (pl) [pl] [False]" tvg-logo="", Sfera TV
 https://stream.sferatv.pl/sferatvlive/live.m3u8
-#EXTINF:0001 tvg-id="sXIYhdVUv4mPZv" tvg-chno="35" group-title="famelack (pl) [pl] [False]" tvg-logo="", Strongman Champions League
-https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8
-#EXTINF:0001 tvg-id="BlvOv7Ksnyq1tc" tvg-chno="36" group-title="famelack (pl) [pl] [False]" tvg-logo="", Telewizja Biznesowa
+#EXTINF:0001 tvg-id="BlvOv7Ksnyq1tc" tvg-chno="35" group-title="famelack (pl) [pl] [False]" tvg-logo="", Telewizja Biznesowa
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
-#EXTINF:0001 tvg-id="hs9A8d0OBl1eij" tvg-chno="37" group-title="famelack (pl) [pl] [False]" tvg-logo="", Telewizja iTTV
+#EXTINF:0001 tvg-id="hs9A8d0OBl1eij" tvg-chno="36" group-title="famelack (pl) [pl] [False]" tvg-logo="", Telewizja iTTV
 https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8
-#EXTINF:0001 tvg-id="Zfbee02Fm1Nqwi" tvg-chno="38" group-title="famelack (pl) [pl] [False]" tvg-logo="", Telewizja Jaslo
+#EXTINF:0001 tvg-id="Zfbee02Fm1Nqwi" tvg-chno="37" group-title="famelack (pl) [pl] [False]" tvg-logo="", Telewizja Jaslo
 https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
+#EXTINF:0001 tvg-id="lZ08XnHwjKG7mF" tvg-chno="38" group-title="famelack (pl) [pl] [False]" tvg-logo="", Telewizja Regionalna Zary
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8
 #EXTINF:0001 tvg-id="ZQRxQD0cfkbApQ" tvg-chno="39" group-title="famelack (pl) [pl] [False]" tvg-logo="", Telewizja Relax
 https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8
 #EXTINF:0001 tvg-id="eR7HsNDqvDnpND" tvg-chno="40" group-title="famelack (pl) [pl] [True]" tvg-logo="", TNA Wrestling Channel
@@ -83,20 +83,20 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:0001 tvg-id="viSqDXiMLM8FN0" tvg-chno="42" group-title="famelack (pl) [pl] [False]" tvg-logo="", TV ASTA
 https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="aY6u7qwNMI1Wgm" tvg-chno="43" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVK Stella
+#EXTINF:0001 tvg-id="8WHhXW6sorajRc" tvg-chno="43" group-title="famelack (pl) [pl] [False]" tvg-logo="", TV Regionalna Lubin
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
+#EXTINF:0001 tvg-id="aY6u7qwNMI1Wgm" tvg-chno="44" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVK Stella
 https://stream.tvkstella.pl/stella/stella.m3u8
-#EXTINF:0001 tvg-id="Se7x9HGaZbNY8X" tvg-chno="44" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP Info
+#EXTINF:0001 tvg-id="Se7x9HGaZbNY8X" tvg-chno="45" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP Info
 https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8
-#EXTINF:0001 tvg-id="fzamcn1eHJ76Mf" tvg-chno="45" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP Polonia
+#EXTINF:0001 tvg-id="fzamcn1eHJ76Mf" tvg-chno="46" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP Polonia
 https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8
-#EXTINF:0001 tvg-id="2NOHQqe5XXGwtZ" tvg-chno="46" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP World
+#EXTINF:0001 tvg-id="2NOHQqe5XXGwtZ" tvg-chno="47" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP World
 https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
-#EXTINF:0001 tvg-id="XOB3inPkwkHuWb" tvg-chno="47" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP1
+#EXTINF:0001 tvg-id="XOB3inPkwkHuWb" tvg-chno="48" group-title="famelack (pl) [pl] [False]" tvg-logo="", TVP1
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
-#EXTINF:0001 tvg-id="4UCysSCkmhRS1I" tvg-chno="48" group-title="famelack (pl) [pl] [True]" tvg-logo="", TVS
+#EXTINF:0001 tvg-id="4UCysSCkmhRS1I" tvg-chno="49" group-title="famelack (pl) [pl] [True]" tvg-logo="", TVS
 https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8
-#EXTINF:0001 tvg-id="UJrA93oKFNB1K1" tvg-chno="49" group-title="famelack (pl) [pl] [False]" tvg-logo="", Twoja.TV
-https://stream.twoja.tv/ttv_hls/live.m3u8
 #EXTINF:0001 tvg-id="fZI48V3oPHwUhn" tvg-chno="50" group-title="famelack (pl) [pl] [False]" tvg-logo="", W Polsce PL
 https://lowa8026-cmyk.github.io/WPolscePL.m3u8
 #EXTINF:0001 tvg-id="XEnaPj4TUOsp8a" tvg-chno="51" group-title="famelack (pl) [pl] [False]" tvg-logo="", wedotv Auta FAST
@@ -105,5 +105,5 @@ https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:0001 tvg-id="B03jGEe29rjEvW" tvg-chno="53" group-title="famelack (pl) [pl] [False]" tvg-logo="", World Poker Tour Poland
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
-#EXTINF:0001 tvg-id="xUqnXZyWFKx10m" tvg-chno="54" group-title="famelack (pl) [pl] [False]" tvg-logo="", Z Nation
+#EXTINF:0001 tvg-id="EbXO2Dhy1HZFOu" tvg-chno="54" group-title="famelack (pl) [pl] [False]" tvg-logo="", Z Nation
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
