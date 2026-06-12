@@ -73,13 +73,11 @@ https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:0001 tvg-id="sue3ShLLkmrNlc" tvg-chno="37" group-title="famelack (cr) [cr] [False]" tvg-logo="", Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:0001 tvg-id="Nc2Y8BrEFeOYAw" tvg-chno="38" group-title="famelack (cr) [cr] [False]" tvg-logo="", Video Tour Channel
-https://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:0001 tvg-id="tTy2o9iN37Hvi8" tvg-chno="39" group-title="famelack (cr) [cr] [False]" tvg-logo="", Vintage Music
+#EXTINF:0001 tvg-id="tTy2o9iN37Hvi8" tvg-chno="38" group-title="famelack (cr) [cr] [False]" tvg-logo="", Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:0001 tvg-id="KTfqjR2nJysy7l" tvg-chno="40" group-title="famelack (cr) [cr] [False]" tvg-logo="", VM Latino
+#EXTINF:0001 tvg-id="KTfqjR2nJysy7l" tvg-chno="39" group-title="famelack (cr) [cr] [False]" tvg-logo="", VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:0001 tvg-id="lyisHWGyNS2hyW" tvg-chno="41" group-title="famelack (cr) [cr] [False]" tvg-logo="", VoiceOver Radio TV
+#EXTINF:0001 tvg-id="lyisHWGyNS2hyW" tvg-chno="40" group-title="famelack (cr) [cr] [False]" tvg-logo="", VoiceOver Radio TV
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
-#EXTINF:0001 tvg-id="1lxmOusZyEa4Zg" tvg-chno="42" group-title="famelack (cr) [cr] [False]" tvg-logo="", Zurqui TV
+#EXTINF:0001 tvg-id="1lxmOusZyEa4Zg" tvg-chno="41" group-title="famelack (cr) [cr] [False]" tvg-logo="", Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8

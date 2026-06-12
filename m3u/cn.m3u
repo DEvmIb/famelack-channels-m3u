@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="zRxr2ZAtzWPYCP" tvg-chno="1" group-title="famelack (cn) [cn] [False]" tvg-logo="", Ando TV
 https://play.kankanlive.com/live/1711956137852982.m3u8
-#EXTINF:0001 tvg-id="gcM2WWZ06H1U7r" tvg-chno="2" group-title="famelack (cn) [cn] [True]" tvg-logo="", Baicheng TV
+#EXTINF:0001 tvg-id="FLJTgXx5Ik6ljh" tvg-chno="2" group-title="famelack (cn) [cn] [False]" tvg-logo="", Angel TV Chinese
+https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+#EXTINF:0001 tvg-id="gcM2WWZ06H1U7r" tvg-chno="3" group-title="famelack (cn) [cn] [True]" tvg-logo="", Baicheng TV
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:0001 tvg-id="qF4K7YKWjkSybG" tvg-chno="3" group-title="famelack (cn) [cn] [False]" tvg-logo="", Bread TV
+#EXTINF:0001 tvg-id="qF4K7YKWjkSybG" tvg-chno="4" group-title="famelack (cn) [cn] [False]" tvg-logo="", Bread TV
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:0001 tvg-id="1ygWi2hNNf9GHE" tvg-chno="4" group-title="famelack (cn) [cn] [False]" tvg-logo="", CCTV-4 Europe
+#EXTINF:0001 tvg-id="1ygWi2hNNf9GHE" tvg-chno="5" group-title="famelack (cn) [cn] [False]" tvg-logo="", CCTV-4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="8qbHNd2Zc2MjWY" tvg-chno="5" group-title="famelack (cn) [cn] [False]" tvg-logo="", CCTV-9
+#EXTINF:0001 tvg-id="8qbHNd2Zc2MjWY" tvg-chno="6" group-title="famelack (cn) [cn] [False]" tvg-logo="", CCTV-9
 https://xykt-fix.github.io/Y77.m3u8
-#EXTINF:0001 tvg-id="Re5Rs60C2x03XD" tvg-chno="6" group-title="famelack (cn) [cn] [False]" tvg-logo="", CCTV+ 1
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="yIwXMwM4XLZjQD" tvg-chno="7" group-title="famelack (cn) [cn] [False]" tvg-logo="", CCTV+ 2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="GqdJfmTvg6EO3X" tvg-chno="8" group-title="famelack (cn) [cn] [False]" tvg-logo="", CGTN
