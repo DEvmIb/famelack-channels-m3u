@@ -31,24 +31,24 @@ https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
 #EXTINF:0001 tvg-id="kQoJODyIVFBenm" tvg-chno="16" group-title="famelack (gr) [gr] [False]" tvg-logo="", Egnatia TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:0001 tvg-id="W3ePyy3g6gIjfs" tvg-chno="17" group-title="famelack (gr) [gr] [False]" tvg-logo="", ENA Channel
+#EXTINF:0001 tvg-id="HQxmczuRTCLJHk" tvg-chno="17" group-title="famelack (gr) [gr] [False]" tvg-logo="", Ellinikos FM
+https://rtmp.win:3603/live/ellinikosfmlive.m3u8
+#EXTINF:0001 tvg-id="W3ePyy3g6gIjfs" tvg-chno="18" group-title="famelack (gr) [gr] [False]" tvg-logo="", ENA Channel
 https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
-#EXTINF:0001 tvg-id="GI28zdliqFumzw" tvg-chno="18" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT Cosmos
+#EXTINF:0001 tvg-id="GI28zdliqFumzw" tvg-chno="19" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT Cosmos
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
-#EXTINF:0001 tvg-id="lQUaMVorKskNow" tvg-chno="19" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT News
+#EXTINF:0001 tvg-id="lQUaMVorKskNow" tvg-chno="20" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT News
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
-#EXTINF:0001 tvg-id="99p8zNQRqAzy6r" tvg-chno="20" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT3
+#EXTINF:0001 tvg-id="99p8zNQRqAzy6r" tvg-chno="21" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8
-#EXTINF:0001 tvg-id="rNwXK8U9QtgSSA" tvg-chno="21" group-title="famelack (gr) [gr] [True]" tvg-logo="", Faros TV2
+#EXTINF:0001 tvg-id="rNwXK8U9QtgSSA" tvg-chno="22" group-title="famelack (gr) [gr] [True]" tvg-logo="", Faros TV2
 https://s1.cystream.net/live/faros2/playlist.m3u8
-#EXTINF:0001 tvg-id="BBnkN7RuoWZuoo" tvg-chno="22" group-title="famelack (gr) [gr] [False]" tvg-logo="", Gnomi TV
+#EXTINF:0001 tvg-id="BBnkN7RuoWZuoo" tvg-chno="23" group-title="famelack (gr) [gr] [False]" tvg-logo="", Gnomi TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8
-#EXTINF:0001 tvg-id="zfdgzXgQZmoAvu" tvg-chno="23" group-title="famelack (gr) [gr] [False]" tvg-logo="", Hellenic Parliament TV
+#EXTINF:0001 tvg-id="zfdgzXgQZmoAvu" tvg-chno="24" group-title="famelack (gr) [gr] [False]" tvg-logo="", Hellenic Parliament TV
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
-#EXTINF:0001 tvg-id="zSgRIxf4rZgvt7" tvg-chno="24" group-title="famelack (gr) [gr] [False]" tvg-logo="", Ionian TV
+#EXTINF:0001 tvg-id="zSgRIxf4rZgvt7" tvg-chno="25" group-title="famelack (gr) [gr] [False]" tvg-logo="", Ionian TV
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:0001 tvg-id="slRsHngNcym3tq" tvg-chno="25" group-title="famelack (gr) [gr] [False]" tvg-logo="", Kontra Channel
-https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:0001 tvg-id="1vkifiAz0M09X4" tvg-chno="26" group-title="famelack (gr) [gr] [False]" tvg-logo="", Kriti TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:0001 tvg-id="YpG1ImfWO1Q3HO" tvg-chno="27" group-title="famelack (gr) [gr] [False]" tvg-logo="", Naftemporiki TV

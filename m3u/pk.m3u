@@ -55,13 +55,15 @@ https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
 #EXTINF:0001 tvg-id="Dn8J2Ex2jjyZWp" tvg-chno="28" group-title="famelack (pk) [pk] [False]" tvg-logo="", News One
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
-#EXTINF:0001 tvg-id="qYVU4HXVDlQp2P" tvg-chno="29" group-title="famelack (pk) [pk] [False]" tvg-logo="", PMI TV
+#EXTINF:0001 tvg-id="SgbKpnUMcIpXd6" tvg-chno="29" group-title="famelack (pk) [pk] [False]" tvg-logo="", Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+#EXTINF:0001 tvg-id="qYVU4HXVDlQp2P" tvg-chno="30" group-title="famelack (pk) [pk] [False]" tvg-logo="", PMI TV
 https://cdn.live247stream.com/pmi/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="77LBTTq4JvQf4h" tvg-chno="30" group-title="famelack (pk) [pk] [False]" tvg-logo="", Praise TV
+#EXTINF:0001 tvg-id="77LBTTq4JvQf4h" tvg-chno="31" group-title="famelack (pk) [pk] [False]" tvg-logo="", Praise TV
 https://livecdn.live247stream.com/praise/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="HxH54ypKcC1Xvq" tvg-chno="31" group-title="famelack (pk) [pk] [False]" tvg-logo="", Samaa TV
+#EXTINF:0001 tvg-id="HxH54ypKcC1Xvq" tvg-chno="32" group-title="famelack (pk) [pk] [False]" tvg-logo="", Samaa TV
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
-#EXTINF:0001 tvg-id="oy323hi3qdqwPY" tvg-chno="32" group-title="famelack (pk) [pk] [False]" tvg-logo="", Such TV
+#EXTINF:0001 tvg-id="oy323hi3qdqwPY" tvg-chno="33" group-title="famelack (pk) [pk] [False]" tvg-logo="", Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
-#EXTINF:0001 tvg-id="LBVPGHScrFCXER" tvg-chno="33" group-title="famelack (pk) [pk] [False]" tvg-logo="", Zindagi TV
+#EXTINF:0001 tvg-id="LBVPGHScrFCXER" tvg-chno="34" group-title="famelack (pk) [pk] [False]" tvg-logo="", Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8

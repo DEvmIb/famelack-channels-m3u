@@ -21,3 +21,5 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:0001 tvg-id="e1v76QQ8jEJlyU" tvg-chno="11" group-title="famelack (kw) [kw] [False]" tvg-logo="", Marina TV
 https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
+#EXTINF:0001 tvg-id="7EXkJ9cyPJoMSu" tvg-chno="12" group-title="famelack (kw) [kw] [False]" tvg-logo="", Ritmu TV
+https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
