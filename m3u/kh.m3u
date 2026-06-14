@@ -5,10 +5,10 @@ https://live.ams.com.kh/app/stream/playlist.m3u8
 https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
 #EXTINF:0001 tvg-id="6E7iTwjCqI3s7i" tvg-chno="3" group-title="famelack (kh) [kh] [False]" tvg-logo="", BTV News
 https://server.dtvhd.com/memfs/cf0911cf-4ccc-47b1-8996-e5d705442b89.m3u8
-#EXTINF:0001 tvg-id="22GUfDaUhwRUJ1" tvg-chno="4" group-title="famelack (kh) [kh] [False]" tvg-logo="", Netlink TV
+#EXTINF:0001 tvg-id="YIjIVSot1z9UDS" tvg-chno="4" group-title="famelack (kh) [kh] [False]" tvg-logo="", CTV8 HD
+https://server.dtvhd.com/memfs/92d5968d-1b58-486d-a1ba-7b5a3f21c16c.m3u8
+#EXTINF:0001 tvg-id="22GUfDaUhwRUJ1" tvg-chno="5" group-title="famelack (kh) [kh] [False]" tvg-logo="", Netlink TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:0001 tvg-id="a7p8px0xew1TNk" tvg-chno="5" group-title="famelack (kh) [kh] [False]" tvg-logo="", Sangkem TV
-https://live.sangkemtv.com/memfs/sangkem.m3u8
 #EXTINF:0001 tvg-id="aAMBVg0GZZXh3E" tvg-chno="6" group-title="famelack (kh) [kh] [False]" tvg-logo="", SEA TV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:0001 tvg-id="5YmRoWRCWgVS14" tvg-chno="7" group-title="famelack (kh) [kh] [False]" tvg-logo="", TVK

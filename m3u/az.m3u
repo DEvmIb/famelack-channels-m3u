@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="vnxbgWDlvR5HkO" tvg-chno="1" group-title="famelack (az) [az] [False]" tvg-logo="", Az TV
 https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:0001 tvg-id="n8aV4qPr7267ok" tvg-chno="2" group-title="famelack (az) [az] [False]" tvg-logo="", Baku.TV
-https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:0001 tvg-id="b1w0a8CZ0CNs0I" tvg-chno="3" group-title="famelack (az) [az] [False]" tvg-logo="", Medeniyyet TV
+#EXTINF:0001 tvg-id="b1w0a8CZ0CNs0I" tvg-chno="2" group-title="famelack (az) [az] [False]" tvg-logo="", Medeniyyet TV
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:0001 tvg-id="jlkmejIqbIV0I0" tvg-chno="4" group-title="famelack (az) [az] [False]" tvg-logo="", Naxcivan TV
+#EXTINF:0001 tvg-id="jlkmejIqbIV0I0" tvg-chno="3" group-title="famelack (az) [az] [False]" tvg-logo="", Naxcivan TV
 https://str2.yodacdn.net/ntv/video.m3u8

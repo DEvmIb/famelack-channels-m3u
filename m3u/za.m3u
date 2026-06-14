@@ -19,19 +19,21 @@ https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
 #EXTINF:0001 tvg-id="YQ48DJSkmj6ZBT" tvg-chno="10" group-title="famelack (za) [za] [False]" tvg-logo="", ROV TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
-#EXTINF:0001 tvg-id="C4rmcF4iC9PInk" tvg-chno="11" group-title="famelack (za) [za] [True]" tvg-logo="", SABC Lehae
+#EXTINF:0001 tvg-id="lhkQuwgfYA4wpp" tvg-chno="11" group-title="famelack (za) [za] [True]" tvg-logo="", SABC 2
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+#EXTINF:0001 tvg-id="C4rmcF4iC9PInk" tvg-chno="12" group-title="famelack (za) [za] [True]" tvg-logo="", SABC Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
-#EXTINF:0001 tvg-id="MbDAAgrzqTFxUc" tvg-chno="12" group-title="famelack (za) [za] [True]" tvg-logo="", SABC News
+#EXTINF:0001 tvg-id="MbDAAgrzqTFxUc" tvg-chno="13" group-title="famelack (za) [za] [True]" tvg-logo="", SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
-#EXTINF:0001 tvg-id="oLnLTQ4nnHeCAZ" tvg-chno="13" group-title="famelack (za) [za] [False]" tvg-logo="", Soweto TV
+#EXTINF:0001 tvg-id="oLnLTQ4nnHeCAZ" tvg-chno="14" group-title="famelack (za) [za] [False]" tvg-logo="", Soweto TV
 https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="5ajptuhyjIdeFx" tvg-chno="14" group-title="famelack (za) [za] [False]" tvg-logo="", Sports Connect
+#EXTINF:0001 tvg-id="5ajptuhyjIdeFx" tvg-chno="15" group-title="famelack (za) [za] [False]" tvg-logo="", Sports Connect
 https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
-#EXTINF:0001 tvg-id="7LzkeThbFKLAsm" tvg-chno="15" group-title="famelack (za) [za] [False]" tvg-logo="", True African
+#EXTINF:0001 tvg-id="7LzkeThbFKLAsm" tvg-chno="16" group-title="famelack (za) [za] [False]" tvg-logo="", True African
 https://streamdot.broadpeak.io/cff02a74da64d1457be50b4b7f746bff/afxpstr/TrueAfrican/index.m3u8
-#EXTINF:0001 tvg-id="OFNCxJwQlhXnh3" tvg-chno="16" group-title="famelack (za) [za] [False]" tvg-logo="", Tshwane TV
+#EXTINF:0001 tvg-id="OFNCxJwQlhXnh3" tvg-chno="17" group-title="famelack (za) [za] [False]" tvg-logo="", Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Es7qApbSf615KN" tvg-chno="17" group-title="famelack (za) [za] [False]" tvg-logo="", TV BRICS Africa
+#EXTINF:0001 tvg-id="Es7qApbSf615KN" tvg-chno="18" group-title="famelack (za) [za] [False]" tvg-logo="", TV BRICS Africa
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="NpJ5K3Avxx4otV" tvg-chno="18" group-title="famelack (za) [za] [True]" tvg-logo="", WildEarth
+#EXTINF:0001 tvg-id="NpJ5K3Avxx4otV" tvg-chno="19" group-title="famelack (za) [za] [True]" tvg-logo="", WildEarth
 https://wildearth-xumo.amagi.tv/master.m3u8

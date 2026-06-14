@@ -15,10 +15,10 @@ https://hls.navahang.live/hls/stream.m3u8
 https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="knoFkqODtHFsAU" tvg-chno="8" group-title="famelack (fi) [fi] [False]" tvg-logo="", Onni TV
 https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
-#EXTINF:0001 tvg-id="xqKdOYRVMSVleX" tvg-chno="9" group-title="famelack (fi) [fi] [False]" tvg-logo="", Taivas TV7
+#EXTINF:0001 tvg-id="CECa40HPlHGlAI" tvg-chno="9" group-title="famelack (fi) [fi] [False]" tvg-logo="", Rakuten TV Top Movies Finland
+https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
+#EXTINF:0001 tvg-id="xqKdOYRVMSVleX" tvg-chno="10" group-title="famelack (fi) [fi] [False]" tvg-logo="", Taivas TV7
 https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="3kvMeRQNc7yJgV" tvg-chno="10" group-title="famelack (fi) [fi] [False]" tvg-logo="", World of Love Island
-https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="TpuV7cZ7ley7jL" tvg-chno="11" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle Teema & Fem
 https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
 #EXTINF:0001 tvg-id="yckusHOMD6vE3i" tvg-chno="12" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle TV1
