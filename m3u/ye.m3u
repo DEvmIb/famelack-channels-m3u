@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="lsCpzWr0KhAo1G" tvg-chno="1" group-title="famelack (ye) [ye] [False]" tvg-logo="", Al-Sahat TV
+#EXTINF:0001 tvg-id="pNzTqn1VuRMufb" tvg-chno="1" group-title="famelack (ye) [ye] [False]" tvg-logo="", Al Masirah
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+#EXTINF:0001 tvg-id="j1LVoh3tQmO0Bh" tvg-chno="2" group-title="famelack (ye) [ye] [False]" tvg-logo="", Al Masirah Mubacher
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+#EXTINF:0001 tvg-id="lsCpzWr0KhAo1G" tvg-chno="3" group-title="famelack (ye) [ye] [False]" tvg-logo="", Al-Sahat TV
 https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
-#EXTINF:0001 tvg-id="2ifKvPMj4YMcX3" tvg-chno="2" group-title="famelack (ye) [ye] [False]" tvg-logo="", Yemen TV
+#EXTINF:0001 tvg-id="2ifKvPMj4YMcX3" tvg-chno="4" group-title="famelack (ye) [ye] [False]" tvg-logo="", Yemen TV
 https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8

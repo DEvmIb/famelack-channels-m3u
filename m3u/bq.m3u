@@ -5,3 +5,5 @@ https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
 #EXTINF:0001 tvg-id="ww7twEESZxWUIN" tvg-chno="3" group-title="famelack (bq) [bq] [False]" tvg-logo="", Live99FM
 https://media.streambrothers.com:1936/8014/8014/playlist.m3u8
+#EXTINF:0001 tvg-id="Vsj5CIWVGIzJcs" tvg-chno="4" group-title="famelack (bq) [bq] [False]" tvg-logo="", NosTV Bonaire 2
+https://stream2.nostvbonaire.com/hls/0/stream.m3u8

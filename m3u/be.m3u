@@ -9,12 +9,12 @@ https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:0001 tvg-id="v8hzHLNa329Qxl" tvg-chno="5" group-title="famelack (be) [be] [False]" tvg-logo="", Canal Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
-#EXTINF:0001 tvg-id="0KHOlcS3CSZQO6" tvg-chno="6" group-title="famelack (be) [be] [False]" tvg-logo="", JapanimTV
+#EXTINF:0001 tvg-id="abeLxZZAtDB502" tvg-chno="6" group-title="famelack (be) [be] [False]" tvg-logo="", Fun Vision
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:0001 tvg-id="0KHOlcS3CSZQO6" tvg-chno="7" group-title="famelack (be) [be] [False]" tvg-logo="", JapanimTV
 https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:0001 tvg-id="eJyaKdO16IOPE0" tvg-chno="7" group-title="famelack (be) [be] [False]" tvg-logo="", Kanaal Z
+#EXTINF:0001 tvg-id="eJyaKdO16IOPE0" tvg-chno="8" group-title="famelack (be) [be] [False]" tvg-logo="", Kanaal Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
-#EXTINF:0001 tvg-id="8NTileZb0uFTPL" tvg-chno="8" group-title="famelack (be) [be] [False]" tvg-logo="", Matele
-https://live.matele.be/hls/live.m3u8
 #EXTINF:0001 tvg-id="VaXjiVOr6bKqVn" tvg-chno="9" group-title="famelack (be) [be] [False]" tvg-logo="", Notele
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="ZBGk2hfKslTEiC" tvg-chno="10" group-title="famelack (be) [be] [False]" tvg-logo="", Radio Contact

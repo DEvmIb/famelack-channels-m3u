@@ -35,20 +35,20 @@ https://live.streamhch.com/live/streams/hch1.m3u8
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 #EXTINF:0001 tvg-id="9jeKM3aw6Paup0" tvg-chno="18" group-title="famelack (hn) [hn] [False]" tvg-logo="", Imagen FM 105.1
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
-#EXTINF:0001 tvg-id="MiA0Rve3BJOTsq" tvg-chno="19" group-title="famelack (hn) [hn] [False]" tvg-logo="", Jehova TV
+#EXTINF:0001 tvg-id="1lrIpNXnnFpBCM" tvg-chno="19" group-title="famelack (hn) [hn] [False]" tvg-logo="", JBN TV
+https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
+#EXTINF:0001 tvg-id="MiA0Rve3BJOTsq" tvg-chno="20" group-title="famelack (hn) [hn] [False]" tvg-logo="", Jehova TV
 https://mp.panelchs.com:1936/8038/8038/playlist.m3u8
-#EXTINF:0001 tvg-id="YShLtvidjqB1kx" tvg-chno="20" group-title="famelack (hn) [hn] [False]" tvg-logo="", Kerusso TV
+#EXTINF:0001 tvg-id="YShLtvidjqB1kx" tvg-chno="21" group-title="famelack (hn) [hn] [False]" tvg-logo="", Kerusso TV
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
-#EXTINF:0001 tvg-id="HAjT5lHheouJ3C" tvg-chno="21" group-title="famelack (hn) [hn] [False]" tvg-logo="", La Top 102.9
+#EXTINF:0001 tvg-id="HAjT5lHheouJ3C" tvg-chno="22" group-title="famelack (hn) [hn] [False]" tvg-logo="", La Top 102.9
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
-#EXTINF:0001 tvg-id="9RwFnJ12MgiGgP" tvg-chno="22" group-title="famelack (hn) [hn] [False]" tvg-logo="", La Top 107.7
+#EXTINF:0001 tvg-id="9RwFnJ12MgiGgP" tvg-chno="23" group-title="famelack (hn) [hn] [False]" tvg-logo="", La Top 107.7
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
-#EXTINF:0001 tvg-id="kgGtkbabuK6Sj3" tvg-chno="23" group-title="famelack (hn) [hn] [False]" tvg-logo="", Lenca TV
+#EXTINF:0001 tvg-id="kgGtkbabuK6Sj3" tvg-chno="24" group-title="famelack (hn) [hn] [False]" tvg-logo="", Lenca TV
 https://lencatelevision.com/hls/stream.m3u8
-#EXTINF:0001 tvg-id="onHiflHrZAd53s" tvg-chno="24" group-title="famelack (hn) [hn] [False]" tvg-logo="", Litoral Atlantico HD
+#EXTINF:0001 tvg-id="onHiflHrZAd53s" tvg-chno="25" group-title="famelack (hn) [hn] [False]" tvg-logo="", Litoral Atlantico HD
 https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
-#EXTINF:0001 tvg-id="sbO1MszTS501SB" tvg-chno="25" group-title="famelack (hn) [hn] [False]" tvg-logo="", Maya TV
-https://media.streambrothers.com:19360/8036/8036.m3u8
 #EXTINF:0001 tvg-id="052OEa16dMrwDi" tvg-chno="26" group-title="famelack (hn) [hn] [False]" tvg-logo="", Metro TV
 https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:0001 tvg-id="4tM2R2nWCTk4RV" tvg-chno="27" group-title="famelack (hn) [hn] [False]" tvg-logo="", Puringla TV
@@ -75,17 +75,13 @@ https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8
 https://s.emisoras.tv:8081/telemas/index.m3u8
 #EXTINF:0001 tvg-id="bogtDcaAWtOFRz" tvg-chno="38" group-title="famelack (hn) [hn] [False]" tvg-logo="", Telerayo
 https://s.emisoras.tv:8081/telerayo/index.m3u8
-#EXTINF:0001 tvg-id="YjpTIsdhrTKDB8" tvg-chno="39" group-title="famelack (hn) [hn] [False]" tvg-logo="", Television Metropolis 19.1
-https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-#EXTINF:0001 tvg-id="r9T8ukgsfSELlS" tvg-chno="40" group-title="famelack (hn) [hn] [False]" tvg-logo="", Television Metropolis 19.2
-https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-#EXTINF:0001 tvg-id="OPNVhQbPeZ6MyD" tvg-chno="41" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro HD
+#EXTINF:0001 tvg-id="qWRNlLMLdjrPV7" tvg-chno="39" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro 27.2 HD
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:0001 tvg-id="OPNVhQbPeZ6MyD" tvg-chno="40" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Centro HD
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-#EXTINF:0001 tvg-id="pT9oAXkeRbqGBU" tvg-chno="42" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Copan
+#EXTINF:0001 tvg-id="pT9oAXkeRbqGBU" tvg-chno="41" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Copan
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
-#EXTINF:0001 tvg-id="FK71vYfazXt184" tvg-chno="43" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Estrella
+#EXTINF:0001 tvg-id="FK71vYfazXt184" tvg-chno="42" group-title="famelack (hn) [hn] [False]" tvg-logo="", TV Estrella
 https://s.emisoras.tv:8081/tve/index.m3u8
-#EXTINF:0001 tvg-id="68v5jZBiXMRfcB" tvg-chno="44" group-title="famelack (hn) [hn] [False]" tvg-logo="", UNE TV
+#EXTINF:0001 tvg-id="68v5jZBiXMRfcB" tvg-chno="43" group-title="famelack (hn) [hn] [False]" tvg-logo="", UNE TV
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="5Dr7rNIxY7en3G" tvg-chno="45" group-title="famelack (hn) [hn] [False]" tvg-logo="", Waldivision Internacional
-https://media.streambrothers.com:19360/8308/8308.m3u8

@@ -17,8 +17,8 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
 #EXTINF:0001 tvg-id="Ii3WUTM9GvbeCB" tvg-chno="9" group-title="famelack (ch) [ch] [False]" tvg-logo="", Die Neue Zeit TV
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="y9fcNWUvgSqvX9" tvg-chno="10" group-title="famelack (ch) [ch] [False]" tvg-logo="", Immaculata TV
-https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="v3jEvjJoQwE3I4" tvg-chno="10" group-title="famelack (ch) [ch] [False]" tvg-logo="", GO-TV Canale 163
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="u5IA5Y47IoddiC" tvg-chno="11" group-title="famelack (ch) [ch] [False]" tvg-logo="", Max TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:0001 tvg-id="xYgLb0tc6pAHED" tvg-chno="12" group-title="famelack (ch) [ch] [False]" tvg-logo="", More Than Sports TV

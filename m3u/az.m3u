@@ -5,3 +5,5 @@ https://str.yodacdn.net/azertv/index.m3u8
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:0001 tvg-id="jlkmejIqbIV0I0" tvg-chno="3" group-title="famelack (az) [az] [False]" tvg-logo="", Naxcivan TV
 https://str2.yodacdn.net/ntv/video.m3u8
+#EXTINF:0001 tvg-id="BRcYI5UTMS9jQ8" tvg-chno="4" group-title="famelack (az) [az] [False]" tvg-logo="", Xezer TV
+https://www.xezerxeber.az/stream/index.m3u8
