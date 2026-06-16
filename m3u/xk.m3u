@@ -3,5 +3,7 @@
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:0001 tvg-id="0lQNeuBrNhWBbz" tvg-chno="2" group-title="famelack (xk) [xk] [False]" tvg-logo="", RTV21
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
-#EXTINF:0001 tvg-id="K7EjioStSyXmA8" tvg-chno="3" group-title="famelack (xk) [xk] [False]" tvg-logo="", TV Syri
+#EXTINF:0001 tvg-id="Q38B5NxxNbNjJy" tvg-chno="3" group-title="famelack (xk) [xk] [False]" tvg-logo="", T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:0001 tvg-id="K7EjioStSyXmA8" tvg-chno="4" group-title="famelack (xk) [xk] [False]" tvg-logo="", TV Syri
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
