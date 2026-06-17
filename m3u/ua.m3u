@@ -21,26 +21,26 @@ https://iptv.prosto.tv/ch111/index.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
 #EXTINF:0001 tvg-id="9D74wXaGqUWkp2" tvg-chno="11" group-title="famelack (ua) [ua] [False]" tvg-logo="", Equalympic
 https://iptv.prosto.tv/ch215/index.m3u8
-#EXTINF:0001 tvg-id="Ma2cDDVzIa07ro" tvg-chno="12" group-title="famelack (ua) [ua] [False]" tvg-logo="", EU Music
+#EXTINF:0001 tvg-id="1noDMwg9YAlG9Y" tvg-chno="12" group-title="famelack (ua) [ua] [False]" tvg-logo="", Espreso TV
+https://dash4.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:0001 tvg-id="Ma2cDDVzIa07ro" tvg-chno="13" group-title="famelack (ua) [ua] [False]" tvg-logo="", EU Music
 https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&cs_track=false&e=1782900912&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&ses=ca0cfbf5db9d8003&st=j-Ja2visdxrjH_8haQZjNg&uid=vu2y5m72
-#EXTINF:0001 tvg-id="mIGSyXqUZvMvq1" tvg-chno="13" group-title="famelack (ua) [ua] [False]" tvg-logo="", EWTN Ukraine
+#EXTINF:0001 tvg-id="mIGSyXqUZvMvq1" tvg-chno="14" group-title="famelack (ua) [ua] [False]" tvg-logo="", EWTN Ukraine
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
-#EXTINF:0001 tvg-id="hWjqV9dGq58pYr" tvg-chno="14" group-title="famelack (ua) [ua] [False]" tvg-logo="", Fashion TV
+#EXTINF:0001 tvg-id="hWjqV9dGq58pYr" tvg-chno="15" group-title="famelack (ua) [ua] [False]" tvg-logo="", Fashion TV
 https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&e=1783350200&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=RRhh01CY6iYIRs_Kyoc3lw
-#EXTINF:0001 tvg-id="QgJCPkx1daMycI" tvg-chno="15" group-title="famelack (ua) [ua] [False]" tvg-logo="", FREEDOM
+#EXTINF:0001 tvg-id="QgJCPkx1daMycI" tvg-chno="16" group-title="famelack (ua) [ua] [False]" tvg-logo="", FREEDOM
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:0001 tvg-id="ihOu06OqCfSgp8" tvg-chno="16" group-title="famelack (ua) [ua] [False]" tvg-logo="", ICTV
+#EXTINF:0001 tvg-id="ihOu06OqCfSgp8" tvg-chno="17" group-title="famelack (ua) [ua] [False]" tvg-logo="", ICTV
 https://iptv.prosto.tv/ch2/index.m3u8
-#EXTINF:0001 tvg-id="e9rrXwLSK5cgba" tvg-chno="17" group-title="famelack (ua) [ua] [False]" tvg-logo="", Inter+
+#EXTINF:0001 tvg-id="e9rrXwLSK5cgba" tvg-chno="18" group-title="famelack (ua) [ua] [False]" tvg-logo="", Inter+
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="2ijBxrnqlhILuI" tvg-chno="18" group-title="famelack (ua) [ua] [False]" tvg-logo="", ITV
+#EXTINF:0001 tvg-id="2ijBxrnqlhILuI" tvg-chno="19" group-title="famelack (ua) [ua] [False]" tvg-logo="", ITV
 https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
-#EXTINF:0001 tvg-id="WoGHZ2NiobEniJ" tvg-chno="19" group-title="famelack (ua) [ua] [False]" tvg-logo="", Izmail TV
+#EXTINF:0001 tvg-id="WoGHZ2NiobEniJ" tvg-chno="20" group-title="famelack (ua) [ua] [False]" tvg-logo="", Izmail TV
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
-#EXTINF:0001 tvg-id="ecJrdAdmunHpWi" tvg-chno="20" group-title="famelack (ua) [ua] [False]" tvg-logo="", Lale
+#EXTINF:0001 tvg-id="ecJrdAdmunHpWi" tvg-chno="21" group-title="famelack (ua) [ua] [False]" tvg-logo="", Lale
 https://iptv.prosto.tv/ch77/index.m3u8
-#EXTINF:0001 tvg-id="yrSBjf9gfsWeUo" tvg-chno="21" group-title="famelack (ua) [ua] [False]" tvg-logo="", Lanet.TV
-https://kiev1-cdn.lanet.tv/live/1008.m3u8
 #EXTINF:0001 tvg-id="aTKMVMY4VnZK2B" tvg-chno="22" group-title="famelack (ua) [ua] [False]" tvg-logo="", M1
 https://iptv.prosto.tv/ch122/index.m3u8
 #EXTINF:0001 tvg-id="tw81DnoVlplmdm" tvg-chno="23" group-title="famelack (ua) [ua] [False]" tvg-logo="", M2
