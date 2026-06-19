@@ -35,11 +35,3 @@ https://streams.comclark.com/pknsd/lac/playlist.m3u8
 https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
 #EXTINF:0001 tvg-id="zQHj8k3lfZHYDd" tvg-chno="18" group-title="famelack (ph) [ph] [False]" tvg-logo="", PTV
 https://streams.comclark.com/pknsd/ptv/playlist.m3u8
-#EXTINF:0001 tvg-id="WviTL8qcTRWt2V" tvg-chno="19" group-title="famelack (ph) [ph] [False]" tvg-logo="", SDTV Network
-https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8
-#EXTINF:0001 tvg-id="U4qFQGhb2lylGn" tvg-chno="20" group-title="famelack (ph) [ph] [False]" tvg-logo="", Sine Plus
-https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8
-#EXTINF:0001 tvg-id="wTn8t48jb6lXBN" tvg-chno="21" group-title="famelack (ph) [ph] [False]" tvg-logo="", Star Television
-https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8
-#EXTINF:0001 tvg-id="25KpPpidlrPZ8K" tvg-chno="22" group-title="famelack (ph) [ph] [False]" tvg-logo="", Star TV Philippines
-https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8

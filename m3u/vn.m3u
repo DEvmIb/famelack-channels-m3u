@@ -15,39 +15,41 @@ https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
 https://live.baolaocai.vn/channel2/stream.m3u8
 #EXTINF:0001 tvg-id="nfUMYUgBEhhJaP" tvg-chno="8" group-title="famelack (vn) [vn] [False]" tvg-logo="", Lao SV TV
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="78sapvlwKrQ0tt" tvg-chno="9" group-title="famelack (vn) [vn] [False]" tvg-logo="", Tay Ninh TV
+#EXTINF:0001 tvg-id="GYggfQq3olGvXb" tvg-chno="9" group-title="famelack (vn) [vn] [False]" tvg-logo="", Lao-Thai TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="78sapvlwKrQ0tt" tvg-chno="10" group-title="famelack (vn) [vn] [False]" tvg-logo="", Tay Ninh TV
 https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
-#EXTINF:0001 tvg-id="P3wFK2is4nhE2c" tvg-chno="10" group-title="famelack (vn) [vn] [False]" tvg-logo="", Tea TV
+#EXTINF:0001 tvg-id="P3wFK2is4nhE2c" tvg-chno="11" group-title="famelack (vn) [vn] [False]" tvg-logo="", Tea TV
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="pr9APH9dYjEJHa" tvg-chno="11" group-title="famelack (vn) [vn] [False]" tvg-logo="", Thai Nguyen TV
+#EXTINF:0001 tvg-id="pr9APH9dYjEJHa" tvg-chno="12" group-title="famelack (vn) [vn] [False]" tvg-logo="", Thai Nguyen TV
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:0001 tvg-id="3ssQc7PdBXGpNU" tvg-chno="12" group-title="famelack (vn) [vn] [False]" tvg-logo="", Tien Giang TV
+#EXTINF:0001 tvg-id="3ssQc7PdBXGpNU" tvg-chno="13" group-title="famelack (vn) [vn] [False]" tvg-logo="", Tien Giang TV
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
-#EXTINF:0001 tvg-id="gh2TkRWTUyBId2" tvg-chno="13" group-title="famelack (vn) [vn] [False]" tvg-logo="", Uniquely Thai
+#EXTINF:0001 tvg-id="gh2TkRWTUyBId2" tvg-chno="14" group-title="famelack (vn) [vn] [False]" tvg-logo="", Uniquely Thai
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="ixbj5BMW5hNHQj" tvg-chno="14" group-title="famelack (vn) [vn] [False]" tvg-logo="", Vietnam Today
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vietnamtoday-720p.m3u8
-#EXTINF:0001 tvg-id="caB0xQBH2m9LIA" tvg-chno="15" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV1
+#EXTINF:0001 tvg-id="ixbj5BMW5hNHQj" tvg-chno="15" group-title="famelack (vn) [vn] [False]" tvg-logo="", Vietnam Today
+https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
+#EXTINF:0001 tvg-id="caB0xQBH2m9LIA" tvg-chno="16" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV1
 https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
-#EXTINF:0001 tvg-id="c77Xiaoe1NDnk8" tvg-chno="16" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV2
+#EXTINF:0001 tvg-id="c77Xiaoe1NDnk8" tvg-chno="17" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV2
 https://live-a.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
-#EXTINF:0001 tvg-id="H2DFPYbVVKA4VY" tvg-chno="17" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV3
+#EXTINF:0001 tvg-id="H2DFPYbVVKA4VY" tvg-chno="18" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV3
 https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
-#EXTINF:0001 tvg-id="xwilwG7SErS8gN" tvg-chno="18" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV4
+#EXTINF:0001 tvg-id="xwilwG7SErS8gN" tvg-chno="19" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV4
 https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
-#EXTINF:0001 tvg-id="TYwawej9Rt2YFF" tvg-chno="19" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV5
+#EXTINF:0001 tvg-id="TYwawej9Rt2YFF" tvg-chno="20" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV5
 https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
-#EXTINF:0001 tvg-id="HMQVG3VqYbd8Od" tvg-chno="20" group-title="famelack (vn) [vn] [False]" tvg-logo="", VTV5 Tay Nam Bo
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8
-#EXTINF:0001 tvg-id="jANbKtRbxTMsEi" tvg-chno="21" group-title="famelack (vn) [vn] [False]" tvg-logo="", VTV5 Tay Nguyen
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tn-manifest.m3u8
-#EXTINF:0001 tvg-id="HNjIC8hCjcPFUg" tvg-chno="22" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV6
+#EXTINF:0001 tvg-id="HMQVG3VqYbd8Od" tvg-chno="21" group-title="famelack (vn) [vn] [False]" tvg-logo="", VTV5 Tay Nam Bo
+https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
+#EXTINF:0001 tvg-id="jANbKtRbxTMsEi" tvg-chno="22" group-title="famelack (vn) [vn] [False]" tvg-logo="", VTV5 Tay Nguyen
+https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
+#EXTINF:0001 tvg-id="HNjIC8hCjcPFUg" tvg-chno="23" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV6
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
-#EXTINF:0001 tvg-id="fl1mYBD9JQrZxh" tvg-chno="23" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV7
+#EXTINF:0001 tvg-id="fl1mYBD9JQrZxh" tvg-chno="24" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV7
 https://live-a.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
-#EXTINF:0001 tvg-id="0V4Amw3JJwyoOe" tvg-chno="24" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV8
+#EXTINF:0001 tvg-id="0V4Amw3JJwyoOe" tvg-chno="25" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV8
 https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv8-manifest.m3u8
-#EXTINF:0001 tvg-id="ifG0oM5wHYSi9o" tvg-chno="25" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV9
+#EXTINF:0001 tvg-id="ifG0oM5wHYSi9o" tvg-chno="26" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV9
 https://live-a.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
-#EXTINF:0001 tvg-id="rlPI4ZEttqiyTy" tvg-chno="26" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV10
+#EXTINF:0001 tvg-id="rlPI4ZEttqiyTy" tvg-chno="27" group-title="famelack (vn) [vn] [True]" tvg-logo="", VTV10
 https://live-a.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8

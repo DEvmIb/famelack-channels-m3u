@@ -7,27 +7,29 @@ https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
 #EXTINF:0001 tvg-id="lsn2po0NoORfy7" tvg-chno="4" group-title="famelack (be) [be] [False]" tvg-logo="", Bel RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:0001 tvg-id="xCsQ7dJnPDumil" tvg-chno="5" group-title="famelack (be) [be] [False]" tvg-logo="", BX1
+#EXTINF:0001 tvg-id="yCMKeXQRVBIK53" tvg-chno="5" group-title="famelack (be) [be] [True]" tvg-logo="", Bouke
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
+#EXTINF:0001 tvg-id="xCsQ7dJnPDumil" tvg-chno="6" group-title="famelack (be) [be] [False]" tvg-logo="", BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:0001 tvg-id="v8hzHLNa329Qxl" tvg-chno="6" group-title="famelack (be) [be] [False]" tvg-logo="", Canal Z
+#EXTINF:0001 tvg-id="v8hzHLNa329Qxl" tvg-chno="7" group-title="famelack (be) [be] [False]" tvg-logo="", Canal Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
-#EXTINF:0001 tvg-id="abeLxZZAtDB502" tvg-chno="7" group-title="famelack (be) [be] [False]" tvg-logo="", Fun Vision
+#EXTINF:0001 tvg-id="abeLxZZAtDB502" tvg-chno="8" group-title="famelack (be) [be] [False]" tvg-logo="", Fun Vision
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
-#EXTINF:0001 tvg-id="0KHOlcS3CSZQO6" tvg-chno="8" group-title="famelack (be) [be] [False]" tvg-logo="", JapanimTV
+#EXTINF:0001 tvg-id="0KHOlcS3CSZQO6" tvg-chno="9" group-title="famelack (be) [be] [False]" tvg-logo="", JapanimTV
 https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:0001 tvg-id="eJyaKdO16IOPE0" tvg-chno="9" group-title="famelack (be) [be] [False]" tvg-logo="", Kanaal Z
+#EXTINF:0001 tvg-id="eJyaKdO16IOPE0" tvg-chno="10" group-title="famelack (be) [be] [False]" tvg-logo="", Kanaal Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
-#EXTINF:0001 tvg-id="8NTileZb0uFTPL" tvg-chno="10" group-title="famelack (be) [be] [False]" tvg-logo="", Matele
+#EXTINF:0001 tvg-id="8NTileZb0uFTPL" tvg-chno="11" group-title="famelack (be) [be] [False]" tvg-logo="", Matele
 https://live.matele.be/hls/live.m3u8
-#EXTINF:0001 tvg-id="VaXjiVOr6bKqVn" tvg-chno="11" group-title="famelack (be) [be] [False]" tvg-logo="", Notele
+#EXTINF:0001 tvg-id="VaXjiVOr6bKqVn" tvg-chno="12" group-title="famelack (be) [be] [False]" tvg-logo="", Notele
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="ZBGk2hfKslTEiC" tvg-chno="12" group-title="famelack (be) [be] [False]" tvg-logo="", Radio Contact
+#EXTINF:0001 tvg-id="ZBGk2hfKslTEiC" tvg-chno="13" group-title="famelack (be) [be] [False]" tvg-logo="", Radio Contact
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-#EXTINF:0001 tvg-id="Nawp6hUkpbwpTg" tvg-chno="13" group-title="famelack (be) [be] [False]" tvg-logo="", RTL-TVI
+#EXTINF:0001 tvg-id="Nawp6hUkpbwpTg" tvg-chno="14" group-title="famelack (be) [be] [False]" tvg-logo="", RTL-TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-#EXTINF:0001 tvg-id="mODsZ0uywreKXA" tvg-chno="14" group-title="famelack (be) [be] [False]" tvg-logo="", Tele MB
+#EXTINF:0001 tvg-id="mODsZ0uywreKXA" tvg-chno="15" group-title="famelack (be) [be] [False]" tvg-logo="", Tele MB
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8
-#EXTINF:0001 tvg-id="DYsVgwn2CBEpRU" tvg-chno="15" group-title="famelack (be) [be] [False]" tvg-logo="", Telesambre
+#EXTINF:0001 tvg-id="DYsVgwn2CBEpRU" tvg-chno="16" group-title="famelack (be) [be] [False]" tvg-logo="", Telesambre
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
-#EXTINF:0001 tvg-id="NdxuQBJhHdBU21" tvg-chno="16" group-title="famelack (be) [be] [False]" tvg-logo="", TV Lux
+#EXTINF:0001 tvg-id="NdxuQBJhHdBU21" tvg-chno="17" group-title="famelack (be) [be] [False]" tvg-logo="", TV Lux
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8

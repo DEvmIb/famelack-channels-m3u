@@ -1,17 +1,5 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="i6vxWElbJaIPBX" tvg-chno="1" group-title="famelack (mm) [mm] [True]" tvg-logo="", DVB TV
 https://live-stream.dvb.no/hls/stream_src/index.m3u8
-#EXTINF:0001 tvg-id="p69vsxFs98WVu8" tvg-chno="2" group-title="famelack (mm) [mm] [False]" tvg-logo="", Hluttaw S & D
-https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
-#EXTINF:0001 tvg-id="cdsVyojNjKqygk" tvg-chno="3" group-title="famelack (mm) [mm] [False]" tvg-logo="", Mahar TV
+#EXTINF:0001 tvg-id="cdsVyojNjKqygk" tvg-chno="2" group-title="famelack (mm) [mm] [False]" tvg-logo="", Mahar TV
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="X4O9nYA5W4iOGM" tvg-chno="4" group-title="famelack (mm) [mm] [False]" tvg-logo="", MRTV
-https://mrtvott.com/cache/MRTV-HD/master.m3u8
-#EXTINF:0001 tvg-id="J9qh26TnFdl6KD" tvg-chno="5" group-title="famelack (mm) [mm] [False]" tvg-logo="", MRTV Entertainment
-https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
-#EXTINF:0001 tvg-id="AQcwe6Z9P7sz9G" tvg-chno="6" group-title="famelack (mm) [mm] [False]" tvg-logo="", MRTV Farmer
-https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
-#EXTINF:0001 tvg-id="Dbol6rCbtjq6DY" tvg-chno="7" group-title="famelack (mm) [mm] [False]" tvg-logo="", MRTV News
-https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
-#EXTINF:0001 tvg-id="1wMsK4nhJMBFCb" tvg-chno="8" group-title="famelack (mm) [mm] [False]" tvg-logo="", MRTV NRC
-https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
