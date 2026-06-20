@@ -17,12 +17,12 @@ https://nl1.nghk.ai/ArenaPremium3HD/index.m3u8
 https://nl1.nghk.ai/ArenaSport4HD/index.m3u8
 #EXTINF:0001 tvg-id="GnCTseq7fSdRQy" tvg-chno="9" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 5
 https://nl1.nghk.ai/ArenaSport5HD/index.m3u8
-#EXTINF:0001 tvg-id="HhTYS11ALVUJdQ" tvg-chno="10" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 5 Premium
-https://nl1.nghk.ai/SK2SRHD/index.m3u8
-#EXTINF:0001 tvg-id="s0jQ1wsuJfgvKI" tvg-chno="11" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 6
+#EXTINF:0001 tvg-id="s0jQ1wsuJfgvKI" tvg-chno="10" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 6
 https://nl1.nghk.ai/ArenaSport6HD/index.m3u8
-#EXTINF:0001 tvg-id="6pmVocTDHgUtpC" tvg-chno="12" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 7
+#EXTINF:0001 tvg-id="6pmVocTDHgUtpC" tvg-chno="11" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 7
 https://nl1.nghk.ai/ArenaSport7HD/index.m3u8
+#EXTINF:0001 tvg-id="FQvPsjIBKWkd1h" tvg-chno="12" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 8
+https://nl1.nghk.ai/ArenaSport8HD/index.m3u8
 #EXTINF:0001 tvg-id="DO5CefVvILV6oH" tvg-chno="13" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 9
 https://nl1.nghk.ai/ArenaSport9HD/index.m3u8
 #EXTINF:0001 tvg-id="jIB7AyBAgYaohF" tvg-chno="14" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 10
@@ -57,9 +57,9 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 #EXTINF:0001 tvg-id="yqFuGEAiSRmDtb" tvg-chno="29" group-title="famelack (rs) [rs] [False]" tvg-logo="", RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:0001 tvg-id="9igTbA8qhtc7eq" tvg-chno="30" group-title="famelack (rs) [rs] [False]" tvg-logo="", TDI Radio TV
+#EXTINF:0001 tvg-id="PQO3nTobe9PoFo" tvg-chno="30" group-title="famelack (rs) [rs] [False]" tvg-logo="", SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:0001 tvg-id="9igTbA8qhtc7eq" tvg-chno="31" group-title="famelack (rs) [rs] [False]" tvg-logo="", TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
-#EXTINF:0001 tvg-id="hv5hUXMQAlrjyb" tvg-chno="31" group-title="famelack (rs) [rs] [False]" tvg-logo="", TV Arta
+#EXTINF:0001 tvg-id="hv5hUXMQAlrjyb" tvg-chno="32" group-title="famelack (rs) [rs] [False]" tvg-logo="", TV Arta
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
-#EXTINF:0001 tvg-id="QBnvi3VHR0xXL2" tvg-chno="32" group-title="famelack (rs) [rs] [False]" tvg-logo="", TV Hram
-https://vod1.laki.eu/live/hram/index.m3u8

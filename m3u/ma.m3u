@@ -19,13 +19,11 @@ https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8
 https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
 #EXTINF:0001 tvg-id="u4klD4rXS0SuF5" tvg-chno="10" group-title="famelack (ma) [ma] [False]" tvg-logo="", Arryadia HD3
 https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8
-#EXTINF:0001 tvg-id="YZOv9RKh6zlC6k" tvg-chno="11" group-title="famelack (ma) [ma] [False]" tvg-logo="", Chada TV
-https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
-#EXTINF:0001 tvg-id="mDkV0A2XCu8rjT" tvg-chno="12" group-title="famelack (ma) [ma] [False]" tvg-logo="", Medi1TV Afrique
+#EXTINF:0001 tvg-id="mDkV0A2XCu8rjT" tvg-chno="11" group-title="famelack (ma) [ma] [False]" tvg-logo="", Medi1TV Afrique
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="UPipkXIGFTmBOo" tvg-chno="13" group-title="famelack (ma) [ma] [False]" tvg-logo="", Medi1TV Arabic
+#EXTINF:0001 tvg-id="UPipkXIGFTmBOo" tvg-chno="12" group-title="famelack (ma) [ma] [False]" tvg-logo="", Medi1TV Arabic
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="7VnDwonSPxkXhw" tvg-chno="14" group-title="famelack (ma) [ma] [False]" tvg-logo="", Medi1TV Maghreb
+#EXTINF:0001 tvg-id="7VnDwonSPxkXhw" tvg-chno="13" group-title="famelack (ma) [ma] [False]" tvg-logo="", Medi1TV Maghreb
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="QP7DyV43LNSLl9" tvg-chno="15" group-title="famelack (ma) [ma] [False]" tvg-logo="", StoryChannel TV
+#EXTINF:0001 tvg-id="QP7DyV43LNSLl9" tvg-chno="14" group-title="famelack (ma) [ma] [False]" tvg-logo="", StoryChannel TV
 https://136044159.r.cdnsun.net/storychannel.m3u8
