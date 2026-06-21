@@ -1,24 +1,24 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="2TkyVV55zzBzz3" tvg-chno="1" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya Business
+#EXTINF:0001 tvg-id="o7f2wdALXEzHZs" tvg-chno="1" group-title="famelack (ae) [ae] [False]" tvg-logo="", Ajman TV
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:0001 tvg-id="2TkyVV55zzBzz3" tvg-chno="2" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="tn94bXCcZQXp4I" tvg-chno="2" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya Programs
+#EXTINF:0001 tvg-id="tn94bXCcZQXp4I" tvg-chno="3" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Arabiya Programs
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Y4O8X4bPqh2Vx5" tvg-chno="3" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Qamar TV
+#EXTINF:0001 tvg-id="Y4O8X4bPqh2Vx5" tvg-chno="4" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Qamar TV
 https://streamer3.premio.link/alqamar/playlist.m3u8
-#EXTINF:0001 tvg-id="21EXltGyaMhzfR" tvg-chno="4" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Shallal TV
+#EXTINF:0001 tvg-id="21EXltGyaMhzfR" tvg-chno="5" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Shallal TV
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="yR85LzOCV21lPt" tvg-chno="5" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Sharqiya Min Kabla
+#EXTINF:0001 tvg-id="yR85LzOCV21lPt" tvg-chno="6" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Sharqiya Min Kabla
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="U4Ytf8HCWlTZ0o" tvg-chno="6" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Wousta TV
+#EXTINF:0001 tvg-id="U4Ytf8HCWlTZ0o" tvg-chno="7" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="Sv9OTAq0k25EOS" tvg-chno="7" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Yaum TV
+#EXTINF:0001 tvg-id="Sv9OTAq0k25EOS" tvg-chno="8" group-title="famelack (ae) [ae] [False]" tvg-logo="", Al Yaum TV
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
-#EXTINF:0001 tvg-id="L928jkxbfp0TYR" tvg-chno="8" group-title="famelack (ae) [ae] [False]" tvg-logo="", Alarabiya
+#EXTINF:0001 tvg-id="L928jkxbfp0TYR" tvg-chno="9" group-title="famelack (ae) [ae] [False]" tvg-logo="", Alarabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="acbY5wCKKgtMnI" tvg-chno="9" group-title="famelack (ae) [ae] [False]" tvg-logo="", CNBC Arabiya
+#EXTINF:0001 tvg-id="acbY5wCKKgtMnI" tvg-chno="10" group-title="famelack (ae) [ae] [False]" tvg-logo="", CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:0001 tvg-id="NCWWidJrVWnWto" tvg-chno="10" group-title="famelack (ae) [ae] [False]" tvg-logo="", Fujairah TV
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="T411svN9rFZRYL" tvg-chno="11" group-title="famelack (ae) [ae] [False]" tvg-logo="", MBC FM
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
 #EXTINF:0001 tvg-id="UjnCLfmZ5c3yRj" tvg-chno="12" group-title="famelack (ae) [ae] [False]" tvg-logo="", MBC Persia
@@ -51,3 +51,7 @@ https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m
 https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
 #EXTINF:0001 tvg-id="rbtvbfV1OrLd1T" tvg-chno="26" group-title="famelack (ae) [ae] [False]" tvg-logo="", Watar Radio
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
+#EXTINF:0001 tvg-id="BC8lHGBUYR1VVA" tvg-chno="27" group-title="famelack (ae) [ae] [False]" tvg-logo="", Zee Aflam
+https://41.223.30.230/ZEEAFLAM/index.m3u8
+#EXTINF:0001 tvg-id="4tN5nUxcAqYPgp" tvg-chno="28" group-title="famelack (ae) [ae] [False]" tvg-logo="", Zee Alwan
+https://41.223.30.230/ZEEALWAN/index.m3u8
