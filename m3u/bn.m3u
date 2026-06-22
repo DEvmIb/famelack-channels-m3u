@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="8B3qgJfyLRwkgk" tvg-chno="1" group-title="famelack (bn) [bn] [False]" tvg-logo="", RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:0001 tvg-id="qgsd5xqeWxixS3" tvg-chno="2" group-title="famelack (bn) [bn] [False]" tvg-logo="", RTB Go
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:0001 tvg-id="MouleJVlDxGTbc" tvg-chno="3" group-title="famelack (bn) [bn] [False]" tvg-logo="", RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8

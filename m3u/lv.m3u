@@ -13,7 +13,9 @@ https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="FQZfmghEliCIsO" tvg-chno="7" group-title="famelack (lv) [lv] [False]" tvg-logo="", Sea TV
 https://iptv.prosto.tv/ch238/index.m3u8
-#EXTINF:0001 tvg-id="sgMHs1obQ8lL7A" tvg-chno="8" group-title="famelack (lv) [lv] [False]" tvg-logo="", TVNET
+#EXTINF:0001 tvg-id="Qqez1BnSpzzwRq" tvg-chno="8" group-title="famelack (lv) [lv] [False]" tvg-logo="", TV Jurmala
+https://air.star.lv/TV_Jurmala_multistream/index.m3u8
+#EXTINF:0001 tvg-id="sgMHs1obQ8lL7A" tvg-chno="9" group-title="famelack (lv) [lv] [False]" tvg-logo="", TVNET
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
-#EXTINF:0001 tvg-id="D4XzxfQIBxlNgz" tvg-chno="9" group-title="famelack (lv) [lv] [False]" tvg-logo="", Vidusdaugavas Televizija
+#EXTINF:0001 tvg-id="D4XzxfQIBxlNgz" tvg-chno="10" group-title="famelack (lv) [lv] [False]" tvg-logo="", Vidusdaugavas Televizija
 https://straume.vdtv.lv/vdtv2/index.m3u8

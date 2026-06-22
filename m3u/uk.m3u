@@ -142,7 +142,7 @@ https://amg27604-amg27604c1-amgplt0002.playout.now3.amagi.tv/playlist/amg27604-a
 #EXTINF:0001 tvg-id="tOgrmVxWlQxOPo" tvg-chno="71" group-title="famelack (uk) [uk] [False]" tvg-logo="", Intervention
 https://amg00276-amg00276c17-samsung-gb-3791.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="5oHHeA42AXWK92" tvg-chno="72" group-title="famelack (uk) [uk] [False]" tvg-logo="", Iran International
-https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
 #EXTINF:0001 tvg-id="T9uJqYlg2DgnoL" tvg-chno="73" group-title="famelack (uk) [uk] [False]" tvg-logo="", Jack Hanna
 https://amg00111-hearstmediafast-amg00111c1-samsung-gb-2186.playouts.now.amagi.tv/playlist/amg00111-hearstmediafast-jackhanna-samsunggb/playlist.m3u8
 #EXTINF:0001 tvg-id="v5IfXYen2Q01eP" tvg-chno="74" group-title="famelack (uk) [uk] [False]" tvg-logo="", JimJam Europe
@@ -259,20 +259,20 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:0001 tvg-id="fOSUi9hkZeTBQ3" tvg-chno="130" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rabbids Invasion
 https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8
-#EXTINF:0001 tvg-id="c4Swg0nm0Rjn8G" tvg-chno="131" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Action Movies UK
+#EXTINF:0001 tvg-id="DqKr2u3T1rmLql" tvg-chno="131" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten Top Movies UK
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:0001 tvg-id="c4Swg0nm0Rjn8G" tvg-chno="132" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Action Movies UK
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:0001 tvg-id="uHYtTL2fEDHMX0" tvg-chno="132" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rally.TV FAST+
+#EXTINF:0001 tvg-id="uHYtTL2fEDHMX0" tvg-chno="133" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rally.TV FAST+
 https://di4fb7mbsq3nf.cloudfront.net/playlist.m3u8
-#EXTINF:0001 tvg-id="RekrBPbX5KKpZp" tvg-chno="133" group-title="famelack (uk) [uk] [True]" tvg-logo="", Real Crime
+#EXTINF:0001 tvg-id="RekrBPbX5KKpZp" tvg-chno="134" group-title="famelack (uk) [uk] [True]" tvg-logo="", Real Crime
 https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="jNN9ef0ljzGJ7E" tvg-chno="134" group-title="famelack (uk) [uk] [False]" tvg-logo="", Real Crime Beta
+#EXTINF:0001 tvg-id="jNN9ef0ljzGJ7E" tvg-chno="135" group-title="famelack (uk) [uk] [False]" tvg-logo="", Real Crime Beta
 https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="VLRmb68T8TU3O9" tvg-chno="135" group-title="famelack (uk) [uk] [False]" tvg-logo="", River Monsters
+#EXTINF:0001 tvg-id="VLRmb68T8TU3O9" tvg-chno="136" group-title="famelack (uk) [uk] [False]" tvg-logo="", River Monsters
 https://amg00654-itv-amg00654c24-samsung-gb-8890.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="knpCoV9erqvaUO" tvg-chno="136" group-title="famelack (uk) [uk] [True]" tvg-logo="", Rookie Blue
+#EXTINF:0001 tvg-id="knpCoV9erqvaUO" tvg-chno="137" group-title="famelack (uk) [uk] [True]" tvg-logo="", Rookie Blue
 https://amg00353-amg00353c56-samsung-gb-8654.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-rookieblueenglishvtt-samsunggb/playlist.m3u8
-#EXTINF:0001 tvg-id="NegCVOJcL5pipg" tvg-chno="137" group-title="famelack (uk) [uk] [True]" tvg-logo="", S4C
-https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:0001 tvg-id="WQqSZQl27UG0sD" tvg-chno="138" group-title="famelack (uk) [uk] [False]" tvg-logo="", Safeer TV
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:0001 tvg-id="UuT4hF41jXyjM4" tvg-chno="139" group-title="famelack (uk) [uk] [False]" tvg-logo="", Sanskar UK

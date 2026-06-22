@@ -1,73 +1,69 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="485meo86tDatGM" tvg-chno="1" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Fight
 https://nl1.nghk.ai/ArenaFight/index.m3u8
-#EXTINF:0001 tvg-id="0qxi1rn4VwOM59" tvg-chno="2" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 1
-https://nl1.nghk.ai/ArenaSport1HD/index.m3u8
-#EXTINF:0001 tvg-id="vOpjbcc1u6joGA" tvg-chno="3" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 1 Premium
+#EXTINF:0001 tvg-id="vOpjbcc1u6joGA" tvg-chno="2" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 1 Premium
 https://nl1.nghk.ai/ArenaPremium1HD/index.m3u8
-#EXTINF:0001 tvg-id="qWrynEzXfVltj1" tvg-chno="4" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 2
-https://nl1.nghk.ai/ArenaSport2HD/index.m3u8
-#EXTINF:0001 tvg-id="QQoiCt5RWxLUjj" tvg-chno="5" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 2 Premium
+#EXTINF:0001 tvg-id="QQoiCt5RWxLUjj" tvg-chno="3" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 2 Premium
 https://nl1.nghk.ai/ArenaPremium2HD/index.m3u8
-#EXTINF:0001 tvg-id="wkNpa9iTFkpL7u" tvg-chno="6" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 3
+#EXTINF:0001 tvg-id="wkNpa9iTFkpL7u" tvg-chno="4" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 3
 https://nl1.nghk.ai/ArenaSport3HD/index.m3u8
-#EXTINF:0001 tvg-id="HhVGQlYZF3AwB5" tvg-chno="7" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 3 Premium
+#EXTINF:0001 tvg-id="HhVGQlYZF3AwB5" tvg-chno="5" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 3 Premium
 https://nl1.nghk.ai/ArenaPremium3HD/index.m3u8
-#EXTINF:0001 tvg-id="5cGQ3EV21Flib1" tvg-chno="8" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 4
+#EXTINF:0001 tvg-id="5cGQ3EV21Flib1" tvg-chno="6" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 4
 https://nl1.nghk.ai/ArenaSport4HD/index.m3u8
-#EXTINF:0001 tvg-id="5gtsOEcYRKF3yk" tvg-chno="9" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 4 Premium
+#EXTINF:0001 tvg-id="5gtsOEcYRKF3yk" tvg-chno="7" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 4 Premium
 https://nl1.nghk.ai/SK1SRHD/index.m3u8
-#EXTINF:0001 tvg-id="GnCTseq7fSdRQy" tvg-chno="10" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 5
+#EXTINF:0001 tvg-id="GnCTseq7fSdRQy" tvg-chno="8" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 5
 https://nl1.nghk.ai/ArenaSport5HD/index.m3u8
-#EXTINF:0001 tvg-id="HhTYS11ALVUJdQ" tvg-chno="11" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 5 Premium
+#EXTINF:0001 tvg-id="HhTYS11ALVUJdQ" tvg-chno="9" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 5 Premium
 https://nl1.nghk.ai/SK2SRHD/index.m3u8
-#EXTINF:0001 tvg-id="s0jQ1wsuJfgvKI" tvg-chno="12" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 6
+#EXTINF:0001 tvg-id="s0jQ1wsuJfgvKI" tvg-chno="10" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 6
 https://nl1.nghk.ai/ArenaSport6HD/index.m3u8
-#EXTINF:0001 tvg-id="6pmVocTDHgUtpC" tvg-chno="13" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 7
+#EXTINF:0001 tvg-id="6pmVocTDHgUtpC" tvg-chno="11" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 7
 https://nl1.nghk.ai/ArenaSport7HD/index.m3u8
-#EXTINF:0001 tvg-id="FQvPsjIBKWkd1h" tvg-chno="14" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 8
+#EXTINF:0001 tvg-id="FQvPsjIBKWkd1h" tvg-chno="12" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 8
 https://nl1.nghk.ai/ArenaSport8HD/index.m3u8
-#EXTINF:0001 tvg-id="DO5CefVvILV6oH" tvg-chno="15" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 9
+#EXTINF:0001 tvg-id="DO5CefVvILV6oH" tvg-chno="13" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 9
 https://nl1.nghk.ai/ArenaSport9HD/index.m3u8
-#EXTINF:0001 tvg-id="jIB7AyBAgYaohF" tvg-chno="16" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 10
+#EXTINF:0001 tvg-id="jIB7AyBAgYaohF" tvg-chno="14" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport 10
 https://nl1.nghk.ai/ArenaSport10HD/index.m3u8
-#EXTINF:0001 tvg-id="KM1wqUbKveZt3Y" tvg-chno="17" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport Adrenalin
+#EXTINF:0001 tvg-id="KM1wqUbKveZt3Y" tvg-chno="15" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport Adrenalin
 https://nl1.nghk.ai/SK3SRHD/index.m3u8
-#EXTINF:0001 tvg-id="N68Z23dcnSA1yX" tvg-chno="18" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport Tenis
+#EXTINF:0001 tvg-id="N68Z23dcnSA1yX" tvg-chno="16" group-title="famelack (rs) [rs] [False]" tvg-logo="", Arena Sport Tenis
 https://nl1.nghk.ai/SK4SRHD/index.m3u8
-#EXTINF:0001 tvg-id="tGRgOGa9BjpssA" tvg-chno="19" group-title="famelack (rs) [rs] [False]" tvg-logo="", Narodna TV
+#EXTINF:0001 tvg-id="tGRgOGa9BjpssA" tvg-chno="17" group-title="famelack (rs) [rs] [False]" tvg-logo="", Narodna TV
 https://edge8.pink.rs/narodnatv/index.m3u8
-#EXTINF:0001 tvg-id="fhxP6wIauoX6aK" tvg-chno="20" group-title="famelack (rs) [rs] [False]" tvg-logo="", Pink
+#EXTINF:0001 tvg-id="fhxP6wIauoX6aK" tvg-chno="18" group-title="famelack (rs) [rs] [False]" tvg-logo="", Pink
 https://edge8.pink.rs/pinktv/index.m3u8
-#EXTINF:0001 tvg-id="cqbbBO02iowRAv" tvg-chno="21" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva
+#EXTINF:0001 tvg-id="cqbbBO02iowRAv" tvg-chno="19" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva
 https://de1.dstv.cx/PrvaTVHD/index.m3u8
-#EXTINF:0001 tvg-id="ItwKfqSv0vvgvl" tvg-chno="22" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva Files
+#EXTINF:0001 tvg-id="ItwKfqSv0vvgvl" tvg-chno="20" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva Files
 https://de1.dstv.cx/PrvaFiles/index.m3u8
-#EXTINF:0001 tvg-id="2YYf4Nccmo0rwV" tvg-chno="23" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva Kick
+#EXTINF:0001 tvg-id="2YYf4Nccmo0rwV" tvg-chno="21" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva Kick
 https://de1.dstv.cx/PrvaKick/index.m3u8
-#EXTINF:0001 tvg-id="IDyfqs9ThnHfbC" tvg-chno="24" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva Life
+#EXTINF:0001 tvg-id="IDyfqs9ThnHfbC" tvg-chno="22" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva Life
 https://de1.dstv.cx/PrvaLife/index.m3u8
-#EXTINF:0001 tvg-id="tHajJIhptJoJFe" tvg-chno="25" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva Max
+#EXTINF:0001 tvg-id="tHajJIhptJoJFe" tvg-chno="23" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva Max
 https://de1.dstv.cx/PrvaMax/index.m3u8
-#EXTINF:0001 tvg-id="6wa3XxySzgvDIS" tvg-chno="26" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva Plus
+#EXTINF:0001 tvg-id="6wa3XxySzgvDIS" tvg-chno="24" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva Plus
 https://de1.dstv.cx/PrvaPlus/index.m3u8
-#EXTINF:0001 tvg-id="9EYTKQaiJTda9C" tvg-chno="27" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva World
+#EXTINF:0001 tvg-id="9EYTKQaiJTda9C" tvg-chno="25" group-title="famelack (rs) [rs] [False]" tvg-logo="", Prva World
 https://de1.dstv.cx/PrvaWorld/index.m3u8
-#EXTINF:0001 tvg-id="80i8NgFWX25XdT" tvg-chno="28" group-title="famelack (rs) [rs] [False]" tvg-logo="", Radio Hit FM TV
+#EXTINF:0001 tvg-id="80i8NgFWX25XdT" tvg-chno="26" group-title="famelack (rs) [rs] [False]" tvg-logo="", Radio Hit FM TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
-#EXTINF:0001 tvg-id="M9AApHHMkGVBYu" tvg-chno="29" group-title="famelack (rs) [rs] [False]" tvg-logo="", Radio Karolina TV
+#EXTINF:0001 tvg-id="M9AApHHMkGVBYu" tvg-chno="27" group-title="famelack (rs) [rs] [False]" tvg-logo="", Radio Karolina TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-#EXTINF:0001 tvg-id="5VZhUUCzs2KhoI" tvg-chno="30" group-title="famelack (rs) [rs] [False]" tvg-logo="", Radio Lola TV
+#EXTINF:0001 tvg-id="5VZhUUCzs2KhoI" tvg-chno="28" group-title="famelack (rs) [rs] [False]" tvg-logo="", Radio Lola TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-#EXTINF:0001 tvg-id="yqFuGEAiSRmDtb" tvg-chno="31" group-title="famelack (rs) [rs] [False]" tvg-logo="", RTS 2
+#EXTINF:0001 tvg-id="yqFuGEAiSRmDtb" tvg-chno="29" group-title="famelack (rs) [rs] [False]" tvg-logo="", RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:0001 tvg-id="7mAvWG2Rz0LqWu" tvg-chno="32" group-title="famelack (rs) [rs] [False]" tvg-logo="", RTV Bap
+#EXTINF:0001 tvg-id="7mAvWG2Rz0LqWu" tvg-chno="30" group-title="famelack (rs) [rs] [False]" tvg-logo="", RTV Bap
 https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
-#EXTINF:0001 tvg-id="PQO3nTobe9PoFo" tvg-chno="33" group-title="famelack (rs) [rs] [False]" tvg-logo="", SOS Kanal Plus
+#EXTINF:0001 tvg-id="PQO3nTobe9PoFo" tvg-chno="31" group-title="famelack (rs) [rs] [False]" tvg-logo="", SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="9igTbA8qhtc7eq" tvg-chno="34" group-title="famelack (rs) [rs] [False]" tvg-logo="", TDI Radio TV
+#EXTINF:0001 tvg-id="9igTbA8qhtc7eq" tvg-chno="32" group-title="famelack (rs) [rs] [False]" tvg-logo="", TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
-#EXTINF:0001 tvg-id="hv5hUXMQAlrjyb" tvg-chno="35" group-title="famelack (rs) [rs] [False]" tvg-logo="", TV Arta
+#EXTINF:0001 tvg-id="hv5hUXMQAlrjyb" tvg-chno="33" group-title="famelack (rs) [rs] [False]" tvg-logo="", TV Arta
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
-#EXTINF:0001 tvg-id="QBnvi3VHR0xXL2" tvg-chno="36" group-title="famelack (rs) [rs] [False]" tvg-logo="", TV Hram
+#EXTINF:0001 tvg-id="QBnvi3VHR0xXL2" tvg-chno="34" group-title="famelack (rs) [rs] [False]" tvg-logo="", TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8

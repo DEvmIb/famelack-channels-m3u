@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="CyX7gTzMI3L05o" tvg-chno="1" group-title="famelack (sv) [sv] [False]" tvg-logo="", Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="YYSyi5o00uvneu" tvg-chno="2" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 3 Impresionante
+#EXTINF:0001 tvg-id="ClqJYJmuvjGxXn" tvg-chno="2" group-title="famelack (sv) [sv] [False]" tvg-logo="", Arbol de Vida TV
+https://yupistream.top:19360/livearbol/livearbol.m3u8
+#EXTINF:0001 tvg-id="YYSyi5o00uvneu" tvg-chno="3" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
-#EXTINF:0001 tvg-id="aM75JGWBPQWWgI" tvg-chno="3" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 11 TuTV
+#EXTINF:0001 tvg-id="aM75JGWBPQWWgI" tvg-chno="4" group-title="famelack (sv) [sv] [False]" tvg-logo="", Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
-#EXTINF:0001 tvg-id="lZCJ28tnHKpEgP" tvg-chno="4" group-title="famelack (sv) [sv] [False]" tvg-logo="", El Camino TV
-https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:0001 tvg-id="1RlshLkT58Kj6I" tvg-chno="5" group-title="famelack (sv) [sv] [False]" tvg-logo="", Josue TV
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
 #EXTINF:0001 tvg-id="NLIFoRpmAx5nwO" tvg-chno="6" group-title="famelack (sv) [sv] [False]" tvg-logo="", Legislative Assembly of El Salvador

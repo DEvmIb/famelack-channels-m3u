@@ -29,9 +29,11 @@ https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.
 https://eggproiptv.duckdns.org:3946/hybrid/play.m3u8
 #EXTINF:0001 tvg-id="Nawp6hUkpbwpTg" tvg-chno="15" group-title="famelack (be) [be] [False]" tvg-logo="", RTL-TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-#EXTINF:0001 tvg-id="mODsZ0uywreKXA" tvg-chno="16" group-title="famelack (be) [be] [False]" tvg-logo="", Tele MB
+#EXTINF:0001 tvg-id="hrXJRBJnmcWXfL" tvg-chno="16" group-title="famelack (be) [be] [False]" tvg-logo="", Sterk TV
+https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
+#EXTINF:0001 tvg-id="mODsZ0uywreKXA" tvg-chno="17" group-title="famelack (be) [be] [False]" tvg-logo="", Tele MB
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8
-#EXTINF:0001 tvg-id="DYsVgwn2CBEpRU" tvg-chno="17" group-title="famelack (be) [be] [False]" tvg-logo="", Telesambre
+#EXTINF:0001 tvg-id="DYsVgwn2CBEpRU" tvg-chno="18" group-title="famelack (be) [be] [False]" tvg-logo="", Telesambre
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
-#EXTINF:0001 tvg-id="NdxuQBJhHdBU21" tvg-chno="18" group-title="famelack (be) [be] [False]" tvg-logo="", TV Lux
+#EXTINF:0001 tvg-id="NdxuQBJhHdBU21" tvg-chno="19" group-title="famelack (be) [be] [False]" tvg-logo="", TV Lux
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8

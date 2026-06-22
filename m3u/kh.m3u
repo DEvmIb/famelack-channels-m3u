@@ -5,11 +5,9 @@ https://live.ams.com.kh/app/stream/playlist.m3u8
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:0001 tvg-id="a7p8px0xew1TNk" tvg-chno="3" group-title="famelack (kh) [kh] [False]" tvg-logo="", Sangkem TV
 https://live.sangkemtv.com/memfs/sangkem.m3u8
-#EXTINF:0001 tvg-id="aAMBVg0GZZXh3E" tvg-chno="4" group-title="famelack (kh) [kh] [False]" tvg-logo="", SEA TV
-https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:0001 tvg-id="5YmRoWRCWgVS14" tvg-chno="5" group-title="famelack (kh) [kh] [False]" tvg-logo="", TVK
+#EXTINF:0001 tvg-id="5YmRoWRCWgVS14" tvg-chno="4" group-title="famelack (kh) [kh] [False]" tvg-logo="", TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="m3PpQXO8kJ3GQC" tvg-chno="6" group-title="famelack (kh) [kh] [False]" tvg-logo="", TVK 2
+#EXTINF:0001 tvg-id="m3PpQXO8kJ3GQC" tvg-chno="5" group-title="famelack (kh) [kh] [False]" tvg-logo="", TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="JliijnACP4jH0u" tvg-chno="7" group-title="famelack (kh) [kh] [False]" tvg-logo="", Wiki TV
+#EXTINF:0001 tvg-id="JliijnACP4jH0u" tvg-chno="6" group-title="famelack (kh) [kh] [False]" tvg-logo="", Wiki TV
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
