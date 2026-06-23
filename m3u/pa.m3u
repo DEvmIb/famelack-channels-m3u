@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="p2JDBtjTcLy9kg" tvg-chno="1" group-title="famelack (pa) [pa] [False]" tvg-logo="", Fabulosa Estereo 100.5 FM
-https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
-#EXTINF:0001 tvg-id="sk0pXWYPhoUI0U" tvg-chno="2" group-title="famelack (pa) [pa] [False]" tvg-logo="", Hosanna Vision
+#EXTINF:0001 tvg-id="sk0pXWYPhoUI0U" tvg-chno="1" group-title="famelack (pa) [pa] [False]" tvg-logo="", Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
-#EXTINF:0001 tvg-id="sHTQLbtJs4ccYF" tvg-chno="3" group-title="famelack (pa) [pa] [False]" tvg-logo="", Mas23 TV
+#EXTINF:0001 tvg-id="sHTQLbtJs4ccYF" tvg-chno="2" group-title="famelack (pa) [pa] [False]" tvg-logo="", Mas23 TV
 https://movil.ejeserver.com/live/mas23tv.m3u8
-#EXTINF:0001 tvg-id="CSNjNhmd6CkxyY" tvg-chno="4" group-title="famelack (pa) [pa] [False]" tvg-logo="", MINFAV TV
+#EXTINF:0001 tvg-id="CSNjNhmd6CkxyY" tvg-chno="3" group-title="famelack (pa) [pa] [False]" tvg-logo="", MINFAV TV
 https://mp.panelchs.com:1936/8044/8044/playlist.m3u8
-#EXTINF:0001 tvg-id="NhoKBaIrwHYilw" tvg-chno="5" group-title="famelack (pa) [pa] [False]" tvg-logo="", Nex TV Canal 21
+#EXTINF:0001 tvg-id="NhoKBaIrwHYilw" tvg-chno="4" group-title="famelack (pa) [pa] [False]" tvg-logo="", Nex TV Canal 21
 https://movil.ejeserver.com/live/nextv.m3u8
-#EXTINF:0001 tvg-id="EpThPpEKHWt4bo" tvg-chno="6" group-title="famelack (pa) [pa] [False]" tvg-logo="", Pindin TV
+#EXTINF:0001 tvg-id="EpThPpEKHWt4bo" tvg-chno="5" group-title="famelack (pa) [pa] [False]" tvg-logo="", Pindin TV
 https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
-#EXTINF:0001 tvg-id="NrKrfT28f0zHMn" tvg-chno="7" group-title="famelack (pa) [pa] [False]" tvg-logo="", Planet 100.9 FM
+#EXTINF:0001 tvg-id="NrKrfT28f0zHMn" tvg-chno="6" group-title="famelack (pa) [pa] [False]" tvg-logo="", Planet 100.9 FM
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
+#EXTINF:0001 tvg-id="MFtmVHiGqE67Ua" tvg-chno="7" group-title="famelack (pa) [pa] [False]" tvg-logo="", Radio Ancon
+https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 #EXTINF:0001 tvg-id="mfsWJwtwhG3h3c" tvg-chno="8" group-title="famelack (pa) [pa] [False]" tvg-logo="", Radio Hogar
 https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
 #EXTINF:0001 tvg-id="wPlSUCmwkpBR6B" tvg-chno="9" group-title="famelack (pa) [pa] [False]" tvg-logo="", Super Q Panama
