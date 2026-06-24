@@ -61,7 +61,5 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="YQPekJKCEusA1c" tvg-chno="31" group-title="famelack (at) [at] [False]" tvg-logo="", Tirol TV
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:0001 tvg-id="rKCjw7q21G4IO1" tvg-chno="32" group-title="famelack (at) [at] [False]" tvg-logo="", TV 1 Oberosterreich
-https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
-#EXTINF:0001 tvg-id="poBLTECPZ1p4X6" tvg-chno="33" group-title="famelack (at) [at] [False]" tvg-logo="", W24
+#EXTINF:0001 tvg-id="poBLTECPZ1p4X6" tvg-chno="32" group-title="famelack (at) [at] [False]" tvg-logo="", W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
