@@ -4,7 +4,7 @@ https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
 #EXTINF:0001 tvg-id="brSlrCyaemDvos" tvg-chno="2" group-title="famelack (al) [al] [False]" tvg-logo="", Alpo TV
 https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8
 #EXTINF:0001 tvg-id="pGI92O7SX6ZwCX" tvg-chno="3" group-title="famelack (al) [al] [True]" tvg-logo="", CNA
-https://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8
+https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:0001 tvg-id="XvDQJs5tCok3Tz" tvg-chno="4" group-title="famelack (al) [al] [False]" tvg-logo="", Euronews Albania
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
 #EXTINF:0001 tvg-id="3HR60WW2TP6Sn5" tvg-chno="5" group-title="famelack (al) [al] [False]" tvg-logo="", News 24

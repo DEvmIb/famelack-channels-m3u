@@ -5,19 +5,21 @@ https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
 #EXTINF:0001 tvg-id="ziuntWEdzzX9AW" tvg-chno="3" group-title="famelack (cy) [cy] [False]" tvg-logo="", BRT 2
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8
-#EXTINF:0001 tvg-id="50XWlvMc7fhB99" tvg-chno="4" group-title="famelack (cy) [cy] [False]" tvg-logo="", Kibris Kanal T
+#EXTINF:0001 tvg-id="hhFGxAc8REH67l" tvg-chno="4" group-title="famelack (cy) [cy] [False]" tvg-logo="", Kibris Genc TV
+https://yayin1.canlitv.fun/canlitv/genctv.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f
+#EXTINF:0001 tvg-id="50XWlvMc7fhB99" tvg-chno="5" group-title="famelack (cy) [cy] [False]" tvg-logo="", Kibris Kanal T
 https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
-#EXTINF:0001 tvg-id="ebwfg6IXMkti4B" tvg-chno="5" group-title="famelack (cy) [cy] [False]" tvg-logo="", Kibris TV
+#EXTINF:0001 tvg-id="ebwfg6IXMkti4B" tvg-chno="6" group-title="famelack (cy) [cy] [False]" tvg-logo="", Kibris TV
 https://play.kibristv.com/stream/hls/stream.m3u8
-#EXTINF:0001 tvg-id="52grgb3ARacSzX" tvg-chno="6" group-title="famelack (cy) [cy] [False]" tvg-logo="", RIK Sat
+#EXTINF:0001 tvg-id="52grgb3ARacSzX" tvg-chno="7" group-title="famelack (cy) [cy] [False]" tvg-logo="", RIK Sat
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:0001 tvg-id="m0RI6HqHFeSa3t" tvg-chno="7" group-title="famelack (cy) [cy] [False]" tvg-logo="", Sat 7 Arabic
+#EXTINF:0001 tvg-id="m0RI6HqHFeSa3t" tvg-chno="8" group-title="famelack (cy) [cy] [False]" tvg-logo="", Sat 7 Arabic
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="jeM871QPFywzzg" tvg-chno="8" group-title="famelack (cy) [cy] [False]" tvg-logo="", Sat 7 Kids
+#EXTINF:0001 tvg-id="jeM871QPFywzzg" tvg-chno="9" group-title="famelack (cy) [cy] [False]" tvg-logo="", Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="U2TjaOAocV2jZQ" tvg-chno="9" group-title="famelack (cy) [cy] [False]" tvg-logo="", Sat 7 Pars
+#EXTINF:0001 tvg-id="U2TjaOAocV2jZQ" tvg-chno="10" group-title="famelack (cy) [cy] [False]" tvg-logo="", Sat 7 Pars
 https://sat7phls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="SOB7xKVjpXl8L7" tvg-chno="10" group-title="famelack (cy) [cy] [False]" tvg-logo="", Sat 7 Turk
+#EXTINF:0001 tvg-id="SOB7xKVjpXl8L7" tvg-chno="11" group-title="famelack (cy) [cy] [False]" tvg-logo="", Sat 7 Turk
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="ruuMQF3yDU6CZB" tvg-chno="11" group-title="famelack (cy) [cy] [False]" tvg-logo="", Sigma TV
+#EXTINF:0001 tvg-id="ruuMQF3yDU6CZB" tvg-chno="12" group-title="famelack (cy) [cy] [False]" tvg-logo="", Sigma TV
 https://sl2.sigmatv.com/hls/live.m3u8
