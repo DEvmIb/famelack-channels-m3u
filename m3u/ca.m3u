@@ -120,7 +120,7 @@ https://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:0001 tvg-id="N7y193rYKVUHc8" tvg-chno="60" group-title="famelack (ca) [ca] [True]" tvg-logo="", GTN Canada
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 #EXTINF:0001 tvg-id="D9wYQdvH3cwnxL" tvg-chno="61" group-title="famelack (ca) [ca] [False]" tvg-logo="", Gusto TV
-https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 #EXTINF:0001 tvg-id="Pb2kJOQ71503Nc" tvg-chno="62" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hamdard TV
 https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:0001 tvg-id="bhT3j01Nh3aRCQ" tvg-chno="63" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hard Knocks

@@ -29,11 +29,11 @@ https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlis
 https://iptv.prosto.tv/ch118/index.m3u8
 #EXTINF:0001 tvg-id="iPLSWaME1Eh8cp" tvg-chno="15" group-title="famelack (nl) [nl] [False]" tvg-logo="", FilmBox Arthouse
 https://iptv.prosto.tv/ch63/index.m3u8
-#EXTINF:0001 tvg-id="FsqGCMRqEpSuHU" tvg-chno="16" group-title="famelack (nl) [nl] [False]" tvg-logo="", FilmBox Extra Adria
+#EXTINF:0001 tvg-id="FsqGCMRqEpSuHU" tvg-chno="16" group-title="famelack (nl) [nl] [False]" tvg-logo="", FilmBox+ Emotion Adria
 https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
-#EXTINF:0001 tvg-id="mTMVPOuf7uKRkN" tvg-chno="17" group-title="famelack (nl) [nl] [False]" tvg-logo="", FilmBox Premium Adria
+#EXTINF:0001 tvg-id="mTMVPOuf7uKRkN" tvg-chno="17" group-title="famelack (nl) [nl] [False]" tvg-logo="", FilmBox+ Hits Adria
 https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8
-#EXTINF:0001 tvg-id="KcN1k5dKr2fSSJ" tvg-chno="18" group-title="famelack (nl) [nl] [False]" tvg-logo="", FilmBox Stars Adria
+#EXTINF:0001 tvg-id="KcN1k5dKr2fSSJ" tvg-chno="18" group-title="famelack (nl) [nl] [False]" tvg-logo="", FilmBox+ Love & Crime Adria
 https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
 #EXTINF:0001 tvg-id="yZyrZHNcmMNYOm" tvg-chno="19" group-title="famelack (nl) [nl] [False]" tvg-logo="", FunBox UHD
 https://webtvstream.bhtelecom.ba/hls15/funbox.m3u8

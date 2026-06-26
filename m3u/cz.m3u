@@ -23,13 +23,17 @@ https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 #EXTINF:0001 tvg-id="B1D7ROeH3iyq1i" tvg-chno="12" group-title="famelack (cz) [cz] [False]" tvg-logo="", Polar2
 https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
-#EXTINF:0001 tvg-id="fTApFWHNaUxcOH" tvg-chno="13" group-title="famelack (cz) [cz] [False]" tvg-logo="", TV Brno 1
+#EXTINF:0001 tvg-id="2MBpmC0kG7TZ8G" tvg-chno="13" group-title="famelack (cz) [cz] [False]" tvg-logo="", Retro Music TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="Xo18ZDfnL00kD5" tvg-chno="14" group-title="famelack (cz) [cz] [False]" tvg-logo="", Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:0001 tvg-id="fTApFWHNaUxcOH" tvg-chno="15" group-title="famelack (cz) [cz] [False]" tvg-logo="", TV Brno 1
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
-#EXTINF:0001 tvg-id="iIeqZQ118HX5Yv" tvg-chno="14" group-title="famelack (cz) [cz] [True]" tvg-logo="", TV Noe
+#EXTINF:0001 tvg-id="iIeqZQ118HX5Yv" tvg-chno="16" group-title="famelack (cz) [cz] [True]" tvg-logo="", TV Noe
 https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8
-#EXTINF:0001 tvg-id="orPrNtTvaMAEds" tvg-chno="15" group-title="famelack (cz) [cz] [True]" tvg-logo="", TV Noe+
+#EXTINF:0001 tvg-id="orPrNtTvaMAEds" tvg-chno="17" group-title="famelack (cz) [cz] [True]" tvg-logo="", TV Noe+
 https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
-#EXTINF:0001 tvg-id="cWzKFLiigGaQzp" tvg-chno="16" group-title="famelack (cz) [cz] [False]" tvg-logo="", UTV
+#EXTINF:0001 tvg-id="cWzKFLiigGaQzp" tvg-chno="18" group-title="famelack (cz) [cz] [False]" tvg-logo="", UTV
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:0001 tvg-id="NTuQpCvDO7jZXl" tvg-chno="17" group-title="famelack (cz) [cz] [False]" tvg-logo="", Vychodoceska TV
+#EXTINF:0001 tvg-id="NTuQpCvDO7jZXl" tvg-chno="19" group-title="famelack (cz) [cz] [False]" tvg-logo="", Vychodoceska TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8

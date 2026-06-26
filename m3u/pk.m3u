@@ -50,7 +50,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
 #EXTINF:0001 tvg-id="ey0C6dKSzvDUaH" tvg-chno="25" group-title="famelack (pk) [pk] [False]" tvg-logo="", Lahore News
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:0001 tvg-id="0YXdU5lN1xFzdX" tvg-chno="26" group-title="famelack (pk) [pk] [False]" tvg-logo="", Madani Channel English
-https://trs1.aynaott.com/MadaniTV/index.m3u8
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 #EXTINF:0001 tvg-id="XNoYUMV4eTzrsQ" tvg-chno="27" group-title="famelack (pk) [pk] [False]" tvg-logo="", Madani Channel Urdu
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:0001 tvg-id="zYIClJMSMxWG01" tvg-chno="28" group-title="famelack (pk) [pk] [False]" tvg-logo="", Minimax
