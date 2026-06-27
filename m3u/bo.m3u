@@ -19,10 +19,10 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 #EXTINF:0001 tvg-id="btaTHB02v7Y9B8" tvg-chno="10" group-title="famelack (bo) [bo] [True]" tvg-logo="", F10 HD
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
-#EXTINF:0001 tvg-id="4r0QKfGoGD09Z7" tvg-chno="11" group-title="famelack (bo) [bo] [False]" tvg-logo="", FTV
-https://master.tucableip.com/ftvhd/index.m3u8
-#EXTINF:0001 tvg-id="qxZNW1EDwI0BGa" tvg-chno="12" group-title="famelack (bo) [bo] [False]" tvg-logo="", Gigavision
+#EXTINF:0001 tvg-id="qxZNW1EDwI0BGa" tvg-chno="11" group-title="famelack (bo) [bo] [False]" tvg-logo="", Gigavision
 https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
+#EXTINF:0001 tvg-id="YIKke4PY7wnkdl" tvg-chno="12" group-title="famelack (bo) [bo] [False]" tvg-logo="", Palenque TV
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTINF:0001 tvg-id="ctXKtPRIVgnD2j" tvg-chno="13" group-title="famelack (bo) [bo] [False]" tvg-logo="", Poder de Dios TV
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
 #EXTINF:0001 tvg-id="jesOsAnSntYFJW" tvg-chno="14" group-title="famelack (bo) [bo] [False]" tvg-logo="", Red America TV
@@ -31,27 +31,23 @@ https://edge.enhdtv.com/redamerica/index.m3u8
 https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:0001 tvg-id="yLB43ge13jrHoP" tvg-chno="16" group-title="famelack (bo) [bo] [False]" tvg-logo="", Red TV Shop
 https://master.tucableip.com/redtvshop/index.m3u8
-#EXTINF:0001 tvg-id="F3BYfjJnpkzbsO" tvg-chno="17" group-title="famelack (bo) [bo] [False]" tvg-logo="", Red Uno
-https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
-#EXTINF:0001 tvg-id="izfFH8RnAwm70u" tvg-chno="18" group-title="famelack (bo) [bo] [False]" tvg-logo="", RTP
+#EXTINF:0001 tvg-id="izfFH8RnAwm70u" tvg-chno="17" group-title="famelack (bo) [bo] [False]" tvg-logo="", RTP
 https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:0001 tvg-id="3oBGJDxjeGcImG" tvg-chno="19" group-title="famelack (bo) [bo] [False]" tvg-logo="", TV Latina
+#EXTINF:0001 tvg-id="3oBGJDxjeGcImG" tvg-chno="18" group-title="famelack (bo) [bo] [False]" tvg-logo="", TV Latina
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
-#EXTINF:0001 tvg-id="ztTWlTaxLQDSi1" tvg-chno="20" group-title="famelack (bo) [bo] [False]" tvg-logo="", TV OFF
-https://edge.enhdtv.com/tvoff/index.m3u8
-#EXTINF:0001 tvg-id="JLRlLiosJOhAzH" tvg-chno="21" group-title="famelack (bo) [bo] [False]" tvg-logo="", UMSA TVU Internacional
+#EXTINF:0001 tvg-id="JLRlLiosJOhAzH" tvg-chno="19" group-title="famelack (bo) [bo] [False]" tvg-logo="", UMSA TVU Internacional
 https://edge.enhdtv.com/8026/index.m3u8
-#EXTINF:0001 tvg-id="fcllzx7ENtLcnw" tvg-chno="22" group-title="famelack (bo) [bo] [False]" tvg-logo="", UMSA TVU LP
+#EXTINF:0001 tvg-id="fcllzx7ENtLcnw" tvg-chno="20" group-title="famelack (bo) [bo] [False]" tvg-logo="", UMSA TVU LP
 https://edge.enhdtv.com/8190/index.m3u8
-#EXTINF:0001 tvg-id="igJmo5J6YhgXmV" tvg-chno="23" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unifranz
+#EXTINF:0001 tvg-id="igJmo5J6YhgXmV" tvg-chno="21" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unifranz
 https://live.enhdtv.com:8081/8192/index.m3u8
-#EXTINF:0001 tvg-id="9u6WNgsEYDn11w" tvg-chno="24" group-title="famelack (bo) [bo] [False]" tvg-logo="", Univalle Television
-https://master.tucableip.com/univalletv/playlist.m3u8
-#EXTINF:0001 tvg-id="T3D6a3NyVvl2H9" tvg-chno="25" group-title="famelack (bo) [bo] [False]" tvg-logo="", UniversidadMayordeSanAndres
+#EXTINF:0001 tvg-id="T3D6a3NyVvl2H9" tvg-chno="22" group-title="famelack (bo) [bo] [False]" tvg-logo="", UniversidadMayordeSanAndres
 https://live.enhdtv.com:8081/8190/index.m3u8
-#EXTINF:0001 tvg-id="GMFO5ANQ5nEa2e" tvg-chno="26" group-title="famelack (bo) [bo] [False]" tvg-logo="", UPEA TV
+#EXTINF:0001 tvg-id="GMFO5ANQ5nEa2e" tvg-chno="23" group-title="famelack (bo) [bo] [False]" tvg-logo="", UPEA TV
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-#EXTINF:0001 tvg-id="uLnAaMvBQP6gl2" tvg-chno="27" group-title="famelack (bo) [bo] [False]" tvg-logo="", Vos TV
+#EXTINF:0001 tvg-id="uLnAaMvBQP6gl2" tvg-chno="24" group-title="famelack (bo) [bo] [False]" tvg-logo="", Vos TV
 https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
-#EXTINF:0001 tvg-id="bXD4q6ffj1GZXZ" tvg-chno="28" group-title="famelack (bo) [bo] [False]" tvg-logo="", VTV Canal 17
+#EXTINF:0001 tvg-id="bXD4q6ffj1GZXZ" tvg-chno="25" group-title="famelack (bo) [bo] [False]" tvg-logo="", VTV Canal 17
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
+#EXTINF:0001 tvg-id="99nnCKryI6XnTb" tvg-chno="26" group-title="famelack (bo) [bo] [False]" tvg-logo="", Zuraca TV
+https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
