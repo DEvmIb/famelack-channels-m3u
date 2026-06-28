@@ -14,14 +14,12 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:0001 tvg-id="MWrzZTVqRsh2yN" tvg-chno="7" group-title="famelack (az) [az] [False]" tvg-logo="", CBC
 https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f
 #EXTINF:0001 tvg-id="TCXWbbGwwhAA4s" tvg-chno="8" group-title="famelack (az) [az] [False]" tvg-logo="", Dunya TV
-https://stream.ftv.az/live/dunyatv.m3u8
-#EXTINF:0001 tvg-id="B5yE0mrBECzUCL" tvg-chno="9" group-title="famelack (az) [az] [False]" tvg-logo="", EL TV
-https://live.eltv.az/live/eltv/playlist.m3u8
-#EXTINF:0001 tvg-id="b1w0a8CZ0CNs0I" tvg-chno="10" group-title="famelack (az) [az] [False]" tvg-logo="", Medeniyyet TV
+https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f
+#EXTINF:0001 tvg-id="b1w0a8CZ0CNs0I" tvg-chno="9" group-title="famelack (az) [az] [False]" tvg-logo="", Medeniyyet TV
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:0001 tvg-id="jlkmejIqbIV0I0" tvg-chno="11" group-title="famelack (az) [az] [False]" tvg-logo="", Naxcivan TV
+#EXTINF:0001 tvg-id="jlkmejIqbIV0I0" tvg-chno="10" group-title="famelack (az) [az] [False]" tvg-logo="", Naxcivan TV
 https://str2.yodacdn.net/ntv/video.m3u8
-#EXTINF:0001 tvg-id="26SGsBNssiiZc7" tvg-chno="12" group-title="famelack (az) [az] [False]" tvg-logo="", Space TV
+#EXTINF:0001 tvg-id="26SGsBNssiiZc7" tvg-chno="11" group-title="famelack (az) [az] [False]" tvg-logo="", Space TV
 https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f
-#EXTINF:0001 tvg-id="BRcYI5UTMS9jQ8" tvg-chno="13" group-title="famelack (az) [az] [False]" tvg-logo="", Xezer TV
+#EXTINF:0001 tvg-id="BRcYI5UTMS9jQ8" tvg-chno="12" group-title="famelack (az) [az] [False]" tvg-logo="", Xezer TV
 https://www.xezerxeber.az/stream/index.m3u8

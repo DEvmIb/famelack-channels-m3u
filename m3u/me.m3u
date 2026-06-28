@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="T7OkqMf3hEUsSO" tvg-chno="1" group-title="famelack (me) [me] [False]" tvg-logo="", TV Niksic
+#EXTINF:0001 tvg-id="iMAHo7ne7Wa5Kx" tvg-chno="1" group-title="famelack (me) [me] [False]" tvg-logo="", Prva Montenegro
+https://lb.dstvmultimedia.com/PrvaTVCG/index.m3u8
+#EXTINF:0001 tvg-id="T7OkqMf3hEUsSO" tvg-chno="2" group-title="famelack (me) [me] [False]" tvg-logo="", TV Niksic
 https://tv.rtv-niksic.me/hls/stream.m3u8
-#EXTINF:0001 tvg-id="IlFU54Q8lNJ2L3" tvg-chno="2" group-title="famelack (me) [me] [False]" tvg-logo="", TVCG MNE
+#EXTINF:0001 tvg-id="IlFU54Q8lNJ2L3" tvg-chno="3" group-title="famelack (me) [me] [False]" tvg-logo="", TVCG MNE
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
