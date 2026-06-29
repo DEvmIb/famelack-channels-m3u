@@ -120,7 +120,7 @@ https://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:0001 tvg-id="N7y193rYKVUHc8" tvg-chno="60" group-title="famelack (ca) [ca] [True]" tvg-logo="", GTN Canada
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 #EXTINF:0001 tvg-id="D9wYQdvH3cwnxL" tvg-chno="61" group-title="famelack (ca) [ca] [False]" tvg-logo="", Gusto TV
-https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 #EXTINF:0001 tvg-id="Pb2kJOQ71503Nc" tvg-chno="62" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hamdard TV
 https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:0001 tvg-id="bhT3j01Nh3aRCQ" tvg-chno="63" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hard Knocks
@@ -265,7 +265,9 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="XS1GBLfk5lOEUi" tvg-chno="133" group-title="famelack (ca) [ca] [False]" tvg-logo="", TVOKids
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
-#EXTINF:0001 tvg-id="7MJcYnhqkdKmZp" tvg-chno="134" group-title="famelack (ca) [ca] [False]" tvg-logo="", Watan-e-Maa TV
+#EXTINF:0001 tvg-id="tfahh4mN8EFFmu" tvg-chno="134" group-title="famelack (ca) [ca] [False]" tvg-logo="", Uvagut TV
+https://hls.uvagut.tv/hls/uvagut/playlist.m3u8
+#EXTINF:0001 tvg-id="7MJcYnhqkdKmZp" tvg-chno="135" group-title="famelack (ca) [ca] [False]" tvg-logo="", Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-#EXTINF:0001 tvg-id="aENvvGnq2jgpEh" tvg-chno="135" group-title="famelack (ca) [ca] [False]" tvg-logo="", Wild TV
+#EXTINF:0001 tvg-id="aENvvGnq2jgpEh" tvg-chno="136" group-title="famelack (ca) [ca] [False]" tvg-logo="", Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8

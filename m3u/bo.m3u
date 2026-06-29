@@ -57,17 +57,21 @@ https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 https://edge.enhdtv.com/8026/index.m3u8
 #EXTINF:0001 tvg-id="fcllzx7ENtLcnw" tvg-chno="29" group-title="famelack (bo) [bo] [False]" tvg-logo="", UMSA TVU LP
 https://edge.enhdtv.com/8190/index.m3u8
-#EXTINF:0001 tvg-id="igJmo5J6YhgXmV" tvg-chno="30" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unifranz
+#EXTINF:0001 tvg-id="aEcBTxbogN3Y6R" tvg-chno="30" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unica TV
+https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8
+#EXTINF:0001 tvg-id="igJmo5J6YhgXmV" tvg-chno="31" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unifranz
 https://live.enhdtv.com:8081/8192/index.m3u8
-#EXTINF:0001 tvg-id="kQUVVUVnaO3mAj" tvg-chno="31" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unitel Cochabamba
+#EXTINF:0001 tvg-id="kQUVVUVnaO3mAj" tvg-chno="32" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unitel Cochabamba
 https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8
-#EXTINF:0001 tvg-id="T3D6a3NyVvl2H9" tvg-chno="32" group-title="famelack (bo) [bo] [False]" tvg-logo="", UniversidadMayordeSanAndres
+#EXTINF:0001 tvg-id="9u6WNgsEYDn11w" tvg-chno="33" group-title="famelack (bo) [bo] [False]" tvg-logo="", Univalle Television
+https://master.tucableip.com/univalletv/playlist.m3u8
+#EXTINF:0001 tvg-id="T3D6a3NyVvl2H9" tvg-chno="34" group-title="famelack (bo) [bo] [False]" tvg-logo="", UniversidadMayordeSanAndres
 https://live.enhdtv.com:8081/8190/index.m3u8
-#EXTINF:0001 tvg-id="GMFO5ANQ5nEa2e" tvg-chno="33" group-title="famelack (bo) [bo] [False]" tvg-logo="", UPEA TV
+#EXTINF:0001 tvg-id="GMFO5ANQ5nEa2e" tvg-chno="35" group-title="famelack (bo) [bo] [False]" tvg-logo="", UPEA TV
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-#EXTINF:0001 tvg-id="uLnAaMvBQP6gl2" tvg-chno="34" group-title="famelack (bo) [bo] [False]" tvg-logo="", Vos TV
+#EXTINF:0001 tvg-id="uLnAaMvBQP6gl2" tvg-chno="36" group-title="famelack (bo) [bo] [False]" tvg-logo="", Vos TV
 https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
-#EXTINF:0001 tvg-id="bXD4q6ffj1GZXZ" tvg-chno="35" group-title="famelack (bo) [bo] [False]" tvg-logo="", VTV Canal 17
+#EXTINF:0001 tvg-id="bXD4q6ffj1GZXZ" tvg-chno="37" group-title="famelack (bo) [bo] [False]" tvg-logo="", VTV Canal 17
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
-#EXTINF:0001 tvg-id="99nnCKryI6XnTb" tvg-chno="36" group-title="famelack (bo) [bo] [False]" tvg-logo="", Zuraca TV
+#EXTINF:0001 tvg-id="99nnCKryI6XnTb" tvg-chno="38" group-title="famelack (bo) [bo] [False]" tvg-logo="", Zuraca TV
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
