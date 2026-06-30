@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="EgspbzPRaIJYXi" tvg-chno="1" group-title="famelack (bj) [bj] [False]" tvg-logo="", ADO TV
-https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
-#EXTINF:0001 tvg-id="1fyxJbeOBe9SyI" tvg-chno="2" group-title="famelack (bj) [bj] [False]" tvg-logo="", Eden TV
+#EXTINF:0001 tvg-id="1fyxJbeOBe9SyI" tvg-chno="1" group-title="famelack (bj) [bj] [False]" tvg-logo="", Eden TV
 https://rtmp.edentv.bj/hls/stream.m3u8
-#EXTINF:0001 tvg-id="l9YRJG6Qahxecn" tvg-chno="3" group-title="famelack (bj) [bj] [False]" tvg-logo="", ICONE TV
+#EXTINF:0001 tvg-id="l9YRJG6Qahxecn" tvg-chno="2" group-title="famelack (bj) [bj] [False]" tvg-logo="", ICONE TV
 https://lecteur.iconetv.bj/hls/stream.m3u8
-#EXTINF:0001 tvg-id="meMXYz0AX3MXkW" tvg-chno="4" group-title="famelack (bj) [bj] [False]" tvg-logo="", La Voix du Routier TV
+#EXTINF:0001 tvg-id="meMXYz0AX3MXkW" tvg-chno="3" group-title="famelack (bj) [bj] [False]" tvg-logo="", La Voix du Routier TV
 https://webtv.lavoixduroutiertv.bj/hls/stream.m3u8
+#EXTINF:0001 tvg-id="hNA8RP7NoiPpEi" tvg-chno="4" group-title="famelack (bj) [bj] [False]" tvg-logo="", Le Nouveau Manager TV
+https://lnmlive.com/live/lnmtv.m3u8
 #EXTINF:0001 tvg-id="wl2lwPjKKxNRiK" tvg-chno="5" group-title="famelack (bj) [bj] [False]" tvg-logo="", ORTB TV
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 #EXTINF:0001 tvg-id="B7Ks8MnYsVfD8I" tvg-chno="6" group-title="famelack (bj) [bj] [False]" tvg-logo="", Speedline TV

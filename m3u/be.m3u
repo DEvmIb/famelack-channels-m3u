@@ -37,3 +37,5 @@ https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
 #EXTINF:0001 tvg-id="NdxuQBJhHdBU21" tvg-chno="19" group-title="famelack (be) [be] [False]" tvg-logo="", TV Lux
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
+#EXTINF:0001 tvg-id="QMKdJTMZUTheYK" tvg-chno="20" group-title="famelack (be) [be] [False]" tvg-logo="", WTV
+https://wtvlive.b-cdn.net/playlist.m3u8
