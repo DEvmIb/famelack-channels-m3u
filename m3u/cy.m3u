@@ -25,3 +25,5 @@ https://sat7phls.wns.live/hls/stream.m3u8
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
 #EXTINF:0001 tvg-id="ruuMQF3yDU6CZB" tvg-chno="13" group-title="famelack (cy) [cy] [False]" tvg-logo="", Sigma TV
 https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:0001 tvg-id="YP7VGdVsntylIz" tvg-chno="14" group-title="famelack (cy) [cy] [False]" tvg-logo="", TV 2020
+https://yayin1.canlitv.fun/canlitv/tv2020.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f

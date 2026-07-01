@@ -13,9 +13,9 @@ https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 https://live1.acangroup.org:1929/larts/rts1_all/playlist.m3u8
 #EXTINF:0001 tvg-id="ajdSaaNIu8sGEL" tvg-chno="7" group-title="famelack (sn) [sn] [False]" tvg-logo="", RTS 2
 https://live1.acangroup.org:1929/larts/rts2.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="nlHRC1EER9kWOE" tvg-chno="8" group-title="famelack (sn) [sn] [False]" tvg-logo="", RTS 3
-https://live1.acangroup.org:1929/larts/rts3/playlist.m3u8
-#EXTINF:0001 tvg-id="eHM605p4bMlMA0" tvg-chno="9" group-title="famelack (sn) [sn] [False]" tvg-logo="", RTS 4
+#EXTINF:0001 tvg-id="eHM605p4bMlMA0" tvg-chno="8" group-title="famelack (sn) [sn] [False]" tvg-logo="", RTS 4
 https://live1.acangroup.org:1929/larts/rts4/playlist.m3u8
-#EXTINF:0001 tvg-id="tIKVEzb2A3i7Cz" tvg-chno="10" group-title="famelack (sn) [sn] [True]" tvg-logo="", Seneweb TV
+#EXTINF:0001 tvg-id="tIKVEzb2A3i7Cz" tvg-chno="9" group-title="famelack (sn) [sn] [True]" tvg-logo="", Seneweb TV
 https://vdo2.pro-fhi.net:3297/stream/play.m3u8
+#EXTINF:0001 tvg-id="RfhIP8Ek1pr7to" tvg-chno="10" group-title="famelack (sn) [sn] [False]" tvg-logo="", SenJeunes TV
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
