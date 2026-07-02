@@ -1,34 +1,34 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="rU6vHTb2mU89s2" tvg-chno="1" group-title="famelack (pk) [pk] [False]" tvg-logo="", Aaj Entertainment
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
-#EXTINF:0001 tvg-id="BG3WWAjyFpp31n" tvg-chno="2" group-title="famelack (pk) [pk] [False]" tvg-logo="", ABN News
+#EXTINF:0001 tvg-id="BG3WWAjyFpp31n" tvg-chno="1" group-title="famelack (pk) [pk] [False]" tvg-logo="", ABN News
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
-#EXTINF:0001 tvg-id="AdIl1CSIOqCaJ6" tvg-chno="3" group-title="famelack (pk) [pk] [False]" tvg-logo="", Bol Entertainment
+#EXTINF:0001 tvg-id="AdIl1CSIOqCaJ6" tvg-chno="2" group-title="famelack (pk) [pk] [False]" tvg-logo="", Bol Entertainment
 https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
-#EXTINF:0001 tvg-id="U0CRP1XJWZMip7" tvg-chno="4" group-title="famelack (pk) [pk] [False]" tvg-logo="", Discover Pakistan
+#EXTINF:0001 tvg-id="U0CRP1XJWZMip7" tvg-chno="3" group-title="famelack (pk) [pk] [False]" tvg-logo="", Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:0001 tvg-id="m2To9haRzcjc8z" tvg-chno="5" group-title="famelack (pk) [pk] [False]" tvg-logo="", Dunya News
+#EXTINF:0001 tvg-id="m2To9haRzcjc8z" tvg-chno="4" group-title="famelack (pk) [pk] [False]" tvg-logo="", Dunya News
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-#EXTINF:0001 tvg-id="4xxsG81BRkH6LA" tvg-chno="6" group-title="famelack (pk) [pk] [False]" tvg-logo="", Express Entertainment
+#EXTINF:0001 tvg-id="4xxsG81BRkH6LA" tvg-chno="5" group-title="famelack (pk) [pk] [False]" tvg-logo="", Express Entertainment
 https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
-#EXTINF:0001 tvg-id="sUwagTdL1WG5o2" tvg-chno="7" group-title="famelack (pk) [pk] [False]" tvg-logo="", Fazal TV
+#EXTINF:0001 tvg-id="sUwagTdL1WG5o2" tvg-chno="6" group-title="famelack (pk) [pk] [False]" tvg-logo="", Fazal TV
 https://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="MODjjERDzpT3OS" tvg-chno="8" group-title="famelack (pk) [pk] [False]" tvg-logo="", Filmax
+#EXTINF:0001 tvg-id="MODjjERDzpT3OS" tvg-chno="7" group-title="famelack (pk) [pk] [False]" tvg-logo="", Filmax
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
-#EXTINF:0001 tvg-id="IGkGdoXwnCTsO2" tvg-chno="9" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands Kids Club TV Arabic
+#EXTINF:0001 tvg-id="IGkGdoXwnCTsO2" tvg-chno="8" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands Kids Club TV Arabic
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
-#EXTINF:0001 tvg-id="X2mzfNA1EyPeME" tvg-chno="10" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands Kids Club TV Chinese
+#EXTINF:0001 tvg-id="X2mzfNA1EyPeME" tvg-chno="9" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands Kids Club TV Chinese
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:0001 tvg-id="97TDYmlPdbsepe" tvg-chno="11" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands Kids Club TV English
+#EXTINF:0001 tvg-id="97TDYmlPdbsepe" tvg-chno="10" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands Kids Club TV English
 https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
-#EXTINF:0001 tvg-id="oXC3NCXK3UzLO5" tvg-chno="12" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands Kids Club TV Urdu
+#EXTINF:0001 tvg-id="oXC3NCXK3UzLO5" tvg-chno="11" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands Kids Club TV Urdu
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
-#EXTINF:0001 tvg-id="TmKO7eJbzWWIRg" tvg-chno="13" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands TV Arabic
+#EXTINF:0001 tvg-id="TmKO7eJbzWWIRg" tvg-chno="12" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands TV Arabic
 https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
-#EXTINF:0001 tvg-id="NcmIJl0QEk2Pmg" tvg-chno="14" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands TV Chinese
+#EXTINF:0001 tvg-id="NcmIJl0QEk2Pmg" tvg-chno="13" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands TV Chinese
 https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
-#EXTINF:0001 tvg-id="GzFin24wHyjwSS" tvg-chno="15" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands TV English
+#EXTINF:0001 tvg-id="GzFin24wHyjwSS" tvg-chno="14" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands TV English
 https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
+#EXTINF:0001 tvg-id="v05zRUt0wtjOm3" tvg-chno="15" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands TV Hindi
+https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8
 #EXTINF:0001 tvg-id="gmAnyp0vi78tWo" tvg-chno="16" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands TV Main
 https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8
 #EXTINF:0001 tvg-id="udYM5OktKE92Dh" tvg-chno="17" group-title="famelack (pk) [pk] [False]" tvg-logo="", God Stands TV Punjabi
