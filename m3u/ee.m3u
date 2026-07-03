@@ -24,7 +24,7 @@ https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:0001 tvg-id="ET5aXCpL16C7nE" tvg-chno="12" group-title="famelack (ee) [ee] [False]" tvg-logo="", Taevas TV7
 https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="FLdrwmDYv8jdv2" tvg-chno="13" group-title="famelack (ee) [ee] [False]" tvg-logo="", Vantage Classic
-https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
+https://hls.vantagetv.ee/vclassic_stream/index.m3u8
 #EXTINF:0001 tvg-id="r2gF8oZvggcaZG" tvg-chno="14" group-title="famelack (ee) [ee] [False]" tvg-logo="", Vantage Dance
 https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8
 #EXTINF:0001 tvg-id="i3qkHtWdmsIqE8" tvg-chno="15" group-title="famelack (ee) [ee] [True]" tvg-logo="", Vantage Music

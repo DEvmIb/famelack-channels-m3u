@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="JYgSlfQhruwWoQ" tvg-chno="1" group-title="famelack (lc) [lc] [False]" tvg-logo="", Caribbean Hot 7 TV
 https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="aLEAERSg4guN5c" tvg-chno="2" group-title="famelack (lc) [lc] [False]" tvg-logo="", DBS TV
-https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8
