@@ -7,31 +7,55 @@ https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8
 https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8
 #EXTINF:0001 tvg-id="IWXfoGrkM0NaQG" tvg-chno="4" group-title="famelack (ph) [ph] [False]" tvg-logo="", 3RS TV
 https://3rstv.elektriko4444.workers.dev/peanut.m3u8
-#EXTINF:0001 tvg-id="Zpcb6dPZj431wJ" tvg-chno="5" group-title="famelack (ph) [ph] [False]" tvg-logo="", Abante TV
+#EXTINF:0001 tvg-id="r4gZbnhBhhAOr3" tvg-chno="5" group-title="famelack (ph) [ph] [False]" tvg-logo="", A2Z
+https://streams.comclark.com/pknsd/a2z/playlist.m3u8
+#EXTINF:0001 tvg-id="Zpcb6dPZj431wJ" tvg-chno="6" group-title="famelack (ph) [ph] [False]" tvg-logo="", Abante TV
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
-#EXTINF:0001 tvg-id="jJ5KY3frn8Mets" tvg-chno="6" group-title="famelack (ph) [ph] [True]" tvg-logo="", Bilyonaryo News Channel
+#EXTINF:0001 tvg-id="VD4GTEUpGmMeyP" tvg-chno="7" group-title="famelack (ph) [ph] [False]" tvg-logo="", All TV
+https://streams.comclark.com/pknsd/alltv/playlist.m3u8
+#EXTINF:0001 tvg-id="gftaECQTwlXuSj" tvg-chno="8" group-title="famelack (ph) [ph] [False]" tvg-logo="", ANC
+https://streams.comclark.com/pknsd/anc/playlist.m3u8
+#EXTINF:0001 tvg-id="jJ5KY3frn8Mets" tvg-chno="9" group-title="famelack (ph) [ph] [True]" tvg-logo="", Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
-#EXTINF:0001 tvg-id="k6kILJ1P88D8yy" tvg-chno="7" group-title="famelack (ph) [ph] [False]" tvg-logo="", CLTV 36
+#EXTINF:0001 tvg-id="tKEjSj5MmiqnQi" tvg-chno="10" group-title="famelack (ph) [ph] [False]" tvg-logo="", Cine Mo!
+https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
+#EXTINF:0001 tvg-id="k6kILJ1P88D8yy" tvg-chno="11" group-title="famelack (ph) [ph] [False]" tvg-logo="", CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:0001 tvg-id="PO5SqjRTXUmc2R" tvg-chno="8" group-title="famelack (ph) [ph] [False]" tvg-logo="", IBC 13
+#EXTINF:0001 tvg-id="xO426KlalATtSy" tvg-chno="12" group-title="famelack (ph) [ph] [False]" tvg-logo="", Dream TV Philippines
+https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8
+#EXTINF:0001 tvg-id="ysfU2beBypKeTE" tvg-chno="13" group-title="famelack (ph) [ph] [False]" tvg-logo="", Dreamstar TV
+https://dreamstartvph.itunerworldwide.workers.dev/master.live.m3u8
+#EXTINF:0001 tvg-id="KutUbScYEcqvqz" tvg-chno="14" group-title="famelack (ph) [ph] [False]" tvg-logo="", Durian TV
+https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8
+#EXTINF:0001 tvg-id="IHSnXP6o9B6MYU" tvg-chno="15" group-title="famelack (ph) [ph] [False]" tvg-logo="", GTV
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8
+#EXTINF:0001 tvg-id="nJxgI7pzCfnLat" tvg-chno="16" group-title="famelack (ph) [ph] [False]" tvg-logo="", Highlights TV
+https://highlightstvph.itunerworldwide.workers.dev/master.live.m3u8
+#EXTINF:0001 tvg-id="PO5SqjRTXUmc2R" tvg-chno="17" group-title="famelack (ph) [ph] [False]" tvg-logo="", IBC 13
 https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
-#EXTINF:0001 tvg-id="681XV5aGJin4Gd" tvg-chno="9" group-title="famelack (ph) [ph] [True]" tvg-logo="", INTRAVEL Philippines
+#EXTINF:0001 tvg-id="681XV5aGJin4Gd" tvg-chno="18" group-title="famelack (ph) [ph] [True]" tvg-logo="", INTRAVEL Philippines
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="50fISDUbgXCYss" tvg-chno="10" group-title="famelack (ph) [ph] [False]" tvg-logo="", Living Asia Channel
+#EXTINF:0001 tvg-id="UpIu1SyO9pQrpr" tvg-chno="19" group-title="famelack (ph) [ph] [False]" tvg-logo="", Jeepney TV
+https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
+#EXTINF:0001 tvg-id="50fISDUbgXCYss" tvg-chno="20" group-title="famelack (ph) [ph] [False]" tvg-logo="", Living Asia Channel
 https://streams.comclark.com/pknsd/lac/playlist.m3u8
-#EXTINF:0001 tvg-id="RhkfgHInexT7iQ" tvg-chno="11" group-title="famelack (ph) [ph] [False]" tvg-logo="", Mindanow Network TV
+#EXTINF:0001 tvg-id="RhkfgHInexT7iQ" tvg-chno="21" group-title="famelack (ph) [ph] [False]" tvg-logo="", Mindanow Network TV
 https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
-#EXTINF:0001 tvg-id="aSbh31FN0fGHrR" tvg-chno="12" group-title="famelack (ph) [ph] [False]" tvg-logo="", PTN
+#EXTINF:0001 tvg-id="aSbh31FN0fGHrR" tvg-chno="22" group-title="famelack (ph) [ph] [False]" tvg-logo="", PTN
 https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8
-#EXTINF:0001 tvg-id="zQHj8k3lfZHYDd" tvg-chno="13" group-title="famelack (ph) [ph] [False]" tvg-logo="", PTV
+#EXTINF:0001 tvg-id="zQHj8k3lfZHYDd" tvg-chno="23" group-title="famelack (ph) [ph] [False]" tvg-logo="", PTV
 https://streams.comclark.com/pknsd/ptv/playlist.m3u8
-#EXTINF:0001 tvg-id="WviTL8qcTRWt2V" tvg-chno="14" group-title="famelack (ph) [ph] [False]" tvg-logo="", SDTV Network
+#EXTINF:0001 tvg-id="f5PePkW5frHHfz" tvg-chno="24" group-title="famelack (ph) [ph] [False]" tvg-logo="", RPTV
+https://streams.comclark.com/pknsd/rptv/playlist.m3u8
+#EXTINF:0001 tvg-id="WviTL8qcTRWt2V" tvg-chno="25" group-title="famelack (ph) [ph] [False]" tvg-logo="", SDTV Network
 https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8
-#EXTINF:0001 tvg-id="XhRYQd0hvLulVb" tvg-chno="15" group-title="famelack (ph) [ph] [False]" tvg-logo="", SDTV Network
+#EXTINF:0001 tvg-id="XhRYQd0hvLulVb" tvg-chno="26" group-title="famelack (ph) [ph] [False]" tvg-logo="", SDTV Network
 https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8
-#EXTINF:0001 tvg-id="U4qFQGhb2lylGn" tvg-chno="16" group-title="famelack (ph) [ph] [False]" tvg-logo="", Sine Plus
+#EXTINF:0001 tvg-id="U4qFQGhb2lylGn" tvg-chno="27" group-title="famelack (ph) [ph] [False]" tvg-logo="", Sine Plus
 https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8
-#EXTINF:0001 tvg-id="wTn8t48jb6lXBN" tvg-chno="17" group-title="famelack (ph) [ph] [False]" tvg-logo="", Star Television
+#EXTINF:0001 tvg-id="wTn8t48jb6lXBN" tvg-chno="28" group-title="famelack (ph) [ph] [False]" tvg-logo="", Star Television
 https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8
-#EXTINF:0001 tvg-id="25KpPpidlrPZ8K" tvg-chno="18" group-title="famelack (ph) [ph] [False]" tvg-logo="", Star TV Philippines
+#EXTINF:0001 tvg-id="25KpPpidlrPZ8K" tvg-chno="29" group-title="famelack (ph) [ph] [False]" tvg-logo="", Star TV Philippines
 https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8
+#EXTINF:0001 tvg-id="UpKv4f6hh0ECEd" tvg-chno="30" group-title="famelack (ph) [ph] [False]" tvg-logo="", TV5
+https://streams.comclark.com/pknsd/tv5/playlist.m3u8

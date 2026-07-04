@@ -11,12 +11,12 @@ https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
 #EXTINF:0001 tvg-id="trjWtKrUtelzEV" tvg-chno="6" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 4
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
-#EXTINF:0001 tvg-id="v1yMI7GiExjw2o" tvg-chno="7" group-title="famelack (ch) [ch] [False]" tvg-logo="", Couleur 3
+#EXTINF:0001 tvg-id="9VPpCwl1z0AmOB" tvg-chno="7" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 5
+https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
+#EXTINF:0001 tvg-id="v1yMI7GiExjw2o" tvg-chno="8" group-title="famelack (ch) [ch] [False]" tvg-logo="", Couleur 3
 https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
-#EXTINF:0001 tvg-id="Ii3WUTM9GvbeCB" tvg-chno="8" group-title="famelack (ch) [ch] [False]" tvg-logo="", Die Neue Zeit TV
+#EXTINF:0001 tvg-id="Ii3WUTM9GvbeCB" tvg-chno="9" group-title="famelack (ch) [ch] [False]" tvg-logo="", Die Neue Zeit TV
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="v3jEvjJoQwE3I4" tvg-chno="9" group-title="famelack (ch) [ch] [False]" tvg-logo="", GO-TV Canale 163
-https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="y9fcNWUvgSqvX9" tvg-chno="10" group-title="famelack (ch) [ch] [False]" tvg-logo="", Immaculata TV
 https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="u5IA5Y47IoddiC" tvg-chno="11" group-title="famelack (ch) [ch] [False]" tvg-logo="", Max TV
@@ -31,13 +31,15 @@ https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 https://vstream-cdn.ch/hls/radio3i.m3u8
 #EXTINF:0001 tvg-id="Xd3CFrHmzj9MdH" tvg-chno="16" group-title="famelack (ch) [ch] [False]" tvg-logo="", RADIO DISCOunt TV
 https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
-#EXTINF:0001 tvg-id="115JOjQI35znxt" tvg-chno="17" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTS Info
+#EXTINF:0001 tvg-id="X40NOmB4EUipXj" tvg-chno="17" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTS 1
+https://41.205.70.146/RTSUN/index.m3u8
+#EXTINF:0001 tvg-id="115JOjQI35znxt" tvg-chno="18" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTS Info
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
-#EXTINF:0001 tvg-id="48RqSkShlJpBo8" tvg-chno="18" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTV Pendimi
+#EXTINF:0001 tvg-id="48RqSkShlJpBo8" tvg-chno="19" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTV Pendimi
 https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
-#EXTINF:0001 tvg-id="aI8CAI6ZaAK6J4" tvg-chno="19" group-title="famelack (ch) [ch] [False]" tvg-logo="", Sivan TV
+#EXTINF:0001 tvg-id="aI8CAI6ZaAK6J4" tvg-chno="20" group-title="famelack (ch) [ch] [False]" tvg-logo="", Sivan TV
 https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:0001 tvg-id="GkcwPCezd4sFP5" tvg-chno="20" group-title="famelack (ch) [ch] [False]" tvg-logo="", Telenova
+#EXTINF:0001 tvg-id="GkcwPCezd4sFP5" tvg-chno="21" group-title="famelack (ch) [ch] [False]" tvg-logo="", Telenova
 https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
-#EXTINF:0001 tvg-id="OeC5ZVzNRndtBe" tvg-chno="21" group-title="famelack (ch) [ch] [False]" tvg-logo="", TeleTicino
+#EXTINF:0001 tvg-id="OeC5ZVzNRndtBe" tvg-chno="22" group-title="famelack (ch) [ch] [False]" tvg-logo="", TeleTicino
 https://vstream-cdn.ch/hls/teleticino.m3u8
