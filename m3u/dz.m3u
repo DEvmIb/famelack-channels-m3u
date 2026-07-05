@@ -3,7 +3,9 @@
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 #EXTINF:0001 tvg-id="djepsfPOUGk1gy" tvg-chno="2" group-title="famelack (dz) [dz] [False]" tvg-logo="", CNA
 https://live.creacast.com/cna/stream/playlist.m3u8
-#EXTINF:0001 tvg-id="ofHo5b95IBOhZz" tvg-chno="3" group-title="famelack (dz) [dz] [False]" tvg-logo="", Elwatania TV
+#EXTINF:0001 tvg-id="3spET73XcwPAv7" tvg-chno="3" group-title="famelack (dz) [dz] [False]" tvg-logo="", El-Heddaf TV
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:0001 tvg-id="ofHo5b95IBOhZz" tvg-chno="4" group-title="famelack (dz) [dz] [False]" tvg-logo="", Elwatania TV
 https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
-#EXTINF:0001 tvg-id="KkL4hCeOqJYMRN" tvg-chno="4" group-title="famelack (dz) [dz] [False]" tvg-logo="", TV2
+#EXTINF:0001 tvg-id="KkL4hCeOqJYMRN" tvg-chno="5" group-title="famelack (dz) [dz] [False]" tvg-logo="", TV2
 https://185.9.2.18/chid_347/index.m3u8

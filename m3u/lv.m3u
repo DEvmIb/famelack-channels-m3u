@@ -5,15 +5,13 @@ https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_d
 https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8
 #EXTINF:0001 tvg-id="Gjmjoa2VOJKV6E" tvg-chno="3" group-title="famelack (lv) [lv] [False]" tvg-logo="", Movify Kino
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
-#EXTINF:0001 tvg-id="PyldYXsoAXUikk" tvg-chno="4" group-title="famelack (lv) [lv] [True]" tvg-logo="", Pingviins
-https://sirius.greenhosting.ru/PingvinRu/video.m3u8
-#EXTINF:0001 tvg-id="LHzrqD9sr7EPlw" tvg-chno="5" group-title="famelack (lv) [lv] [False]" tvg-logo="", Radio SWH TV
+#EXTINF:0001 tvg-id="LHzrqD9sr7EPlw" tvg-chno="4" group-title="famelack (lv) [lv] [False]" tvg-logo="", Radio SWH TV
 https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="YigI7cZVQDDBuz" tvg-chno="6" group-title="famelack (lv) [lv] [False]" tvg-logo="", Re TV
+#EXTINF:0001 tvg-id="YigI7cZVQDDBuz" tvg-chno="5" group-title="famelack (lv) [lv] [False]" tvg-logo="", Re TV
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="FQZfmghEliCIsO" tvg-chno="7" group-title="famelack (lv) [lv] [False]" tvg-logo="", Sea TV
+#EXTINF:0001 tvg-id="FQZfmghEliCIsO" tvg-chno="6" group-title="famelack (lv) [lv] [False]" tvg-logo="", Sea TV
 https://iptv.prosto.tv/ch238/index.m3u8
-#EXTINF:0001 tvg-id="sgMHs1obQ8lL7A" tvg-chno="8" group-title="famelack (lv) [lv] [False]" tvg-logo="", TVNET
+#EXTINF:0001 tvg-id="sgMHs1obQ8lL7A" tvg-chno="7" group-title="famelack (lv) [lv] [False]" tvg-logo="", TVNET
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
-#EXTINF:0001 tvg-id="D4XzxfQIBxlNgz" tvg-chno="9" group-title="famelack (lv) [lv] [False]" tvg-logo="", Vidusdaugavas Televizija
+#EXTINF:0001 tvg-id="D4XzxfQIBxlNgz" tvg-chno="8" group-title="famelack (lv) [lv] [False]" tvg-logo="", Vidusdaugavas Televizija
 https://straume.vdtv.lv/vdtv2/index.m3u8
