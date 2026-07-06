@@ -7,9 +7,7 @@ https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
 #EXTINF:0001 tvg-id="J9qh26TnFdl6KD" tvg-chno="4" group-title="famelack (mm) [mm] [False]" tvg-logo="", MRTV Entertainment
 https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
-#EXTINF:0001 tvg-id="AQcwe6Z9P7sz9G" tvg-chno="5" group-title="famelack (mm) [mm] [False]" tvg-logo="", MRTV Farmer
-https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
-#EXTINF:0001 tvg-id="Dbol6rCbtjq6DY" tvg-chno="6" group-title="famelack (mm) [mm] [False]" tvg-logo="", MRTV News
+#EXTINF:0001 tvg-id="Dbol6rCbtjq6DY" tvg-chno="5" group-title="famelack (mm) [mm] [False]" tvg-logo="", MRTV News
 https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
-#EXTINF:0001 tvg-id="1wMsK4nhJMBFCb" tvg-chno="7" group-title="famelack (mm) [mm] [False]" tvg-logo="", MRTV NRC
+#EXTINF:0001 tvg-id="1wMsK4nhJMBFCb" tvg-chno="6" group-title="famelack (mm) [mm] [False]" tvg-logo="", MRTV NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8

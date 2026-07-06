@@ -141,5 +141,7 @@ https://hls.tmtv.live/hls/stream.m3u8
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:0001 tvg-id="gNhOgT2v5bREO2" tvg-chno="71" group-title="famelack (ir) [ir] [False]" tvg-logo="", VOX1
 https://hls.vox1.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="sufBrIYaOUMBHf" tvg-chno="72" group-title="famelack (ir) [ir] [False]" tvg-logo="", Zed TV
+#EXTINF:0001 tvg-id="3CG7FQ47ykhGlU" tvg-chno="72" group-title="famelack (ir) [ir] [False]" tvg-logo="", YourTime TV
+https://live.yourtime.tv/hls/stream.m3u8
+#EXTINF:0001 tvg-id="sufBrIYaOUMBHf" tvg-chno="73" group-title="famelack (ir) [ir] [False]" tvg-logo="", Zed TV
 https://zedhls.wns.live/hls/stream.m3u8
