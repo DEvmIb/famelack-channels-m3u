@@ -25,18 +25,18 @@ https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60d
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:0001 tvg-id="xYgLb0tc6pAHED" tvg-chno="13" group-title="famelack (ch) [ch] [False]" tvg-logo="", More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:0001 tvg-id="MGmbqNX8bkdPaR" tvg-chno="14" group-title="famelack (ch) [ch] [True]" tvg-logo="", My Cinema Europe
-https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
-#EXTINF:0001 tvg-id="ZUrwxBDVVmyicG" tvg-chno="15" group-title="famelack (ch) [ch] [False]" tvg-logo="", NDR Fernsehen International
-https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
-#EXTINF:0001 tvg-id="mb7i550xYVEaod" tvg-chno="16" group-title="famelack (ch) [ch] [False]" tvg-logo="", Radio 3i
+#EXTINF:0001 tvg-id="ZUrwxBDVVmyicG" tvg-chno="14" group-title="famelack (ch) [ch] [False]" tvg-logo="", NDR Fernsehen International
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:0001 tvg-id="mb7i550xYVEaod" tvg-chno="15" group-title="famelack (ch) [ch] [False]" tvg-logo="", Radio 3i
 https://vstream-cdn.ch/hls/radio3i.m3u8
-#EXTINF:0001 tvg-id="Xd3CFrHmzj9MdH" tvg-chno="17" group-title="famelack (ch) [ch] [False]" tvg-logo="", RADIO DISCOunt TV
+#EXTINF:0001 tvg-id="Xd3CFrHmzj9MdH" tvg-chno="16" group-title="famelack (ch) [ch] [False]" tvg-logo="", RADIO DISCOunt TV
 https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
-#EXTINF:0001 tvg-id="X40NOmB4EUipXj" tvg-chno="18" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTS 1
+#EXTINF:0001 tvg-id="X40NOmB4EUipXj" tvg-chno="17" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTS 1
 https://41.205.70.146/RTSUN/index.m3u8
-#EXTINF:0001 tvg-id="115JOjQI35znxt" tvg-chno="19" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTS Info
+#EXTINF:0001 tvg-id="115JOjQI35znxt" tvg-chno="18" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTS Info
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+#EXTINF:0001 tvg-id="48RqSkShlJpBo8" tvg-chno="19" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTV Pendimi
+https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
 #EXTINF:0001 tvg-id="aI8CAI6ZaAK6J4" tvg-chno="20" group-title="famelack (ch) [ch] [False]" tvg-logo="", Sivan TV
 https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:0001 tvg-id="GkcwPCezd4sFP5" tvg-chno="21" group-title="famelack (ch) [ch] [False]" tvg-logo="", Telenova

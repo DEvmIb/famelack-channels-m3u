@@ -5,13 +5,11 @@ https://str.yodacdn.net/azertv/index.m3u8
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:0001 tvg-id="n8aV4qPr7267ok" tvg-chno="3" group-title="famelack (az) [az] [False]" tvg-logo="", Baku.TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:0001 tvg-id="TCXWbbGwwhAA4s" tvg-chno="4" group-title="famelack (az) [az] [False]" tvg-logo="", Dunya TV
-https://stream.ftv.az/live/dunyatv.m3u8
-#EXTINF:0001 tvg-id="B5yE0mrBECzUCL" tvg-chno="5" group-title="famelack (az) [az] [False]" tvg-logo="", EL TV
+#EXTINF:0001 tvg-id="B5yE0mrBECzUCL" tvg-chno="4" group-title="famelack (az) [az] [False]" tvg-logo="", EL TV
 https://live.eltv.az/live/eltv/playlist.m3u8
-#EXTINF:0001 tvg-id="b1w0a8CZ0CNs0I" tvg-chno="6" group-title="famelack (az) [az] [False]" tvg-logo="", Medeniyyet TV
+#EXTINF:0001 tvg-id="b1w0a8CZ0CNs0I" tvg-chno="5" group-title="famelack (az) [az] [False]" tvg-logo="", Medeniyyet TV
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:0001 tvg-id="jlkmejIqbIV0I0" tvg-chno="7" group-title="famelack (az) [az] [False]" tvg-logo="", Naxcivan TV
+#EXTINF:0001 tvg-id="jlkmejIqbIV0I0" tvg-chno="6" group-title="famelack (az) [az] [False]" tvg-logo="", Naxcivan TV
 https://str2.yodacdn.net/ntv/video.m3u8
-#EXTINF:0001 tvg-id="BRcYI5UTMS9jQ8" tvg-chno="8" group-title="famelack (az) [az] [False]" tvg-logo="", Xezer TV
+#EXTINF:0001 tvg-id="BRcYI5UTMS9jQ8" tvg-chno="7" group-title="famelack (az) [az] [False]" tvg-logo="", Xezer TV
 https://www.xezerxeber.az/stream/index.m3u8

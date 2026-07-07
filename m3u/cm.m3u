@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="mERwdxTysvLwsP" tvg-chno="1" group-title="famelack (cm) [cm] [False]" tvg-logo="", ACN TV
+#EXTINF:0001 tvg-id="H2FHKjlAUfcdK2" tvg-chno="1" group-title="famelack (cm) [cm] [False]" tvg-logo="", Acerfi TV
+https://streamtv.acerfi.net/hls/acerfitv/index.m3u8
+#EXTINF:0001 tvg-id="mERwdxTysvLwsP" tvg-chno="2" group-title="famelack (cm) [cm] [False]" tvg-logo="", ACN TV
 https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8
-#EXTINF:0001 tvg-id="vSeAetx7SHaifK" tvg-chno="2" group-title="famelack (cm) [cm] [False]" tvg-logo="", CAM 10 TV
+#EXTINF:0001 tvg-id="vSeAetx7SHaifK" tvg-chno="3" group-title="famelack (cm) [cm] [False]" tvg-logo="", CAM 10 TV
 https://stream.it-innov.com/cam10tv/index.m3u8
-#EXTINF:0001 tvg-id="GF2Bfo69Qjjy4t" tvg-chno="3" group-title="famelack (cm) [cm] [False]" tvg-logo="", CRTV
+#EXTINF:0001 tvg-id="GF2Bfo69Qjjy4t" tvg-chno="4" group-title="famelack (cm) [cm] [False]" tvg-logo="", CRTV
 https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
-#EXTINF:0001 tvg-id="3FlRRGzn9FXnl8" tvg-chno="4" group-title="famelack (cm) [cm] [False]" tvg-logo="", CRTV News
+#EXTINF:0001 tvg-id="3FlRRGzn9FXnl8" tvg-chno="5" group-title="famelack (cm) [cm] [False]" tvg-logo="", CRTV News
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
-#EXTINF:0001 tvg-id="i8vFqkaXpB4jHk" tvg-chno="5" group-title="famelack (cm) [cm] [False]" tvg-logo="", For You TV
+#EXTINF:0001 tvg-id="i8vFqkaXpB4jHk" tvg-chno="6" group-title="famelack (cm) [cm] [False]" tvg-logo="", For You TV
 https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
-#EXTINF:0001 tvg-id="kAGSorpcyVgeyz" tvg-chno="6" group-title="famelack (cm) [cm] [False]" tvg-logo="", Laura Dave Media TV
+#EXTINF:0001 tvg-id="kAGSorpcyVgeyz" tvg-chno="7" group-title="famelack (cm) [cm] [False]" tvg-logo="", Laura Dave Media TV
 https://streaming.lauradavemedia.com/ldm/index.m3u8
