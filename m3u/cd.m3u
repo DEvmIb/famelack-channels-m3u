@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="ygDDILAop8WUxP" tvg-chno="1" group-title="famelack (cd) [cd] [False]" tvg-logo="", CCPV Television
+#EXTINF:0001 tvg-id="NpgNIT1Vg8Pkxb" tvg-chno="1" group-title="famelack (cd) [cd] [False]" tvg-logo="", Baraka Television
+https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
+#EXTINF:0001 tvg-id="ygDDILAop8WUxP" tvg-chno="2" group-title="famelack (cd) [cd] [False]" tvg-logo="", CCPV Television
 https://tnt-television.com/CCPV-TV/index.m3u8
-#EXTINF:0001 tvg-id="QOfJ38EhuVvyDe" tvg-chno="2" group-title="famelack (cd) [cd] [False]" tvg-logo="", Compassion TV
+#EXTINF:0001 tvg-id="QOfJ38EhuVvyDe" tvg-chno="3" group-title="famelack (cd) [cd] [False]" tvg-logo="", Compassion TV
 https://tnt-television.com/COMPASSION_FM/index.m3u8
-#EXTINF:0001 tvg-id="ja8UrHCZtIyHwA" tvg-chno="3" group-title="famelack (cd) [cd] [False]" tvg-logo="", Geopolis TV
+#EXTINF:0001 tvg-id="ja8UrHCZtIyHwA" tvg-chno="4" group-title="famelack (cd) [cd] [False]" tvg-logo="", Geopolis TV
 https://tnt-television.com/Geopolis_tv/index.m3u8
-#EXTINF:0001 tvg-id="6HjiInfkoOCTQt" tvg-chno="4" group-title="famelack (cd) [cd] [False]" tvg-logo="", LBFD RTV
+#EXTINF:0001 tvg-id="6HjiInfkoOCTQt" tvg-chno="5" group-title="famelack (cd) [cd] [False]" tvg-logo="", LBFD RTV
 https://tnt-television.com/LBFD_RTV/index.m3u8
-#EXTINF:0001 tvg-id="URTHCiUj4sa5bi" tvg-chno="5" group-title="famelack (cd) [cd] [False]" tvg-logo="", Le Monde en 24h
-https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 #EXTINF:0001 tvg-id="sAbR7bvxYpt3dh" tvg-chno="6" group-title="famelack (cd) [cd] [False]" tvg-logo="", Lollywood HD TV
 https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
 #EXTINF:0001 tvg-id="XTCS8hBcYSO2yi" tvg-chno="7" group-title="famelack (cd) [cd] [False]" tvg-logo="", Numerica TV

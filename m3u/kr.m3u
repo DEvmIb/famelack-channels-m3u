@@ -31,14 +31,14 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:0001 tvg-id="iHYNLGETdvi3C5" tvg-chno="16" group-title="famelack (kr) [kr] [False]" tvg-logo="", FGTV
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="BHUk7W2sHiMZn9" tvg-chno="17" group-title="famelack (kr) [kr] [False]" tvg-logo="", Gongyoung Home Shopping
-https://etv.publichs.com/live5.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="Ha2TQrOiJuUiVm" tvg-chno="18" group-title="famelack (kr) [kr] [False]" tvg-logo="", GS My Shop
+#EXTINF:0001 tvg-id="Ha2TQrOiJuUiVm" tvg-chno="17" group-title="famelack (kr) [kr] [False]" tvg-logo="", GS My Shop
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="tTyhlQIbf96cqF" tvg-chno="19" group-title="famelack (kr) [kr] [False]" tvg-logo="", GS Shop
+#EXTINF:0001 tvg-id="tTyhlQIbf96cqF" tvg-chno="18" group-title="famelack (kr) [kr] [False]" tvg-logo="", GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="hJP0GSnYM15Xax" tvg-chno="20" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLAJ-DTV
+#EXTINF:0001 tvg-id="hJP0GSnYM15Xax" tvg-chno="19" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLAJ-DTV
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:0001 tvg-id="LeEKq1Wp81fOe3" tvg-chno="20" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLAN-DTV
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:0001 tvg-id="pnA1ESNuQBhdp0" tvg-chno="21" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLAT-DTV
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:0001 tvg-id="GCDtsdmWOrJKEn" tvg-chno="22" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLCQ-DTV
@@ -67,15 +67,11 @@ https://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
 #EXTINF:0001 tvg-id="GPfN3XUpvverSy" tvg-chno="34" group-title="famelack (kr) [kr] [False]" tvg-logo="", NS Shop+
 https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
-#EXTINF:0001 tvg-id="n4MkAIlXwdSE8X" tvg-chno="35" group-title="famelack (kr) [kr] [False]" tvg-logo="", OUN
-https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:0001 tvg-id="2JjtogNFSDfTsC" tvg-chno="36" group-title="famelack (kr) [kr] [False]" tvg-logo="", RUTC TV
-https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="fnE13NFNokanvE" tvg-chno="37" group-title="famelack (kr) [kr] [False]" tvg-logo="", Shinsegae TV Shopping
+#EXTINF:0001 tvg-id="fnE13NFNokanvE" tvg-chno="35" group-title="famelack (kr) [kr] [False]" tvg-logo="", Shinsegae TV Shopping
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-#EXTINF:0001 tvg-id="hiABpRG1XhgOmb" tvg-chno="38" group-title="famelack (kr) [kr] [False]" tvg-logo="", Shopping NT
+#EXTINF:0001 tvg-id="hiABpRG1XhgOmb" tvg-chno="36" group-title="famelack (kr) [kr] [False]" tvg-logo="", Shopping NT
 https://live.shoppingntmall.com/live/10011.m3u8
-#EXTINF:0001 tvg-id="WiOl654PXu3URa" tvg-chno="39" group-title="famelack (kr) [kr] [False]" tvg-logo="", TBS TV
+#EXTINF:0001 tvg-id="WiOl654PXu3URa" tvg-chno="37" group-title="famelack (kr) [kr] [False]" tvg-logo="", TBS TV
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="4If9DGlBIwVH9j" tvg-chno="40" group-title="famelack (kr) [kr] [False]" tvg-logo="", W Shopping
+#EXTINF:0001 tvg-id="4If9DGlBIwVH9j" tvg-chno="38" group-title="famelack (kr) [kr] [False]" tvg-logo="", W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
