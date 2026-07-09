@@ -5,28 +5,28 @@ https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:0001 tvg-id="XCeIlVYmtUB3hr" tvg-chno="3" group-title="famelack (pl) [pl] [False]" tvg-logo="", American Crime Channel Poland
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
-#EXTINF:0001 tvg-id="vpmw5YCzbuvKxE" tvg-chno="4" group-title="famelack (pl) [pl] [False]" tvg-logo="", ATM Rozrywka REWORK
-https://grupaatmrr.org.pl:8888/fallback/index.m3u8
-#EXTINF:0001 tvg-id="kJrXloIeM5KZgw" tvg-chno="5" group-title="famelack (pl) [pl] [False]" tvg-logo="", Bialogardzka Telewizja Kablowa
+#EXTINF:0001 tvg-id="kJrXloIeM5KZgw" tvg-chno="4" group-title="famelack (pl) [pl] [False]" tvg-logo="", Bialogardzka Telewizja Kablowa
 https://bsmbialogard.pl/live/index.m3u8
-#EXTINF:0001 tvg-id="5fsuYuCG8ydAtN" tvg-chno="6" group-title="famelack (pl) [pl] [False]" tvg-logo="", Bigtime
+#EXTINF:0001 tvg-id="5fsuYuCG8ydAtN" tvg-chno="5" group-title="famelack (pl) [pl] [False]" tvg-logo="", Bigtime
 https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
-#EXTINF:0001 tvg-id="JwjTtBdIXCgMJP" tvg-chno="7" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB
+#EXTINF:0001 tvg-id="JwjTtBdIXCgMJP" tvg-chno="6" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB
 https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
-#EXTINF:0001 tvg-id="NHCXMxoKr3soBB" tvg-chno="8" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB 2
+#EXTINF:0001 tvg-id="NHCXMxoKr3soBB" tvg-chno="7" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB 2
 https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
-#EXTINF:0001 tvg-id="DHR1El8JiIdfUH" tvg-chno="9" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB 3
+#EXTINF:0001 tvg-id="DHR1El8JiIdfUH" tvg-chno="8" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB 3
 https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
-#EXTINF:0001 tvg-id="vifXiIDfcyAksy" tvg-chno="10" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB Info
+#EXTINF:0001 tvg-id="vifXiIDfcyAksy" tvg-chno="9" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB Info
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
-#EXTINF:0001 tvg-id="QpkwHa7GwFnKLp" tvg-chno="11" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB Music
+#EXTINF:0001 tvg-id="QpkwHa7GwFnKLp" tvg-chno="10" group-title="famelack (pl) [pl] [False]" tvg-logo="", BTB Music
 https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
-#EXTINF:0001 tvg-id="QPykxNCJ0OXJFT" tvg-chno="12" group-title="famelack (pl) [pl] [False]" tvg-logo="", Buzzfeed Unsolved FAST
+#EXTINF:0001 tvg-id="QPykxNCJ0OXJFT" tvg-chno="11" group-title="famelack (pl) [pl] [False]" tvg-logo="", Buzzfeed Unsolved FAST
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
-#EXTINF:0001 tvg-id="w778NNhzUPLcZH" tvg-chno="13" group-title="famelack (pl) [pl] [False]" tvg-logo="", Car City Adventures
+#EXTINF:0001 tvg-id="w778NNhzUPLcZH" tvg-chno="12" group-title="famelack (pl) [pl] [False]" tvg-logo="", Car City Adventures
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
-#EXTINF:0001 tvg-id="lSTW1dzY0A0GTW" tvg-chno="14" group-title="famelack (pl) [pl] [False]" tvg-logo="", Cartoon Classics FAST
+#EXTINF:0001 tvg-id="lSTW1dzY0A0GTW" tvg-chno="13" group-title="famelack (pl) [pl] [False]" tvg-logo="", Cartoon Classics FAST
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:0001 tvg-id="YVXMNDK2rpUCOO" tvg-chno="14" group-title="famelack (pl) [pl] [False]" tvg-logo="", dlaCiebie.tv
+https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8
 #EXTINF:0001 tvg-id="9IWJvqi8MKA5iX" tvg-chno="15" group-title="famelack (pl) [pl] [False]" tvg-logo="", Dr G Medical Examiner
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
 #EXTINF:0001 tvg-id="Yu5wceoQ17tjtg" tvg-chno="16" group-title="famelack (pl) [pl] [False]" tvg-logo="", Euronews FAST
