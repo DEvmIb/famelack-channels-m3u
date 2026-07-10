@@ -2,7 +2,7 @@
 #EXTINF:0001 tvg-id="lzj2rgOVC9PJzk" tvg-chno="1" group-title="famelack (sy) [sy] [False]" tvg-logo="", Althania
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="Zb4yx0Hhhjqp7h" tvg-chno="2" group-title="famelack (sy) [sy] [False]" tvg-logo="", Halab Today TV
-https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
+https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8
 #EXTINF:0001 tvg-id="FguzmgQdpg9XFC" tvg-chno="3" group-title="famelack (sy) [sy] [False]" tvg-logo="", Rojava TV
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 #EXTINF:0001 tvg-id="XUZvlMOrh5z0lP" tvg-chno="4" group-title="famelack (sy) [sy] [False]" tvg-logo="", Ronahi TV

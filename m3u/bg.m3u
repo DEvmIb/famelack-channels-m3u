@@ -19,3 +19,5 @@ https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:0001 tvg-id="fwm1YJJu2dW30c" tvg-chno="10" group-title="famelack (bg) [bg] [False]" tvg-logo="", Travel TV
 https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:0001 tvg-id="NKuKjDs9z9rYim" tvg-chno="11" group-title="famelack (bg) [bg] [False]" tvg-logo="", TV Spravedliva Bulgariya
+https://tv.tvsb.bg/112.m3u8
