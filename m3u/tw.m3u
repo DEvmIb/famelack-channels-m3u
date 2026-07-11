@@ -11,5 +11,7 @@ https://live.streamingfast.net/osmflivech1.m3u8
 https://live.ntdtv.com/aplive200/playlist.m3u8
 #EXTINF:0001 tvg-id="GKSg7DCpDjlgH0" tvg-chno="6" group-title="famelack (tw) [tw] [False]" tvg-logo="", Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:0001 tvg-id="0Dll7iEE7yiI7N" tvg-chno="7" group-title="famelack (tw) [tw] [False]" tvg-logo="", WXTV
+#EXTINF:0001 tvg-id="K6PBg1O0tE6Nhg" tvg-chno="7" group-title="famelack (tw) [tw] [False]" tvg-logo="", Taiwan Indigenous TV
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:0001 tvg-id="0Dll7iEE7yiI7N" tvg-chno="8" group-title="famelack (tw) [tw] [False]" tvg-logo="", WXTV
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8

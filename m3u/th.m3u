@@ -61,31 +61,33 @@ https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
 https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8
 #EXTINF:0001 tvg-id="chmBg2GBFNqXoJ" tvg-chno="31" group-title="famelack (th) [th] [False]" tvg-logo="", Police TV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-#EXTINF:0001 tvg-id="IC0ZQA3k7HadtW" tvg-chno="32" group-title="famelack (th) [th] [False]" tvg-logo="", SBB TV
+#EXTINF:0001 tvg-id="3GZ46w4Jr2xtDE" tvg-chno="32" group-title="famelack (th) [th] [False]" tvg-logo="", Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
+#EXTINF:0001 tvg-id="IC0ZQA3k7HadtW" tvg-chno="33" group-title="famelack (th) [th] [False]" tvg-logo="", SBB TV
 https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
-#EXTINF:0001 tvg-id="tvrptnaG6ItFq0" tvg-chno="33" group-title="famelack (th) [th] [False]" tvg-logo="", STOU Channel
+#EXTINF:0001 tvg-id="tvrptnaG6ItFq0" tvg-chno="34" group-title="famelack (th) [th] [False]" tvg-logo="", STOU Channel
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
-#EXTINF:0001 tvg-id="bvkcq09Cd3U8lf" tvg-chno="34" group-title="famelack (th) [th] [False]" tvg-logo="", Suwannabhumi Channel
+#EXTINF:0001 tvg-id="bvkcq09Cd3U8lf" tvg-chno="35" group-title="famelack (th) [th] [False]" tvg-logo="", Suwannabhumi Channel
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:0001 tvg-id="8y46OzXMIQWutZ" tvg-chno="35" group-title="famelack (th) [th] [False]" tvg-logo="", T Sports 7
+#EXTINF:0001 tvg-id="8y46OzXMIQWutZ" tvg-chno="36" group-title="famelack (th) [th] [False]" tvg-logo="", T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
-#EXTINF:0001 tvg-id="dB7dtyb4s8KVBG" tvg-chno="36" group-title="famelack (th) [th] [False]" tvg-logo="", Thai Chaiyo
+#EXTINF:0001 tvg-id="dB7dtyb4s8KVBG" tvg-chno="37" group-title="famelack (th) [th] [False]" tvg-logo="", Thai Chaiyo
 https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
-#EXTINF:0001 tvg-id="ztLXAJFpTRNVhe" tvg-chno="37" group-title="famelack (th) [th] [False]" tvg-logo="", Thai Parliament Television
+#EXTINF:0001 tvg-id="ztLXAJFpTRNVhe" tvg-chno="38" group-title="famelack (th) [th] [False]" tvg-logo="", Thai Parliament Television
 https://tv-live.tpchannel.org/live/tv.m3u8
-#EXTINF:0001 tvg-id="VDGTa2zgqbVjQZ" tvg-chno="38" group-title="famelack (th) [th] [False]" tvg-logo="", Thairath TV
+#EXTINF:0001 tvg-id="21kCsYnqllJTSf" tvg-chno="39" group-title="famelack (th) [th] [False]" tvg-logo="", Thai PBS
+https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
+#EXTINF:0001 tvg-id="VDGTa2zgqbVjQZ" tvg-chno="40" group-title="famelack (th) [th] [False]" tvg-logo="", Thairath TV
 https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8
-#EXTINF:0001 tvg-id="5JqI2VGAgHJcuu" tvg-chno="39" group-title="famelack (th) [th] [False]" tvg-logo="", TNN16
+#EXTINF:0001 tvg-id="5JqI2VGAgHJcuu" tvg-chno="41" group-title="famelack (th) [th] [False]" tvg-logo="", TNN16
 https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8
-#EXTINF:0001 tvg-id="NKLScQ6EvdyLLB" tvg-chno="40" group-title="famelack (th) [th] [False]" tvg-logo="", Top News
+#EXTINF:0001 tvg-id="NKLScQ6EvdyLLB" tvg-chno="42" group-title="famelack (th) [th] [False]" tvg-logo="", Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:0001 tvg-id="OuZE6TNCnLN0JD" tvg-chno="41" group-title="famelack (th) [th] [False]" tvg-logo="", True4U
+#EXTINF:0001 tvg-id="OuZE6TNCnLN0JD" tvg-chno="43" group-title="famelack (th) [th] [False]" tvg-logo="", True4U
 https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8
-#EXTINF:0001 tvg-id="xP0smrBM1w21kH" tvg-chno="42" group-title="famelack (th) [th] [False]" tvg-logo="", TV Muslim Thailand
-https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
-#EXTINF:0001 tvg-id="N5z6F9fOLnl1v1" tvg-chno="43" group-title="famelack (th) [th] [False]" tvg-logo="", Umm TV
+#EXTINF:0001 tvg-id="N5z6F9fOLnl1v1" tvg-chno="44" group-title="famelack (th) [th] [False]" tvg-logo="", Umm TV
 https://live-us1.thaimomo.com/live-as/chtvb-2/playlist.m3u8
-#EXTINF:0001 tvg-id="qAUjz7SsHCH8vp" tvg-chno="44" group-title="famelack (th) [th] [False]" tvg-logo="", Workpoint TV
+#EXTINF:0001 tvg-id="qAUjz7SsHCH8vp" tvg-chno="45" group-title="famelack (th) [th] [False]" tvg-logo="", Workpoint TV
 https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8
-#EXTINF:0001 tvg-id="3j6DuTgbZOrvSb" tvg-chno="45" group-title="famelack (th) [th] [False]" tvg-logo="", Zabb Channel
+#EXTINF:0001 tvg-id="3j6DuTgbZOrvSb" tvg-chno="46" group-title="famelack (th) [th] [False]" tvg-logo="", Zabb Channel
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8

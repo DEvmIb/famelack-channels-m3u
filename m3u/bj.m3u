@@ -5,8 +5,8 @@ https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 https://rtmp.edentv.bj/hls/stream.m3u8
 #EXTINF:0001 tvg-id="l9YRJG6Qahxecn" tvg-chno="3" group-title="famelack (bj) [bj] [False]" tvg-logo="", ICONE TV
 https://lecteur.iconetv.bj/hls/stream.m3u8
-#EXTINF:0001 tvg-id="hNA8RP7NoiPpEi" tvg-chno="4" group-title="famelack (bj) [bj] [False]" tvg-logo="", Le Nouveau Manager TV
-https://lnmlive.com/live/lnmtv.m3u8
+#EXTINF:0001 tvg-id="Wl7PXcvkmC0910" tvg-chno="4" group-title="famelack (bj) [bj] [False]" tvg-logo="", KassouaTV
+https://playtv4k.live/live/kassouatv/index.m3u8
 #EXTINF:0001 tvg-id="wl2lwPjKKxNRiK" tvg-chno="5" group-title="famelack (bj) [bj] [False]" tvg-logo="", ORTB TV
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 #EXTINF:0001 tvg-id="B7Ks8MnYsVfD8I" tvg-chno="6" group-title="famelack (bj) [bj] [False]" tvg-logo="", Speedline TV

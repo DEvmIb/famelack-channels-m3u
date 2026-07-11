@@ -19,3 +19,5 @@ https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
 #EXTINF:0001 tvg-id="QjtZoPFnS11dwq" tvg-chno="10" group-title="famelack (al) [al] [False]" tvg-logo="", TV Johaniter
 https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
+#EXTINF:0001 tvg-id="16gGAjZZtes1Qk" tvg-chno="11" group-title="famelack (al) [al] [False]" tvg-logo="", Zjarr TV
+https://zjarr.future.al/hls/playlist.m3u8
