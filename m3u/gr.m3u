@@ -7,38 +7,38 @@ https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
 #EXTINF:0001 tvg-id="cHmM9b8VS7jwKX" tvg-chno="4" group-title="famelack (gr) [gr] [False]" tvg-logo="", Alert TV
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-#EXTINF:0001 tvg-id="2c7snlK3LlpjiQ" tvg-chno="5" group-title="famelack (gr) [gr] [False]" tvg-logo="", Astra TV
+#EXTINF:0001 tvg-id="w8DEZO2sRSoZZO" tvg-chno="5" group-title="famelack (gr) [gr] [False]" tvg-logo="", Alpha TV
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+#EXTINF:0001 tvg-id="2c7snlK3LlpjiQ" tvg-chno="6" group-title="famelack (gr) [gr] [False]" tvg-logo="", Astra TV
 https://server.gointernet.gr/live/livestream.m3u8
-#EXTINF:0001 tvg-id="alnxPYvmVkicEU" tvg-chno="6" group-title="famelack (gr) [gr] [False]" tvg-logo="", Baraza TV
+#EXTINF:0001 tvg-id="alnxPYvmVkicEU" tvg-chno="7" group-title="famelack (gr) [gr] [False]" tvg-logo="", Baraza TV
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="SwsWDthUMBPn2q" tvg-chno="7" group-title="famelack (gr) [gr] [False]" tvg-logo="", Baraza TV Deep House
+#EXTINF:0001 tvg-id="SwsWDthUMBPn2q" tvg-chno="8" group-title="famelack (gr) [gr] [False]" tvg-logo="", Baraza TV Deep House
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:0001 tvg-id="fUzoQspzSgVpqR" tvg-chno="8" group-title="famelack (gr) [gr] [False]" tvg-logo="", Baraza TV Relaxing
+#EXTINF:0001 tvg-id="fUzoQspzSgVpqR" tvg-chno="9" group-title="famelack (gr) [gr] [False]" tvg-logo="", Baraza TV Relaxing
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:0001 tvg-id="nur67kMzGvKND6" tvg-chno="9" group-title="famelack (gr) [gr] [False]" tvg-logo="", Best TV
+#EXTINF:0001 tvg-id="nur67kMzGvKND6" tvg-chno="10" group-title="famelack (gr) [gr] [False]" tvg-logo="", Best TV
 https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
-#EXTINF:0001 tvg-id="BQ588mGGkNcDqS" tvg-chno="10" group-title="famelack (gr) [gr] [False]" tvg-logo="", Center TV
+#EXTINF:0001 tvg-id="BQ588mGGkNcDqS" tvg-chno="11" group-title="famelack (gr) [gr] [False]" tvg-logo="", Center TV
 https://eu1.streams.gr:8081/centertv/index.m3u8
-#EXTINF:0001 tvg-id="cx45qZDgJuoYCN" tvg-chno="11" group-title="famelack (gr) [gr] [False]" tvg-logo="", Channel 8
+#EXTINF:0001 tvg-id="cx45qZDgJuoYCN" tvg-chno="12" group-title="famelack (gr) [gr] [False]" tvg-logo="", Channel 8
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
-#EXTINF:0001 tvg-id="0iu8NXGmAws9mO" tvg-chno="12" group-title="famelack (gr) [gr] [False]" tvg-logo="", Corfu Channel
+#EXTINF:0001 tvg-id="0iu8NXGmAws9mO" tvg-chno="13" group-title="famelack (gr) [gr] [False]" tvg-logo="", Corfu Channel
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:0001 tvg-id="gTRpcJwVgakhrn" tvg-chno="13" group-title="famelack (gr) [gr] [False]" tvg-logo="", Diavata TV
+#EXTINF:0001 tvg-id="gTRpcJwVgakhrn" tvg-chno="14" group-title="famelack (gr) [gr] [False]" tvg-logo="", Diavata TV
 https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
-#EXTINF:0001 tvg-id="kQoJODyIVFBenm" tvg-chno="14" group-title="famelack (gr) [gr] [False]" tvg-logo="", Egnatia TV
+#EXTINF:0001 tvg-id="kQoJODyIVFBenm" tvg-chno="15" group-title="famelack (gr) [gr] [False]" tvg-logo="", Egnatia TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:0001 tvg-id="HQxmczuRTCLJHk" tvg-chno="15" group-title="famelack (gr) [gr] [False]" tvg-logo="", Ellinikos FM
+#EXTINF:0001 tvg-id="HQxmczuRTCLJHk" tvg-chno="16" group-title="famelack (gr) [gr] [False]" tvg-logo="", Ellinikos FM
 https://rtmp.win:3603/live/ellinikosfmlive.m3u8
-#EXTINF:0001 tvg-id="cwC9NJaJZp5UMP" tvg-chno="16" group-title="famelack (gr) [gr] [False]" tvg-logo="", Epiloges TV
+#EXTINF:0001 tvg-id="cwC9NJaJZp5UMP" tvg-chno="17" group-title="famelack (gr) [gr] [False]" tvg-logo="", Epiloges TV
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
-#EXTINF:0001 tvg-id="GI28zdliqFumzw" tvg-chno="17" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT Cosmos
+#EXTINF:0001 tvg-id="GI28zdliqFumzw" tvg-chno="18" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT Cosmos
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
-#EXTINF:0001 tvg-id="lQUaMVorKskNow" tvg-chno="18" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT News
+#EXTINF:0001 tvg-id="lQUaMVorKskNow" tvg-chno="19" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT News
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
-#EXTINF:0001 tvg-id="9dl7OtlflRXkkz" tvg-chno="19" group-title="famelack (gr) [gr] [False]" tvg-logo="", Euro TV
+#EXTINF:0001 tvg-id="9dl7OtlflRXkkz" tvg-chno="20" group-title="famelack (gr) [gr] [False]" tvg-logo="", Euro TV
 https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
-#EXTINF:0001 tvg-id="rNwXK8U9QtgSSA" tvg-chno="20" group-title="famelack (gr) [gr] [True]" tvg-logo="", Faros TV2
-https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:0001 tvg-id="gu2YUsPnmrWKEu" tvg-chno="21" group-title="famelack (gr) [gr] [False]" tvg-logo="", FORMedia TV
 https://mercury.32bit.gr:19360/formediatv/formediatv.m3u8
 #EXTINF:0001 tvg-id="BBnkN7RuoWZuoo" tvg-chno="22" group-title="famelack (gr) [gr] [False]" tvg-logo="", Gnomi TV

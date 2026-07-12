@@ -171,117 +171,121 @@ https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8
 #EXTINF:0001 tvg-id="rW8dm4MTBacJXv" tvg-chno="86" group-title="famelack (es) [es] [False]" tvg-logo="", Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:0001 tvg-id="q7nooMvVTTe0YZ" tvg-chno="87" group-title="famelack (es) [es] [False]" tvg-logo="", Onda 15 TV
+#EXTINF:0001 tvg-id="to6WdXHX9Bv9Ju" tvg-chno="87" group-title="famelack (es) [es] [False]" tvg-logo="", Nova
+https://40.160.24.55/Nova/index.m3u8
+#EXTINF:0001 tvg-id="q7nooMvVTTe0YZ" tvg-chno="88" group-title="famelack (es) [es] [False]" tvg-logo="", Onda 15 TV
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
-#EXTINF:0001 tvg-id="9dhga7gK9KijdY" tvg-chno="88" group-title="famelack (es) [es] [False]" tvg-logo="", Onda Algeciras
+#EXTINF:0001 tvg-id="9dhga7gK9KijdY" tvg-chno="89" group-title="famelack (es) [es] [False]" tvg-logo="", Onda Algeciras
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
-#EXTINF:0001 tvg-id="zLbwRa4421PyhS" tvg-chno="89" group-title="famelack (es) [es] [False]" tvg-logo="", Onda Cadiz
+#EXTINF:0001 tvg-id="zLbwRa4421PyhS" tvg-chno="90" group-title="famelack (es) [es] [False]" tvg-logo="", Onda Cadiz
 https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
-#EXTINF:0001 tvg-id="w0BuuYkb1LM5NS" tvg-chno="90" group-title="famelack (es) [es] [False]" tvg-logo="", Onda Valencia TV
+#EXTINF:0001 tvg-id="w0BuuYkb1LM5NS" tvg-chno="91" group-title="famelack (es) [es] [False]" tvg-logo="", Onda Valencia TV
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
-#EXTINF:0001 tvg-id="I0DVGAmN7OWX0l" tvg-chno="91" group-title="famelack (es) [es] [False]" tvg-logo="", Platzi TV
+#EXTINF:0001 tvg-id="I0DVGAmN7OWX0l" tvg-chno="92" group-title="famelack (es) [es] [False]" tvg-logo="", Platzi TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:0001 tvg-id="MBXc78WctcBqtJ" tvg-chno="92" group-title="famelack (es) [es] [False]" tvg-logo="", POP World TV
+#EXTINF:0001 tvg-id="MBXc78WctcBqtJ" tvg-chno="93" group-title="famelack (es) [es] [False]" tvg-logo="", POP World TV
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-#EXTINF:0001 tvg-id="L0dEIQTJzvEZO6" tvg-chno="93" group-title="famelack (es) [es] [False]" tvg-logo="", PTV Cordoba
+#EXTINF:0001 tvg-id="L0dEIQTJzvEZO6" tvg-chno="94" group-title="famelack (es) [es] [False]" tvg-logo="", PTV Cordoba
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
-#EXTINF:0001 tvg-id="wyi6TV1fm0mxaX" tvg-chno="94" group-title="famelack (es) [es] [False]" tvg-logo="", PTV Granada
+#EXTINF:0001 tvg-id="wyi6TV1fm0mxaX" tvg-chno="95" group-title="famelack (es) [es] [False]" tvg-logo="", PTV Granada
 https://streamer.zapitv.com/PTV-granada/index.m3u8
-#EXTINF:0001 tvg-id="6Cliy0YRCsxozG" tvg-chno="95" group-title="famelack (es) [es] [False]" tvg-logo="", PTV Linares
+#EXTINF:0001 tvg-id="6Cliy0YRCsxozG" tvg-chno="96" group-title="famelack (es) [es] [False]" tvg-logo="", PTV Linares
 https://streamer.zapitv.com/ptv-linarez/index.m3u8
-#EXTINF:0001 tvg-id="awdi4zyBaZyzdT" tvg-chno="96" group-title="famelack (es) [es] [False]" tvg-logo="", PTV Malaga
+#EXTINF:0001 tvg-id="awdi4zyBaZyzdT" tvg-chno="97" group-title="famelack (es) [es] [False]" tvg-logo="", PTV Malaga
 https://streamer.zapitv.com/PTV-malaga/index.m3u8
-#EXTINF:0001 tvg-id="dZdJcGwwUlFFBA" tvg-chno="97" group-title="famelack (es) [es] [False]" tvg-logo="", PTV Sevilla
+#EXTINF:0001 tvg-id="dZdJcGwwUlFFBA" tvg-chno="98" group-title="famelack (es) [es] [False]" tvg-logo="", PTV Sevilla
 https://streamer.zapitv.com/PTV_sevilla/index.m3u8
-#EXTINF:0001 tvg-id="MUGH45wnKxFBS7" tvg-chno="98" group-title="famelack (es) [es] [False]" tvg-logo="", Punt 3
+#EXTINF:0001 tvg-id="MUGH45wnKxFBS7" tvg-chno="99" group-title="famelack (es) [es] [False]" tvg-logo="", Punt 3
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
-#EXTINF:0001 tvg-id="OnJfjCJ00KqC5E" tvg-chno="99" group-title="famelack (es) [es] [False]" tvg-logo="", Radio Bocairent TV
+#EXTINF:0001 tvg-id="OnJfjCJ00KqC5E" tvg-chno="100" group-title="famelack (es) [es] [False]" tvg-logo="", Radio Bocairent TV
 https://185.81.77.4/BocairentTV/index.m3u8
-#EXTINF:0001 tvg-id="79RGODupZW3p8n" tvg-chno="100" group-title="famelack (es) [es] [False]" tvg-logo="", Radio Carnaval TV
+#EXTINF:0001 tvg-id="79RGODupZW3p8n" tvg-chno="101" group-title="famelack (es) [es] [False]" tvg-logo="", Radio Carnaval TV
 https://eu1.servers10.com:8081/8116/index.m3u8
-#EXTINF:0001 tvg-id="5yu8uNtNIpaTKc" tvg-chno="101" group-title="famelack (es) [es] [False]" tvg-logo="", Radio Television Marbella
+#EXTINF:0001 tvg-id="5yu8uNtNIpaTKc" tvg-chno="102" group-title="famelack (es) [es] [False]" tvg-logo="", Radio Television Marbella
 https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
-#EXTINF:0001 tvg-id="0LyDCyOi0Q8ryz" tvg-chno="102" group-title="famelack (es) [es] [False]" tvg-logo="", Real Madrid TV
+#EXTINF:0001 tvg-id="9yewxbvb9FUiND" tvg-chno="103" group-title="famelack (es) [es] [False]" tvg-logo="", Rakuten TV Action Movies Spain
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+#EXTINF:0001 tvg-id="0LyDCyOi0Q8ryz" tvg-chno="104" group-title="famelack (es) [es] [False]" tvg-logo="", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:0001 tvg-id="zDikndhUvyLg4v" tvg-chno="103" group-title="famelack (es) [es] [True]" tvg-logo="", Real Madrid TV English
+#EXTINF:0001 tvg-id="zDikndhUvyLg4v" tvg-chno="105" group-title="famelack (es) [es] [True]" tvg-logo="", Real Madrid TV English
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:0001 tvg-id="MGZU6AQGCifgRA" tvg-chno="104" group-title="famelack (es) [es] [False]" tvg-logo="", Red Bull TV ES
+#EXTINF:0001 tvg-id="MGZU6AQGCifgRA" tvg-chno="106" group-title="famelack (es) [es] [False]" tvg-logo="", Red Bull TV ES
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:0001 tvg-id="42SWFNRsXHqWLV" tvg-chno="105" group-title="famelack (es) [es] [False]" tvg-logo="", Ribera TV
+#EXTINF:0001 tvg-id="42SWFNRsXHqWLV" tvg-chno="107" group-title="famelack (es) [es] [False]" tvg-logo="", Ribera TV
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:0001 tvg-id="yMTjCVwIgtqXb8" tvg-chno="106" group-title="famelack (es) [es] [False]" tvg-logo="", ROTV Valencia
+#EXTINF:0001 tvg-id="yMTjCVwIgtqXb8" tvg-chno="108" group-title="famelack (es) [es] [False]" tvg-logo="", ROTV Valencia
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
-#EXTINF:0001 tvg-id="xyviT4pxyVKqDh" tvg-chno="107" group-title="famelack (es) [es] [True]" tvg-logo="", RT en Espanol
+#EXTINF:0001 tvg-id="xyviT4pxyVKqDh" tvg-chno="109" group-title="famelack (es) [es] [True]" tvg-logo="", RT en Espanol
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:0001 tvg-id="69wABBZ5acLQs0" tvg-chno="108" group-title="famelack (es) [es] [False]" tvg-logo="", RTV Vida
+#EXTINF:0001 tvg-id="69wABBZ5acLQs0" tvg-chno="110" group-title="famelack (es) [es] [False]" tvg-logo="", RTV Vida
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:0001 tvg-id="a0iZb4tYbH9r9K" tvg-chno="109" group-title="famelack (es) [es] [False]" tvg-logo="", Sol Musica
+#EXTINF:0001 tvg-id="a0iZb4tYbH9r9K" tvg-chno="111" group-title="famelack (es) [es] [False]" tvg-logo="", Sol Musica
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:0001 tvg-id="8gMbLdx2TDpfvb" tvg-chno="110" group-title="famelack (es) [es] [False]" tvg-logo="", Solidaria TV
+#EXTINF:0001 tvg-id="8gMbLdx2TDpfvb" tvg-chno="112" group-title="famelack (es) [es] [False]" tvg-logo="", Solidaria TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:0001 tvg-id="TAur6WI03rCzWr" tvg-chno="111" group-title="famelack (es) [es] [False]" tvg-logo="", SpektraTV
+#EXTINF:0001 tvg-id="TAur6WI03rCzWr" tvg-chno="113" group-title="famelack (es) [es] [False]" tvg-logo="", SpektraTV
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
-#EXTINF:0001 tvg-id="SKSq9EL0wsiHSO" tvg-chno="112" group-title="famelack (es) [es] [False]" tvg-logo="", STZ Telebista
+#EXTINF:0001 tvg-id="SKSq9EL0wsiHSO" tvg-chno="114" group-title="famelack (es) [es] [False]" tvg-logo="", STZ Telebista
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
-#EXTINF:0001 tvg-id="pIMH6WPwb6VNHf" tvg-chno="113" group-title="famelack (es) [es] [True]" tvg-logo="", SX3
+#EXTINF:0001 tvg-id="pIMH6WPwb6VNHf" tvg-chno="115" group-title="famelack (es) [es] [True]" tvg-logo="", SX3
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
-#EXTINF:0001 tvg-id="Gwo0Rl1MzhMfE6" tvg-chno="114" group-title="famelack (es) [es] [False]" tvg-logo="", Taroteame
+#EXTINF:0001 tvg-id="Gwo0Rl1MzhMfE6" tvg-chno="116" group-title="famelack (es) [es] [False]" tvg-logo="", Taroteame
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
-#EXTINF:0001 tvg-id="whwil7KthXJUyX" tvg-chno="115" group-title="famelack (es) [es] [False]" tvg-logo="", TBN Espana
+#EXTINF:0001 tvg-id="whwil7KthXJUyX" tvg-chno="117" group-title="famelack (es) [es] [False]" tvg-logo="", TBN Espana
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-#EXTINF:0001 tvg-id="npuSZcJKB3d3IY" tvg-chno="116" group-title="famelack (es) [es] [False]" tvg-logo="", Tele 7
+#EXTINF:0001 tvg-id="npuSZcJKB3d3IY" tvg-chno="118" group-title="famelack (es) [es] [False]" tvg-logo="", Tele 7
 https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
-#EXTINF:0001 tvg-id="9WgfAeppTstCFn" tvg-chno="117" group-title="famelack (es) [es] [False]" tvg-logo="", Tele Safor
+#EXTINF:0001 tvg-id="9WgfAeppTstCFn" tvg-chno="119" group-title="famelack (es) [es] [False]" tvg-logo="", Tele Safor
 https://video.telesafor.com/hls/video.m3u8
-#EXTINF:0001 tvg-id="QXO7Ca6Qev84ww" tvg-chno="118" group-title="famelack (es) [es] [False]" tvg-logo="", Teleganes
+#EXTINF:0001 tvg-id="QXO7Ca6Qev84ww" tvg-chno="120" group-title="famelack (es) [es] [False]" tvg-logo="", Teleganes
 https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
-#EXTINF:0001 tvg-id="TTsAtcrhqlVNNS" tvg-chno="119" group-title="famelack (es) [es] [False]" tvg-logo="", Television Canaria
+#EXTINF:0001 tvg-id="TTsAtcrhqlVNNS" tvg-chno="121" group-title="famelack (es) [es] [False]" tvg-logo="", Television Canaria
 https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
-#EXTINF:0001 tvg-id="bscWJz6fIdnFNN" tvg-chno="120" group-title="famelack (es) [es] [False]" tvg-logo="", Television Consciente
+#EXTINF:0001 tvg-id="bscWJz6fIdnFNN" tvg-chno="122" group-title="famelack (es) [es] [False]" tvg-logo="", Television Consciente
 https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
-#EXTINF:0001 tvg-id="KtWdn3QueOpj9h" tvg-chno="121" group-title="famelack (es) [es] [False]" tvg-logo="", Tito TV
+#EXTINF:0001 tvg-id="KtWdn3QueOpj9h" tvg-chno="123" group-title="famelack (es) [es] [False]" tvg-logo="", Tito TV
 https://cloud.tvomix.com/TITOTV/index.m3u8
-#EXTINF:0001 tvg-id="UIWLgTqTBtbo6l" tvg-chno="122" group-title="famelack (es) [es] [True]" tvg-logo="", Todo Novelas
+#EXTINF:0001 tvg-id="UIWLgTqTBtbo6l" tvg-chno="124" group-title="famelack (es) [es] [True]" tvg-logo="", Todo Novelas
 https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
-#EXTINF:0001 tvg-id="QsRWuP3lWImATu" tvg-chno="123" group-title="famelack (es) [es] [False]" tvg-logo="", TOP Barça Spain
+#EXTINF:0001 tvg-id="QsRWuP3lWImATu" tvg-chno="125" group-title="famelack (es) [es] [False]" tvg-logo="", TOP Barça Spain
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="tAsFFtQNNY2ssU" tvg-chno="124" group-title="famelack (es) [es] [False]" tvg-logo="", Trece
+#EXTINF:0001 tvg-id="tAsFFtQNNY2ssU" tvg-chno="126" group-title="famelack (es) [es] [False]" tvg-logo="", Trece
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="eHijSwcOOuzyYg" tvg-chno="125" group-title="famelack (es) [es] [False]" tvg-logo="", TV BRICS Spanish
+#EXTINF:0001 tvg-id="eHijSwcOOuzyYg" tvg-chno="127" group-title="famelack (es) [es] [False]" tvg-logo="", TV BRICS Spanish
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
-#EXTINF:0001 tvg-id="GHuoWKJ2SeYBCe" tvg-chno="126" group-title="famelack (es) [es] [False]" tvg-logo="", TV Sabadell-Valles
+#EXTINF:0001 tvg-id="GHuoWKJ2SeYBCe" tvg-chno="128" group-title="famelack (es) [es] [False]" tvg-logo="", TV Sabadell-Valles
 https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
-#EXTINF:0001 tvg-id="kPwmKAQVMJQRJJ" tvg-chno="127" group-title="famelack (es) [es] [True]" tvg-logo="", TV3
+#EXTINF:0001 tvg-id="kPwmKAQVMJQRJJ" tvg-chno="129" group-title="famelack (es) [es] [True]" tvg-logo="", TV3
 https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8
-#EXTINF:0001 tvg-id="6FDSNx2ecdee6w" tvg-chno="128" group-title="famelack (es) [es] [True]" tvg-logo="", TV3CAT
+#EXTINF:0001 tvg-id="6FDSNx2ecdee6w" tvg-chno="130" group-title="famelack (es) [es] [True]" tvg-logo="", TV3CAT
 https://directes-tv-es.3catdirectes.cat/live-origin/tvc-hls/master.m3u8
-#EXTINF:0001 tvg-id="f0lmyZrtaBzd75" tvg-chno="129" group-title="famelack (es) [es] [True]" tvg-logo="", TVE Internacional Asia-Oceania
+#EXTINF:0001 tvg-id="f0lmyZrtaBzd75" tvg-chno="131" group-title="famelack (es) [es] [True]" tvg-logo="", TVE Internacional Asia-Oceania
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
-#EXTINF:0001 tvg-id="GAhdvDWq8TxmT0" tvg-chno="130" group-title="famelack (es) [es] [True]" tvg-logo="", TVE Internacional Europe
+#EXTINF:0001 tvg-id="GAhdvDWq8TxmT0" tvg-chno="132" group-title="famelack (es) [es] [True]" tvg-logo="", TVE Internacional Europe
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
-#EXTINF:0001 tvg-id="41ap4CgxZB4KsE" tvg-chno="131" group-title="famelack (es) [es] [False]" tvg-logo="", TVE Star
+#EXTINF:0001 tvg-id="41ap4CgxZB4KsE" tvg-chno="133" group-title="famelack (es) [es] [False]" tvg-logo="", TVE Star
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
-#EXTINF:0001 tvg-id="ZLXArsAwZ4HS4v" tvg-chno="132" group-title="famelack (es) [es] [True]" tvg-logo="", TVG2
+#EXTINF:0001 tvg-id="ZLXArsAwZ4HS4v" tvg-chno="134" group-title="famelack (es) [es] [True]" tvg-logo="", TVG2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
-#EXTINF:0001 tvg-id="ofMevJFkJJi256" tvg-chno="133" group-title="famelack (es) [es] [False]" tvg-logo="", TVO Jesus
+#EXTINF:0001 tvg-id="ofMevJFkJJi256" tvg-chno="135" group-title="famelack (es) [es] [False]" tvg-logo="", TVO Jesus
 https://cloud.tvomix.com/TVOJESUS/index.m3u8
-#EXTINF:0001 tvg-id="gyVcJ1bLnu4kuk" tvg-chno="134" group-title="famelack (es) [es] [False]" tvg-logo="", TVOMIX
+#EXTINF:0001 tvg-id="gyVcJ1bLnu4kuk" tvg-chno="136" group-title="famelack (es) [es] [False]" tvg-logo="", TVOMIX
 https://cloud.tvomix.com/TVOMIX/index.m3u8
-#EXTINF:0001 tvg-id="P3ESPrzfdoSoj9" tvg-chno="135" group-title="famelack (es) [es] [False]" tvg-logo="", TVReus
+#EXTINF:0001 tvg-id="P3ESPrzfdoSoj9" tvg-chno="137" group-title="famelack (es) [es] [False]" tvg-logo="", TVReus
 https://eu1.servers10.com:8081/8166/index.m3u8
-#EXTINF:0001 tvg-id="2uGXU96QMW7Acl" tvg-chno="136" group-title="famelack (es) [es] [False]" tvg-logo="", Univers TV
+#EXTINF:0001 tvg-id="2uGXU96QMW7Acl" tvg-chno="138" group-title="famelack (es) [es] [False]" tvg-logo="", Univers TV
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-#EXTINF:0001 tvg-id="6lhNwfN4k1Lr3T" tvg-chno="137" group-title="famelack (es) [es] [False]" tvg-logo="", Urola Telebista
+#EXTINF:0001 tvg-id="6lhNwfN4k1Lr3T" tvg-chno="139" group-title="famelack (es) [es] [False]" tvg-logo="", Urola Telebista
 https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
-#EXTINF:0001 tvg-id="IKMYFInzhM8nN6" tvg-chno="138" group-title="famelack (es) [es] [False]" tvg-logo="", Ventdelnord TV
+#EXTINF:0001 tvg-id="IKMYFInzhM8nN6" tvg-chno="140" group-title="famelack (es) [es] [False]" tvg-logo="", Ventdelnord TV
 https://ventdelnord.tv:8080/hls/directe.m3u8
-#EXTINF:0001 tvg-id="Hw4gcMWFqlE6Dv" tvg-chno="139" group-title="famelack (es) [es] [False]" tvg-logo="", Vevo Pop Spain
+#EXTINF:0001 tvg-id="Hw4gcMWFqlE6Dv" tvg-chno="141" group-title="famelack (es) [es] [False]" tvg-logo="", Vevo Pop Spain
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="RcONvYz7opBaln" tvg-chno="140" group-title="famelack (es) [es] [False]" tvg-logo="", Vision 6 TV
+#EXTINF:0001 tvg-id="RcONvYz7opBaln" tvg-chno="142" group-title="famelack (es) [es] [False]" tvg-logo="", Vision 6 TV
 https://streaming.proceso.info:8888/vision6-web/stream.m3u8
-#EXTINF:0001 tvg-id="IQrnnNNldjOCl4" tvg-chno="141" group-title="famelack (es) [es] [False]" tvg-logo="", XPTV US
+#EXTINF:0001 tvg-id="IQrnnNNldjOCl4" tvg-chno="143" group-title="famelack (es) [es] [False]" tvg-logo="", XPTV US
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
-#EXTINF:0001 tvg-id="OyFemiSp7sx4JI" tvg-chno="142" group-title="famelack (es) [es] [False]" tvg-logo="", XPTV1
+#EXTINF:0001 tvg-id="OyFemiSp7sx4JI" tvg-chno="144" group-title="famelack (es) [es] [False]" tvg-logo="", XPTV1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-#EXTINF:0001 tvg-id="XhN7WumhsQidL3" tvg-chno="143" group-title="famelack (es) [es] [False]" tvg-logo="", XPTV2
+#EXTINF:0001 tvg-id="XhN7WumhsQidL3" tvg-chno="145" group-title="famelack (es) [es] [False]" tvg-logo="", XPTV2
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
