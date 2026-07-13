@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="tRJLm7iZgOpKay" tvg-chno="1" group-title="famelack (iq) [iq] [False]" tvg-logo="", ABNsat
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
-#EXTINF:0001 tvg-id="FTvSSHqDu7zXUY" tvg-chno="2" group-title="famelack (iq) [iq] [False]" tvg-logo="", Afaq TV
-https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8
-#EXTINF:0001 tvg-id="ddrr8smWgDPaNo" tvg-chno="3" group-title="famelack (iq) [iq] [False]" tvg-logo="", Afarin Baxcha
+#EXTINF:0001 tvg-id="ddrr8smWgDPaNo" tvg-chno="2" group-title="famelack (iq) [iq] [False]" tvg-logo="", Afarin Baxcha
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="AeG4E88wj1aN3z" tvg-chno="4" group-title="famelack (iq) [iq] [False]" tvg-logo="", Afarin TV
+#EXTINF:0001 tvg-id="AeG4E88wj1aN3z" tvg-chno="3" group-title="famelack (iq) [iq] [False]" tvg-logo="", Afarin TV
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="ccusPPeyj6EtkB" tvg-chno="5" group-title="famelack (iq) [iq] [False]" tvg-logo="", Al Iraqia
+#EXTINF:0001 tvg-id="ccusPPeyj6EtkB" tvg-chno="4" group-title="famelack (iq) [iq] [False]" tvg-logo="", Al Iraqia
 https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
-#EXTINF:0001 tvg-id="3A2dDEUuoabDyM" tvg-chno="6" group-title="famelack (iq) [iq] [False]" tvg-logo="", Al Iraqia Kurdish
+#EXTINF:0001 tvg-id="3A2dDEUuoabDyM" tvg-chno="5" group-title="famelack (iq) [iq] [False]" tvg-logo="", Al Iraqia Kurdish
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+#EXTINF:0001 tvg-id="IbE1EyU5igXIWS" tvg-chno="6" group-title="famelack (iq) [iq] [False]" tvg-logo="", Al Iraqia News
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 #EXTINF:0001 tvg-id="roeCDcGE1uwKQ6" tvg-chno="7" group-title="famelack (iq) [iq] [False]" tvg-logo="", Al Iraqia Sport
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:0001 tvg-id="UEXwoyYx1GFZis" tvg-chno="8" group-title="famelack (iq) [iq] [False]" tvg-logo="", Al Janoub TV

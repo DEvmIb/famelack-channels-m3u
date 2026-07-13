@@ -7,5 +7,7 @@ https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
 #EXTINF:0001 tvg-id="7cVPH5hlADQUd7" tvg-chno="4" group-title="famelack (aw) [aw] [False]" tvg-logo="", VIP TV
 https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8
-#EXTINF:0001 tvg-id="rRrU0vsSO24VhA" tvg-chno="5" group-title="famelack (aw) [aw] [False]" tvg-logo="", X 102.7 FM
+#EXTINF:0001 tvg-id="3nsgW8D5vXmLf3" tvg-chno="5" group-title="famelack (aw) [aw] [False]" tvg-logo="", Wavez FM
+https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
+#EXTINF:0001 tvg-id="rRrU0vsSO24VhA" tvg-chno="6" group-title="famelack (aw) [aw] [False]" tvg-logo="", X 102.7 FM
 https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8

@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="goNrMuzefDwskd" tvg-chno="1" group-title="famelack (mv) [mv] [False]" tvg-logo="", Maldives TV
-https://lana.psm.mv/live/mtv.m3u8
-#EXTINF:0001 tvg-id="A9wsFdDEQAIayf" tvg-chno="2" group-title="famelack (mv) [mv] [False]" tvg-logo="", MMTV
+#EXTINF:0001 tvg-id="A9wsFdDEQAIayf" tvg-chno="1" group-title="famelack (mv) [mv] [False]" tvg-logo="", MMTV
 https://sendlive.online/hls/mmtv.m3u8
