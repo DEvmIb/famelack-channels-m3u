@@ -21,7 +21,9 @@ https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 #EXTINF:0001 tvg-id="mfsWJwtwhG3h3c" tvg-chno="11" group-title="famelack (pa) [pa] [False]" tvg-logo="", Radio Hogar
 https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
-#EXTINF:0001 tvg-id="SUR27YVxiEVQoo" tvg-chno="12" group-title="famelack (pa) [pa] [False]" tvg-logo="", Tropi Q 99.7 FM
+#EXTINF:0001 tvg-id="wPlSUCmwkpBR6B" tvg-chno="12" group-title="famelack (pa) [pa] [False]" tvg-logo="", Super Q Panama
+https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
+#EXTINF:0001 tvg-id="SUR27YVxiEVQoo" tvg-chno="13" group-title="famelack (pa) [pa] [False]" tvg-logo="", Tropi Q 99.7 FM
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
-#EXTINF:0001 tvg-id="dmg8nlkYDs7Iwl" tvg-chno="13" group-title="famelack (pa) [pa] [False]" tvg-logo="", Vision Latina
+#EXTINF:0001 tvg-id="dmg8nlkYDs7Iwl" tvg-chno="14" group-title="famelack (pa) [pa] [False]" tvg-logo="", Vision Latina
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8

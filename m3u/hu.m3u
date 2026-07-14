@@ -17,26 +17,26 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
 #EXTINF:0001 tvg-id="gm7CBdYnRcgxQo" tvg-chno="9" group-title="famelack (hu) [hu] [False]" tvg-logo="", Gyongyosi TV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="v5qfbot9xMhMmm" tvg-chno="10" group-title="famelack (hu) [hu] [False]" tvg-logo="", Hegyvidek TV
-https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8
-#EXTINF:0001 tvg-id="iRMHvMNoQ8D1Pg" tvg-chno="11" group-title="famelack (hu) [hu] [False]" tvg-logo="", Hevizi TV
+#EXTINF:0001 tvg-id="iRMHvMNoQ8D1Pg" tvg-chno="10" group-title="famelack (hu) [hu] [False]" tvg-logo="", Hevizi TV
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="XhwcqTVLHCEw2f" tvg-chno="12" group-title="famelack (hu) [hu] [False]" tvg-logo="", Hir TV
+#EXTINF:0001 tvg-id="XhwcqTVLHCEw2f" tvg-chno="11" group-title="famelack (hu) [hu] [False]" tvg-logo="", Hir TV
 https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
-#EXTINF:0001 tvg-id="NQB6tBEbXbMz8O" tvg-chno="13" group-title="famelack (hu) [hu] [False]" tvg-logo="", Kanizsa TV
+#EXTINF:0001 tvg-id="NQB6tBEbXbMz8O" tvg-chno="12" group-title="famelack (hu) [hu] [False]" tvg-logo="", Kanizsa TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="eeDvgxwcpXFEcL" tvg-chno="14" group-title="famelack (hu) [hu] [False]" tvg-logo="", Kapos TV
+#EXTINF:0001 tvg-id="eeDvgxwcpXFEcL" tvg-chno="13" group-title="famelack (hu) [hu] [False]" tvg-logo="", Kapos TV
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="18AN91eApyBqTs" tvg-chno="15" group-title="famelack (hu) [hu] [False]" tvg-logo="", Karcag TV
+#EXTINF:0001 tvg-id="18AN91eApyBqTs" tvg-chno="14" group-title="famelack (hu) [hu] [False]" tvg-logo="", Karcag TV
 https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="U5Rk6wZ9i45ZXv" tvg-chno="16" group-title="famelack (hu) [hu] [False]" tvg-logo="", Kecskemeti TV
+#EXTINF:0001 tvg-id="U5Rk6wZ9i45ZXv" tvg-chno="15" group-title="famelack (hu) [hu] [False]" tvg-logo="", Kecskemeti TV
 https://eurobioinvest.hu:444/live/ktv.m3u8
-#EXTINF:0001 tvg-id="1Dqq1nFJv7bDfM" tvg-chno="17" group-title="famelack (hu) [hu] [False]" tvg-logo="", Komaromi Televizio
+#EXTINF:0001 tvg-id="1Dqq1nFJv7bDfM" tvg-chno="16" group-title="famelack (hu) [hu] [False]" tvg-logo="", Komaromi Televizio
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="ufaYLBxnznSR4O" tvg-chno="18" group-title="famelack (hu) [hu] [False]" tvg-logo="", Mora-Net TV
+#EXTINF:0001 tvg-id="ufaYLBxnznSR4O" tvg-chno="17" group-title="famelack (hu) [hu] [False]" tvg-logo="", Mora-Net TV
 https://stream.moranettv.hu/live/index.m3u8
-#EXTINF:0001 tvg-id="keerWZjLOhWdmx" tvg-chno="19" group-title="famelack (hu) [hu] [False]" tvg-logo="", Oroszlanyi Varosi Televizio
+#EXTINF:0001 tvg-id="keerWZjLOhWdmx" tvg-chno="18" group-title="famelack (hu) [hu] [False]" tvg-logo="", Oroszlanyi Varosi Televizio
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="C4WEiFY5k9mJhz" tvg-chno="19" group-title="famelack (hu) [hu] [False]" tvg-logo="", Orszaggyules: OGY plenaris
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="vyv7aN2DLRtAEV" tvg-chno="20" group-title="famelack (hu) [hu] [False]" tvg-logo="", Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:0001 tvg-id="yLfdBafHhlhrgj" tvg-chno="21" group-title="famelack (hu) [hu] [False]" tvg-logo="", SIXO TV
