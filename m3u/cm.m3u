@@ -5,9 +5,17 @@ https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTINF:0001 tvg-id="vSeAetx7SHaifK" tvg-chno="3" group-title="famelack (cm) [cm] [False]" tvg-logo="", CAM 10 TV
 https://stream.it-innov.com/cam10tv/index.m3u8
-#EXTINF:0001 tvg-id="3FlRRGzn9FXnl8" tvg-chno="4" group-title="famelack (cm) [cm] [False]" tvg-logo="", CRTV News
+#EXTINF:0001 tvg-id="GF2Bfo69Qjjy4t" tvg-chno="4" group-title="famelack (cm) [cm] [False]" tvg-logo="", CRTV
+https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
+#EXTINF:0001 tvg-id="3FlRRGzn9FXnl8" tvg-chno="5" group-title="famelack (cm) [cm] [False]" tvg-logo="", CRTV News
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
-#EXTINF:0001 tvg-id="i8vFqkaXpB4jHk" tvg-chno="5" group-title="famelack (cm) [cm] [False]" tvg-logo="", For You TV
+#EXTINF:0001 tvg-id="i8vFqkaXpB4jHk" tvg-chno="6" group-title="famelack (cm) [cm] [False]" tvg-logo="", For You TV
 https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
-#EXTINF:0001 tvg-id="kAGSorpcyVgeyz" tvg-chno="6" group-title="famelack (cm) [cm] [False]" tvg-logo="", Laura Dave Media TV
+#EXTINF:0001 tvg-id="MENDV9zQPKUclz" tvg-chno="7" group-title="famelack (cm) [cm] [False]" tvg-logo="", Kemet TV
+https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8
+#EXTINF:0001 tvg-id="kAGSorpcyVgeyz" tvg-chno="8" group-title="famelack (cm) [cm] [False]" tvg-logo="", Laura Dave Media TV
 https://streaming.lauradavemedia.com/ldm/index.m3u8
+#EXTINF:0001 tvg-id="pD6fuWLKfYnytX" tvg-chno="9" group-title="famelack (cm) [cm] [False]" tvg-logo="", Sun+ TV
+https://livemaraboo.com/hls/stream.m3u8
+#EXTINF:0001 tvg-id="I6Aibqu4gfNeTW" tvg-chno="10" group-title="famelack (cm) [cm] [False]" tvg-logo="", TR24 Television
+https://stream.it-innov.com/tr24/index.m3u8

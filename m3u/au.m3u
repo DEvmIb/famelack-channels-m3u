@@ -11,51 +11,53 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
 #EXTINF:0001 tvg-id="GQz6svOBo4mRax" tvg-chno="6" group-title="famelack (au) [au] [False]" tvg-logo="", C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:0001 tvg-id="FGk4W1SOac0zWS" tvg-chno="7" group-title="famelack (au) [au] [False]" tvg-logo="", Come Dine With Me
+#EXTINF:0001 tvg-id="1U3UtAxYHSHl5p" tvg-chno="7" group-title="famelack (au) [au] [False]" tvg-logo="", Channel 44
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:0001 tvg-id="FGk4W1SOac0zWS" tvg-chno="8" group-title="famelack (au) [au] [False]" tvg-logo="", Come Dine With Me
 https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8
-#EXTINF:0001 tvg-id="SDpOmaM8ReQVej" tvg-chno="8" group-title="famelack (au) [au] [False]" tvg-logo="", Escape to the Country
+#EXTINF:0001 tvg-id="SDpOmaM8ReQVej" tvg-chno="9" group-title="famelack (au) [au] [False]" tvg-logo="", Escape to the Country
 https://amg00145-amg00145c11-samsung-au-6579.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="1urxVFjg7HoQcm" tvg-chno="9" group-title="famelack (au) [au] [False]" tvg-logo="", Expo Channel
+#EXTINF:0001 tvg-id="1urxVFjg7HoQcm" tvg-chno="10" group-title="famelack (au) [au] [False]" tvg-logo="", Expo Channel
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-#EXTINF:0001 tvg-id="TKlUtkeJbMnBT7" tvg-chno="10" group-title="famelack (au) [au] [False]" tvg-logo="", Horse & Country TV
+#EXTINF:0001 tvg-id="TKlUtkeJbMnBT7" tvg-chno="11" group-title="famelack (au) [au] [False]" tvg-logo="", Horse & Country TV
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
-#EXTINF:0001 tvg-id="gWnKCn3WHDsejW" tvg-chno="11" group-title="famelack (au) [au] [False]" tvg-logo="", JonmoBhumi TV
+#EXTINF:0001 tvg-id="gWnKCn3WHDsejW" tvg-chno="12" group-title="famelack (au) [au] [False]" tvg-logo="", JonmoBhumi TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="UQ8fe85DKBxrDA" tvg-chno="12" group-title="famelack (au) [au] [False]" tvg-logo="", Mediaset Italia Australia
+#EXTINF:0001 tvg-id="UQ8fe85DKBxrDA" tvg-chno="13" group-title="famelack (au) [au] [False]" tvg-logo="", Mediaset Italia Australia
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
-#EXTINF:0001 tvg-id="Pni7NN9iGNo5rZ" tvg-chno="13" group-title="famelack (au) [au] [False]" tvg-logo="", Mission Asia
+#EXTINF:0001 tvg-id="Pni7NN9iGNo5rZ" tvg-chno="14" group-title="famelack (au) [au] [False]" tvg-logo="", Mission Asia
 https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="WkdO8GadOSLajT" tvg-chno="14" group-title="famelack (au) [au] [False]" tvg-logo="", MovieSphere AU
+#EXTINF:0001 tvg-id="WkdO8GadOSLajT" tvg-chno="15" group-title="famelack (au) [au] [False]" tvg-logo="", MovieSphere AU
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="uN8s1HXt717tW1" tvg-chno="15" group-title="famelack (au) [au] [False]" tvg-logo="", MTRSPT 1
+#EXTINF:0001 tvg-id="uN8s1HXt717tW1" tvg-chno="16" group-title="famelack (au) [au] [False]" tvg-logo="", MTRSPT 1
 https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="tmL08cxsScFKuK" tvg-chno="16" group-title="famelack (au) [au] [False]" tvg-logo="", NatureTime AU
+#EXTINF:0001 tvg-id="tmL08cxsScFKuK" tvg-chno="17" group-title="famelack (au) [au] [False]" tvg-logo="", NatureTime AU
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="x7UrDCBQovwcLc" tvg-chno="17" group-title="famelack (au) [au] [False]" tvg-logo="", Project Runway
+#EXTINF:0001 tvg-id="x7UrDCBQovwcLc" tvg-chno="18" group-title="famelack (au) [au] [False]" tvg-logo="", Project Runway
 https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="RaAuUrd4DsoNBL" tvg-chno="18" group-title="famelack (au) [au] [False]" tvg-logo="", Pulse
+#EXTINF:0001 tvg-id="RaAuUrd4DsoNBL" tvg-chno="19" group-title="famelack (au) [au] [False]" tvg-logo="", Pulse
 https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="fvNkowRq1Ju3bY" tvg-chno="19" group-title="famelack (au) [au] [False]" tvg-logo="", Rai Italia Australia
+#EXTINF:0001 tvg-id="fvNkowRq1Ju3bY" tvg-chno="20" group-title="famelack (au) [au] [False]" tvg-logo="", Rai Italia Australia
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
-#EXTINF:0001 tvg-id="fupP8X3YpWBo3I" tvg-chno="20" group-title="famelack (au) [au] [False]" tvg-logo="", Rai World Premium
+#EXTINF:0001 tvg-id="fupP8X3YpWBo3I" tvg-chno="21" group-title="famelack (au) [au] [False]" tvg-logo="", Rai World Premium
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
-#EXTINF:0001 tvg-id="t3FRxzQWFcum3k" tvg-chno="21" group-title="famelack (au) [au] [False]" tvg-logo="", RCM
+#EXTINF:0001 tvg-id="t3FRxzQWFcum3k" tvg-chno="22" group-title="famelack (au) [au] [False]" tvg-logo="", RCM
 https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8
-#EXTINF:0001 tvg-id="9sW5mZnXNxTjSv" tvg-chno="22" group-title="famelack (au) [au] [False]" tvg-logo="", Shalom World Prayer
+#EXTINF:0001 tvg-id="9sW5mZnXNxTjSv" tvg-chno="23" group-title="famelack (au) [au] [False]" tvg-logo="", Shalom World Prayer
 https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
-#EXTINF:0001 tvg-id="86AfUT4ix8tXB4" tvg-chno="23" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 1
+#EXTINF:0001 tvg-id="86AfUT4ix8tXB4" tvg-chno="24" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:0001 tvg-id="XhdBZ8hLIsYvg1" tvg-chno="24" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 2
+#EXTINF:0001 tvg-id="XhdBZ8hLIsYvg1" tvg-chno="25" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:0001 tvg-id="FKERcaDza45HDL" tvg-chno="25" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 3
+#EXTINF:0001 tvg-id="FKERcaDza45HDL" tvg-chno="26" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:0001 tvg-id="kWdBvQFz5aue5n" tvg-chno="26" group-title="famelack (au) [au] [True]" tvg-logo="", Sky Racing 1
+#EXTINF:0001 tvg-id="kWdBvQFz5aue5n" tvg-chno="27" group-title="famelack (au) [au] [True]" tvg-logo="", Sky Racing 1
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
-#EXTINF:0001 tvg-id="mDtjo6SWz3rKx0" tvg-chno="27" group-title="famelack (au) [au] [True]" tvg-logo="", Sky Racing 2
+#EXTINF:0001 tvg-id="mDtjo6SWz3rKx0" tvg-chno="28" group-title="famelack (au) [au] [True]" tvg-logo="", Sky Racing 2
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
-#EXTINF:0001 tvg-id="gP0EIOZBWJnKLv" tvg-chno="28" group-title="famelack (au) [au] [False]" tvg-logo="", Surf Cinema
+#EXTINF:0001 tvg-id="gP0EIOZBWJnKLv" tvg-chno="29" group-title="famelack (au) [au] [False]" tvg-logo="", Surf Cinema
 https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="EpPKil5HdOVKkk" tvg-chno="29" group-title="famelack (au) [au] [False]" tvg-logo="", The Wicked Tuna Channel
+#EXTINF:0001 tvg-id="EpPKil5HdOVKkk" tvg-chno="30" group-title="famelack (au) [au] [False]" tvg-logo="", The Wicked Tuna Channel
 https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="I3kjTb3ubS1fvS" tvg-chno="30" group-title="famelack (au) [au] [False]" tvg-logo="", TVSN
+#EXTINF:0001 tvg-id="I3kjTb3ubS1fvS" tvg-chno="31" group-title="famelack (au) [au] [False]" tvg-logo="", TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
