@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="UMtS6zsgi9sFxf" tvg-chno="1" group-title="famelack (pt) [pt] [False]" tvg-logo="", ADB TV
-https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+#EXTINF:0001 tvg-id="k9YVnaB9vAhdV8" tvg-chno="1" group-title="famelack (pt) [pt] [False]" tvg-logo="", Angel TV Portuguese
+https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
 #EXTINF:0001 tvg-id="aMfHfOa13YZ4ZC" tvg-chno="2" group-title="famelack (pt) [pt] [False]" tvg-logo="", ARTV
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:0001 tvg-id="GGI2245NqAePNm" tvg-chno="3" group-title="famelack (pt) [pt] [False]" tvg-logo="", Euronews Portuguese
