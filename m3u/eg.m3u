@@ -3,12 +3,12 @@
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="R3nEpkv51x8AF7" tvg-chno="2" group-title="famelack (eg) [eg] [False]" tvg-logo="", Al Ghad TV
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
-#EXTINF:0001 tvg-id="dGr0ssQIHQJ76n" tvg-chno="3" group-title="famelack (eg) [eg] [False]" tvg-logo="", Al Masriyah
-https://185.9.2.18/chid_247/index.m3u8
-#EXTINF:0001 tvg-id="PKOl6YLNA3xe6A" tvg-chno="4" group-title="famelack (eg) [eg] [False]" tvg-logo="", ATVSat
+#EXTINF:0001 tvg-id="PKOl6YLNA3xe6A" tvg-chno="3" group-title="famelack (eg) [eg] [False]" tvg-logo="", ATVSat
 https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="04YQOwGjlPDoED" tvg-chno="5" group-title="famelack (eg) [eg] [False]" tvg-logo="", CBC
+#EXTINF:0001 tvg-id="04YQOwGjlPDoED" tvg-chno="4" group-title="famelack (eg) [eg] [False]" tvg-logo="", CBC
 https://flu.systemnet.tv/CBC/index.m3u8
+#EXTINF:0001 tvg-id="cldgrOT0slw0oJ" tvg-chno="5" group-title="famelack (eg) [eg] [False]" tvg-logo="", Coptic TV
+https://ctv.icopts.app/CTV/index.fmp4.m3u8
 #EXTINF:0001 tvg-id="dSBCv9wMIeHZkP" tvg-chno="6" group-title="famelack (eg) [eg] [False]" tvg-logo="", El Radio 9090 FM
 https://9090video.mobtada.com/hls/stream.m3u8
 #EXTINF:0001 tvg-id="7QNwjfAH3tZtOn" tvg-chno="7" group-title="famelack (eg) [eg] [False]" tvg-logo="", Koogi TV

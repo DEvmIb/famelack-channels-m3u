@@ -2,7 +2,7 @@
 #EXTINF:0001 tvg-id="0y6A0PfJfOwnxT" tvg-chno="1" group-title="famelack (jp) [jp] [False]" tvg-logo="", CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 #EXTINF:0001 tvg-id="bt1m1v4h1CmExI" tvg-chno="2" group-title="famelack (jp) [jp] [True]" tvg-logo="", NHK World-Japan
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+https://cdn-7.pishow.tv/live/455/master.m3u8
 #EXTINF:0001 tvg-id="wXR8eBaeZKqj0W" tvg-chno="3" group-title="famelack (jp) [jp] [False]" tvg-logo="", QVC
 https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
 #EXTINF:0001 tvg-id="VFHPY4Y8ToG3zS" tvg-chno="4" group-title="famelack (jp) [jp] [False]" tvg-logo="", Shop Channel

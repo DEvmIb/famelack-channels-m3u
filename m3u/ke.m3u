@@ -1,19 +1,17 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="qrF5SmJtak0Ry4" tvg-chno="1" group-title="famelack (ke) [ke] [False]" tvg-logo="", Akili Kids!
 https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="4q1ZZQLc1olL3d" tvg-chno="2" group-title="famelack (ke) [ke] [False]" tvg-logo="", Capuchin TV
-https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
-#EXTINF:0001 tvg-id="MdBlLcplSVQXjK" tvg-chno="3" group-title="famelack (ke) [ke] [False]" tvg-logo="", Family TV
+#EXTINF:0001 tvg-id="MdBlLcplSVQXjK" tvg-chno="2" group-title="famelack (ke) [ke] [False]" tvg-logo="", Family TV
 https://207639.global.ssl.fastly.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.m3u8
-#EXTINF:0001 tvg-id="j3cU74KjFvVxGm" tvg-chno="4" group-title="famelack (ke) [ke] [False]" tvg-logo="", Great Commission TV
+#EXTINF:0001 tvg-id="j3cU74KjFvVxGm" tvg-chno="3" group-title="famelack (ke) [ke] [False]" tvg-logo="", Great Commission TV
 https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8
-#EXTINF:0001 tvg-id="bjEIxQbflZEnVl" tvg-chno="5" group-title="famelack (ke) [ke] [False]" tvg-logo="", Inooro TV
-https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8
-#EXTINF:0001 tvg-id="0obNTrGtjRCK4a" tvg-chno="6" group-title="famelack (ke) [ke] [False]" tvg-logo="", K24
+#EXTINF:0001 tvg-id="0obNTrGtjRCK4a" tvg-chno="4" group-title="famelack (ke) [ke] [False]" tvg-logo="", K24
 https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
-#EXTINF:0001 tvg-id="Y7vYe1yqK0sxRF" tvg-chno="7" group-title="famelack (ke) [ke] [False]" tvg-logo="", MERU TV
+#EXTINF:0001 tvg-id="Y7vYe1yqK0sxRF" tvg-chno="5" group-title="famelack (ke) [ke] [False]" tvg-logo="", MERU TV
 https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
-#EXTINF:0001 tvg-id="HmimxNpLzs8JkF" tvg-chno="8" group-title="famelack (ke) [ke] [False]" tvg-logo="", Morning Cloud TV
+#EXTINF:0001 tvg-id="nnVl6vXmVVFvf3" tvg-chno="6" group-title="famelack (ke) [ke] [False]" tvg-logo="", MOF TV
+https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
+#EXTINF:0001 tvg-id="HmimxNpLzs8JkF" tvg-chno="7" group-title="famelack (ke) [ke] [False]" tvg-logo="", Morning Cloud TV
 https://livecdn.live247stream.com/mc/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="xv7XuF3Jqnre1p" tvg-chno="9" group-title="famelack (ke) [ke] [False]" tvg-logo="", YOUNIB Media TV
+#EXTINF:0001 tvg-id="xv7XuF3Jqnre1p" tvg-chno="8" group-title="famelack (ke) [ke] [False]" tvg-logo="", YOUNIB Media TV
 https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
