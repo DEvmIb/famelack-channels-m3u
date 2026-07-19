@@ -3,23 +3,25 @@
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="NUfChQbZD3i9g3" tvg-chno="2" group-title="famelack (bd) [bd] [False]" tvg-logo="", ATN Bangla
 https://tvsen5.aynascope.net/atnbangla/index.m3u8
-#EXTINF:0001 tvg-id="7AOHjcyPOlQEZK" tvg-chno="3" group-title="famelack (bd) [bd] [False]" tvg-logo="", Boishakhi TV
+#EXTINF:0001 tvg-id="GPyu3zvadmUURC" tvg-chno="3" group-title="famelack (bd) [bd] [False]" tvg-logo="", ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:0001 tvg-id="7AOHjcyPOlQEZK" tvg-chno="4" group-title="famelack (bd) [bd] [False]" tvg-logo="", Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:0001 tvg-id="uXMcPHTew9graP" tvg-chno="4" group-title="famelack (bd) [bd] [False]" tvg-logo="", Channel S
+#EXTINF:0001 tvg-id="uXMcPHTew9graP" tvg-chno="5" group-title="famelack (bd) [bd] [False]" tvg-logo="", Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="S9KasrDktK2huz" tvg-chno="5" group-title="famelack (bd) [bd] [False]" tvg-logo="", Desh TV
+#EXTINF:0001 tvg-id="S9KasrDktK2huz" tvg-chno="6" group-title="famelack (bd) [bd] [False]" tvg-logo="", Desh TV
 https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
-#EXTINF:0001 tvg-id="KFm0NDZdja9VIZ" tvg-chno="6" group-title="famelack (bd) [bd] [False]" tvg-logo="", Gazi TV
+#EXTINF:0001 tvg-id="KFm0NDZdja9VIZ" tvg-chno="7" group-title="famelack (bd) [bd] [False]" tvg-logo="", Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="4YEv6QH62bmCSw" tvg-chno="7" group-title="famelack (bd) [bd] [False]" tvg-logo="", Madani Channel Bangla
+#EXTINF:0001 tvg-id="29x0D5l70jxbBR" tvg-chno="8" group-title="famelack (bd) [bd] [False]" tvg-logo="", Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:0001 tvg-id="4YEv6QH62bmCSw" tvg-chno="9" group-title="famelack (bd) [bd] [False]" tvg-logo="", Madani Channel Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:0001 tvg-id="ecpZNzhGiUTI3F" tvg-chno="8" group-title="famelack (bd) [bd] [False]" tvg-logo="", My TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="dm1aFguTzJoeDM" tvg-chno="9" group-title="famelack (bd) [bd] [False]" tvg-logo="", NAN TV
+#EXTINF:0001 tvg-id="dm1aFguTzJoeDM" tvg-chno="10" group-title="famelack (bd) [bd] [False]" tvg-logo="", NAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="tzTABG45l31V9t" tvg-chno="10" group-title="famelack (bd) [bd] [False]" tvg-logo="", Peace TV Bangla
+#EXTINF:0001 tvg-id="tzTABG45l31V9t" tvg-chno="11" group-title="famelack (bd) [bd] [False]" tvg-logo="", Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:0001 tvg-id="K8OFg70tOZ5TpR" tvg-chno="11" group-title="famelack (bd) [bd] [False]" tvg-logo="", RTV
+#EXTINF:0001 tvg-id="K8OFg70tOZ5TpR" tvg-chno="12" group-title="famelack (bd) [bd] [False]" tvg-logo="", RTV
 https://tvsen5.aynascope.net/RtvHD/index.m3u8
-#EXTINF:0001 tvg-id="jRNbdDq68JaIxU" tvg-chno="12" group-title="famelack (bd) [bd] [False]" tvg-logo="", Somoy News TV
+#EXTINF:0001 tvg-id="jRNbdDq68JaIxU" tvg-chno="13" group-title="famelack (bd) [bd] [False]" tvg-logo="", Somoy News TV
 https://bozztv.com/rongo/rongo-somoy/index.m3u8
