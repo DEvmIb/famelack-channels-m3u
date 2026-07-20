@@ -259,21 +259,23 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:0001 tvg-id="deH7vlwlXSBCxY" tvg-chno="130" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 41
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
-#EXTINF:0001 tvg-id="bgn8mfchHatjpX" tvg-chno="131" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 52
+#EXTINF:0001 tvg-id="UjJLXGxInD7yE1" tvg-chno="131" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 42
+https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
+#EXTINF:0001 tvg-id="bgn8mfchHatjpX" tvg-chno="132" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 52
 https://edge2.taksimbilisim.com/tv52/bant1/chunks.m3u8
-#EXTINF:0001 tvg-id="ZdxrMEOa28PZnq" tvg-chno="132" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 264
+#EXTINF:0001 tvg-id="ZdxrMEOa28PZnq" tvg-chno="133" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV 264
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="8UTFNpq46IxrH2" tvg-chno="133" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV Den
+#EXTINF:0001 tvg-id="8UTFNpq46IxrH2" tvg-chno="134" group-title="famelack (tr) [tr] [False]" tvg-logo="", TV Den
 https://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:0001 tvg-id="fiUFmaRESDKun4" tvg-chno="134" group-title="famelack (tr) [tr] [False]" tvg-logo="", TVNET
+#EXTINF:0001 tvg-id="fiUFmaRESDKun4" tvg-chno="135" group-title="famelack (tr) [tr] [False]" tvg-logo="", TVNET
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:0001 tvg-id="Dti0xsuIDuqqFU" tvg-chno="135" group-title="famelack (tr) [tr] [False]" tvg-logo="", TYT Turk
+#EXTINF:0001 tvg-id="Dti0xsuIDuqqFU" tvg-chno="136" group-title="famelack (tr) [tr] [False]" tvg-logo="", TYT Turk
 https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8
-#EXTINF:0001 tvg-id="TKQbSmFlgXq83c" tvg-chno="136" group-title="famelack (tr) [tr] [False]" tvg-logo="", Urfa Natik TV
+#EXTINF:0001 tvg-id="TKQbSmFlgXq83c" tvg-chno="137" group-title="famelack (tr) [tr] [False]" tvg-logo="", Urfa Natik TV
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:0001 tvg-id="97yrWN3tqRiWgB" tvg-chno="137" group-title="famelack (tr) [tr] [False]" tvg-logo="", Van 65 TV
+#EXTINF:0001 tvg-id="97yrWN3tqRiWgB" tvg-chno="138" group-title="famelack (tr) [tr] [False]" tvg-logo="", Van 65 TV
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
-#EXTINF:0001 tvg-id="o42XfPEZyBkZVI" tvg-chno="138" group-title="famelack (tr) [tr] [False]" tvg-logo="", Vav TV
+#EXTINF:0001 tvg-id="o42XfPEZyBkZVI" tvg-chno="139" group-title="famelack (tr) [tr] [False]" tvg-logo="", Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
-#EXTINF:0001 tvg-id="z7fzuBK8WkQvBK" tvg-chno="139" group-title="famelack (tr) [tr] [False]" tvg-logo="", Zarok TV
+#EXTINF:0001 tvg-id="z7fzuBK8WkQvBK" tvg-chno="140" group-title="famelack (tr) [tr] [False]" tvg-logo="", Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8

@@ -23,11 +23,9 @@ https://rta-tv.akamaized.net/live/SD/RTA-2/RTA/RTA-2.m3u8
 https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8
 #EXTINF:0001 tvg-id="KPWGZXCGQhzP2Z" tvg-chno="12" group-title="famelack (af) [af] [False]" tvg-logo="", RTA World
 https://rta-tv.akamaized.net/live/SD/RTA-5/RTA/RTA-5.m3u8
-#EXTINF:0001 tvg-id="sZwFjK8uOPwgBp" tvg-chno="13" group-title="famelack (af) [af] [False]" tvg-logo="", Shamshad TV
-https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
-#EXTINF:0001 tvg-id="aEHBVjoRvzZifo" tvg-chno="14" group-title="famelack (af) [af] [False]" tvg-logo="", Tamadon TV
+#EXTINF:0001 tvg-id="aEHBVjoRvzZifo" tvg-chno="13" group-title="famelack (af) [af] [False]" tvg-logo="", Tamadon TV
 https://hls.tamadon.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="qkByZOw6O9MPFi" tvg-chno="15" group-title="famelack (af) [af] [False]" tvg-logo="", Tolo TV
+#EXTINF:0001 tvg-id="qkByZOw6O9MPFi" tvg-chno="14" group-title="famelack (af) [af] [False]" tvg-logo="", Tolo TV
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/index.m3u8
-#EXTINF:0001 tvg-id="TwqyjvLhfF01ZW" tvg-chno="16" group-title="famelack (af) [af] [False]" tvg-logo="", TOLOnews
+#EXTINF:0001 tvg-id="TwqyjvLhfF01ZW" tvg-chno="15" group-title="famelack (af) [af] [False]" tvg-logo="", TOLOnews
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
