@@ -143,8 +143,8 @@ https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
 #EXTINF:0001 tvg-id="PGDjufEBywGkq1" tvg-chno="72" group-title="famelack (fr) [fr] [True]" tvg-logo="", Qwest TV Jazz & Beyond
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
-#EXTINF:0001 tvg-id="iLva87P8XGqzZK" tvg-chno="73" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Romance
-https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
+#EXTINF:0001 tvg-id="AIirayhr6r6kA6" tvg-chno="73" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Thriller
+https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
 #EXTINF:0001 tvg-id="K1cCEN7WNbjDun" tvg-chno="74" group-title="famelack (fr) [fr] [False]" tvg-logo="", Revry Europe (Frequency backend)
 https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8
 #EXTINF:0001 tvg-id="WRXxoyW4bEOLd9" tvg-chno="75" group-title="famelack (fr) [fr] [False]" tvg-logo="", RMC Story
@@ -232,4 +232,4 @@ https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01
 #EXTINF:0001 tvg-id="T8DRD6kDPp2FBt" tvg-chno="116" group-title="famelack (fr) [fr] [False]" tvg-logo="", Y'a Que La Vérité Qui Compte La Chaîne
 https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8
 #EXTINF:0001 tvg-id="glNPCf2RbwoWmt" tvg-chno="117" group-title="famelack (fr) [fr] [False]" tvg-logo="", zenith
-https://live.azenagroup.com/zenith/index.m3u8
+https://live.azenagroup.com/zenith/index.ll.m3u8

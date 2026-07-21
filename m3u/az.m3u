@@ -17,9 +17,7 @@ https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:0001 tvg-id="b1w0a8CZ0CNs0I" tvg-chno="9" group-title="famelack (az) [az] [False]" tvg-logo="", Medeniyyet TV
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:0001 tvg-id="jlkmejIqbIV0I0" tvg-chno="10" group-title="famelack (az) [az] [False]" tvg-logo="", Naxcivan TV
-https://str2.yodacdn.net/ntv/video.m3u8
-#EXTINF:0001 tvg-id="nJUg7d1NQf1aEX" tvg-chno="11" group-title="famelack (az) [az] [False]" tvg-logo="", Vilayet TV
+#EXTINF:0001 tvg-id="nJUg7d1NQf1aEX" tvg-chno="10" group-title="famelack (az) [az] [False]" tvg-logo="", Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:0001 tvg-id="BRcYI5UTMS9jQ8" tvg-chno="12" group-title="famelack (az) [az] [False]" tvg-logo="", Xezer TV
+#EXTINF:0001 tvg-id="BRcYI5UTMS9jQ8" tvg-chno="11" group-title="famelack (az) [az] [False]" tvg-logo="", Xezer TV
 https://www.xezerxeber.az/stream/index.m3u8

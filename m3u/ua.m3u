@@ -1,149 +1,153 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="t5EqKCIIOMVoUI" tvg-chno="1" group-title="famelack (ua) [ua] [False]" tvg-logo="", 1+1 Marafon
+#EXTINF:0001 tvg-id="POgdAT0qPokYdw" tvg-chno="1" group-title="famelack (ua) [ua] [False]" tvg-logo="", 1+1 International
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+#EXTINF:0001 tvg-id="t5EqKCIIOMVoUI" tvg-chno="2" group-title="famelack (ua) [ua] [False]" tvg-logo="", 1+1 Marafon
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
-#EXTINF:0001 tvg-id="0eTEwe95dLkZV0" tvg-chno="2" group-title="famelack (ua) [ua] [False]" tvg-logo="", 6 sotok
+#EXTINF:0001 tvg-id="0eTEwe95dLkZV0" tvg-chno="3" group-title="famelack (ua) [ua] [False]" tvg-logo="", 6 sotok
 https://stream.mcquack.net/405/index.m3u8
-#EXTINF:0001 tvg-id="0KjFJ4E8kxOOUr" tvg-chno="3" group-title="famelack (ua) [ua] [False]" tvg-logo="", 24 Kanal
+#EXTINF:0001 tvg-id="0KjFJ4E8kxOOUr" tvg-chno="4" group-title="famelack (ua) [ua] [False]" tvg-logo="", 24 Kanal
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="rYwjqhp39J7oO0" tvg-chno="4" group-title="famelack (ua) [ua] [False]" tvg-logo="", 36.6 TV
+#EXTINF:0001 tvg-id="rYwjqhp39J7oO0" tvg-chno="5" group-title="famelack (ua) [ua] [False]" tvg-logo="", 36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
-#EXTINF:0001 tvg-id="H0fTRstAnfWOk3" tvg-chno="5" group-title="famelack (ua) [ua] [False]" tvg-logo="", Avers
+#EXTINF:0001 tvg-id="H0fTRstAnfWOk3" tvg-chno="6" group-title="famelack (ua) [ua] [False]" tvg-logo="", Avers
 https://avers.pp.ua/hls/efir.m3u8
-#EXTINF:0001 tvg-id="zINaxtQgLWgloN" tvg-chno="6" group-title="famelack (ua) [ua] [False]" tvg-logo="", Bolt
+#EXTINF:0001 tvg-id="zINaxtQgLWgloN" tvg-chno="7" group-title="famelack (ua) [ua] [False]" tvg-logo="", Bolt
 https://stream.mcquack.net/73/index.m3u8
-#EXTINF:0001 tvg-id="LLmnUndAd7PBZ5" tvg-chno="7" group-title="famelack (ua) [ua] [False]" tvg-logo="", Channel 5
+#EXTINF:0001 tvg-id="LLmnUndAd7PBZ5" tvg-chno="8" group-title="famelack (ua) [ua] [False]" tvg-logo="", Channel 5
 https://stream.mcquack.net/291/index.m3u8
-#EXTINF:0001 tvg-id="c0P17Flme7SKg4" tvg-chno="8" group-title="famelack (ua) [ua] [False]" tvg-logo="", Channel 7 Ukraine
+#EXTINF:0001 tvg-id="c0P17Flme7SKg4" tvg-chno="9" group-title="famelack (ua) [ua] [False]" tvg-logo="", Channel 7 Ukraine
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="UqBEpHJjJjEjl2" tvg-chno="9" group-title="famelack (ua) [ua] [False]" tvg-logo="", Cherniveckiy promin
+#EXTINF:0001 tvg-id="UqBEpHJjJjEjl2" tvg-chno="10" group-title="famelack (ua) [ua] [False]" tvg-logo="", Cherniveckiy promin
 https://langate.tv/promin/live_720/index.m3u8
-#EXTINF:0001 tvg-id="248rjAksAOGSRr" tvg-chno="10" group-title="famelack (ua) [ua] [False]" tvg-logo="", Continent E
+#EXTINF:0001 tvg-id="248rjAksAOGSRr" tvg-chno="11" group-title="famelack (ua) [ua] [False]" tvg-logo="", Continent E
 https://stream.mcquack.net/449/index.m3u8
-#EXTINF:0001 tvg-id="YO7uueGEtYfmAk" tvg-chno="11" group-title="famelack (ua) [ua] [False]" tvg-logo="", Dacha
+#EXTINF:0001 tvg-id="YO7uueGEtYfmAk" tvg-chno="12" group-title="famelack (ua) [ua] [False]" tvg-logo="", Dacha
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
-#EXTINF:0001 tvg-id="wbuGgvdolOzdBN" tvg-chno="12" group-title="famelack (ua) [ua] [False]" tvg-logo="", DIM
+#EXTINF:0001 tvg-id="wbuGgvdolOzdBN" tvg-chno="13" group-title="famelack (ua) [ua] [False]" tvg-logo="", DIM
 https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
-#EXTINF:0001 tvg-id="luLS6QSROJjosk" tvg-chno="13" group-title="famelack (ua) [ua] [False]" tvg-logo="", Dynamo Kyiv TV
+#EXTINF:0001 tvg-id="luLS6QSROJjosk" tvg-chno="14" group-title="famelack (ua) [ua] [False]" tvg-logo="", Dynamo Kyiv TV
 https://stream.mcquack.net/396/index.m3u8
-#EXTINF:0001 tvg-id="fypVxKtrE0cTtL" tvg-chno="14" group-title="famelack (ua) [ua] [False]" tvg-logo="", Enter-Film
+#EXTINF:0001 tvg-id="fypVxKtrE0cTtL" tvg-chno="15" group-title="famelack (ua) [ua] [False]" tvg-logo="", Enter-Film
 https://stream.mcquack.net/322/index.m3u8
-#EXTINF:0001 tvg-id="9D74wXaGqUWkp2" tvg-chno="15" group-title="famelack (ua) [ua] [False]" tvg-logo="", Equalympic
+#EXTINF:0001 tvg-id="9D74wXaGqUWkp2" tvg-chno="16" group-title="famelack (ua) [ua] [False]" tvg-logo="", Equalympic
 https://stream.mcquack.net/485/index.m3u8
-#EXTINF:0001 tvg-id="1noDMwg9YAlG9Y" tvg-chno="16" group-title="famelack (ua) [ua] [False]" tvg-logo="", Espreso TV
+#EXTINF:0001 tvg-id="1noDMwg9YAlG9Y" tvg-chno="17" group-title="famelack (ua) [ua] [False]" tvg-logo="", Espreso TV
 https://dash2.antik.sk/live/test_espresso/playlist.m3u8
-#EXTINF:0001 tvg-id="mIGSyXqUZvMvq1" tvg-chno="17" group-title="famelack (ua) [ua] [False]" tvg-logo="", EWTN Ukraine
+#EXTINF:0001 tvg-id="mIGSyXqUZvMvq1" tvg-chno="18" group-title="famelack (ua) [ua] [False]" tvg-logo="", EWTN Ukraine
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
-#EXTINF:0001 tvg-id="w2VyWhdboy9Con" tvg-chno="18" group-title="famelack (ua) [ua] [False]" tvg-logo="", Fauna
+#EXTINF:0001 tvg-id="w2VyWhdboy9Con" tvg-chno="19" group-title="famelack (ua) [ua] [False]" tvg-logo="", Fauna
 https://stream.mcquack.net/401/index.m3u8
-#EXTINF:0001 tvg-id="CTBxkwzhvGuqRH" tvg-chno="19" group-title="famelack (ua) [ua] [True]" tvg-logo="", FILMBOX+ One Ukraine & Baltics
+#EXTINF:0001 tvg-id="CTBxkwzhvGuqRH" tvg-chno="20" group-title="famelack (ua) [ua] [True]" tvg-logo="", FILMBOX+ One Ukraine & Baltics
 https://s70378.cdn.ngenix.net/filmbox/index.m3u8
-#EXTINF:0001 tvg-id="xbUgKyNJkUd9WG" tvg-chno="20" group-title="famelack (ua) [ua] [False]" tvg-logo="", FilmUA Live
+#EXTINF:0001 tvg-id="xbUgKyNJkUd9WG" tvg-chno="21" group-title="famelack (ua) [ua] [False]" tvg-logo="", FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
-#EXTINF:0001 tvg-id="0r210a3FA40XwI" tvg-chno="21" group-title="famelack (ua) [ua] [False]" tvg-logo="", FilmUADrama
+#EXTINF:0001 tvg-id="0r210a3FA40XwI" tvg-chno="22" group-title="famelack (ua) [ua] [False]" tvg-logo="", FilmUADrama
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
-#EXTINF:0001 tvg-id="QgJCPkx1daMycI" tvg-chno="22" group-title="famelack (ua) [ua] [False]" tvg-logo="", FREEDOM
+#EXTINF:0001 tvg-id="QgJCPkx1daMycI" tvg-chno="23" group-title="famelack (ua) [ua] [False]" tvg-logo="", FREEDOM
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:0001 tvg-id="QoGBfp2S5Hqmo0" tvg-chno="23" group-title="famelack (ua) [ua] [False]" tvg-logo="", Happy Radio TV
+#EXTINF:0001 tvg-id="QoGBfp2S5Hqmo0" tvg-chno="24" group-title="famelack (ua) [ua] [False]" tvg-logo="", Happy Radio TV
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
-#EXTINF:0001 tvg-id="WgSc1v3kiJAo9t" tvg-chno="24" group-title="famelack (ua) [ua] [False]" tvg-logo="", ICTV2
+#EXTINF:0001 tvg-id="WgSc1v3kiJAo9t" tvg-chno="25" group-title="famelack (ua) [ua] [False]" tvg-logo="", ICTV2
 https://stream.mcquack.net/368/index.m3u8
-#EXTINF:0001 tvg-id="YJANRYNICQMPSy" tvg-chno="25" group-title="famelack (ua) [ua] [False]" tvg-logo="", InRating TV
+#EXTINF:0001 tvg-id="YJANRYNICQMPSy" tvg-chno="26" group-title="famelack (ua) [ua] [False]" tvg-logo="", InRating TV
 https://stream.mcquack.net/147/index.m3u8
-#EXTINF:0001 tvg-id="e9rrXwLSK5cgba" tvg-chno="26" group-title="famelack (ua) [ua] [False]" tvg-logo="", Inter+
+#EXTINF:0001 tvg-id="e9rrXwLSK5cgba" tvg-chno="27" group-title="famelack (ua) [ua] [False]" tvg-logo="", Inter+
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="2ijBxrnqlhILuI" tvg-chno="27" group-title="famelack (ua) [ua] [False]" tvg-logo="", ITV
+#EXTINF:0001 tvg-id="2ijBxrnqlhILuI" tvg-chno="28" group-title="famelack (ua) [ua] [False]" tvg-logo="", ITV
 https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
-#EXTINF:0001 tvg-id="WoGHZ2NiobEniJ" tvg-chno="28" group-title="famelack (ua) [ua] [False]" tvg-logo="", Izmail TV
+#EXTINF:0001 tvg-id="WoGHZ2NiobEniJ" tvg-chno="29" group-title="famelack (ua) [ua] [False]" tvg-logo="", Izmail TV
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
-#EXTINF:0001 tvg-id="gohVZ5pWFjJg26" tvg-chno="29" group-title="famelack (ua) [ua] [False]" tvg-logo="", K1
+#EXTINF:0001 tvg-id="gohVZ5pWFjJg26" tvg-chno="30" group-title="famelack (ua) [ua] [False]" tvg-logo="", K1
 https://stream.mcquack.net/270/index.m3u8
-#EXTINF:0001 tvg-id="mqffvBQ8XNfThQ" tvg-chno="30" group-title="famelack (ua) [ua] [False]" tvg-logo="", K2
+#EXTINF:0001 tvg-id="mqffvBQ8XNfThQ" tvg-chno="31" group-title="famelack (ua) [ua] [False]" tvg-logo="", K2
 https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="JpkVUq9RWrmKql" tvg-chno="31" group-title="famelack (ua) [ua] [False]" tvg-logo="", Kino 1
+#EXTINF:0001 tvg-id="JpkVUq9RWrmKql" tvg-chno="32" group-title="famelack (ua) [ua] [False]" tvg-logo="", Kino 1
 https://stream.mcquack.net/395/index.m3u8
-#EXTINF:0001 tvg-id="vctvW9tgIZuO2H" tvg-chno="32" group-title="famelack (ua) [ua] [False]" tvg-logo="", Kinoliving
+#EXTINF:0001 tvg-id="vctvW9tgIZuO2H" tvg-chno="33" group-title="famelack (ua) [ua] [False]" tvg-logo="", Kinoliving
 https://stream.mcquack.net/445/index.m3u8
-#EXTINF:0001 tvg-id="TYsQuYYzFQKfKG" tvg-chno="33" group-title="famelack (ua) [ua] [False]" tvg-logo="", Kinowood
+#EXTINF:0001 tvg-id="TYsQuYYzFQKfKG" tvg-chno="34" group-title="famelack (ua) [ua] [False]" tvg-logo="", Kinowood
 https://stream.mcquack.net/446/index.m3u8
-#EXTINF:0001 tvg-id="RCrPTSQMxm28NU" tvg-chno="34" group-title="famelack (ua) [ua] [False]" tvg-logo="", Kus-Kus
+#EXTINF:0001 tvg-id="RCrPTSQMxm28NU" tvg-chno="35" group-title="famelack (ua) [ua] [False]" tvg-logo="", Kus-Kus
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
-#EXTINF:0001 tvg-id="z32r6fXKyAf2oW" tvg-chno="35" group-title="famelack (ua) [ua] [False]" tvg-logo="", Kvartal TV International
+#EXTINF:0001 tvg-id="z32r6fXKyAf2oW" tvg-chno="36" group-title="famelack (ua) [ua] [False]" tvg-logo="", Kvartal TV International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
-#EXTINF:0001 tvg-id="mStEj3NJkPY66A" tvg-chno="36" group-title="famelack (ua) [ua] [False]" tvg-logo="", Law TV
+#EXTINF:0001 tvg-id="mStEj3NJkPY66A" tvg-chno="37" group-title="famelack (ua) [ua] [False]" tvg-logo="", Law TV
 https://stream.mcquack.net/406/index.m3u8
-#EXTINF:0001 tvg-id="cbLWWMbLPWdeyx" tvg-chno="37" group-title="famelack (ua) [ua] [False]" tvg-logo="", Mason TV
+#EXTINF:0001 tvg-id="cbLWWMbLPWdeyx" tvg-chno="38" group-title="famelack (ua) [ua] [False]" tvg-logo="", Mason TV
 https://stream.mcquack.net/346/index.m3u8
-#EXTINF:0001 tvg-id="VuNeaocCdf0jve" tvg-chno="38" group-title="famelack (ua) [ua] [False]" tvg-logo="", Mega
+#EXTINF:0001 tvg-id="VuNeaocCdf0jve" tvg-chno="39" group-title="famelack (ua) [ua] [False]" tvg-logo="", Mega
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="n4cYNsGP5quUZZ" tvg-chno="39" group-title="famelack (ua) [ua] [False]" tvg-logo="", Muzvar
+#EXTINF:0001 tvg-id="n4cYNsGP5quUZZ" tvg-chno="40" group-title="famelack (ua) [ua] [False]" tvg-logo="", Muzvar
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="gGmezQHr5OATdq" tvg-chno="40" group-title="famelack (ua) [ua] [False]" tvg-logo="", My-Ukraina TV
+#EXTINF:0001 tvg-id="gGmezQHr5OATdq" tvg-chno="41" group-title="famelack (ua) [ua] [False]" tvg-logo="", My-Ukraina TV
 https://stream.mcquack.net/442/index.m3u8
-#EXTINF:0001 tvg-id="llmTLpa7nLu2lO" tvg-chno="41" group-title="famelack (ua) [ua] [False]" tvg-logo="", NASHE Music
+#EXTINF:0001 tvg-id="llmTLpa7nLu2lO" tvg-chno="42" group-title="famelack (ua) [ua] [False]" tvg-logo="", NASHE Music
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="Zby3EFKjfMDiTX" tvg-chno="42" group-title="famelack (ua) [ua] [False]" tvg-logo="", Nauka
+#EXTINF:0001 tvg-id="Zby3EFKjfMDiTX" tvg-chno="43" group-title="famelack (ua) [ua] [False]" tvg-logo="", Nauka
 https://stream.mcquack.net/403/index.m3u8
-#EXTINF:0001 tvg-id="O2ACBT3EyZ5vGM" tvg-chno="43" group-title="famelack (ua) [ua] [False]" tvg-logo="", Novyi Channel
+#EXTINF:0001 tvg-id="O2ACBT3EyZ5vGM" tvg-chno="44" group-title="famelack (ua) [ua] [False]" tvg-logo="", Novyi Channel
 https://stream.mcquack.net/157/index.m3u8
-#EXTINF:0001 tvg-id="yuVSQWMuHA1KqE" tvg-chno="44" group-title="famelack (ua) [ua] [False]" tvg-logo="", NTK TV
+#EXTINF:0001 tvg-id="yuVSQWMuHA1KqE" tvg-chno="45" group-title="famelack (ua) [ua] [False]" tvg-logo="", NTK TV
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:0001 tvg-id="oKqpFMnvfZtb0e" tvg-chno="45" group-title="famelack (ua) [ua] [False]" tvg-logo="", NTN
+#EXTINF:0001 tvg-id="oKqpFMnvfZtb0e" tvg-chno="46" group-title="famelack (ua) [ua] [False]" tvg-logo="", NTN
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="PehP5E4yoiRyGJ" tvg-chno="46" group-title="famelack (ua) [ua] [False]" tvg-logo="", OTSE
+#EXTINF:0001 tvg-id="PehP5E4yoiRyGJ" tvg-chno="47" group-title="famelack (ua) [ua] [False]" tvg-logo="", OTSE
 https://stream.mcquack.net/329/index.m3u8
-#EXTINF:0001 tvg-id="HqxGIe9L28ibkT" tvg-chno="47" group-title="famelack (ua) [ua] [False]" tvg-logo="", Pershyi avtomobilnyi
+#EXTINF:0001 tvg-id="HqxGIe9L28ibkT" tvg-chno="48" group-title="famelack (ua) [ua] [False]" tvg-logo="", Pershyi avtomobilnyi
 https://stream.mcquack.net/404/index.m3u8
-#EXTINF:0001 tvg-id="dGKj0Pu82BToTZ" tvg-chno="48" group-title="famelack (ua) [ua] [False]" tvg-logo="", Pershyi Zahidnyi
+#EXTINF:0001 tvg-id="dGKj0Pu82BToTZ" tvg-chno="49" group-title="famelack (ua) [ua] [False]" tvg-logo="", Pershyi Zahidnyi
 https://stream.mcquack.net/246/index.m3u8
-#EXTINF:0001 tvg-id="IAHNNM2HDRUGA0" tvg-chno="49" group-title="famelack (ua) [ua] [False]" tvg-logo="", Pixel TV
+#EXTINF:0001 tvg-id="IAHNNM2HDRUGA0" tvg-chno="50" group-title="famelack (ua) [ua] [False]" tvg-logo="", Pixel TV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="BbQTAaHxQO2kHl" tvg-chno="50" group-title="famelack (ua) [ua] [False]" tvg-logo="", PTV
+#EXTINF:0001 tvg-id="BbQTAaHxQO2kHl" tvg-chno="51" group-title="famelack (ua) [ua] [False]" tvg-logo="", PTV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="Ow650uw0Y3b6my" tvg-chno="51" group-title="famelack (ua) [ua] [False]" tvg-logo="", Rivne 1
+#EXTINF:0001 tvg-id="Ow650uw0Y3b6my" tvg-chno="52" group-title="famelack (ua) [ua] [False]" tvg-logo="", Rivne 1
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="AJKlRqqS5ctnyc" tvg-chno="52" group-title="famelack (ua) [ua] [False]" tvg-logo="", Rybalka
+#EXTINF:0001 tvg-id="AJKlRqqS5ctnyc" tvg-chno="53" group-title="famelack (ua) [ua] [False]" tvg-logo="", Rybalka
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
-#EXTINF:0001 tvg-id="ySzp5JPJgUQNao" tvg-chno="53" group-title="famelack (ua) [ua] [False]" tvg-logo="", Setanta Sports+ Ukraine
+#EXTINF:0001 tvg-id="ySzp5JPJgUQNao" tvg-chno="54" group-title="famelack (ua) [ua] [False]" tvg-logo="", Setanta Sports+ Ukraine
 https://stream.mcquack.net/390/index.m3u8
-#EXTINF:0001 tvg-id="WUpQwb5AVqMclc" tvg-chno="54" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sfera-TV
+#EXTINF:0001 tvg-id="WUpQwb5AVqMclc" tvg-chno="55" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sfera-TV
 https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="4KSXokD7EvbB2N" tvg-chno="55" group-title="famelack (ua) [ua] [True]" tvg-logo="", Simon
+#EXTINF:0001 tvg-id="4KSXokD7EvbB2N" tvg-chno="56" group-title="famelack (ua) [ua] [True]" tvg-logo="", Simon
 https://hls.simon.ua/live-HD/live/playlist.m3u8
-#EXTINF:0001 tvg-id="U9nAYOR0oRufhL" tvg-chno="56" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 1
+#EXTINF:0001 tvg-id="U9nAYOR0oRufhL" tvg-chno="57" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 1
 https://stream.mcquack.net/391/index.m3u8
-#EXTINF:0001 tvg-id="IlovEqdESRxBC8" tvg-chno="57" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 2
+#EXTINF:0001 tvg-id="IlovEqdESRxBC8" tvg-chno="58" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 2
 https://stream.mcquack.net/392/index.m3u8
-#EXTINF:0001 tvg-id="oyUhXH3Llkp7QB" tvg-chno="58" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 3
+#EXTINF:0001 tvg-id="oyUhXH3Llkp7QB" tvg-chno="59" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 3
 https://stream.mcquack.net/393/index.m3u8
-#EXTINF:0001 tvg-id="QyWOTLGgws7eF1" tvg-chno="59" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 4
+#EXTINF:0001 tvg-id="QyWOTLGgws7eF1" tvg-chno="60" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 4
 https://stream.mcquack.net/394/index.m3u8
-#EXTINF:0001 tvg-id="PuDhiJvpMHcd6K" tvg-chno="60" group-title="famelack (ua) [ua] [False]" tvg-logo="", STB
+#EXTINF:0001 tvg-id="PuDhiJvpMHcd6K" tvg-chno="61" group-title="famelack (ua) [ua] [False]" tvg-logo="", STB
 https://stream.mcquack.net/156/index.m3u8
-#EXTINF:0001 tvg-id="mjs9rghkUsNNRi" tvg-chno="61" group-title="famelack (ua) [ua] [False]" tvg-logo="", Suspilne. Krym
+#EXTINF:0001 tvg-id="mjs9rghkUsNNRi" tvg-chno="62" group-title="famelack (ua) [ua] [False]" tvg-logo="", Suspilne. Krym
 https://stream.mcquack.net/436/index.m3u8
-#EXTINF:0001 tvg-id="StgkKPI7ePVzMC" tvg-chno="62" group-title="famelack (ua) [ua] [False]" tvg-logo="", Suspilne. Kultura
+#EXTINF:0001 tvg-id="StgkKPI7ePVzMC" tvg-chno="63" group-title="famelack (ua) [ua] [False]" tvg-logo="", Suspilne. Kultura
 https://stream.mcquack.net/435/index.m3u8
-#EXTINF:0001 tvg-id="ZacP6GQMQWENup" tvg-chno="63" group-title="famelack (ua) [ua] [False]" tvg-logo="", Suspilne. Kyiv
+#EXTINF:0001 tvg-id="ZacP6GQMQWENup" tvg-chno="64" group-title="famelack (ua) [ua] [False]" tvg-logo="", Suspilne. Kyiv
 https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
-#EXTINF:0001 tvg-id="TnYj2ZiJkibGxp" tvg-chno="64" group-title="famelack (ua) [ua] [False]" tvg-logo="", Suspilne. Sport
+#EXTINF:0001 tvg-id="TnYj2ZiJkibGxp" tvg-chno="65" group-title="famelack (ua) [ua] [False]" tvg-logo="", Suspilne. Sport
 https://stream.mcquack.net/444/index.m3u8
-#EXTINF:0001 tvg-id="KkENPIepKb9XBu" tvg-chno="65" group-title="famelack (ua) [ua] [False]" tvg-logo="", Svit+
+#EXTINF:0001 tvg-id="KkENPIepKb9XBu" tvg-chno="66" group-title="famelack (ua) [ua] [False]" tvg-logo="", Svit+
 https://stream.mcquack.net/358/index.m3u8
-#EXTINF:0001 tvg-id="Pqrkg7U9owFXx2" tvg-chno="66" group-title="famelack (ua) [ua] [False]" tvg-logo="", Telekanal RAI
+#EXTINF:0001 tvg-id="Pqrkg7U9owFXx2" tvg-chno="67" group-title="famelack (ua) [ua] [False]" tvg-logo="", Telekanal RAI
 https://stream.rai.ua/rai/stream.m3u8
-#EXTINF:0001 tvg-id="bsyw0xBKrnLW6y" tvg-chno="67" group-title="famelack (ua) [ua] [False]" tvg-logo="", Terra
+#EXTINF:0001 tvg-id="bsyw0xBKrnLW6y" tvg-chno="68" group-title="famelack (ua) [ua] [False]" tvg-logo="", Terra
 https://stream.mcquack.net/402/index.m3u8
-#EXTINF:0001 tvg-id="OXaTTiQ0rvbkzL" tvg-chno="68" group-title="famelack (ua) [ua] [False]" tvg-logo="", TET
+#EXTINF:0001 tvg-id="OXaTTiQ0rvbkzL" tvg-chno="69" group-title="famelack (ua) [ua] [False]" tvg-logo="", TET
 https://stream.mcquack.net/338/index.m3u8
-#EXTINF:0001 tvg-id="NpwExVTLVpI32y" tvg-chno="69" group-title="famelack (ua) [ua] [False]" tvg-logo="", Trofei
+#EXTINF:0001 tvg-id="KNtnaXZuhjC6uj" tvg-chno="70" group-title="famelack (ua) [ua] [False]" tvg-logo="", TIS TV
+https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
+#EXTINF:0001 tvg-id="NpwExVTLVpI32y" tvg-chno="71" group-title="famelack (ua) [ua] [False]" tvg-logo="", Trofei
 https://stream.mcquack.net/357/index.m3u8
-#EXTINF:0001 tvg-id="WcoZqsaKguXix1" tvg-chno="70" group-title="famelack (ua) [ua] [False]" tvg-logo="", TUSO
+#EXTINF:0001 tvg-id="WcoZqsaKguXix1" tvg-chno="72" group-title="famelack (ua) [ua] [False]" tvg-logo="", TUSO
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
-#EXTINF:0001 tvg-id="TSbUr1OhqLkxuT" tvg-chno="71" group-title="famelack (ua) [ua] [False]" tvg-logo="", TVA
+#EXTINF:0001 tvg-id="TSbUr1OhqLkxuT" tvg-chno="73" group-title="famelack (ua) [ua] [False]" tvg-logo="", TVA
 https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="O5Az9Ll0PoTkp2" tvg-chno="72" group-title="famelack (ua) [ua] [False]" tvg-logo="", Tviy serial
+#EXTINF:0001 tvg-id="O5Az9Ll0PoTkp2" tvg-chno="74" group-title="famelack (ua) [ua] [False]" tvg-logo="", Tviy serial
 https://stream.mcquack.net/466/index.m3u8
-#EXTINF:0001 tvg-id="ZWMy6L1tUWrepR" tvg-chno="73" group-title="famelack (ua) [ua] [False]" tvg-logo="", Z
+#EXTINF:0001 tvg-id="ZWMy6L1tUWrepR" tvg-chno="75" group-title="famelack (ua) [ua] [False]" tvg-logo="", Z
 https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:0001 tvg-id="uDOyi9QsdnCGQy" tvg-chno="74" group-title="famelack (ua) [ua] [False]" tvg-logo="", Zoom
+#EXTINF:0001 tvg-id="uDOyi9QsdnCGQy" tvg-chno="76" group-title="famelack (ua) [ua] [False]" tvg-logo="", Zoom
 https://stream.mcquack.net/327/index.m3u8
