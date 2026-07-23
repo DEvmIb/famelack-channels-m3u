@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="qzIS7Nw9P5qFN0" tvg-chno="1" group-title="famelack (cg) [cg] [False]" tvg-logo="", Esaie 45 Tele
 https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8
+#EXTINF:0001 tvg-id="31Wi6UqtxsYAm3" tvg-chno="2" group-title="famelack (cg) [cg] [False]" tvg-logo="", Ev-tele
+https://playtv4k.live/live/EVTELE/index.m3u8

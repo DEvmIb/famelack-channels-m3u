@@ -57,66 +57,66 @@ https://45.190.28.50/EURONEWS_HD/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 #EXTINF:0001 tvg-id="xsUZSvBNUz3yiT" tvg-chno="29" group-title="famelack (fr) [fr] [False]" tvg-logo="", Euronews Spanish
 https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
-#EXTINF:0001 tvg-id="Qc6Yckay6OGUKY" tvg-chno="30" group-title="famelack (fr) [fr] [False]" tvg-logo="", FashionTV Paris L'Original
+#EXTINF:0001 tvg-id="obM4Ta9tHLJdKA" tvg-chno="30" group-title="famelack (fr) [fr] [False]" tvg-logo="", Evandis Gospel TV
+https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
+#EXTINF:0001 tvg-id="Qc6Yckay6OGUKY" tvg-chno="31" group-title="famelack (fr) [fr] [False]" tvg-logo="", FashionTV Paris L'Original
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:0001 tvg-id="hN2lvdly5DX2ya" tvg-chno="31" group-title="famelack (fr) [fr] [False]" tvg-logo="", FashionTV Secrets
+#EXTINF:0001 tvg-id="hN2lvdly5DX2ya" tvg-chno="32" group-title="famelack (fr) [fr] [False]" tvg-logo="", FashionTV Secrets
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
-#EXTINF:0001 tvg-id="JHLZ2EwaJPv0IR" tvg-chno="32" group-title="famelack (fr) [fr] [False]" tvg-logo="", FilmRise Binge Watch France
+#EXTINF:0001 tvg-id="JHLZ2EwaJPv0IR" tvg-chno="33" group-title="famelack (fr) [fr] [False]" tvg-logo="", FilmRise Binge Watch France
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
-#EXTINF:0001 tvg-id="08Ckvhcc4J0cdi" tvg-chno="33" group-title="famelack (fr) [fr] [False]" tvg-logo="", FilmRise DeGrassi la nouvelle génération
+#EXTINF:0001 tvg-id="08Ckvhcc4J0cdi" tvg-chno="34" group-title="famelack (fr) [fr] [False]" tvg-logo="", FilmRise DeGrassi la nouvelle génération
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113
-#EXTINF:0001 tvg-id="szbJVfsHulqWcu" tvg-chno="34" group-title="famelack (fr) [fr] [False]" tvg-logo="", FilmRise Hot Ones
+#EXTINF:0001 tvg-id="szbJVfsHulqWcu" tvg-chno="35" group-title="famelack (fr) [fr] [False]" tvg-logo="", FilmRise Hot Ones
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
-#EXTINF:0001 tvg-id="zK1h4297m1m9Ls" tvg-chno="35" group-title="famelack (fr) [fr] [False]" tvg-logo="", FilmRise Les Routes du Paradis
+#EXTINF:0001 tvg-id="zK1h4297m1m9Ls" tvg-chno="36" group-title="famelack (fr) [fr] [False]" tvg-logo="", FilmRise Les Routes du Paradis
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083
-#EXTINF:0001 tvg-id="Zd309NMpvaOGV5" tvg-chno="36" group-title="famelack (fr) [fr] [False]" tvg-logo="", FilmRise Séries France
+#EXTINF:0001 tvg-id="Zd309NMpvaOGV5" tvg-chno="37" group-title="famelack (fr) [fr] [False]" tvg-logo="", FilmRise Séries France
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
-#EXTINF:0001 tvg-id="W94QfzFdLuSIjC" tvg-chno="37" group-title="famelack (fr) [fr] [False]" tvg-logo="", FilmRise Z Nation France
+#EXTINF:0001 tvg-id="W94QfzFdLuSIjC" tvg-chno="38" group-title="famelack (fr) [fr] [False]" tvg-logo="", FilmRise Z Nation France
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
-#EXTINF:0001 tvg-id="S9vpRWeeHUeMAA" tvg-chno="38" group-title="famelack (fr) [fr] [False]" tvg-logo="", France 24 Arabic
+#EXTINF:0001 tvg-id="S9vpRWeeHUeMAA" tvg-chno="39" group-title="famelack (fr) [fr] [False]" tvg-logo="", France 24 Arabic
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
-#EXTINF:0001 tvg-id="oTQxI54nBGEd6Z" tvg-chno="39" group-title="famelack (fr) [fr] [False]" tvg-logo="", France 24 English
+#EXTINF:0001 tvg-id="oTQxI54nBGEd6Z" tvg-chno="40" group-title="famelack (fr) [fr] [False]" tvg-logo="", France 24 English
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-#EXTINF:0001 tvg-id="nkxebd37eO0ltl" tvg-chno="40" group-title="famelack (fr) [fr] [False]" tvg-logo="", France 24 FAST English
+#EXTINF:0001 tvg-id="nkxebd37eO0ltl" tvg-chno="41" group-title="famelack (fr) [fr] [False]" tvg-logo="", France 24 FAST English
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="4CWVkfpOd7mDjB" tvg-chno="41" group-title="famelack (fr) [fr] [False]" tvg-logo="", France 24 French
+#EXTINF:0001 tvg-id="4CWVkfpOd7mDjB" tvg-chno="42" group-title="famelack (fr) [fr] [False]" tvg-logo="", France 24 French
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
-#EXTINF:0001 tvg-id="ok1XbdadbIAXgd" tvg-chno="42" group-title="famelack (fr) [fr] [False]" tvg-logo="", Francophonie24
+#EXTINF:0001 tvg-id="ok1XbdadbIAXgd" tvg-chno="43" group-title="famelack (fr) [fr] [False]" tvg-logo="", Francophonie24
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="7MLHT3jxe1OcD2" tvg-chno="43" group-title="famelack (fr) [fr] [False]" tvg-logo="", Frequence Novelas
+#EXTINF:0001 tvg-id="7MLHT3jxe1OcD2" tvg-chno="44" group-title="famelack (fr) [fr] [False]" tvg-logo="", Frequence Novelas
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
-#EXTINF:0001 tvg-id="cZHuVSqX1X1VrE" tvg-chno="44" group-title="famelack (fr) [fr] [False]" tvg-logo="", Generation Sitcoms
+#EXTINF:0001 tvg-id="cZHuVSqX1X1VrE" tvg-chno="45" group-title="famelack (fr) [fr] [False]" tvg-logo="", Generation Sitcoms
 https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8
-#EXTINF:0001 tvg-id="NXr5JJCUZWuMub" tvg-chno="45" group-title="famelack (fr) [fr] [False]" tvg-logo="", Generations TV
+#EXTINF:0001 tvg-id="NXr5JJCUZWuMub" tvg-chno="46" group-title="famelack (fr) [fr] [False]" tvg-logo="", Generations TV
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:0001 tvg-id="BHktLaXb4NGD72" tvg-chno="46" group-title="famelack (fr) [fr] [False]" tvg-logo="", Gong
+#EXTINF:0001 tvg-id="BHktLaXb4NGD72" tvg-chno="47" group-title="famelack (fr) [fr] [False]" tvg-logo="", Gong
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
-#EXTINF:0001 tvg-id="OgCZtD8wAAsw56" tvg-chno="47" group-title="famelack (fr) [fr] [False]" tvg-logo="", HANDICAP TV
+#EXTINF:0001 tvg-id="OgCZtD8wAAsw56" tvg-chno="48" group-title="famelack (fr) [fr] [False]" tvg-logo="", HANDICAP TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:0001 tvg-id="R7QQGzMYNAADi7" tvg-chno="48" group-title="famelack (fr) [fr] [False]" tvg-logo="", Homicide la chaîne du fait divers
+#EXTINF:0001 tvg-id="R7QQGzMYNAADi7" tvg-chno="49" group-title="famelack (fr) [fr] [False]" tvg-logo="", Homicide la chaîne du fait divers
 https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
-#EXTINF:0001 tvg-id="Grm4rZFIs5yHyN" tvg-chno="49" group-title="famelack (fr) [fr] [False]" tvg-logo="", ILTV
+#EXTINF:0001 tvg-id="Grm4rZFIs5yHyN" tvg-chno="50" group-title="famelack (fr) [fr] [False]" tvg-logo="", ILTV
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="BHURXFJmympW7l" tvg-chno="50" group-title="famelack (fr) [fr] [False]" tvg-logo="", INA 70s
+#EXTINF:0001 tvg-id="BHURXFJmympW7l" tvg-chno="51" group-title="famelack (fr) [fr] [False]" tvg-logo="", INA 70s
 https://fast-rakuten.okast.tv/fa2e8c4385712f9af3e719ec904b3543/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8
-#EXTINF:0001 tvg-id="wBjzvW6WzUB3nI" tvg-chno="51" group-title="famelack (fr) [fr] [False]" tvg-logo="", INA Ardivision
+#EXTINF:0001 tvg-id="wBjzvW6WzUB3nI" tvg-chno="52" group-title="famelack (fr) [fr] [False]" tvg-logo="", INA Ardivision
 https://fast-rakuten.okast.tv/fa2e8c4385712f9a3b579747e448699c/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/a4226699-b685-4f5d-9cb6-2a6cac14c377/media_.m3u8
-#EXTINF:0001 tvg-id="slEajb8UgnTx3L" tvg-chno="52" group-title="famelack (fr) [fr] [False]" tvg-logo="", Into Crime
+#EXTINF:0001 tvg-id="slEajb8UgnTx3L" tvg-chno="53" group-title="famelack (fr) [fr] [False]" tvg-logo="", Into Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="qu8fNM6wQkTJJ8" tvg-chno="53" group-title="famelack (fr) [fr] [False]" tvg-logo="", ITV Un Village Français
+#EXTINF:0001 tvg-id="qu8fNM6wQkTJJ8" tvg-chno="54" group-title="famelack (fr) [fr] [False]" tvg-logo="", ITV Un Village Français
 https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8
-#EXTINF:0001 tvg-id="ao2VustxYc4JJe" tvg-chno="54" group-title="famelack (fr) [fr] [False]" tvg-logo="", Le Figaro TV Ile-de-France
+#EXTINF:0001 tvg-id="ao2VustxYc4JJe" tvg-chno="55" group-title="famelack (fr) [fr] [False]" tvg-logo="", Le Figaro TV Ile-de-France
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:0001 tvg-id="Tx5RswMvDJkzju" tvg-chno="55" group-title="famelack (fr) [fr] [False]" tvg-logo="", Le Meilleur d'Arthur
+#EXTINF:0001 tvg-id="Tx5RswMvDJkzju" tvg-chno="56" group-title="famelack (fr) [fr] [False]" tvg-logo="", Le Meilleur d'Arthur
 https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="jcLePfmR9eaQ5w" tvg-chno="56" group-title="famelack (fr) [fr] [False]" tvg-logo="", Le Meilleur de la TV Realite
+#EXTINF:0001 tvg-id="jcLePfmR9eaQ5w" tvg-chno="57" group-title="famelack (fr) [fr] [False]" tvg-logo="", Le Meilleur de la TV Realite
 https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="uCk4iDzDPIUF2d" tvg-chno="57" group-title="famelack (fr) [fr] [False]" tvg-logo="", Les Anges
+#EXTINF:0001 tvg-id="uCk4iDzDPIUF2d" tvg-chno="58" group-title="famelack (fr) [fr] [False]" tvg-logo="", Les Anges
 https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="PsqmjTAcyqo2QW" tvg-chno="58" group-title="famelack (fr) [fr] [False]" tvg-logo="", Les Secrets de Nos Régions
+#EXTINF:0001 tvg-id="PsqmjTAcyqo2QW" tvg-chno="59" group-title="famelack (fr) [fr] [False]" tvg-logo="", Les Secrets de Nos Régions
 https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="rOt2GRHARiewoL" tvg-chno="59" group-title="famelack (fr) [fr] [False]" tvg-logo="", Littoral FM TV
-https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:0001 tvg-id="BMUX82mxnWd5Ru" tvg-chno="60" group-title="famelack (fr) [fr] [False]" tvg-logo="", Mezzo
 https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:0001 tvg-id="5oNNwRbeufUj8K" tvg-chno="61" group-title="famelack (fr) [fr] [False]" tvg-logo="", Monte Carlo Digital Television
@@ -125,111 +125,107 @@ https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
 #EXTINF:0001 tvg-id="aRYM4hJmBP444c" tvg-chno="63" group-title="famelack (fr) [fr] [False]" tvg-logo="", My Gospel TV
 https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8
-#EXTINF:0001 tvg-id="frxoUV6KIlJwd1" tvg-chno="64" group-title="famelack (fr) [fr] [False]" tvg-logo="", MyTime Movie Network France
-https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="hDKihfnR1gIzAi" tvg-chno="65" group-title="famelack (fr) [fr] [True]" tvg-logo="", MyZen TV
+#EXTINF:0001 tvg-id="hDKihfnR1gIzAi" tvg-chno="64" group-title="famelack (fr) [fr] [True]" tvg-logo="", MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:0001 tvg-id="SbCVyIRCGshv9Z" tvg-chno="66" group-title="famelack (fr) [fr] [False]" tvg-logo="", Nature Time
+#EXTINF:0001 tvg-id="SbCVyIRCGshv9Z" tvg-chno="65" group-title="famelack (fr) [fr] [False]" tvg-logo="", Nature Time
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="UV2K3Inr6FlKvf" tvg-chno="67" group-title="famelack (fr) [fr] [False]" tvg-logo="", P2M TV
+#EXTINF:0001 tvg-id="UV2K3Inr6FlKvf" tvg-chno="66" group-title="famelack (fr) [fr] [False]" tvg-logo="", P2M TV
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
-#EXTINF:0001 tvg-id="EXvskphL1UFUHC" tvg-chno="68" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Junior
+#EXTINF:0001 tvg-id="EXvskphL1UFUHC" tvg-chno="67" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="6yK7rD2LKikhPv" tvg-chno="69" group-title="famelack (fr) [fr] [False]" tvg-logo="", Puissance TV
+#EXTINF:0001 tvg-id="6yK7rD2LKikhPv" tvg-chno="68" group-title="famelack (fr) [fr] [False]" tvg-logo="", Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-#EXTINF:0001 tvg-id="GBee4ruMbEkHYx" tvg-chno="70" group-title="famelack (fr) [fr] [False]" tvg-logo="", Qui Veut Gagner Des Millions La Chaîne
+#EXTINF:0001 tvg-id="GBee4ruMbEkHYx" tvg-chno="69" group-title="famelack (fr) [fr] [False]" tvg-logo="", Qui Veut Gagner Des Millions La Chaîne
 https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="W8ZhdZg3k4GfrH" tvg-chno="71" group-title="famelack (fr) [fr] [True]" tvg-logo="", Qwest TV
+#EXTINF:0001 tvg-id="W8ZhdZg3k4GfrH" tvg-chno="70" group-title="famelack (fr) [fr] [True]" tvg-logo="", Qwest TV
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
-#EXTINF:0001 tvg-id="PGDjufEBywGkq1" tvg-chno="72" group-title="famelack (fr) [fr] [True]" tvg-logo="", Qwest TV Jazz & Beyond
+#EXTINF:0001 tvg-id="PGDjufEBywGkq1" tvg-chno="71" group-title="famelack (fr) [fr] [True]" tvg-logo="", Qwest TV Jazz & Beyond
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
-#EXTINF:0001 tvg-id="AIirayhr6r6kA6" tvg-chno="73" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Thriller
-https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
-#EXTINF:0001 tvg-id="K1cCEN7WNbjDun" tvg-chno="74" group-title="famelack (fr) [fr] [False]" tvg-logo="", Revry Europe (Frequency backend)
+#EXTINF:0001 tvg-id="K1cCEN7WNbjDun" tvg-chno="72" group-title="famelack (fr) [fr] [False]" tvg-logo="", Revry Europe (Frequency backend)
 https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8
-#EXTINF:0001 tvg-id="WRXxoyW4bEOLd9" tvg-chno="75" group-title="famelack (fr) [fr] [False]" tvg-logo="", RMC Story
+#EXTINF:0001 tvg-id="WRXxoyW4bEOLd9" tvg-chno="73" group-title="famelack (fr) [fr] [False]" tvg-logo="", RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
-#EXTINF:0001 tvg-id="xv9b7Q8DQqzTWg" tvg-chno="76" group-title="famelack (fr) [fr] [True]" tvg-logo="", RT France
+#EXTINF:0001 tvg-id="xv9b7Q8DQqzTWg" tvg-chno="74" group-title="famelack (fr) [fr] [True]" tvg-logo="", RT France
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:0001 tvg-id="neBVvLlUGu8wG8" tvg-chno="77" group-title="famelack (fr) [fr] [False]" tvg-logo="", ScreamIN
+#EXTINF:0001 tvg-id="neBVvLlUGu8wG8" tvg-chno="75" group-title="famelack (fr) [fr] [False]" tvg-logo="", ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
-#EXTINF:0001 tvg-id="f1Z2REVZIJr4vr" tvg-chno="78" group-title="famelack (fr) [fr] [False]" tvg-logo="", Sony One Blacklist
+#EXTINF:0001 tvg-id="f1Z2REVZIJr4vr" tvg-chno="76" group-title="famelack (fr) [fr] [False]" tvg-logo="", Sony One Blacklist
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
-#EXTINF:0001 tvg-id="NZ0M4Z47C2ZcVG" tvg-chno="79" group-title="famelack (fr) [fr] [False]" tvg-logo="", Sony One Favoris
+#EXTINF:0001 tvg-id="NZ0M4Z47C2ZcVG" tvg-chno="77" group-title="famelack (fr) [fr] [False]" tvg-logo="", Sony One Favoris
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
-#EXTINF:0001 tvg-id="bcMCtiQR1EZ7L7" tvg-chno="80" group-title="famelack (fr) [fr] [False]" tvg-logo="", Sony One Hits Action
+#EXTINF:0001 tvg-id="bcMCtiQR1EZ7L7" tvg-chno="78" group-title="famelack (fr) [fr] [False]" tvg-logo="", Sony One Hits Action
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
-#EXTINF:0001 tvg-id="FLA1VaGF1q2tdh" tvg-chno="81" group-title="famelack (fr) [fr] [False]" tvg-logo="", Sony One Hits Comedie
+#EXTINF:0001 tvg-id="FLA1VaGF1q2tdh" tvg-chno="79" group-title="famelack (fr) [fr] [False]" tvg-logo="", Sony One Hits Comedie
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:0001 tvg-id="iznqZt4QDsmnlv" tvg-chno="82" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Africa
+#EXTINF:0001 tvg-id="iznqZt4QDsmnlv" tvg-chno="80" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Africa
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
-#EXTINF:0001 tvg-id="mWE4kH6ibcq6b4" tvg-chno="83" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Afrikora
+#EXTINF:0001 tvg-id="mWE4kH6ibcq6b4" tvg-chno="81" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Afrikora
 https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
-#EXTINF:0001 tvg-id="0NnzYHacRaT04R" tvg-chno="84" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Ayiti
+#EXTINF:0001 tvg-id="0NnzYHacRaT04R" tvg-chno="82" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Ayiti
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
-#EXTINF:0001 tvg-id="URBHUsZAHdGmEN" tvg-chno="85" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Brazuca
+#EXTINF:0001 tvg-id="URBHUsZAHdGmEN" tvg-chno="83" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Brazuca
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:0001 tvg-id="yLCxHzKZ8frJd2" tvg-chno="86" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Caribbean
+#EXTINF:0001 tvg-id="yLCxHzKZ8frJd2" tvg-chno="84" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Caribbean
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
-#EXTINF:0001 tvg-id="70sX04jX14d4dB" tvg-chno="87" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Gospel
+#EXTINF:0001 tvg-id="70sX04jX14d4dB" tvg-chno="85" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Gospel
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
-#EXTINF:0001 tvg-id="Y4qPq23OdBqrZm" tvg-chno="88" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Gospel Nigeria and East Africa
+#EXTINF:0001 tvg-id="Y4qPq23OdBqrZm" tvg-chno="86" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Gospel Nigeria and East Africa
 https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
-#EXTINF:0001 tvg-id="qlnlzIINox50mW" tvg-chno="89" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Gospel Southern Africa
+#EXTINF:0001 tvg-id="qlnlzIINox50mW" tvg-chno="87" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Gospel Southern Africa
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
-#EXTINF:0001 tvg-id="Y5SbJctYBPjs3D" tvg-chno="90" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Jama
+#EXTINF:0001 tvg-id="Y5SbJctYBPjs3D" tvg-chno="88" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Jama
 https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
-#EXTINF:0001 tvg-id="GOL0LeAC5fNTzD" tvg-chno="91" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Kitoko
+#EXTINF:0001 tvg-id="GOL0LeAC5fNTzD" tvg-chno="89" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Kitoko
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
-#EXTINF:0001 tvg-id="RcxxzdMu6ZS2Ab" tvg-chno="92" group-title="famelack (fr) [fr] [True]" tvg-logo="", Trace Latina
+#EXTINF:0001 tvg-id="RcxxzdMu6ZS2Ab" tvg-chno="90" group-title="famelack (fr) [fr] [True]" tvg-logo="", Trace Latina
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="0fWZLIAvkDVD4z" tvg-chno="93" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Mboa
+#EXTINF:0001 tvg-id="0fWZLIAvkDVD4z" tvg-chno="91" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Mboa
 https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
-#EXTINF:0001 tvg-id="IQN10ZdvEALsRy" tvg-chno="94" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Muzika
+#EXTINF:0001 tvg-id="IQN10ZdvEALsRy" tvg-chno="92" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Muzika
 https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
-#EXTINF:0001 tvg-id="qXN7ug2DpHuKzM" tvg-chno="95" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Mziki
+#EXTINF:0001 tvg-id="qXN7ug2DpHuKzM" tvg-chno="93" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Mziki
 https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
-#EXTINF:0001 tvg-id="zjjPyizDsavmnG" tvg-chno="96" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Naija
+#EXTINF:0001 tvg-id="zjjPyizDsavmnG" tvg-chno="94" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Naija
 https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
-#EXTINF:0001 tvg-id="kqMUlhv25saDO5" tvg-chno="97" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Ngoma
+#EXTINF:0001 tvg-id="kqMUlhv25saDO5" tvg-chno="95" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Ngoma
 https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
-#EXTINF:0001 tvg-id="8sJgzboMg4ThSQ" tvg-chno="98" group-title="famelack (fr) [fr] [True]" tvg-logo="", Trace Sport Stars
-https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
-#EXTINF:0001 tvg-id="4sRs2yNNylt0rj" tvg-chno="99" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Toca
+#EXTINF:0001 tvg-id="8sJgzboMg4ThSQ" tvg-chno="96" group-title="famelack (fr) [fr] [True]" tvg-logo="", Trace Sport Stars
+https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="4sRs2yNNylt0rj" tvg-chno="97" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Toca
 https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
-#EXTINF:0001 tvg-id="wIUeNDlNNSx9pm" tvg-chno="100" group-title="famelack (fr) [fr] [True]" tvg-logo="", Trace Urban
+#EXTINF:0001 tvg-id="wIUeNDlNNSx9pm" tvg-chno="98" group-title="famelack (fr) [fr] [True]" tvg-logo="", Trace Urban
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
-#EXTINF:0001 tvg-id="eNC1h7N1CurUSa" tvg-chno="101" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Urban Africa Franco
+#EXTINF:0001 tvg-id="eNC1h7N1CurUSa" tvg-chno="99" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Urban Africa Franco
 https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
-#EXTINF:0001 tvg-id="ikUOfTTqyRQA06" tvg-chno="102" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Urban Caribbean and Indian Ocean
+#EXTINF:0001 tvg-id="ikUOfTTqyRQA06" tvg-chno="100" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Urban Caribbean and Indian Ocean
 https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
-#EXTINF:0001 tvg-id="jXgccKBeTddkaK" tvg-chno="103" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Urban International
+#EXTINF:0001 tvg-id="jXgccKBeTddkaK" tvg-chno="101" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Urban International
 https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
-#EXTINF:0001 tvg-id="4aWG7gXKEliA0U" tvg-chno="104" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Urban Southern Africa
+#EXTINF:0001 tvg-id="4aWG7gXKEliA0U" tvg-chno="102" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Urban Southern Africa
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
-#EXTINF:0001 tvg-id="ZPDEacVJIZ5Ext" tvg-chno="105" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Vanilla Islands
+#EXTINF:0001 tvg-id="ZPDEacVJIZ5Ext" tvg-chno="103" group-title="famelack (fr) [fr] [False]" tvg-logo="", Trace Vanilla Islands
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
-#EXTINF:0001 tvg-id="inGlxKW8S2QpWf" tvg-chno="106" group-title="famelack (fr) [fr] [False]" tvg-logo="", TV3V
+#EXTINF:0001 tvg-id="inGlxKW8S2QpWf" tvg-chno="104" group-title="famelack (fr) [fr] [False]" tvg-logo="", TV3V
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
-#EXTINF:0001 tvg-id="4t9nyKLy4BlsIu" tvg-chno="107" group-title="famelack (fr) [fr] [False]" tvg-logo="", TV5Monde Africa
+#EXTINF:0001 tvg-id="4t9nyKLy4BlsIu" tvg-chno="105" group-title="famelack (fr) [fr] [False]" tvg-logo="", TV5Monde Africa
 https://5.9.121.178/tv5monde/index.m3u8
-#EXTINF:0001 tvg-id="2gvbHx7OrU70G2" tvg-chno="108" group-title="famelack (fr) [fr] [False]" tvg-logo="", TV5MONDE Chefs
+#EXTINF:0001 tvg-id="2gvbHx7OrU70G2" tvg-chno="106" group-title="famelack (fr) [fr] [False]" tvg-logo="", TV5MONDE Chefs
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
-#EXTINF:0001 tvg-id="zN9p9PFYpIjE0W" tvg-chno="109" group-title="famelack (fr) [fr] [True]" tvg-logo="", TV5Monde Europe
+#EXTINF:0001 tvg-id="zN9p9PFYpIjE0W" tvg-chno="107" group-title="famelack (fr) [fr] [True]" tvg-logo="", TV5Monde Europe
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
-#EXTINF:0001 tvg-id="1knGFXXt1Z1tXg" tvg-chno="110" group-title="famelack (fr) [fr] [False]" tvg-logo="", TV7 Colmar
+#EXTINF:0001 tvg-id="1knGFXXt1Z1tXg" tvg-chno="108" group-title="famelack (fr) [fr] [False]" tvg-logo="", TV7 Colmar
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="Aza21fcjQwmAgZ" tvg-chno="111" group-title="famelack (fr) [fr] [False]" tvg-logo="", Vevo Hip-Hop et RnB
+#EXTINF:0001 tvg-id="Aza21fcjQwmAgZ" tvg-chno="109" group-title="famelack (fr) [fr] [False]" tvg-logo="", Vevo Hip-Hop et RnB
 https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
-#EXTINF:0001 tvg-id="4iaZvz0DlRN5Ya" tvg-chno="112" group-title="famelack (fr) [fr] [False]" tvg-logo="", ViaMatele
+#EXTINF:0001 tvg-id="4iaZvz0DlRN5Ya" tvg-chno="110" group-title="famelack (fr) [fr] [False]" tvg-logo="", ViaMatele
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-#EXTINF:0001 tvg-id="Vfl8587p5Rbn09" tvg-chno="113" group-title="famelack (fr) [fr] [False]" tvg-logo="", viaTelePaese
+#EXTINF:0001 tvg-id="Vfl8587p5Rbn09" tvg-chno="111" group-title="famelack (fr) [fr] [False]" tvg-logo="", viaTelePaese
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
-#EXTINF:0001 tvg-id="SbiWPbW9abVIyM" tvg-chno="114" group-title="famelack (fr) [fr] [False]" tvg-logo="", Vosges TV
+#EXTINF:0001 tvg-id="SbiWPbW9abVIyM" tvg-chno="112" group-title="famelack (fr) [fr] [False]" tvg-logo="", Vosges TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:0001 tvg-id="8MY8QweXbIf30Y" tvg-chno="115" group-title="famelack (fr) [fr] [False]" tvg-logo="", Wasabi la chaîne anime
+#EXTINF:0001 tvg-id="8MY8QweXbIf30Y" tvg-chno="113" group-title="famelack (fr) [fr] [False]" tvg-logo="", Wasabi la chaîne anime
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="T8DRD6kDPp2FBt" tvg-chno="116" group-title="famelack (fr) [fr] [False]" tvg-logo="", Y'a Que La Vérité Qui Compte La Chaîne
+#EXTINF:0001 tvg-id="T8DRD6kDPp2FBt" tvg-chno="114" group-title="famelack (fr) [fr] [False]" tvg-logo="", Y'a Que La Vérité Qui Compte La Chaîne
 https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8
-#EXTINF:0001 tvg-id="glNPCf2RbwoWmt" tvg-chno="117" group-title="famelack (fr) [fr] [False]" tvg-logo="", zenith
+#EXTINF:0001 tvg-id="glNPCf2RbwoWmt" tvg-chno="115" group-title="famelack (fr) [fr] [False]" tvg-logo="", zenith
 https://live.azenagroup.com/zenith/index.ll.m3u8

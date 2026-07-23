@@ -11,10 +11,10 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:0001 tvg-id="jmLc1Xuh4e3k6k" tvg-chno="6" group-title="famelack (tr) [tr] [False]" tvg-logo="", A2TV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:0001 tvg-id="rWtKJSewbglBpX" tvg-chno="7" group-title="famelack (tr) [tr] [False]" tvg-logo="", Agro TV
-https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8
-#EXTINF:0001 tvg-id="7COae96uG7VRpK" tvg-chno="8" group-title="famelack (tr) [tr] [False]" tvg-logo="", Aksu TV
+#EXTINF:0001 tvg-id="7COae96uG7VRpK" tvg-chno="7" group-title="famelack (tr) [tr] [False]" tvg-logo="", Aksu TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:0001 tvg-id="3GgXVbdK2cjuBg" tvg-chno="8" group-title="famelack (tr) [tr] [False]" tvg-logo="", Alanya Posta TV
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:0001 tvg-id="Mmz7MUwsZ62HWK" tvg-chno="9" group-title="famelack (tr) [tr] [False]" tvg-logo="", Almahriah TV
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:0001 tvg-id="2DmXrOxAFaOLJx" tvg-chno="10" group-title="famelack (tr) [tr] [False]" tvg-logo="", Altas TV
@@ -29,8 +29,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 #EXTINF:0001 tvg-id="srU5BUChRvVkhn" tvg-chno="15" group-title="famelack (tr) [tr] [False]" tvg-logo="", Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
-#EXTINF:0001 tvg-id="Z7tHup27v1j2Td" tvg-chno="16" group-title="famelack (tr) [tr] [False]" tvg-logo="", Bodrum Kent TV
-https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8
+#EXTINF:0001 tvg-id="lnPH0Jssl2BDkS" tvg-chno="16" group-title="famelack (tr) [tr] [False]" tvg-logo="", Bric ve Satranc TV
+https://139.162.182.79/live/test/index.m3u8
 #EXTINF:0001 tvg-id="WjndAfYgzOKuol" tvg-chno="17" group-title="famelack (tr) [tr] [True]" tvg-logo="", BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:0001 tvg-id="fZsqiYgAagpTuM" tvg-chno="18" group-title="famelack (tr) [tr] [False]" tvg-logo="", Cay TV
@@ -45,34 +45,34 @@ https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:0001 tvg-id="GcJmEq9rilBOie" tvg-chno="23" group-title="famelack (tr) [tr] [False]" tvg-logo="", Deniz Postasi TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:0001 tvg-id="grKukHYH0ZNT5Y" tvg-chno="24" group-title="famelack (tr) [tr] [True]" tvg-logo="", Dim TV
-https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
-#EXTINF:0001 tvg-id="1OlKTVorbB1nZr" tvg-chno="25" group-title="famelack (tr) [tr] [False]" tvg-logo="", Diyanet TV
+#EXTINF:0001 tvg-id="1OlKTVorbB1nZr" tvg-chno="24" group-title="famelack (tr) [tr] [False]" tvg-logo="", Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="hvA9a09zJ8ENTp" tvg-chno="26" group-title="famelack (tr) [tr] [False]" tvg-logo="", Diyar TV
+#EXTINF:0001 tvg-id="hvA9a09zJ8ENTp" tvg-chno="25" group-title="famelack (tr) [tr] [False]" tvg-logo="", Diyar TV
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
-#EXTINF:0001 tvg-id="WhJMVtLO9qlGWk" tvg-chno="27" group-title="famelack (tr) [tr] [False]" tvg-logo="", Dost TV
+#EXTINF:0001 tvg-id="WhJMVtLO9qlGWk" tvg-chno="26" group-title="famelack (tr) [tr] [False]" tvg-logo="", Dost TV
 https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:0001 tvg-id="xUhiIIzFzr2BeH" tvg-chno="28" group-title="famelack (tr) [tr] [False]" tvg-logo="", Edessa TV
+#EXTINF:0001 tvg-id="xUhiIIzFzr2BeH" tvg-chno="27" group-title="famelack (tr) [tr] [False]" tvg-logo="", Edessa TV
 https://canli.edessatv.com/hls/stream.m3u8
-#EXTINF:0001 tvg-id="7jyQg4ihSASAyo" tvg-chno="29" group-title="famelack (tr) [tr] [False]" tvg-logo="", Ekol Sports
+#EXTINF:0001 tvg-id="7jyQg4ihSASAyo" tvg-chno="28" group-title="famelack (tr) [tr] [False]" tvg-logo="", Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
-#EXTINF:0001 tvg-id="gSMvZveXTsgLFU" tvg-chno="30" group-title="famelack (tr) [tr] [False]" tvg-logo="", Ekol TV
+#EXTINF:0001 tvg-id="gSMvZveXTsgLFU" tvg-chno="29" group-title="famelack (tr) [tr] [False]" tvg-logo="", Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:0001 tvg-id="6TzIP2eJ3m8bpX" tvg-chno="31" group-title="famelack (tr) [tr] [False]" tvg-logo="", Elsharq TV
+#EXTINF:0001 tvg-id="6TzIP2eJ3m8bpX" tvg-chno="30" group-title="famelack (tr) [tr] [False]" tvg-logo="", Elsharq TV
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-#EXTINF:0001 tvg-id="NaLDKK2n9zWTIs" tvg-chno="32" group-title="famelack (tr) [tr] [False]" tvg-logo="", Erciyes TV
+#EXTINF:0001 tvg-id="NaLDKK2n9zWTIs" tvg-chno="31" group-title="famelack (tr) [tr] [False]" tvg-logo="", Erciyes TV
 https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
-#EXTINF:0001 tvg-id="GJHn2TfHunPgwd" tvg-chno="33" group-title="famelack (tr) [tr] [True]" tvg-logo="", ERTV
+#EXTINF:0001 tvg-id="GJHn2TfHunPgwd" tvg-chno="32" group-title="famelack (tr) [tr] [True]" tvg-logo="", ERTV
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
-#EXTINF:0001 tvg-id="WHkVQZYPgkweaG" tvg-chno="34" group-title="famelack (tr) [tr] [False]" tvg-logo="", Erzurum Web TV
+#EXTINF:0001 tvg-id="WHkVQZYPgkweaG" tvg-chno="33" group-title="famelack (tr) [tr] [False]" tvg-logo="", Erzurum Web TV
 https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
-#EXTINF:0001 tvg-id="4WXm2uY8kIBqU4" tvg-chno="35" group-title="famelack (tr) [tr] [False]" tvg-logo="", ES TV
+#EXTINF:0001 tvg-id="4WXm2uY8kIBqU4" tvg-chno="34" group-title="famelack (tr) [tr] [False]" tvg-logo="", ES TV
 https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
-#EXTINF:0001 tvg-id="XeroOQjH9IhpiE" tvg-chno="36" group-title="famelack (tr) [tr] [False]" tvg-logo="", ETV Kayseri
+#EXTINF:0001 tvg-id="XeroOQjH9IhpiE" tvg-chno="35" group-title="famelack (tr) [tr] [False]" tvg-logo="", ETV Kayseri
 https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
-#EXTINF:0001 tvg-id="SSm48TGJZ2ZZyq" tvg-chno="37" group-title="famelack (tr) [tr] [False]" tvg-logo="", FB TV
+#EXTINF:0001 tvg-id="SSm48TGJZ2ZZyq" tvg-chno="36" group-title="famelack (tr) [tr] [False]" tvg-logo="", FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="qgqjKHkHjQzR2F" tvg-chno="37" group-title="famelack (tr) [tr] [False]" tvg-logo="", Finans Turk TV
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:0001 tvg-id="M7iic35BRSxsTh" tvg-chno="38" group-title="famelack (tr) [tr] [False]" tvg-logo="", Flash Haber TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="WDQpCRq4dLb0NU" tvg-chno="39" group-title="famelack (tr) [tr] [False]" tvg-logo="", Fortuna TV
@@ -107,10 +107,10 @@ https://live.euromediacenter.com/kanal19/tracks-v1a1/playlist.m3u8
 https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8
 #EXTINF:0001 tvg-id="y2961fqTVAJ9qU" tvg-chno="54" group-title="famelack (tr) [tr] [False]" tvg-logo="", Kanal 26
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
-#EXTINF:0001 tvg-id="F2Mb6ARE1l9qx2" tvg-chno="55" group-title="famelack (tr) [tr] [False]" tvg-logo="", Kanal 33
-https://edge2.taksimbilisim.com/kanal33/bant1/playlist.m3u8
-#EXTINF:0001 tvg-id="WlWPbkUSbOHRgd" tvg-chno="56" group-title="famelack (tr) [tr] [False]" tvg-logo="", Kanal 34
+#EXTINF:0001 tvg-id="WlWPbkUSbOHRgd" tvg-chno="55" group-title="famelack (tr) [tr] [False]" tvg-logo="", Kanal 34
 https://live.euromediacenter.com/kanal34/tracks-v1a1/playlist.m3u8
+#EXTINF:0001 tvg-id="xlr0SwBlM6DpLg" tvg-chno="56" group-title="famelack (tr) [tr] [False]" tvg-logo="", Kanal 58
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 #EXTINF:0001 tvg-id="HqIl2YxOsapx3V" tvg-chno="57" group-title="famelack (tr) [tr] [False]" tvg-logo="", Kanal Avrupa
 https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/playlist.m3u8
 #EXTINF:0001 tvg-id="s5TJFofoYPgAud" tvg-chno="58" group-title="famelack (tr) [tr] [False]" tvg-logo="", Kanal B

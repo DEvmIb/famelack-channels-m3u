@@ -21,16 +21,16 @@ https://video.angelustv.ro/hls/angelustv.m3u8
 https://aes.m3u8simplu.workers.dev/antena1/index.m3u8
 #EXTINF:0001 tvg-id="Gns5WkTHWUSX7n" tvg-chno="11" group-title="famelack (ro) [ro] [False]" tvg-logo="", Antena International
 https://aes.m3u8simplu.workers.dev/antenaint/index.m3u8
-#EXTINF:0001 tvg-id="uXqlv34zzBQ5z0" tvg-chno="12" group-title="famelack (ro) [ro] [False]" tvg-logo="", Antena Stars
+#EXTINF:0001 tvg-id="9UqseJeoJNwuVC" tvg-chno="12" group-title="famelack (ro) [ro] [False]" tvg-logo="", Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:0001 tvg-id="uXqlv34zzBQ5z0" tvg-chno="13" group-title="famelack (ro) [ro] [False]" tvg-logo="", Antena Stars
 https://aes.m3u8simplu.workers.dev/antenastars/index.m3u8
-#EXTINF:0001 tvg-id="2UXhXxAP9FifSB" tvg-chno="13" group-title="famelack (ro) [ro] [False]" tvg-logo="", Arges TV
-https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
-#EXTINF:0001 tvg-id="c1gByRg7bGFR8Z" tvg-chno="14" group-title="famelack (ro) [ro] [False]" tvg-logo="", Atomic Academy TV
+#EXTINF:0001 tvg-id="VqtDhAiC23hAWl" tvg-chno="14" group-title="famelack (ro) [ro] [False]" tvg-logo="", AntenaSport
+https://aes.m3u8simplu.workers.dev/antneassport/index.m3u8
+#EXTINF:0001 tvg-id="c1gByRg7bGFR8Z" tvg-chno="15" group-title="famelack (ro) [ro] [False]" tvg-logo="", Atomic Academy TV
 https://atomic.streamnet.ro/academia.m3u8
-#EXTINF:0001 tvg-id="HHRin5dp3UTQFP" tvg-chno="15" group-title="famelack (ro) [ro] [False]" tvg-logo="", Atomic TV
+#EXTINF:0001 tvg-id="HHRin5dp3UTQFP" tvg-chno="16" group-title="famelack (ro) [ro] [False]" tvg-logo="", Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:0001 tvg-id="whDcgoLZ0zFnPk" tvg-chno="16" group-title="famelack (ro) [ro] [False]" tvg-logo="", AXN Black Romania
-https://aes.m3u8simplu.workers.dev/axnblack/index.m3u8
 #EXTINF:0001 tvg-id="wq27mSSdEnCXS6" tvg-chno="17" group-title="famelack (ro) [ro] [False]" tvg-logo="", B1
 https://aes.m3u8simplu.workers.dev/b1/index.m3u8
 #EXTINF:0001 tvg-id="VBigvYn8JkeFMl" tvg-chno="18" group-title="famelack (ro) [ro] [False]" tvg-logo="", BBC Earth Romania
@@ -81,115 +81,121 @@ https://aes.m3u8simplu.workers.dev/filmboxstars/index.m3u8
 https://aes.m3u8simplu.workers.dev/filmbox/index.m3u8
 #EXTINF:0001 tvg-id="j3iM9SKccgXMOv" tvg-chno="41" group-title="famelack (ro) [ro] [False]" tvg-logo="", Happy Channel
 https://aes.m3u8simplu.workers.dev/happy/index.m3u8
-#EXTINF:0001 tvg-id="nlvnoQMvIoedNz" tvg-chno="42" group-title="famelack (ro) [ro] [False]" tvg-logo="", History
+#EXTINF:0001 tvg-id="mHg6rpXR6VaVXj" tvg-chno="42" group-title="famelack (ro) [ro] [False]" tvg-logo="", Hello Taste
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+#EXTINF:0001 tvg-id="nlvnoQMvIoedNz" tvg-chno="43" group-title="famelack (ro) [ro] [False]" tvg-logo="", History
 https://aes.m3u8simplu.workers.dev/history/index.m3u8
-#EXTINF:0001 tvg-id="4ghiPmfhBHh5Ly" tvg-chno="43" group-title="famelack (ro) [ro] [False]" tvg-logo="", IasiTV Life
+#EXTINF:0001 tvg-id="4ghiPmfhBHh5Ly" tvg-chno="44" group-title="famelack (ro) [ro] [False]" tvg-logo="", IasiTV Life
 https://tv.streambox.ro/hls/itv/index.m3u8
-#EXTINF:0001 tvg-id="nbZMDeOIAOPG4m" tvg-chno="44" group-title="famelack (ro) [ro] [False]" tvg-logo="", Impact TV Dance
+#EXTINF:0001 tvg-id="nbZMDeOIAOPG4m" tvg-chno="45" group-title="famelack (ro) [ro] [False]" tvg-logo="", Impact TV Dance
 https://online.tvimpact.live/hls/dancetv.m3u8
-#EXTINF:0001 tvg-id="s2CfErSAqt8tzT" tvg-chno="45" group-title="famelack (ro) [ro] [False]" tvg-logo="", Impact TV Manele
+#EXTINF:0001 tvg-id="s2CfErSAqt8tzT" tvg-chno="46" group-title="famelack (ro) [ro] [False]" tvg-logo="", Impact TV Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
-#EXTINF:0001 tvg-id="dwPib6Di7weUvt" tvg-chno="46" group-title="famelack (ro) [ro] [False]" tvg-logo="", Informatia TV
+#EXTINF:0001 tvg-id="dwPib6Di7weUvt" tvg-chno="47" group-title="famelack (ro) [ro] [False]" tvg-logo="", Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
-#EXTINF:0001 tvg-id="YjA5xk6RLQJ7vM" tvg-chno="47" group-title="famelack (ro) [ro] [False]" tvg-logo="", JimJam
+#EXTINF:0001 tvg-id="YjA5xk6RLQJ7vM" tvg-chno="48" group-title="famelack (ro) [ro] [False]" tvg-logo="", JimJam
 https://aes.m3u8simplu.workers.dev/jimjam/index.m3u8
-#EXTINF:0001 tvg-id="E9smyEh0BaQpif" tvg-chno="48" group-title="famelack (ro) [ro] [False]" tvg-logo="", JOB TV
+#EXTINF:0001 tvg-id="E9smyEh0BaQpif" tvg-chno="49" group-title="famelack (ro) [ro] [False]" tvg-logo="", JOB TV
 https://jobtvserver.eu/hls/stream.m3u8
-#EXTINF:0001 tvg-id="H8lAJKYghBWOpW" tvg-chno="49" group-title="famelack (ro) [ro] [False]" tvg-logo="", Kanal D
+#EXTINF:0001 tvg-id="H8lAJKYghBWOpW" tvg-chno="50" group-title="famelack (ro) [ro] [False]" tvg-logo="", Kanal D
 https://aes.m3u8simplu.workers.dev/kanald/index.m3u8
-#EXTINF:0001 tvg-id="3eEkVc9Pq06k4U" tvg-chno="50" group-title="famelack (ro) [ro] [False]" tvg-logo="", Kanal D2
+#EXTINF:0001 tvg-id="3eEkVc9Pq06k4U" tvg-chno="51" group-title="famelack (ro) [ro] [False]" tvg-logo="", Kanal D2
 https://aes.m3u8simplu.workers.dev/kanald2/index.m3u8
-#EXTINF:0001 tvg-id="3hq4NpWZFKw05F" tvg-chno="51" group-title="famelack (ro) [ro] [False]" tvg-logo="", Kiss TV
+#EXTINF:0001 tvg-id="3hq4NpWZFKw05F" tvg-chno="52" group-title="famelack (ro) [ro] [False]" tvg-logo="", Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:0001 tvg-id="NodY8gBnmYHwO8" tvg-chno="52" group-title="famelack (ro) [ro] [False]" tvg-logo="", Magic TV
+#EXTINF:0001 tvg-id="NodY8gBnmYHwO8" tvg-chno="53" group-title="famelack (ro) [ro] [False]" tvg-logo="", Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-#EXTINF:0001 tvg-id="FOsU86TnzYmDGQ" tvg-chno="53" group-title="famelack (ro) [ro] [False]" tvg-logo="", MISA TV
+#EXTINF:0001 tvg-id="U81csRB9YHDFcc" tvg-chno="54" group-title="famelack (ro) [ro] [False]" tvg-logo="", Mireasa
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:0001 tvg-id="FOsU86TnzYmDGQ" tvg-chno="55" group-title="famelack (ro) [ro] [False]" tvg-logo="", MISA TV
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
-#EXTINF:0001 tvg-id="CWCTvHjrmevuWH" tvg-chno="54" group-title="famelack (ro) [ro] [False]" tvg-logo="", Muscel TV
+#EXTINF:0001 tvg-id="CWCTvHjrmevuWH" tvg-chno="56" group-title="famelack (ro) [ro] [False]" tvg-logo="", Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="2aNpOEKNVVAbzN" tvg-chno="55" group-title="famelack (ro) [ro] [False]" tvg-logo="", Music Channel
+#EXTINF:0001 tvg-id="2aNpOEKNVVAbzN" tvg-chno="57" group-title="famelack (ro) [ro] [False]" tvg-logo="", Music Channel
 https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8
-#EXTINF:0001 tvg-id="GJqoGQwicVaUST" tvg-chno="56" group-title="famelack (ro) [ro] [False]" tvg-logo="", Nasul TV
+#EXTINF:0001 tvg-id="GJqoGQwicVaUST" tvg-chno="58" group-title="famelack (ro) [ro] [False]" tvg-logo="", Nasul TV
 https://live.nasul.tv/live/stream.m3u8
-#EXTINF:0001 tvg-id="h02ivdi6VUowym" tvg-chno="57" group-title="famelack (ro) [ro] [False]" tvg-logo="", National Geographic
+#EXTINF:0001 tvg-id="mnndhLxITdlhqU" tvg-chno="59" group-title="famelack (ro) [ro] [False]" tvg-logo="", National 24 Plus
+https://aes.m3u8simplu.workers.dev/nationalplus/index.m3u8
+#EXTINF:0001 tvg-id="h02ivdi6VUowym" tvg-chno="60" group-title="famelack (ro) [ro] [False]" tvg-logo="", National Geographic
 https://aes.m3u8simplu.workers.dev/natgeo/index.m3u8
-#EXTINF:0001 tvg-id="L8DhkS4ZVRWBVB" tvg-chno="58" group-title="famelack (ro) [ro] [False]" tvg-logo="", National Geographic Wild
+#EXTINF:0001 tvg-id="L8DhkS4ZVRWBVB" tvg-chno="61" group-title="famelack (ro) [ro] [False]" tvg-logo="", National Geographic Wild
 https://aes.m3u8simplu.workers.dev/natgeowild/index.m3u8
-#EXTINF:0001 tvg-id="iWgQmEwDVrwbe4" tvg-chno="59" group-title="famelack (ro) [ro] [False]" tvg-logo="", Nick Jr.
+#EXTINF:0001 tvg-id="iWgQmEwDVrwbe4" tvg-chno="62" group-title="famelack (ro) [ro] [False]" tvg-logo="", Nick Jr.
 https://aes.m3u8simplu.workers.dev/nickjr/index.m3u8
-#EXTINF:0001 tvg-id="T2YeVfcaiiFhTA" tvg-chno="60" group-title="famelack (ro) [ro] [False]" tvg-logo="", Nickelodeon
+#EXTINF:0001 tvg-id="T2YeVfcaiiFhTA" tvg-chno="63" group-title="famelack (ro) [ro] [False]" tvg-logo="", Nickelodeon
 https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8
-#EXTINF:0001 tvg-id="xzjnI8BbEIXshz" tvg-chno="61" group-title="famelack (ro) [ro] [False]" tvg-logo="", Nicktoons
+#EXTINF:0001 tvg-id="xzjnI8BbEIXshz" tvg-chno="64" group-title="famelack (ro) [ro] [False]" tvg-logo="", Nicktoons
 https://aes.m3u8simplu.workers.dev/nicktoons/index.m3u8
-#EXTINF:0001 tvg-id="0WnID2SztgkxZ9" tvg-chno="62" group-title="famelack (ro) [ro] [False]" tvg-logo="", Prima 4K
+#EXTINF:0001 tvg-id="0WnID2SztgkxZ9" tvg-chno="65" group-title="famelack (ro) [ro] [False]" tvg-logo="", Prima 4K
 https://aes.m3u8simplu.workers.dev/prima4kk/index.m3u8
-#EXTINF:0001 tvg-id="Z71jjGo1p2SVWS" tvg-chno="63" group-title="famelack (ro) [ro] [False]" tvg-logo="", Prima News
+#EXTINF:0001 tvg-id="Z71jjGo1p2SVWS" tvg-chno="66" group-title="famelack (ro) [ro] [False]" tvg-logo="", Prima News
 https://aes.m3u8simplu.workers.dev/primanews/index.m3u8
-#EXTINF:0001 tvg-id="kcYN3lDGbXaVTg" tvg-chno="64" group-title="famelack (ro) [ro] [False]" tvg-logo="", Prima Sport 5
+#EXTINF:0001 tvg-id="kcYN3lDGbXaVTg" tvg-chno="67" group-title="famelack (ro) [ro] [False]" tvg-logo="", Prima Sport 5
 https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8
-#EXTINF:0001 tvg-id="gQ4yJhCbiNiVtD" tvg-chno="65" group-title="famelack (ro) [ro] [False]" tvg-logo="", Prima TV
+#EXTINF:0001 tvg-id="gQ4yJhCbiNiVtD" tvg-chno="68" group-title="famelack (ro) [ro] [False]" tvg-logo="", Prima TV
 https://aes.m3u8simplu.workers.dev/primatv/index.m3u8
-#EXTINF:0001 tvg-id="P90F1v3BAiNDEK" tvg-chno="66" group-title="famelack (ro) [ro] [False]" tvg-logo="", Pro Arena
+#EXTINF:0001 tvg-id="P90F1v3BAiNDEK" tvg-chno="69" group-title="famelack (ro) [ro] [False]" tvg-logo="", Pro Arena
 https://aes.m3u8simplu.workers.dev/proarena/index.m3u8
-#EXTINF:0001 tvg-id="ieBKBzbhV90DcL" tvg-chno="67" group-title="famelack (ro) [ro] [False]" tvg-logo="", Pro Cinema
+#EXTINF:0001 tvg-id="ieBKBzbhV90DcL" tvg-chno="70" group-title="famelack (ro) [ro] [False]" tvg-logo="", Pro Cinema
 https://aes.m3u8simplu.workers.dev/procinema/index.m3u8
-#EXTINF:0001 tvg-id="Bogh5uPA0JvO9L" tvg-chno="68" group-title="famelack (ro) [ro] [False]" tvg-logo="", PRO TV
+#EXTINF:0001 tvg-id="Bogh5uPA0JvO9L" tvg-chno="71" group-title="famelack (ro) [ro] [False]" tvg-logo="", PRO TV
 https://aes.m3u8simplu.workers.dev/protv/index.m3u8
-#EXTINF:0001 tvg-id="0X8FWvEIJjEEgs" tvg-chno="69" group-title="famelack (ro) [ro] [False]" tvg-logo="", PRO TV International
+#EXTINF:0001 tvg-id="0X8FWvEIJjEEgs" tvg-chno="72" group-title="famelack (ro) [ro] [False]" tvg-logo="", PRO TV International
 https://aes.m3u8simplu.workers.dev/protvint/index.m3u8
-#EXTINF:0001 tvg-id="4h6cMZ9oIjvfDv" tvg-chno="70" group-title="famelack (ro) [ro] [False]" tvg-logo="", PROTV News
+#EXTINF:0001 tvg-id="4h6cMZ9oIjvfDv" tvg-chno="73" group-title="famelack (ro) [ro] [False]" tvg-logo="", PROTV News
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
-#EXTINF:0001 tvg-id="V2O33fBcF0imvd" tvg-chno="71" group-title="famelack (ro) [ro] [False]" tvg-logo="", Radio Fx Net
+#EXTINF:0001 tvg-id="V2O33fBcF0imvd" tvg-chno="74" group-title="famelack (ro) [ro] [False]" tvg-logo="", Radio Fx Net
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
-#EXTINF:0001 tvg-id="3pJjaTUntpL9ea" tvg-chno="72" group-title="famelack (ro) [ro] [False]" tvg-logo="", Realitatea Plus
+#EXTINF:0001 tvg-id="3pJjaTUntpL9ea" tvg-chno="75" group-title="famelack (ro) [ro] [False]" tvg-logo="", Realitatea Plus
 https://aes.m3u8simplu.workers.dev/realitateaplus/index.m3u8
-#EXTINF:0001 tvg-id="ANI4hASUhHAk6D" tvg-chno="73" group-title="famelack (ro) [ro] [False]" tvg-logo="", Rock TV
+#EXTINF:0001 tvg-id="ANI4hASUhHAk6D" tvg-chno="76" group-title="famelack (ro) [ro] [False]" tvg-logo="", Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:0001 tvg-id="BcuPHrC9bsxRXv" tvg-chno="74" group-title="famelack (ro) [ro] [False]" tvg-logo="", Romania TV
+#EXTINF:0001 tvg-id="BcuPHrC9bsxRXv" tvg-chno="77" group-title="famelack (ro) [ro] [False]" tvg-logo="", Romania TV
 https://aes.m3u8simplu.workers.dev/romaniatv/index.m3u8
-#EXTINF:0001 tvg-id="AOUELy3o1aVqxI" tvg-chno="75" group-title="famelack (ro) [ro] [False]" tvg-logo="", Sport Extra
+#EXTINF:0001 tvg-id="AOUELy3o1aVqxI" tvg-chno="78" group-title="famelack (ro) [ro] [False]" tvg-logo="", Sport Extra
 https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8
-#EXTINF:0001 tvg-id="ANjmcabwkJ7U8K" tvg-chno="76" group-title="famelack (ro) [ro] [False]" tvg-logo="", Super TV
+#EXTINF:0001 tvg-id="ANjmcabwkJ7U8K" tvg-chno="79" group-title="famelack (ro) [ro] [False]" tvg-logo="", Super TV
 https://live.supertv.ro/live/supertv/playlist.m3u8
-#EXTINF:0001 tvg-id="o5xFTwZ5XqqWJt" tvg-chno="77" group-title="famelack (ro) [ro] [False]" tvg-logo="", Tele7ABC HD
+#EXTINF:0001 tvg-id="o5xFTwZ5XqqWJt" tvg-chno="80" group-title="famelack (ro) [ro] [False]" tvg-logo="", Tele7ABC HD
 https://live.tele7abc.ro/hls/stream/index.m3u8
-#EXTINF:0001 tvg-id="Njn8bJGKqOkI3F" tvg-chno="78" group-title="famelack (ro) [ro] [False]" tvg-logo="", Tele7music
+#EXTINF:0001 tvg-id="Njn8bJGKqOkI3F" tvg-chno="81" group-title="famelack (ro) [ro] [False]" tvg-logo="", Tele7music
 https://live.tele7music.ro/hls/stream/index.m3u8
-#EXTINF:0001 tvg-id="hIj4Fm6gOaC8Wj" tvg-chno="79" group-title="famelack (ro) [ro] [True]" tvg-logo="", TeleMoldova +
+#EXTINF:0001 tvg-id="hIj4Fm6gOaC8Wj" tvg-chno="82" group-title="famelack (ro) [ro] [True]" tvg-logo="", TeleMoldova +
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
-#EXTINF:0001 tvg-id="xgGgBivUKaFSsJ" tvg-chno="80" group-title="famelack (ro) [ro] [False]" tvg-logo="", Telestar1
+#EXTINF:0001 tvg-id="xgGgBivUKaFSsJ" tvg-chno="83" group-title="famelack (ro) [ro] [False]" tvg-logo="", Telestar1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
-#EXTINF:0001 tvg-id="u0hkmFoeexuAOa" tvg-chno="81" group-title="famelack (ro) [ro] [False]" tvg-logo="", Timeless Dizi Channel
+#EXTINF:0001 tvg-id="u0hkmFoeexuAOa" tvg-chno="84" group-title="famelack (ro) [ro] [False]" tvg-logo="", Timeless Dizi Channel
 https://aes.m3u8simplu.workers.dev/dizi/index.m3u8
-#EXTINF:0001 tvg-id="SOfgHr5ltnKsnN" tvg-chno="82" group-title="famelack (ro) [ro] [False]" tvg-logo="", TV1000
+#EXTINF:0001 tvg-id="SOfgHr5ltnKsnN" tvg-chno="85" group-title="famelack (ro) [ro] [False]" tvg-logo="", TV1000
 https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8
-#EXTINF:0001 tvg-id="rMcJnRPCctPt1F" tvg-chno="83" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR 1
+#EXTINF:0001 tvg-id="rMcJnRPCctPt1F" tvg-chno="86" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="aSwhkd8O6WnBnD" tvg-chno="84" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR 2
+#EXTINF:0001 tvg-id="aSwhkd8O6WnBnD" tvg-chno="87" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR 2
 https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="L8huPDS6MhGzMC" tvg-chno="85" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR 3
+#EXTINF:0001 tvg-id="L8huPDS6MhGzMC" tvg-chno="88" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR 3
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="VtcHR41kw8nIt8" tvg-chno="86" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Cluj
+#EXTINF:0001 tvg-id="VtcHR41kw8nIt8" tvg-chno="89" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Cluj
 https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="5U2zNKFRDXgbSV" tvg-chno="87" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Craiova
+#EXTINF:0001 tvg-id="5U2zNKFRDXgbSV" tvg-chno="90" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Craiova
 https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="AgdBh1G6zjQQ1P" tvg-chno="88" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Cultural
+#EXTINF:0001 tvg-id="AgdBh1G6zjQQ1P" tvg-chno="91" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="pZ7DVIEngrRQGF" tvg-chno="89" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Folclor
+#EXTINF:0001 tvg-id="pZ7DVIEngrRQGF" tvg-chno="92" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="9cILsiM6Ok0SlN" tvg-chno="90" group-title="famelack (ro) [ro] [True]" tvg-logo="", TVR Iasi
+#EXTINF:0001 tvg-id="9cILsiM6Ok0SlN" tvg-chno="93" group-title="famelack (ro) [ro] [True]" tvg-logo="", TVR Iasi
 https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="QmyDk7u02PWKpA" tvg-chno="91" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Info
+#EXTINF:0001 tvg-id="QmyDk7u02PWKpA" tvg-chno="94" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Info
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="otbytoTxWQ2OOt" tvg-chno="92" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR International
+#EXTINF:0001 tvg-id="otbytoTxWQ2OOt" tvg-chno="95" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR International
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="lX8llbHeMkmnOY" tvg-chno="93" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Sport
+#EXTINF:0001 tvg-id="lX8llbHeMkmnOY" tvg-chno="96" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="ZDopo4R7djDObF" tvg-chno="94" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Targu-Mures
+#EXTINF:0001 tvg-id="ZDopo4R7djDObF" tvg-chno="97" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Targu-Mures
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="jtHnKdBTp3Dn99" tvg-chno="95" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Timisoara
+#EXTINF:0001 tvg-id="jtHnKdBTp3Dn99" tvg-chno="98" group-title="famelack (ro) [ro] [False]" tvg-logo="", TVR Timisoara
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="lCGm4msWtl1OQW" tvg-chno="96" group-title="famelack (ro) [ro] [False]" tvg-logo="", UTV
+#EXTINF:0001 tvg-id="lCGm4msWtl1OQW" tvg-chno="99" group-title="famelack (ro) [ro] [False]" tvg-logo="", UTV
 https://aes.m3u8simplu.workers.dev/utv/index.m3u8
-#EXTINF:0001 tvg-id="KGA04p0SuQbxQw" tvg-chno="97" group-title="famelack (ro) [ro] [False]" tvg-logo="", ZU TV
+#EXTINF:0001 tvg-id="KGA04p0SuQbxQw" tvg-chno="100" group-title="famelack (ro) [ro] [False]" tvg-logo="", ZU TV
 https://aes.m3u8simplu.workers.dev/zutv/index.m3u8
