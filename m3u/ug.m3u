@@ -21,7 +21,9 @@ https://channels.ad-ug.com/live/ch03/index.m3u8
 https://live.esteem.africa/kstv/hls/0/stream.m3u8
 #EXTINF:0001 tvg-id="0mvfYMd3uL2bLx" tvg-chno="11" group-title="famelack (ug) [ug] [False]" tvg-logo="", Praise Jesus Tower TV
 https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8
-#EXTINF:0001 tvg-id="ibOddTJcAbkJ9l" tvg-chno="12" group-title="famelack (ug) [ug] [False]" tvg-logo="", TV West
+#EXTINF:0001 tvg-id="5ICEyy7pM67OTL" tvg-chno="12" group-title="famelack (ug) [ug] [False]" tvg-logo="", Tayari West TV
+https://stream.hydeinnovations.com/tarari-west/index.m3u8
+#EXTINF:0001 tvg-id="ibOddTJcAbkJ9l" tvg-chno="13" group-title="famelack (ug) [ug] [False]" tvg-logo="", TV West
 https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
-#EXTINF:0001 tvg-id="2MNeOOhZfnkjQV" tvg-chno="13" group-title="famelack (ug) [ug] [False]" tvg-logo="", Wan Luo TV
+#EXTINF:0001 tvg-id="2MNeOOhZfnkjQV" tvg-chno="14" group-title="famelack (ug) [ug] [False]" tvg-logo="", Wan Luo TV
 https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8

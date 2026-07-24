@@ -55,11 +55,13 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u
 https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8
 #EXTINF:0001 tvg-id="sbDH8jcQOtprOU" tvg-chno="28" group-title="famelack (ng) [ng] [False]" tvg-logo="", TVC
 https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
-#EXTINF:0001 tvg-id="UgWTds4qowCm7J" tvg-chno="29" group-title="famelack (ng) [ng] [False]" tvg-logo="", Waffi TV
+#EXTINF:0001 tvg-id="VM7O6sHWaNyeKk" tvg-chno="29" group-title="famelack (ng) [ng] [False]" tvg-logo="", UTV Africa
+https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestreamUTV/8f263182c36c7e5c56a986bf770091e3.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="UgWTds4qowCm7J" tvg-chno="30" group-title="famelack (ng) [ng] [False]" tvg-logo="", Waffi TV
 https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="Y3iniHuYhBuCQD" tvg-chno="30" group-title="famelack (ng) [ng] [False]" tvg-logo="", Wap TV
+#EXTINF:0001 tvg-id="Y3iniHuYhBuCQD" tvg-chno="31" group-title="famelack (ng) [ng] [False]" tvg-logo="", Wap TV
 https://newproxy3.vidivu.tv/waptv/index.m3u8
-#EXTINF:0001 tvg-id="XBCn7LG1vDEDMn" tvg-chno="31" group-title="famelack (ng) [ng] [False]" tvg-logo="", Wazobia Max TV Nigeria
+#EXTINF:0001 tvg-id="XBCn7LG1vDEDMn" tvg-chno="32" group-title="famelack (ng) [ng] [False]" tvg-logo="", Wazobia Max TV Nigeria
 https://wazobia.live:8333/channel/wmax.m3u8
-#EXTINF:0001 tvg-id="bmxTZy6nlmaoMM" tvg-chno="32" group-title="famelack (ng) [ng] [False]" tvg-logo="", Wazobia Max TV Port-Harcourt
-https://wazobia.live:8333/channel/wmaxph.m3u8
+#EXTINF:0001 tvg-id="t9Pe2C5CmBhLfZ" tvg-chno="33" group-title="famelack (ng) [ng] [False]" tvg-logo="", Yobe TV
+https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestream24/60414fd886a863e5851f4559fb86e7f6.sdp/playlist.m3u8

@@ -25,11 +25,9 @@ https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:0001 tvg-id="fwm1YJJu2dW30c" tvg-chno="13" group-title="famelack (bg) [bg] [False]" tvg-logo="", Travel TV
 https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:0001 tvg-id="NKuKjDs9z9rYim" tvg-chno="14" group-title="famelack (bg) [bg] [False]" tvg-logo="", TV Spravedliva Bulgariya
-https://tv.tvsb.bg/112.m3u8
-#EXTINF:0001 tvg-id="ELDNWWv9rjJl60" tvg-chno="15" group-title="famelack (bg) [bg] [False]" tvg-logo="", Viasat Explore
+#EXTINF:0001 tvg-id="ELDNWWv9rjJl60" tvg-chno="14" group-title="famelack (bg) [bg] [False]" tvg-logo="", Viasat Explore
 https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
-#EXTINF:0001 tvg-id="9qxiwyypjNrlXI" tvg-chno="16" group-title="famelack (bg) [bg] [False]" tvg-logo="", Viasat History
+#EXTINF:0001 tvg-id="9qxiwyypjNrlXI" tvg-chno="15" group-title="famelack (bg) [bg] [False]" tvg-logo="", Viasat History
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
-#EXTINF:0001 tvg-id="grL6LmvbHNpgqD" tvg-chno="17" group-title="famelack (bg) [bg] [False]" tvg-logo="", Viasat Nature
+#EXTINF:0001 tvg-id="grL6LmvbHNpgqD" tvg-chno="16" group-title="famelack (bg) [bg] [False]" tvg-logo="", Viasat Nature
 https://shift03.isp.bg/ViasatNature_HD/index.m3u8

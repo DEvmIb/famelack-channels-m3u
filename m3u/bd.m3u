@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="NUfChQbZD3i9g3" tvg-chno="1" group-title="famelack (bd) [bd] [False]" tvg-logo="", ATN Bangla
+#EXTINF:0001 tvg-id="7ynlCad0Y1lkdJ" tvg-chno="1" group-title="famelack (bd) [bd] [False]" tvg-logo="", Ananda TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF:0001 tvg-id="NUfChQbZD3i9g3" tvg-chno="2" group-title="famelack (bd) [bd] [False]" tvg-logo="", ATN Bangla
 https://tvsen5.aynascope.net/atnbangla/index.m3u8
-#EXTINF:0001 tvg-id="GPyu3zvadmUURC" tvg-chno="2" group-title="famelack (bd) [bd] [False]" tvg-logo="", ATN Music
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="7AOHjcyPOlQEZK" tvg-chno="3" group-title="famelack (bd) [bd] [False]" tvg-logo="", Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:0001 tvg-id="uXMcPHTew9graP" tvg-chno="3" group-title="famelack (bd) [bd] [False]" tvg-logo="", Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="KFm0NDZdja9VIZ" tvg-chno="4" group-title="famelack (bd) [bd] [False]" tvg-logo="", Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="29x0D5l70jxbBR" tvg-chno="5" group-title="famelack (bd) [bd] [False]" tvg-logo="", Green TV
