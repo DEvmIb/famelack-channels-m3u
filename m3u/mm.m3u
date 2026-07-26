@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="HHeNdiN3BiVkqE" tvg-chno="1" group-title="famelack (mm) [mm] [False]" tvg-logo="", 5 Plus
-https://mmtvs.exliatycl.online/5plus/stream.m3u8
-#EXTINF:0001 tvg-id="lJxbJzVFzPxoKe" tvg-chno="2" group-title="famelack (mm) [mm] [False]" tvg-logo="", Channel 9
+#EXTINF:0001 tvg-id="lJxbJzVFzPxoKe" tvg-chno="1" group-title="famelack (mm) [mm] [False]" tvg-logo="", Channel 9
 https://mmtvs.exliatycl.online/channel9/stream.m3u8
-#EXTINF:0001 tvg-id="kszAzFKJkm7QTb" tvg-chno="3" group-title="famelack (mm) [mm] [False]" tvg-logo="", Channel K
+#EXTINF:0001 tvg-id="kszAzFKJkm7QTb" tvg-chno="2" group-title="famelack (mm) [mm] [False]" tvg-logo="", Channel K
 https://mmtvs.exliatycl.online/channelk/stream.m3u8
-#EXTINF:0001 tvg-id="i6vxWElbJaIPBX" tvg-chno="4" group-title="famelack (mm) [mm] [True]" tvg-logo="", DVB TV
+#EXTINF:0001 tvg-id="i6vxWElbJaIPBX" tvg-chno="3" group-title="famelack (mm) [mm] [True]" tvg-logo="", DVB TV
 https://live-stream.dvb.no/hls/stream_src/index.m3u8
-#EXTINF:0001 tvg-id="GfJ7VIax7NdRHG" tvg-chno="5" group-title="famelack (mm) [mm] [False]" tvg-logo="", Fortune TV
+#EXTINF:0001 tvg-id="GfJ7VIax7NdRHG" tvg-chno="4" group-title="famelack (mm) [mm] [False]" tvg-logo="", Fortune TV
 https://mmtvs.exliatycl.online/fortunetv/stream.m3u8
-#EXTINF:0001 tvg-id="7ZgqWGifHbBDxx" tvg-chno="6" group-title="famelack (mm) [mm] [False]" tvg-logo="", M Entertainment Channel
-https://mmtvs.exliatycl.online/mchannel/stream.m3u8
