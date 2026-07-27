@@ -177,157 +177,159 @@ https://amagi-streams.akamaized.net/hls/live/2120484/schittscreek/master.m3u8
 https://cdn12.henico.net:8443/live/ssct/index.m3u8
 #EXTINF:0001 tvg-id="jVntXYmn9juMuc" tvg-chno="89" group-title="famelack (ca) [ca] [False]" tvg-logo="", Slice
 https://40.160.24.55/SLICE/index.m3u8
-#EXTINF:0001 tvg-id="7Cp1Y1X0LUUt6R" tvg-chno="90" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Christian Hits
+#EXTINF:0001 tvg-id="mmZjHuy87LmO4O" tvg-chno="90" group-title="famelack (ca) [ca] [False]" tvg-logo="", Sooriyan TV
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+#EXTINF:0001 tvg-id="7Cp1Y1X0LUUt6R" tvg-chno="91" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Christian Hits
 https://lotus.stingray.com/manifest/ose-144ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="qpF7m9G3h7D2Qo" tvg-chno="91" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Cityscapes
+#EXTINF:0001 tvg-id="qpF7m9G3h7D2Qo" tvg-chno="92" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Cityscapes
 https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
-#EXTINF:0001 tvg-id="sMtLcZJ0VSsWq6" tvg-chno="92" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Classic Rock
+#EXTINF:0001 tvg-id="sMtLcZJ0VSsWq6" tvg-chno="93" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="5t53vL5oPCm3CM" tvg-chno="93" group-title="famelack (ca) [ca] [True]" tvg-logo="", Stingray Classica
+#EXTINF:0001 tvg-id="5t53vL5oPCm3CM" tvg-chno="94" group-title="famelack (ca) [ca] [True]" tvg-logo="", Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="LuDNPxab0f0pCa" tvg-chno="94" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Country Greats
+#EXTINF:0001 tvg-id="LuDNPxab0f0pCa" tvg-chno="95" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Country Greats
 https://lotus.stingray.com/manifest/ose-109ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="UGxPWRWN0Sji0R" tvg-chno="95" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Cozy Cafe
+#EXTINF:0001 tvg-id="UGxPWRWN0Sji0R" tvg-chno="96" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Cozy Cafe
 https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
-#EXTINF:0001 tvg-id="tGCcprlVTCHu3P" tvg-chno="96" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray DJAZZ
+#EXTINF:0001 tvg-id="tGCcprlVTCHu3P" tvg-chno="97" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="VPFun0juaZjIN3" tvg-chno="97" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Easy Listening
+#EXTINF:0001 tvg-id="VPFun0juaZjIN3" tvg-chno="98" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="44qSwmjsmwXRek" tvg-chno="98" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Epoca Dorada Del Cine Mexicano
+#EXTINF:0001 tvg-id="44qSwmjsmwXRek" tvg-chno="99" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Epoca Dorada Del Cine Mexicano
 https://lotus.stingray.com/manifest/ose-219ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="8qLFxbuQRNnGX0" tvg-chno="99" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Euro Hits
+#EXTINF:0001 tvg-id="8qLFxbuQRNnGX0" tvg-chno="100" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Euro Hits
 https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="pvJhcGmeEkVjBx" tvg-chno="100" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Everything '80s
+#EXTINF:0001 tvg-id="pvJhcGmeEkVjBx" tvg-chno="101" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Everything '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="Mf8pXy8d01VBSw" tvg-chno="101" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Exitos Regional Mexicanos
+#EXTINF:0001 tvg-id="Mf8pXy8d01VBSw" tvg-chno="102" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Exitos Regional Mexicanos
 https://lotus.stingray.com/manifest/ose-226ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="zD4Y5y6wXaKfn5" tvg-chno="102" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Fado Classics
+#EXTINF:0001 tvg-id="zD4Y5y6wXaKfn5" tvg-chno="103" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Fado Classics
 https://lotus.stingray.com/manifest/ose-346ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="NHOjcsTXpu7xp8" tvg-chno="103" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Flashback 70's
+#EXTINF:0001 tvg-id="NHOjcsTXpu7xp8" tvg-chno="104" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Flashback 70's
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="ImEGEUJO9h6seT" tvg-chno="104" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Franco Country
+#EXTINF:0001 tvg-id="ImEGEUJO9h6seT" tvg-chno="105" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Franco Country
 https://lotus.stingray.com/manifest/ose-010ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="zmeUtA6KPvzbRz" tvg-chno="105" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Franco Pop
+#EXTINF:0001 tvg-id="zmeUtA6KPvzbRz" tvg-chno="106" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Franco Pop
 https://lotus.stingray.com/manifest/ose-013ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="JfEJD3MFXGcCEF" tvg-chno="106" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Franco Retro
+#EXTINF:0001 tvg-id="JfEJD3MFXGcCEF" tvg-chno="107" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Franco Retro
 https://lotus.stingray.com/manifest/ose-043ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="PLyzg7bEbVaYeq" tvg-chno="107" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Greatest Hits
+#EXTINF:0001 tvg-id="PLyzg7bEbVaYeq" tvg-chno="108" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Greatest Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
-#EXTINF:0001 tvg-id="dGnnFAIWlrqRDZ" tvg-chno="108" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Green Noise
+#EXTINF:0001 tvg-id="dGnnFAIWlrqRDZ" tvg-chno="109" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Green Noise
 https://lotus.stingray.com/manifest/ose-815ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="pYy3yuvkXW9VTm" tvg-chno="109" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Hit List
+#EXTINF:0001 tvg-id="pYy3yuvkXW9VTm" tvg-chno="110" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="VyYM4FyimdIPD4" tvg-chno="110" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Hitlist
+#EXTINF:0001 tvg-id="VyYM4FyimdIPD4" tvg-chno="111" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Hitlist
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054
-#EXTINF:0001 tvg-id="1VVSP3wvxZoS1t" tvg-chno="111" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Holiday Hits
+#EXTINF:0001 tvg-id="1VVSP3wvxZoS1t" tvg-chno="112" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="bGBVYmklyH3Rjz" tvg-chno="112" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Holidayscapes
+#EXTINF:0001 tvg-id="bGBVYmklyH3Rjz" tvg-chno="113" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Holidayscapes
 https://lotus.stingray.com/manifest/holidayscapes-hol001ads_hol001-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="J1T4cNu5RBkAKP" tvg-chno="113" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Hot Country
+#EXTINF:0001 tvg-id="J1T4cNu5RBkAKP" tvg-chno="114" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Hot Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="1pdHY2BpwdxFvj" tvg-chno="114" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray iConcerts
+#EXTINF:0001 tvg-id="1pdHY2BpwdxFvj" tvg-chno="115" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray iConcerts
 https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:0001 tvg-id="ptxvnMl5xYixJn" tvg-chno="115" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Italo Disco
+#EXTINF:0001 tvg-id="ptxvnMl5xYixJn" tvg-chno="116" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Italo Disco
 https://lotus.stingray.com/manifest/ose-311ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="JEGxm42oQErOhy" tvg-chno="116" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Jukebox Oldies
+#EXTINF:0001 tvg-id="JEGxm42oQErOhy" tvg-chno="117" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Jukebox Oldies
 https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="apMu1i3Pub5wzT" tvg-chno="117" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Karaoke
+#EXTINF:0001 tvg-id="apMu1i3Pub5wzT" tvg-chno="118" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="KDjUhSdm8BA6Kn" tvg-chno="118" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray le Palmares
+#EXTINF:0001 tvg-id="KDjUhSdm8BA6Kn" tvg-chno="119" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray le Palmares
 https://lotus.stingray.com/manifest/ose-060ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="tq0GAgkxyADPHu" tvg-chno="119" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray MPB
+#EXTINF:0001 tvg-id="tq0GAgkxyADPHu" tvg-chno="120" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray MPB
 https://lotus.stingray.com/manifest/ose-204ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="CWjXSZP10aUpsz" tvg-chno="120" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Music For Focus
+#EXTINF:0001 tvg-id="CWjXSZP10aUpsz" tvg-chno="121" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Music For Focus
 https://lotus.stingray.com/manifest/ose-814ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="A1T3tixQdrLLm1" tvg-chno="121" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Naturescape
+#EXTINF:0001 tvg-id="A1T3tixQdrLLm1" tvg-chno="122" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Naturescape
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
-#EXTINF:0001 tvg-id="CPmWhvF9GttjNW" tvg-chno="122" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Naturescape
+#EXTINF:0001 tvg-id="CPmWhvF9GttjNW" tvg-chno="123" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="Ajrkql15svESoZ" tvg-chno="123" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Nostalgie
+#EXTINF:0001 tvg-id="Ajrkql15svESoZ" tvg-chno="124" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Nostalgie
 https://lotus.stingray.com/manifest/ose-014ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="kRY39mIs1mv9Fd" tvg-chno="124" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Nothin' But 90s
+#EXTINF:0001 tvg-id="kRY39mIs1mv9Fd" tvg-chno="125" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="7epLhNu81uLgOv" tvg-chno="125" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Peaceful Piano
+#EXTINF:0001 tvg-id="7epLhNu81uLgOv" tvg-chno="126" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Peaceful Piano
 https://lotus.stingray.com/manifest/ose-807ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="bZP0GZceldYWok" tvg-chno="126" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Pop Adult
+#EXTINF:0001 tvg-id="bZP0GZceldYWok" tvg-chno="127" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Pop Adult
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="ul9PRIJfc2YuKR" tvg-chno="127" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Pop Mexicano 80s
+#EXTINF:0001 tvg-id="ul9PRIJfc2YuKR" tvg-chno="128" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Pop Mexicano 80s
 https://lotus.stingray.com/manifest/ose-218ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="aGL6uO2fdWf1pG" tvg-chno="128" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Reggaeton
+#EXTINF:0001 tvg-id="aGL6uO2fdWf1pG" tvg-chno="129" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Reggaeton
 https://lotus.stingray.com/manifest/ose-176ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="HAqpZorYfDzctU" tvg-chno="129" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Remember the 80s
+#EXTINF:0001 tvg-id="HAqpZorYfDzctU" tvg-chno="130" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Remember the 80s
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071
-#EXTINF:0001 tvg-id="s9cbqCrX4IcCvh" tvg-chno="130" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Remember the 80s
+#EXTINF:0001 tvg-id="s9cbqCrX4IcCvh" tvg-chno="131" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Remember the 80s
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8
-#EXTINF:0001 tvg-id="25ZNUn4YbArAJM" tvg-chno="131" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Rock Alternative
+#EXTINF:0001 tvg-id="25ZNUn4YbArAJM" tvg-chno="132" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Rock Alternative
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="bUJfCS9FEheI15" tvg-chno="132" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Romance Latino
+#EXTINF:0001 tvg-id="bUJfCS9FEheI15" tvg-chno="133" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Romance Latino
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="aMQGaf9VQTtBOz" tvg-chno="133" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Smooth Jazz
+#EXTINF:0001 tvg-id="aMQGaf9VQTtBOz" tvg-chno="134" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="rQ08vMxIvkWKUO" tvg-chno="134" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Soccer Anthems
+#EXTINF:0001 tvg-id="rQ08vMxIvkWKUO" tvg-chno="135" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Soccer Anthems
 https://lotus.stingray.com/manifest/ose-347ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="6EKJRD9db0wXXf" tvg-chno="135" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Soft Hits
+#EXTINF:0001 tvg-id="6EKJRD9db0wXXf" tvg-chno="136" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Soft Hits
 https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="sNGGurE66w6NWe" tvg-chno="136" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Soul Storm
+#EXTINF:0001 tvg-id="sNGGurE66w6NWe" tvg-chno="137" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Soul Storm
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="aMVjppfHKNUj1I" tvg-chno="137" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Souvenirs
+#EXTINF:0001 tvg-id="aMVjppfHKNUj1I" tvg-chno="138" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Souvenirs
 https://lotus.stingray.com/manifest/ose-012ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="ZJDf9og64KJYdT" tvg-chno="138" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Thai Pop
+#EXTINF:0001 tvg-id="ZJDf9og64KJYdT" tvg-chno="139" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Thai Pop
 https://lotus.stingray.com/manifest/ose-314ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="eOtQMHFA0jA6gs" tvg-chno="139" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray The Spa
+#EXTINF:0001 tvg-id="eOtQMHFA0jA6gs" tvg-chno="140" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="lPItQDuSJM19GR" tvg-chno="140" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray TikTok Radio
+#EXTINF:0001 tvg-id="lPItQDuSJM19GR" tvg-chno="141" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray TikTok Radio
 https://lotus.stingray.com/manifest/ose-185ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="wrMyyZ5wXg4rn0" tvg-chno="141" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Today's K-Pop
+#EXTINF:0001 tvg-id="wrMyyZ5wXg4rn0" tvg-chno="142" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Today's K-Pop
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="2traBrKxK805Yl" tvg-chno="142" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Today's Latin Pop
+#EXTINF:0001 tvg-id="2traBrKxK805Yl" tvg-chno="143" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Today's Latin Pop
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="p0SZrz0oHIGKvz" tvg-chno="143" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Urban Beat
+#EXTINF:0001 tvg-id="p0SZrz0oHIGKvz" tvg-chno="144" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="OH0JK3pX8UiELo" tvg-chno="144" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Y2K
+#EXTINF:0001 tvg-id="OH0JK3pX8UiELo" tvg-chno="145" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray Y2K
 https://lotus.stingray.com/manifest/ose-232ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="W8lBjKciGjp1K5" tvg-chno="145" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray ZenLIFE
+#EXTINF:0001 tvg-id="W8lBjKciGjp1K5" tvg-chno="146" group-title="famelack (ca) [ca] [False]" tvg-logo="", Stingray ZenLIFE
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
-#EXTINF:0001 tvg-id="daf0IVQd6eS7Tl" tvg-chno="146" group-title="famelack (ca) [ca] [False]" tvg-logo="", Super Channel Vault
+#EXTINF:0001 tvg-id="daf0IVQd6eS7Tl" tvg-chno="147" group-title="famelack (ca) [ca] [False]" tvg-logo="", Super Channel Vault
 https://206.212.244.63/6142/index.m3u8
-#EXTINF:0001 tvg-id="rX9UmgbTzSMtQs" tvg-chno="147" group-title="famelack (ca) [ca] [False]" tvg-logo="", TAG TV
+#EXTINF:0001 tvg-id="rX9UmgbTzSMtQs" tvg-chno="148" group-title="famelack (ca) [ca] [False]" tvg-logo="", TAG TV
 https://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="DsGUoe2MbJmXQZ" tvg-chno="148" group-title="famelack (ca) [ca] [False]" tvg-logo="", TamilVision-TV
+#EXTINF:0001 tvg-id="DsGUoe2MbJmXQZ" tvg-chno="149" group-title="famelack (ca) [ca] [False]" tvg-logo="", TamilVision-TV
 https://live.cmr24.fm/TVI/HD/chunks.m3u8
-#EXTINF:0001 tvg-id="CogDGXOfoZLTPT" tvg-chno="149" group-title="famelack (ca) [ca] [False]" tvg-logo="", The Cowboy Channel Canada
+#EXTINF:0001 tvg-id="CogDGXOfoZLTPT" tvg-chno="150" group-title="famelack (ca) [ca] [False]" tvg-logo="", The Cowboy Channel Canada
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
-#EXTINF:0001 tvg-id="Xrqwoq40lkwai9" tvg-chno="150" group-title="famelack (ca) [ca] [False]" tvg-logo="", The Jack Hannah Channel
+#EXTINF:0001 tvg-id="Xrqwoq40lkwai9" tvg-chno="151" group-title="famelack (ca) [ca] [False]" tvg-logo="", The Jack Hannah Channel
 https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="ExqfRu5vFNM6yj" tvg-chno="151" group-title="famelack (ca) [ca] [False]" tvg-logo="", Total Crime CA
+#EXTINF:0001 tvg-id="ExqfRu5vFNM6yj" tvg-chno="152" group-title="famelack (ca) [ca] [False]" tvg-logo="", Total Crime CA
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
-#EXTINF:0001 tvg-id="DR294yaoAeNjE4" tvg-chno="152" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSC
+#EXTINF:0001 tvg-id="DR294yaoAeNjE4" tvg-chno="153" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSC
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
-#EXTINF:0001 tvg-id="P1nM4FBKgqLCGY" tvg-chno="153" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSN The Ocho
+#EXTINF:0001 tvg-id="P1nM4FBKgqLCGY" tvg-chno="154" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-#EXTINF:0001 tvg-id="BBHJGmom0c53qu" tvg-chno="154" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSN1
+#EXTINF:0001 tvg-id="BBHJGmom0c53qu" tvg-chno="155" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSN1
 https://40.160.24.55/TSN_1/index.m3u8
-#EXTINF:0001 tvg-id="ai9BqwKChqqER5" tvg-chno="155" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSN2
+#EXTINF:0001 tvg-id="ai9BqwKChqqER5" tvg-chno="156" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSN2
 https://40.160.24.55/TSN_2/index.m3u8
-#EXTINF:0001 tvg-id="wb9D3FYsHIR9Dd" tvg-chno="156" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSN3
+#EXTINF:0001 tvg-id="wb9D3FYsHIR9Dd" tvg-chno="157" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSN3
 https://40.160.24.55/TSN_3/index.m3u8
-#EXTINF:0001 tvg-id="5ikJPlxT4rSlki" tvg-chno="157" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSN4
+#EXTINF:0001 tvg-id="5ikJPlxT4rSlki" tvg-chno="158" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSN4
 https://40.160.24.55/TSN_4/index.m3u8
-#EXTINF:0001 tvg-id="WWeaDyjDDgcRDS" tvg-chno="158" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSN5
+#EXTINF:0001 tvg-id="WWeaDyjDDgcRDS" tvg-chno="159" group-title="famelack (ca) [ca] [False]" tvg-logo="", TSN5
 https://40.160.24.55/TSN_5/index.m3u8
-#EXTINF:0001 tvg-id="26wbYyZD2WNH5P" tvg-chno="159" group-title="famelack (ca) [ca] [True]" tvg-logo="", TV Punjab
+#EXTINF:0001 tvg-id="26wbYyZD2WNH5P" tvg-chno="160" group-title="famelack (ca) [ca] [True]" tvg-logo="", TV Punjab
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="XS1GBLfk5lOEUi" tvg-chno="160" group-title="famelack (ca) [ca] [False]" tvg-logo="", TVOKids
+#EXTINF:0001 tvg-id="XS1GBLfk5lOEUi" tvg-chno="161" group-title="famelack (ca) [ca] [False]" tvg-logo="", TVOKids
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
-#EXTINF:0001 tvg-id="tfahh4mN8EFFmu" tvg-chno="161" group-title="famelack (ca) [ca] [False]" tvg-logo="", Uvagut TV
+#EXTINF:0001 tvg-id="tfahh4mN8EFFmu" tvg-chno="162" group-title="famelack (ca) [ca] [False]" tvg-logo="", Uvagut TV
 https://hls.uvagut.tv/hls/uvagut/playlist.m3u8
-#EXTINF:0001 tvg-id="WiDMfKMgfVPHnh" tvg-chno="162" group-title="famelack (ca) [ca] [False]" tvg-logo="", W Network
+#EXTINF:0001 tvg-id="WiDMfKMgfVPHnh" tvg-chno="163" group-title="famelack (ca) [ca] [False]" tvg-logo="", W Network
 https://40.160.24.55/W_NETWORK/index.m3u8
-#EXTINF:0001 tvg-id="7MJcYnhqkdKmZp" tvg-chno="163" group-title="famelack (ca) [ca] [False]" tvg-logo="", Watan-e-Maa TV
+#EXTINF:0001 tvg-id="7MJcYnhqkdKmZp" tvg-chno="164" group-title="famelack (ca) [ca] [False]" tvg-logo="", Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-#EXTINF:0001 tvg-id="yfBSi8T77pzJ7v" tvg-chno="164" group-title="famelack (ca) [ca] [False]" tvg-logo="", WCGtv
+#EXTINF:0001 tvg-id="yfBSi8T77pzJ7v" tvg-chno="165" group-title="famelack (ca) [ca] [False]" tvg-logo="", WCGtv
 https://wcgtv.ca/live-10/live/stream-1/live.m3u8
-#EXTINF:0001 tvg-id="aENvvGnq2jgpEh" tvg-chno="165" group-title="famelack (ca) [ca] [False]" tvg-logo="", Wild TV
+#EXTINF:0001 tvg-id="aENvvGnq2jgpEh" tvg-chno="166" group-title="famelack (ca) [ca] [False]" tvg-logo="", Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:0001 tvg-id="w6OOA6cuEsstT4" tvg-chno="166" group-title="famelack (ca) [ca] [False]" tvg-logo="", ZenLIFE by Stingray
+#EXTINF:0001 tvg-id="w6OOA6cuEsstT4" tvg-chno="167" group-title="famelack (ca) [ca] [False]" tvg-logo="", ZenLIFE by Stingray
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
