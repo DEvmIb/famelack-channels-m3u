@@ -55,14 +55,14 @@ https://movil.ejeserver.com/live/cncbuga.m3u8
 https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
 #EXTINF:0001 tvg-id="b33gHrv8dtanp4" tvg-chno="28" group-title="famelack (co) [co] [False]" tvg-logo="", CNC Santander de Quilichao
 https://movil.ejeserver.com/live/cncsantander.m3u8
-#EXTINF:0001 tvg-id="jWsKSPOfnPdCDP" tvg-chno="29" group-title="famelack (co) [co] [False]" tvg-logo="", CNC Valledupar
+#EXTINF:0001 tvg-id="vQAqd810W37H0l" tvg-chno="29" group-title="famelack (co) [co] [False]" tvg-logo="", CNC Tulua
+https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
+#EXTINF:0001 tvg-id="jWsKSPOfnPdCDP" tvg-chno="30" group-title="famelack (co) [co] [False]" tvg-logo="", CNC Valledupar
 https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
-#EXTINF:0001 tvg-id="xEQPATgrEtFIdJ" tvg-chno="30" group-title="famelack (co) [co] [False]" tvg-logo="", Cosmovision
+#EXTINF:0001 tvg-id="xEQPATgrEtFIdJ" tvg-chno="31" group-title="famelack (co) [co] [False]" tvg-logo="", Cosmovision
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8
-#EXTINF:0001 tvg-id="vbjKgzPYYiGyx1" tvg-chno="31" group-title="famelack (co) [co] [False]" tvg-logo="", Cristovision
+#EXTINF:0001 tvg-id="vbjKgzPYYiGyx1" tvg-chno="32" group-title="famelack (co) [co] [False]" tvg-logo="", Cristovision
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
-#EXTINF:0001 tvg-id="DuJd4u0fDHyZVy" tvg-chno="32" group-title="famelack (co) [co] [False]" tvg-logo="", Eduvision
-https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 #EXTINF:0001 tvg-id="8MkrJaxHtTluMW" tvg-chno="33" group-title="famelack (co) [co] [False]" tvg-logo="", El Mundo del Campo
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 #EXTINF:0001 tvg-id="mshfkhqs41pHqb" tvg-chno="34" group-title="famelack (co) [co] [False]" tvg-logo="", Fiesta TV
