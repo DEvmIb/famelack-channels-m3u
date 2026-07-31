@@ -17,5 +17,7 @@ https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:0001 tvg-id="Vz912DM7zVlEgp" tvg-chno="9" group-title="famelack (md) [md] [False]" tvg-logo="", Tezaur TV
 https://tezaurtv.md/stream/index.m3u8
-#EXTINF:0001 tvg-id="osje3aOO3BhNwb" tvg-chno="10" group-title="famelack (md) [md] [True]" tvg-logo="", TVR Moldova
+#EXTINF:0001 tvg-id="uBZeu6AwVshM7Q" tvg-chno="10" group-title="famelack (md) [md] [False]" tvg-logo="", TSV
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:0001 tvg-id="osje3aOO3BhNwb" tvg-chno="11" group-title="famelack (md) [md] [True]" tvg-logo="", TVR Moldova
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8

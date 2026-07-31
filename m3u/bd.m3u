@@ -3,10 +3,10 @@
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="NUfChQbZD3i9g3" tvg-chno="2" group-title="famelack (bd) [bd] [False]" tvg-logo="", ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
-#EXTINF:0001 tvg-id="GPyu3zvadmUURC" tvg-chno="3" group-title="famelack (bd) [bd] [False]" tvg-logo="", ATN Music
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="YbLnTmWsjNcPHn" tvg-chno="4" group-title="famelack (bd) [bd] [False]" tvg-logo="", Bangla Vision
+#EXTINF:0001 tvg-id="YbLnTmWsjNcPHn" tvg-chno="3" group-title="famelack (bd) [bd] [False]" tvg-logo="", Bangla Vision
 https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:0001 tvg-id="uXMcPHTew9graP" tvg-chno="4" group-title="famelack (bd) [bd] [False]" tvg-logo="", Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="KFm0NDZdja9VIZ" tvg-chno="5" group-title="famelack (bd) [bd] [False]" tvg-logo="", Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="29x0D5l70jxbBR" tvg-chno="6" group-title="famelack (bd) [bd] [False]" tvg-logo="", Green TV
@@ -27,3 +27,5 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="jRNbdDq68JaIxU" tvg-chno="14" group-title="famelack (bd) [bd] [False]" tvg-logo="", Somoy News TV
 https://bozztv.com/rongo/rongo-somoy/index.m3u8
+#EXTINF:0001 tvg-id="J7BmdiABqVkDMa" tvg-chno="15" group-title="famelack (bd) [bd] [False]" tvg-logo="", T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
