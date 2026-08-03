@@ -27,12 +27,12 @@ https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
 #EXTINF:0001 tvg-id="6GzzyU1r6GXxb2" tvg-chno="14" group-title="famelack (pr) [pr] [False]" tvg-logo="", Pura Palabra
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
-#EXTINF:0001 tvg-id="LNGJVkOrgPhVTB" tvg-chno="15" group-title="famelack (pr) [pr] [False]" tvg-logo="", Salvacion TV
+#EXTINF:0001 tvg-id="dfwJqEOqj4nFiU" tvg-chno="15" group-title="famelack (pr) [pr] [False]" tvg-logo="", Radio Isla TV
+https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+#EXTINF:0001 tvg-id="LNGJVkOrgPhVTB" tvg-chno="16" group-title="famelack (pr) [pr] [False]" tvg-logo="", Salvacion TV
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
-#EXTINF:0001 tvg-id="mus49kJTQfTCmk" tvg-chno="16" group-title="famelack (pr) [pr] [False]" tvg-logo="", Telenorte
+#EXTINF:0001 tvg-id="mus49kJTQfTCmk" tvg-chno="17" group-title="famelack (pr) [pr] [False]" tvg-logo="", Telenorte
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
-#EXTINF:0001 tvg-id="QYv70qSnNhaax1" tvg-chno="17" group-title="famelack (pr) [pr] [False]" tvg-logo="", Triunfo 96.9 FM
-https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
 #EXTINF:0001 tvg-id="vETwdWDS6Ys3LC" tvg-chno="18" group-title="famelack (pr) [pr] [False]" tvg-logo="", WDWL 58.1
 https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:0001 tvg-id="pCErNDOF1ndRX6" tvg-chno="19" group-title="famelack (pr) [pr] [False]" tvg-logo="", WECN

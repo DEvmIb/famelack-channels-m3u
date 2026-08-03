@@ -21,15 +21,13 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 https://live.matele.be/hls/live.m3u8
 #EXTINF:0001 tvg-id="VaXjiVOr6bKqVn" tvg-chno="11" group-title="famelack (be) [be] [False]" tvg-logo="", Notele
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="dbLCGehk04Xrpd" tvg-chno="12" group-title="famelack (be) [be] [False]" tvg-logo="", Ring House TV
-https://eggproiptv.duckdns.org:3946/hybrid/play.m3u8
-#EXTINF:0001 tvg-id="hrXJRBJnmcWXfL" tvg-chno="13" group-title="famelack (be) [be] [False]" tvg-logo="", Sterk TV
+#EXTINF:0001 tvg-id="hrXJRBJnmcWXfL" tvg-chno="12" group-title="famelack (be) [be] [False]" tvg-logo="", Sterk TV
 https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
-#EXTINF:0001 tvg-id="mODsZ0uywreKXA" tvg-chno="14" group-title="famelack (be) [be] [False]" tvg-logo="", Tele MB
+#EXTINF:0001 tvg-id="mODsZ0uywreKXA" tvg-chno="13" group-title="famelack (be) [be] [False]" tvg-logo="", Tele MB
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8
-#EXTINF:0001 tvg-id="DYsVgwn2CBEpRU" tvg-chno="15" group-title="famelack (be) [be] [False]" tvg-logo="", Telesambre
+#EXTINF:0001 tvg-id="DYsVgwn2CBEpRU" tvg-chno="14" group-title="famelack (be) [be] [False]" tvg-logo="", Telesambre
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
-#EXTINF:0001 tvg-id="NdxuQBJhHdBU21" tvg-chno="16" group-title="famelack (be) [be] [False]" tvg-logo="", TV Lux
+#EXTINF:0001 tvg-id="NdxuQBJhHdBU21" tvg-chno="15" group-title="famelack (be) [be] [False]" tvg-logo="", TV Lux
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
-#EXTINF:0001 tvg-id="QMKdJTMZUTheYK" tvg-chno="17" group-title="famelack (be) [be] [False]" tvg-logo="", WTV
+#EXTINF:0001 tvg-id="QMKdJTMZUTheYK" tvg-chno="16" group-title="famelack (be) [be] [False]" tvg-logo="", WTV
 https://wtvlive.b-cdn.net/playlist.m3u8
