@@ -19,11 +19,13 @@ https://stream.mcquack.net/353/index.m3u8
 https://stream-live.lrt.lt/radijas/master.m3u8
 #EXTINF:0001 tvg-id="X0EAtKzIAlLWzS" tvg-chno="10" group-title="famelack (lt) [lt] [True]" tvg-logo="", LRT TV
 https://stream.mcquack.net/31/index.m3u8
-#EXTINF:0001 tvg-id="UytszlnTgHpVar" tvg-chno="11" group-title="famelack (lt) [lt] [False]" tvg-logo="", Power Hit Radio
+#EXTINF:0001 tvg-id="TD6r7rS9yoQWgK" tvg-chno="11" group-title="famelack (lt) [lt] [False]" tvg-logo="", M-1
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="UytszlnTgHpVar" tvg-chno="12" group-title="famelack (lt) [lt] [False]" tvg-logo="", Power Hit Radio
 https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
-#EXTINF:0001 tvg-id="pHN2KaYwVn5fvP" tvg-chno="12" group-title="famelack (lt) [lt] [False]" tvg-logo="", TV3
+#EXTINF:0001 tvg-id="pHN2KaYwVn5fvP" tvg-chno="13" group-title="famelack (lt) [lt] [False]" tvg-logo="", TV3
 https://stream.mcquack.net/29/index.m3u8
-#EXTINF:0001 tvg-id="xiBBDtO25t69VM" tvg-chno="13" group-title="famelack (lt) [lt] [False]" tvg-logo="", TV6
+#EXTINF:0001 tvg-id="xiBBDtO25t69VM" tvg-chno="14" group-title="famelack (lt) [lt] [False]" tvg-logo="", TV6
 https://stream.mcquack.net/375/index.m3u8
-#EXTINF:0001 tvg-id="Mm9rlnBN8JBOMs" tvg-chno="14" group-title="famelack (lt) [lt] [False]" tvg-logo="", TV8
+#EXTINF:0001 tvg-id="Mm9rlnBN8JBOMs" tvg-chno="15" group-title="famelack (lt) [lt] [False]" tvg-logo="", TV8
 https://stream.mcquack.net/374/index.m3u8

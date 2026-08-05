@@ -33,3 +33,5 @@ https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
 https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8
 #EXTINF:0001 tvg-id="i3qkHtWdmsIqE8" tvg-chno="17" group-title="famelack (ee) [ee] [True]" tvg-logo="", Vantage Music
 https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8
+#EXTINF:0001 tvg-id="ayJ81MgKRadKk0" tvg-chno="18" group-title="famelack (ee) [ee] [True]" tvg-logo="", Vantage Rock
+https://hls.vantagetv.ee/vrock_stream/index.m3u8

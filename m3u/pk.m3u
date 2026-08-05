@@ -79,9 +79,7 @@ https://livecdn.live247stream.com/praise/tv/playlist.m3u8
 https://tvsen7.aynascope.net/Sports1/index.m3u8
 #EXTINF:0001 tvg-id="HxH54ypKcC1Xvq" tvg-chno="40" group-title="famelack (pk) [pk] [False]" tvg-logo="", Samaa TV
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
-#EXTINF:0001 tvg-id="WXuOh2YwSDNDLT" tvg-chno="41" group-title="famelack (pk) [pk] [False]" tvg-logo="", Sky News Urdu
-https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
-#EXTINF:0001 tvg-id="oy323hi3qdqwPY" tvg-chno="42" group-title="famelack (pk) [pk] [False]" tvg-logo="", Such TV
+#EXTINF:0001 tvg-id="oy323hi3qdqwPY" tvg-chno="41" group-title="famelack (pk) [pk] [False]" tvg-logo="", Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
-#EXTINF:0001 tvg-id="LBVPGHScrFCXER" tvg-chno="43" group-title="famelack (pk) [pk] [False]" tvg-logo="", Zindagi TV
+#EXTINF:0001 tvg-id="LBVPGHScrFCXER" tvg-chno="42" group-title="famelack (pk) [pk] [False]" tvg-logo="", Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
