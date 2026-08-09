@@ -108,7 +108,7 @@ https://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:0001 tvg-id="N7y193rYKVUHc8" tvg-chno="54" group-title="famelack (ca) [ca] [True]" tvg-logo="", GTN Canada
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 #EXTINF:0001 tvg-id="D9wYQdvH3cwnxL" tvg-chno="55" group-title="famelack (ca) [ca] [False]" tvg-logo="", Gusto TV
-https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="Pb2kJOQ71503Nc" tvg-chno="56" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hamdard TV
 https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:0001 tvg-id="bhT3j01Nh3aRCQ" tvg-chno="57" group-title="famelack (ca) [ca] [False]" tvg-logo="", Hard Knocks
@@ -321,9 +321,11 @@ https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciO
 https://hls.uvagut.tv/hls/uvagut/playlist.m3u8
 #EXTINF:0001 tvg-id="WiDMfKMgfVPHnh" tvg-chno="161" group-title="famelack (ca) [ca] [False]" tvg-logo="", W Network
 https://40.160.24.55/W_NETWORK/index.m3u8
-#EXTINF:0001 tvg-id="yfBSi8T77pzJ7v" tvg-chno="162" group-title="famelack (ca) [ca] [False]" tvg-logo="", WCGtv
+#EXTINF:0001 tvg-id="7MJcYnhqkdKmZp" tvg-chno="162" group-title="famelack (ca) [ca] [False]" tvg-logo="", Watan-e-Maa TV
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+#EXTINF:0001 tvg-id="yfBSi8T77pzJ7v" tvg-chno="163" group-title="famelack (ca) [ca] [False]" tvg-logo="", WCGtv
 https://wcgtv.ca/live-10/live/stream-1/live.m3u8
-#EXTINF:0001 tvg-id="aENvvGnq2jgpEh" tvg-chno="163" group-title="famelack (ca) [ca] [False]" tvg-logo="", Wild TV
+#EXTINF:0001 tvg-id="aENvvGnq2jgpEh" tvg-chno="164" group-title="famelack (ca) [ca] [False]" tvg-logo="", Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:0001 tvg-id="w6OOA6cuEsstT4" tvg-chno="164" group-title="famelack (ca) [ca] [False]" tvg-logo="", ZenLIFE by Stingray
+#EXTINF:0001 tvg-id="w6OOA6cuEsstT4" tvg-chno="165" group-title="famelack (ca) [ca] [False]" tvg-logo="", ZenLIFE by Stingray
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
