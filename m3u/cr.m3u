@@ -97,13 +97,19 @@ https://video2.getstreamhosting.com:19360/8110/8110.m3u8
 https://latamvdo.com:3870/hybrid/play.m3u8
 #EXTINF:0001 tvg-id="Y3sTV1ejuknKgG" tvg-chno="49" group-title="famelack (cr) [cr] [False]" tvg-logo="", TV Sur Canal 14
 https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:0001 tvg-id="sue3ShLLkmrNlc" tvg-chno="50" group-title="famelack (cr) [cr] [False]" tvg-logo="", Urbano TV
+#EXTINF:0001 tvg-id="TwudAaXIbWS0C2" tvg-chno="50" group-title="famelack (cr) [cr] [False]" tvg-logo="", TV8
+https://k20.usastreams.com:8081/tv8/index.m3u8
+#EXTINF:0001 tvg-id="sue3ShLLkmrNlc" tvg-chno="51" group-title="famelack (cr) [cr] [False]" tvg-logo="", Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:0001 tvg-id="Nc2Y8BrEFeOYAw" tvg-chno="51" group-title="famelack (cr) [cr] [False]" tvg-logo="", Video Tour Channel
+#EXTINF:0001 tvg-id="Nc2Y8BrEFeOYAw" tvg-chno="52" group-title="famelack (cr) [cr] [False]" tvg-logo="", Video Tour Channel
 https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
-#EXTINF:0001 tvg-id="KTfqjR2nJysy7l" tvg-chno="52" group-title="famelack (cr) [cr] [False]" tvg-logo="", VM Latino
+#EXTINF:0001 tvg-id="tTy2o9iN37Hvi8" tvg-chno="53" group-title="famelack (cr) [cr] [False]" tvg-logo="", Vintage Music
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+#EXTINF:0001 tvg-id="KTfqjR2nJysy7l" tvg-chno="54" group-title="famelack (cr) [cr] [False]" tvg-logo="", VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:0001 tvg-id="lyisHWGyNS2hyW" tvg-chno="53" group-title="famelack (cr) [cr] [False]" tvg-logo="", VoiceOver Radio TV
+#EXTINF:0001 tvg-id="lyisHWGyNS2hyW" tvg-chno="55" group-title="famelack (cr) [cr] [False]" tvg-logo="", VoiceOver Radio TV
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
-#EXTINF:0001 tvg-id="1lxmOusZyEa4Zg" tvg-chno="54" group-title="famelack (cr) [cr] [False]" tvg-logo="", Zurqui TV
+#EXTINF:0001 tvg-id="8qWUmlZKBNU8HB" tvg-chno="56" group-title="famelack (cr) [cr] [False]" tvg-logo="", Xpresso Joven Radio
+https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8
+#EXTINF:0001 tvg-id="1lxmOusZyEa4Zg" tvg-chno="57" group-title="famelack (cr) [cr] [False]" tvg-logo="", Zurqui TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8

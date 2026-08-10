@@ -37,8 +37,8 @@ https://s.emisoras.tv:8081/penielmusical/index.m3u8
 https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
 #EXTINF:0001 tvg-id="hHMW2aFLz779WV" tvg-chno="19" group-title="famelack (gt) [gt] [False]" tvg-logo="", Radio Coatan Canal 21
 https://s2.tvdatta.com:3112/hybrid/play.m3u8
-#EXTINF:0001 tvg-id="0hAaySENFA4XTT" tvg-chno="20" group-title="famelack (gt) [gt] [False]" tvg-logo="", SAS TV
-https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:0001 tvg-id="2LfjTVfmckF8U9" tvg-chno="20" group-title="famelack (gt) [gt] [False]" tvg-logo="", Rhema TV
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 #EXTINF:0001 tvg-id="AXMHX6tuUnfRvm" tvg-chno="21" group-title="famelack (gt) [gt] [False]" tvg-logo="", SIL TV
 https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 #EXTINF:0001 tvg-id="OsYebOtVABr4xl" tvg-chno="22" group-title="famelack (gt) [gt] [False]" tvg-logo="", Sol TV
