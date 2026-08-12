@@ -134,7 +134,7 @@ https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 #EXTINF:0001 tvg-id="oNyXUjTAtmHkE7" tvg-chno="67" group-title="famelack (tr) [tr] [False]" tvg-logo="", Kent Turk
 https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
 #EXTINF:0001 tvg-id="tTuLPLvkfWTeJZ" tvg-chno="68" group-title="famelack (tr) [tr] [False]" tvg-logo="", Kocaeli TV
-https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
+https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
 #EXTINF:0001 tvg-id="axZRIy6sk182NP" tvg-chno="69" group-title="famelack (tr) [tr] [False]" tvg-logo="", Konya Olay TV
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 #EXTINF:0001 tvg-id="QQopjrBuObsS3K" tvg-chno="70" group-title="famelack (tr) [tr] [False]" tvg-logo="", Lalegul TV
@@ -221,12 +221,12 @@ https://tjktv-live.tjk.org/tjktv.m3u8
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:0001 tvg-id="DvCN8WstHjmxKR" tvg-chno="111" group-title="famelack (tr) [tr] [False]" tvg-logo="", Trakya Turk
 https://live.euromediacenter.com/trakyaturk/tracks-v1a1/playlist.m3u8
-#EXTINF:0001 tvg-id="e8zax7Tb0zc8Eu" tvg-chno="112" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:0001 tvg-id="Tsl1TXkC1cdSTl" tvg-chno="113" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Arabi
+#EXTINF:0001 tvg-id="Tsl1TXkC1cdSTl" tvg-chno="112" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:0001 tvg-id="9O4Xod3xobbM50" tvg-chno="114" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Avaz
+#EXTINF:0001 tvg-id="9O4Xod3xobbM50" tvg-chno="113" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:0001 tvg-id="YCPZsdEDhEaJOB" tvg-chno="114" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Cocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:0001 tvg-id="aIKbRpQHmkkXLq" tvg-chno="115" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:0001 tvg-id="3JgrZVIyLGdoxu" tvg-chno="116" group-title="famelack (tr) [tr] [False]" tvg-logo="", TRT EBA

@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="MDX7kTUwhzRCnt" tvg-chno="1" group-title="famelack (tz) [tz] [False]" tvg-logo="", Mahaasin TV
+#EXTINF:0001 tvg-id="4Ol7tMSQ1AJ1Zg" tvg-chno="1" group-title="famelack (tz) [tz] [False]" tvg-logo="", Dodoma TV
+https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
+#EXTINF:0001 tvg-id="MDX7kTUwhzRCnt" tvg-chno="2" group-title="famelack (tz) [tz] [False]" tvg-logo="", Mahaasin TV
 https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
