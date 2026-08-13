@@ -192,7 +192,7 @@ https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:0001 tvg-id="eg3goyColncJv1" tvg-chno="96" group-title="famelack (uk) [uk] [False]" tvg-logo="", MTV Global
 https://shift03.isp.bg/MTVEurope/index.m3u8
 #EXTINF:0001 tvg-id="MDjiS0YoXPCIql" tvg-chno="97" group-title="famelack (uk) [uk] [True]" tvg-logo="", Mystery TV UK
-https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
+https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8
 #EXTINF:0001 tvg-id="5PiPqOJ9ee8Jq0" tvg-chno="98" group-title="famelack (uk) [uk] [False]" tvg-logo="", Mythbusters UK
 https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
 #EXTINF:0001 tvg-id="hNQTzHtY43GPXe" tvg-chno="99" group-title="famelack (uk) [uk] [True]" tvg-logo="", MyTime Movie Network
@@ -245,24 +245,24 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:0001 tvg-id="fOSUi9hkZeTBQ3" tvg-chno="123" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rabbids Invasion
 https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8
-#EXTINF:0001 tvg-id="uHYtTL2fEDHMX0" tvg-chno="124" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rally.TV FAST+
+#EXTINF:0001 tvg-id="bM1ajyE0MLR0WL" tvg-chno="124" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Family Movies UK
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:0001 tvg-id="uHYtTL2fEDHMX0" tvg-chno="125" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rally.TV FAST+
 https://di4fb7mbsq3nf.cloudfront.net/playlist.m3u8
-#EXTINF:0001 tvg-id="jNN9ef0ljzGJ7E" tvg-chno="125" group-title="famelack (uk) [uk] [False]" tvg-logo="", Real Crime Beta
+#EXTINF:0001 tvg-id="jNN9ef0ljzGJ7E" tvg-chno="126" group-title="famelack (uk) [uk] [False]" tvg-logo="", Real Crime Beta
 https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="VLRmb68T8TU3O9" tvg-chno="126" group-title="famelack (uk) [uk] [False]" tvg-logo="", River Monsters
+#EXTINF:0001 tvg-id="VLRmb68T8TU3O9" tvg-chno="127" group-title="famelack (uk) [uk] [False]" tvg-logo="", River Monsters
 https://amg00654-itv-amg00654c24-samsung-gb-8890.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="knpCoV9erqvaUO" tvg-chno="127" group-title="famelack (uk) [uk] [True]" tvg-logo="", Rookie Blue
+#EXTINF:0001 tvg-id="knpCoV9erqvaUO" tvg-chno="128" group-title="famelack (uk) [uk] [True]" tvg-logo="", Rookie Blue
 https://amg00353-amg00353c56-samsung-gb-8654.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-rookieblueenglishvtt-samsunggb/playlist.m3u8
-#EXTINF:0001 tvg-id="NegCVOJcL5pipg" tvg-chno="128" group-title="famelack (uk) [uk] [True]" tvg-logo="", S4C
+#EXTINF:0001 tvg-id="NegCVOJcL5pipg" tvg-chno="129" group-title="famelack (uk) [uk] [True]" tvg-logo="", S4C
 https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8
-#EXTINF:0001 tvg-id="WQqSZQl27UG0sD" tvg-chno="129" group-title="famelack (uk) [uk] [False]" tvg-logo="", Safeer TV
+#EXTINF:0001 tvg-id="WQqSZQl27UG0sD" tvg-chno="130" group-title="famelack (uk) [uk] [False]" tvg-logo="", Safeer TV
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
-#EXTINF:0001 tvg-id="UuT4hF41jXyjM4" tvg-chno="130" group-title="famelack (uk) [uk] [False]" tvg-logo="", Sanskar UK
+#EXTINF:0001 tvg-id="UuT4hF41jXyjM4" tvg-chno="131" group-title="famelack (uk) [uk] [False]" tvg-logo="", Sanskar UK
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
-#EXTINF:0001 tvg-id="UFAu3UqV4xmpUm" tvg-chno="131" group-title="famelack (uk) [uk] [False]" tvg-logo="", Setareh TV
+#EXTINF:0001 tvg-id="UFAu3UqV4xmpUm" tvg-chno="132" group-title="famelack (uk) [uk] [False]" tvg-logo="", Setareh TV
 https://setarehhls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="phsubU1bC3E8Bv" tvg-chno="132" group-title="famelack (uk) [uk] [False]" tvg-logo="", Sky Sports Cricket
-https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
 #EXTINF:0001 tvg-id="GBdQuoGvD5p6Ys" tvg-chno="133" group-title="famelack (uk) [uk] [False]" tvg-logo="", Sky Sports NFL
 https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8
 #EXTINF:0001 tvg-id="0VsTkNT1aPTgCg" tvg-chno="134" group-title="famelack (uk) [uk] [False]" tvg-logo="", Smurf TV
