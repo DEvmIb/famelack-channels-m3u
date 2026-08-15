@@ -24,7 +24,7 @@ https://stream8.cinerama.uz/1500/playlist.m3u8
 #EXTINF:0001 tvg-id="qDGnaOsmdQnYTU" tvg-chno="12" group-title="famelack (kz) [kz] [False]" tvg-logo="", NTK
 https://stream.mcquack.net/389/index.m3u8
 #EXTINF:0001 tvg-id="PUtkKNBhatXQzk" tvg-chno="13" group-title="famelack (kz) [kz] [False]" tvg-logo="", Qazaqstan
-https://stream.mcquack.net/71/index.m3u8
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTINF:0001 tvg-id="u6Kfd6P0YKGpB4" tvg-chno="14" group-title="famelack (kz) [kz] [False]" tvg-logo="", Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:0001 tvg-id="RlDh4IHVR4WpZw" tvg-chno="15" group-title="famelack (kz) [kz] [True]" tvg-logo="", QazSport
@@ -32,7 +32,7 @@ https://stream.mcquack.net/72/index.m3u8
 #EXTINF:0001 tvg-id="UQ2tnaYuDB5seW" tvg-chno="16" group-title="famelack (kz) [kz] [False]" tvg-logo="", Rika TV
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="TomqBXbWstBWEq" tvg-chno="17" group-title="famelack (kz) [kz] [False]" tvg-logo="", Silk Way
-https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
 #EXTINF:0001 tvg-id="MYbhEZtWxMLBpp" tvg-chno="18" group-title="famelack (kz) [kz] [True]" tvg-logo="", Silk Way Cinema
 https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
 #EXTINF:0001 tvg-id="HKWXuzT38k7GF2" tvg-chno="19" group-title="famelack (kz) [kz] [False]" tvg-logo="", TDK 42
