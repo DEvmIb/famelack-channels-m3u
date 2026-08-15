@@ -55,7 +55,3 @@ https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:0001 tvg-id="r1oGqxJA7bXTXS" tvg-chno="28" group-title="famelack (gt) [gt] [False]" tvg-logo="", TV Maya
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
-#EXTINF:0001 tvg-id="XwiDGKdsH20Bju" tvg-chno="29" group-title="famelack (gt) [gt] [False]" tvg-logo="", TVS Retro
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:0001 tvg-id="CIC3OB0eRrwRa3" tvg-chno="30" group-title="famelack (gt) [gt] [False]" tvg-logo="", Vision TV
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8

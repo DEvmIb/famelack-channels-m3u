@@ -149,12 +149,12 @@ https://stream.mcquack.net/398/index.m3u8
 https://stream.mcquack.net/390/index.m3u8
 #EXTINF:0001 tvg-id="WUpQwb5AVqMclc" tvg-chno="75" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sfera-TV
 https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="U9nAYOR0oRufhL" tvg-chno="76" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 1
+#EXTINF:0001 tvg-id="4KSXokD7EvbB2N" tvg-chno="76" group-title="famelack (ua) [ua] [True]" tvg-logo="", Simon
+https://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:0001 tvg-id="U9nAYOR0oRufhL" tvg-chno="77" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 1
 https://stream.mcquack.net/391/index.m3u8
-#EXTINF:0001 tvg-id="IlovEqdESRxBC8" tvg-chno="77" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 2
+#EXTINF:0001 tvg-id="IlovEqdESRxBC8" tvg-chno="78" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 2
 https://stream.mcquack.net/392/index.m3u8
-#EXTINF:0001 tvg-id="oyUhXH3Llkp7QB" tvg-chno="78" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 3
-https://stream.mcquack.net/393/index.m3u8
 #EXTINF:0001 tvg-id="QyWOTLGgws7eF1" tvg-chno="79" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 4
 https://stream.mcquack.net/394/index.m3u8
 #EXTINF:0001 tvg-id="G2RRWXeusp0DYk" tvg-chno="80" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sport 5
