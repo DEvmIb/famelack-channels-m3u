@@ -3,9 +3,13 @@
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 #EXTINF:0001 tvg-id="gS3BIgZPeKUpbg" tvg-chno="2" group-title="famelack (sg) [sg] [True]" tvg-logo="", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:0001 tvg-id="HJhyKYuHh72Bmv" tvg-chno="3" group-title="famelack (sg) [sg] [False]" tvg-logo="", CNA Originals
+#EXTINF:0001 tvg-id="WGiKSjCar1BvSz" tvg-chno="3" group-title="famelack (sg) [sg] [False]" tvg-logo="", CNA International
+https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
+#EXTINF:0001 tvg-id="HJhyKYuHh72Bmv" tvg-chno="4" group-title="famelack (sg) [sg] [False]" tvg-logo="", CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="G00HUpBKHxckzh" tvg-chno="4" group-title="famelack (sg) [sg] [True]" tvg-logo="", CNBC Asia
+#EXTINF:0001 tvg-id="G00HUpBKHxckzh" tvg-chno="5" group-title="famelack (sg) [sg] [True]" tvg-logo="", CNBC Asia
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
-#EXTINF:0001 tvg-id="y1OGn4C9pf6ycf" tvg-chno="5" group-title="famelack (sg) [sg] [False]" tvg-logo="", ZooMoo
+#EXTINF:0001 tvg-id="LY1xeSJMFCjHUF" tvg-chno="6" group-title="famelack (sg) [sg] [False]" tvg-logo="", Nick Jr. Asia
+https://streams.comclark.com/pknsd/nickjr/playlist.m3u8
+#EXTINF:0001 tvg-id="y1OGn4C9pf6ycf" tvg-chno="7" group-title="famelack (sg) [sg] [False]" tvg-logo="", ZooMoo
 https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8

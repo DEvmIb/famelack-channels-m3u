@@ -24,7 +24,7 @@ https://stream.mcquack.net/379/index.m3u8
 #EXTINF:0001 tvg-id="ye1tX7fV9TIdI5" tvg-chno="12" group-title="famelack (il) [il] [False]" tvg-logo="", i24NEWS Arabic
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0001 tvg-id="tOyBGQxDVqm1lo" tvg-chno="13" group-title="famelack (il) [il] [False]" tvg-logo="", i24NEWS English World
-https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8
 #EXTINF:0001 tvg-id="hgsDmRmks0VdPt" tvg-chno="14" group-title="famelack (il) [il] [False]" tvg-logo="", i24NEWS French
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0001 tvg-id="2bXbe76msjX006" tvg-chno="15" group-title="famelack (il) [il] [False]" tvg-logo="", i24NEWS Hebrew
