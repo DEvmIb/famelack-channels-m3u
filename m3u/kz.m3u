@@ -7,8 +7,8 @@ https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 https://otv.wotom.net/alau/stream.m3u8
 #EXTINF:0001 tvg-id="7rBhnvF1cWN6Zb" tvg-chno="4" group-title="famelack (kz) [kz] [False]" tvg-logo="", Astana TV
 https://stream.mcquack.net/28/index.m3u8
-#EXTINF:0001 tvg-id="JCokef05ozWI8Y" tvg-chno="5" group-title="famelack (kz) [kz] [False]" tvg-logo="", Balapan International
-https://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:0001 tvg-id="NsRP1rTNLBH991" tvg-chno="5" group-title="famelack (kz) [kz] [False]" tvg-logo="", Balapan
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:0001 tvg-id="SbrDSLg33mlDZZ" tvg-chno="6" group-title="famelack (kz) [kz] [False]" tvg-logo="", Channel 7 Kazakhstan
 https://stream.mcquack.net/27/index.m3u8
 #EXTINF:0001 tvg-id="CvHwESTij7IhtA" tvg-chno="7" group-title="famelack (kz) [kz] [False]" tvg-logo="", Jibek Joly
@@ -24,7 +24,7 @@ https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:0001 tvg-id="qDGnaOsmdQnYTU" tvg-chno="12" group-title="famelack (kz) [kz] [False]" tvg-logo="", NTK
 https://stream.mcquack.net/389/index.m3u8
 #EXTINF:0001 tvg-id="PUtkKNBhatXQzk" tvg-chno="13" group-title="famelack (kz) [kz] [False]" tvg-logo="", Qazaqstan
-https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+https://stream.mcquack.net/71/index.m3u8
 #EXTINF:0001 tvg-id="u6Kfd6P0YKGpB4" tvg-chno="14" group-title="famelack (kz) [kz] [False]" tvg-logo="", Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:0001 tvg-id="RlDh4IHVR4WpZw" tvg-chno="15" group-title="famelack (kz) [kz] [True]" tvg-logo="", QazSport

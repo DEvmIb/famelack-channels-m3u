@@ -17,3 +17,5 @@ https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="m3PpQXO8kJ3GQC" tvg-chno="9" group-title="famelack (kh) [kh] [False]" tvg-logo="", TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:0001 tvg-id="JliijnACP4jH0u" tvg-chno="10" group-title="famelack (kh) [kh] [False]" tvg-logo="", Wiki TV
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
