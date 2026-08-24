@@ -29,19 +29,15 @@ https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 https://vstream-cdn.ch/hls/radio3i.m3u8
 #EXTINF:0001 tvg-id="Xd3CFrHmzj9MdH" tvg-chno="15" group-title="famelack (ch) [ch] [False]" tvg-logo="", RADIO DISCOunt TV
 https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
-#EXTINF:0001 tvg-id="GyEbLZjQWH3qtB" tvg-chno="16" group-title="famelack (ch) [ch] [False]" tvg-logo="", RSI La 2
-https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
-#EXTINF:0001 tvg-id="48RqSkShlJpBo8" tvg-chno="17" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTV Pendimi
+#EXTINF:0001 tvg-id="48RqSkShlJpBo8" tvg-chno="16" group-title="famelack (ch) [ch] [False]" tvg-logo="", RTV Pendimi
 https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
-#EXTINF:0001 tvg-id="aI8CAI6ZaAK6J4" tvg-chno="18" group-title="famelack (ch) [ch] [False]" tvg-logo="", Sivan TV
+#EXTINF:0001 tvg-id="aI8CAI6ZaAK6J4" tvg-chno="17" group-title="famelack (ch) [ch] [False]" tvg-logo="", Sivan TV
 https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:0001 tvg-id="EojIj9CsWt1oEx" tvg-chno="19" group-title="famelack (ch) [ch] [False]" tvg-logo="", SRF zwei
-https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8
-#EXTINF:0001 tvg-id="GkcwPCezd4sFP5" tvg-chno="20" group-title="famelack (ch) [ch] [False]" tvg-logo="", Telenova
+#EXTINF:0001 tvg-id="GkcwPCezd4sFP5" tvg-chno="18" group-title="famelack (ch) [ch] [False]" tvg-logo="", Telenova
 https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
-#EXTINF:0001 tvg-id="OeC5ZVzNRndtBe" tvg-chno="21" group-title="famelack (ch) [ch] [False]" tvg-logo="", TeleTicino
+#EXTINF:0001 tvg-id="OeC5ZVzNRndtBe" tvg-chno="19" group-title="famelack (ch) [ch] [False]" tvg-logo="", TeleTicino
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:0001 tvg-id="94qqqNSYE94h74" tvg-chno="22" group-title="famelack (ch) [ch] [False]" tvg-logo="", Wedo Big Stories
+#EXTINF:0001 tvg-id="94qqqNSYE94h74" tvg-chno="20" group-title="famelack (ch) [ch] [False]" tvg-logo="", Wedo Big Stories
 https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
-#EXTINF:0001 tvg-id="g0PpJtocUEkjq0" tvg-chno="23" group-title="famelack (ch) [ch] [False]" tvg-logo="", Wedo TV Amor
+#EXTINF:0001 tvg-id="g0PpJtocUEkjq0" tvg-chno="21" group-title="famelack (ch) [ch] [False]" tvg-logo="", Wedo TV Amor
 https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8

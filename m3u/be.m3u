@@ -11,31 +11,27 @@ https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:0001 tvg-id="abeLxZZAtDB502" tvg-chno="6" group-title="famelack (be) [be] [False]" tvg-logo="", Fun Vision
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
-#EXTINF:0001 tvg-id="0KHOlcS3CSZQO6" tvg-chno="7" group-title="famelack (be) [be] [False]" tvg-logo="", JapanimTV
-https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:0001 tvg-id="yvHz6nCixzmZ76" tvg-chno="8" group-title="famelack (be) [be] [False]" tvg-logo="", Klara
+#EXTINF:0001 tvg-id="yvHz6nCixzmZ76" tvg-chno="7" group-title="famelack (be) [be] [False]" tvg-logo="", Klara
 https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8
-#EXTINF:0001 tvg-id="8NTileZb0uFTPL" tvg-chno="9" group-title="famelack (be) [be] [False]" tvg-logo="", Matele
+#EXTINF:0001 tvg-id="8NTileZb0uFTPL" tvg-chno="8" group-title="famelack (be) [be] [False]" tvg-logo="", Matele
 https://live.matele.be/hls/live.m3u8
-#EXTINF:0001 tvg-id="T3lFd2TRO2UgTl" tvg-chno="10" group-title="famelack (be) [be] [False]" tvg-logo="", MNM
+#EXTINF:0001 tvg-id="T3lFd2TRO2UgTl" tvg-chno="9" group-title="famelack (be) [be] [False]" tvg-logo="", MNM
 https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
-#EXTINF:0001 tvg-id="VaXjiVOr6bKqVn" tvg-chno="11" group-title="famelack (be) [be] [False]" tvg-logo="", Notele
+#EXTINF:0001 tvg-id="VaXjiVOr6bKqVn" tvg-chno="10" group-title="famelack (be) [be] [False]" tvg-logo="", Notele
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="JNyT4TtrF2sWvu" tvg-chno="12" group-title="famelack (be) [be] [False]" tvg-logo="", Radio 1
+#EXTINF:0001 tvg-id="JNyT4TtrF2sWvu" tvg-chno="11" group-title="famelack (be) [be] [False]" tvg-logo="", Radio 1
 https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8
-#EXTINF:0001 tvg-id="8nTZOrtoShKyg8" tvg-chno="13" group-title="famelack (be) [be] [False]" tvg-logo="", Radio 2
+#EXTINF:0001 tvg-id="8nTZOrtoShKyg8" tvg-chno="12" group-title="famelack (be) [be] [False]" tvg-logo="", Radio 2
 https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8
-#EXTINF:0001 tvg-id="C3AQFlaUomd8TE" tvg-chno="14" group-title="famelack (be) [be] [False]" tvg-logo="", RTL Club
-https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8
-#EXTINF:0001 tvg-id="hrXJRBJnmcWXfL" tvg-chno="15" group-title="famelack (be) [be] [False]" tvg-logo="", Sterk TV
+#EXTINF:0001 tvg-id="hrXJRBJnmcWXfL" tvg-chno="13" group-title="famelack (be) [be] [False]" tvg-logo="", Sterk TV
 https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
-#EXTINF:0001 tvg-id="DyMJivaAXMvjos" tvg-chno="16" group-title="famelack (be) [be] [False]" tvg-logo="", StuBru
+#EXTINF:0001 tvg-id="DyMJivaAXMvjos" tvg-chno="14" group-title="famelack (be) [be] [False]" tvg-logo="", StuBru
 https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
-#EXTINF:0001 tvg-id="mODsZ0uywreKXA" tvg-chno="17" group-title="famelack (be) [be] [False]" tvg-logo="", Tele MB
+#EXTINF:0001 tvg-id="mODsZ0uywreKXA" tvg-chno="15" group-title="famelack (be) [be] [False]" tvg-logo="", Tele MB
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8
-#EXTINF:0001 tvg-id="DYsVgwn2CBEpRU" tvg-chno="18" group-title="famelack (be) [be] [False]" tvg-logo="", Telesambre
+#EXTINF:0001 tvg-id="DYsVgwn2CBEpRU" tvg-chno="16" group-title="famelack (be) [be] [False]" tvg-logo="", Telesambre
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
-#EXTINF:0001 tvg-id="NdxuQBJhHdBU21" tvg-chno="19" group-title="famelack (be) [be] [False]" tvg-logo="", TV Lux
+#EXTINF:0001 tvg-id="NdxuQBJhHdBU21" tvg-chno="17" group-title="famelack (be) [be] [False]" tvg-logo="", TV Lux
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
-#EXTINF:0001 tvg-id="QMKdJTMZUTheYK" tvg-chno="20" group-title="famelack (be) [be] [False]" tvg-logo="", WTV
+#EXTINF:0001 tvg-id="QMKdJTMZUTheYK" tvg-chno="18" group-title="famelack (be) [be] [False]" tvg-logo="", WTV
 https://wtvlive.b-cdn.net/playlist.m3u8
