@@ -6,7 +6,7 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:0001 tvg-id="OfbaNj7uCuziTj" tvg-chno="3" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Ekhbariya
 https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
 #EXTINF:0001 tvg-id="O5Ua3BgtrfnWGn" tvg-chno="4" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="gUNShL4GZ5DwVP" tvg-chno="5" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Quran Al Kareem TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:0001 tvg-id="nDg5qUEVFtMmxa" tvg-chno="6" group-title="famelack (sa) [sa] [False]" tvg-logo="", Al Riyadh Radio

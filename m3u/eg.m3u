@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="hmJBHkCQQky6u9" tvg-chno="1" group-title="famelack (eg) [eg] [False]" tvg-logo="", Aghapy TV
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="R3nEpkv51x8AF7" tvg-chno="2" group-title="famelack (eg) [eg] [False]" tvg-logo="", Al Ghad TV
-https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:0001 tvg-id="dGr0ssQIHQJ76n" tvg-chno="2" group-title="famelack (eg) [eg] [False]" tvg-logo="", Al Masriyah
+https://185.9.2.18/chid_247/index.m3u8
 #EXTINF:0001 tvg-id="PKOl6YLNA3xe6A" tvg-chno="3" group-title="famelack (eg) [eg] [False]" tvg-logo="", ATVSat
 https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="04YQOwGjlPDoED" tvg-chno="4" group-title="famelack (eg) [eg] [False]" tvg-logo="", CBC

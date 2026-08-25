@@ -7,8 +7,8 @@ https://str.yodacdn.net/azertv/index.m3u8
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:0001 tvg-id="n8aV4qPr7267ok" tvg-chno="4" group-title="famelack (az) [az] [False]" tvg-logo="", Baku.TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:0001 tvg-id="bTpfDJ5yQNPKEE" tvg-chno="5" group-title="famelack (az) [az] [False]" tvg-logo="", Kanal 35
-https://str2.yodacdn.net/kanal35/index.m3u8
+#EXTINF:0001 tvg-id="B5yE0mrBECzUCL" tvg-chno="5" group-title="famelack (az) [az] [False]" tvg-logo="", EL TV
+https://live.eltv.az/live/eltv/playlist.m3u8
 #EXTINF:0001 tvg-id="itLokaJAiNkQNU" tvg-chno="6" group-title="famelack (az) [az] [False]" tvg-logo="", Kanal S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:0001 tvg-id="BBI8YUriXrMPZH" tvg-chno="7" group-title="famelack (az) [az] [False]" tvg-logo="", KN Music TV
@@ -25,3 +25,5 @@ https://str.yodacdn.net/medeniyyettele/index.m3u8
 https://str2.yodacdn.net/ntv/video.m3u8
 #EXTINF:0001 tvg-id="nJUg7d1NQf1aEX" tvg-chno="13" group-title="famelack (az) [az] [False]" tvg-logo="", Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:0001 tvg-id="BRcYI5UTMS9jQ8" tvg-chno="14" group-title="famelack (az) [az] [False]" tvg-logo="", Xezer TV
+https://www.xezerxeber.az/stream/index.m3u8

@@ -9,12 +9,12 @@ https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8
 https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
 #EXTINF:0001 tvg-id="2E1QCHJTYwtjGg" tvg-chno="5" group-title="famelack (pr) [pr] [False]" tvg-logo="", DeFiance Media
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="P4mxJMVl2wyiPi" tvg-chno="6" group-title="famelack (pr) [pr] [False]" tvg-logo="", Faro de Santidad TV
+#EXTINF:0001 tvg-id="bD45kzyCkGUkuS" tvg-chno="6" group-title="famelack (pr) [pr] [False]" tvg-logo="", Familia Vision HD
+https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
+#EXTINF:0001 tvg-id="P4mxJMVl2wyiPi" tvg-chno="7" group-title="famelack (pr) [pr] [False]" tvg-logo="", Faro de Santidad TV
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
-#EXTINF:0001 tvg-id="ESeEpgafREEMIe" tvg-chno="7" group-title="famelack (pr) [pr] [False]" tvg-logo="", La-X
+#EXTINF:0001 tvg-id="ESeEpgafREEMIe" tvg-chno="8" group-title="famelack (pr) [pr] [False]" tvg-logo="", La-X
 https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
-#EXTINF:0001 tvg-id="8vjdEy4opeeKWC" tvg-chno="8" group-title="famelack (pr) [pr] [False]" tvg-logo="", NG Radio TV
-https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 #EXTINF:0001 tvg-id="7W5fz3owCOtino" tvg-chno="9" group-title="famelack (pr) [pr] [False]" tvg-logo="", Nueva Vida FM
 https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 #EXTINF:0001 tvg-id="fxoiDSXZnOUswM" tvg-chno="10" group-title="famelack (pr) [pr] [False]" tvg-logo="", Paraiso TV
@@ -23,12 +23,12 @@ https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 #EXTINF:0001 tvg-id="LNGJVkOrgPhVTB" tvg-chno="12" group-title="famelack (pr) [pr] [False]" tvg-logo="", Salvacion TV
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
-#EXTINF:0001 tvg-id="WRhrhAcp8QVCZv" tvg-chno="13" group-title="famelack (pr) [pr] [False]" tvg-logo="", TeleOnce
+#EXTINF:0001 tvg-id="mus49kJTQfTCmk" tvg-chno="13" group-title="famelack (pr) [pr] [False]" tvg-logo="", Telenorte
+https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
+#EXTINF:0001 tvg-id="WRhrhAcp8QVCZv" tvg-chno="14" group-title="famelack (pr) [pr] [False]" tvg-logo="", TeleOnce
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="kFXY9hZYJ4HFXR" tvg-chno="14" group-title="famelack (pr) [pr] [False]" tvg-logo="", The Retro Channel
+#EXTINF:0001 tvg-id="kFXY9hZYJ4HFXR" tvg-chno="15" group-title="famelack (pr) [pr] [False]" tvg-logo="", The Retro Channel
 https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:0001 tvg-id="QYv70qSnNhaax1" tvg-chno="15" group-title="famelack (pr) [pr] [False]" tvg-logo="", Triunfo 96.9 FM
-https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
 #EXTINF:0001 tvg-id="vETwdWDS6Ys3LC" tvg-chno="16" group-title="famelack (pr) [pr] [False]" tvg-logo="", WDWL 58.1
 https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:0001 tvg-id="pCErNDOF1ndRX6" tvg-chno="17" group-title="famelack (pr) [pr] [False]" tvg-logo="", WECN

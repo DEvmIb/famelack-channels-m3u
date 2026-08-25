@@ -5,14 +5,14 @@ https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
 #EXTINF:0001 tvg-id="iJEOwv6A3pLbpA" tvg-chno="3" group-title="famelack (ee) [ee] [False]" tvg-logo="", DanceTV Deep House District
 https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:0001 tvg-id="cnFlZpQ0FKCBXe" tvg-chno="4" group-title="famelack (ee) [ee] [False]" tvg-logo="", DanceTV EDM Mainstage
-https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
-#EXTINF:0001 tvg-id="Q5enIVFByh6WlU" tvg-chno="5" group-title="famelack (ee) [ee] [False]" tvg-logo="", DanceTV House Floor
+#EXTINF:0001 tvg-id="Q5enIVFByh6WlU" tvg-chno="4" group-title="famelack (ee) [ee] [False]" tvg-logo="", DanceTV House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
-#EXTINF:0001 tvg-id="dGqTIRUXI72pxD" tvg-chno="6" group-title="famelack (ee) [ee] [False]" tvg-logo="", DanceTV Minimal Tech
+#EXTINF:0001 tvg-id="dGqTIRUXI72pxD" tvg-chno="5" group-title="famelack (ee) [ee] [False]" tvg-logo="", DanceTV Minimal Tech
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
-#EXTINF:0001 tvg-id="5Hkd3G2uCyMEyH" tvg-chno="7" group-title="famelack (ee) [ee] [False]" tvg-logo="", DanceTV Techno Warehouse
+#EXTINF:0001 tvg-id="5Hkd3G2uCyMEyH" tvg-chno="6" group-title="famelack (ee) [ee] [False]" tvg-logo="", DanceTV Techno Warehouse
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:0001 tvg-id="FYDzTh0N4duFas" tvg-chno="7" group-title="famelack (ee) [ee] [False]" tvg-logo="", ETV
+https://sb.err.ee/live/etv.m3u8
 #EXTINF:0001 tvg-id="w1TyAWzZva88k1" tvg-chno="8" group-title="famelack (ee) [ee] [False]" tvg-logo="", ETV 2
 https://sb.err.ee/live/etv2.m3u8
 #EXTINF:0001 tvg-id="g3tSCZ3A6RSOUd" tvg-chno="9" group-title="famelack (ee) [ee] [False]" tvg-logo="", ETV+
