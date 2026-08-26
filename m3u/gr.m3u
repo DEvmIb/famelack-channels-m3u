@@ -40,7 +40,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:0001 tvg-id="BBnkN7RuoWZuoo" tvg-chno="20" group-title="famelack (gr) [gr] [False]" tvg-logo="", Gnomi TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:0001 tvg-id="zfdgzXgQZmoAvu" tvg-chno="21" group-title="famelack (gr) [gr] [False]" tvg-logo="", Hellenic Parliament TV
-https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 #EXTINF:0001 tvg-id="zSgRIxf4rZgvt7" tvg-chno="22" group-title="famelack (gr) [gr] [False]" tvg-logo="", Ionian TV
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:0001 tvg-id="slRsHngNcym3tq" tvg-chno="23" group-title="famelack (gr) [gr] [False]" tvg-logo="", Kontra Channel
