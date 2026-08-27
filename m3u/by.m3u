@@ -6,7 +6,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="HbRUt7FKalezmx" tvg-chno="3" group-title="famelack (by) [by] [False]" tvg-logo="", Belarus-4 Vitebsk
 https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="yxXfCHd5uHQMJD" tvg-chno="4" group-title="famelack (by) [by] [True]" tvg-logo="", Belarus-5
-https://stream.mcquack.net/33/index.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="Fzrfx3wDU4y6Uc" tvg-chno="5" group-title="famelack (by) [by] [True]" tvg-logo="", Belarus-24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="2hOrFusUCkxYi3" tvg-chno="6" group-title="famelack (by) [by] [False]" tvg-logo="", Belsat TV

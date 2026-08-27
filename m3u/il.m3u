@@ -41,13 +41,15 @@ https://stream.mcquack.net/294/index.m3u8
 https://stream.mcquack.net/48/index.m3u8
 #EXTINF:0001 tvg-id="hbcJB1RCRT6pmz" tvg-chno="21" group-title="famelack (il) [il] [False]" tvg-logo="", Makan 33
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:0001 tvg-id="9JfMUyW3Js7KeX" tvg-chno="22" group-title="famelack (il) [il] [False]" tvg-logo="", Now 14
+#EXTINF:0001 tvg-id="BE24TaDtAzeVFU" tvg-chno="22" group-title="famelack (il) [il] [False]" tvg-logo="", Musayof (Israel)
+https://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+#EXTINF:0001 tvg-id="9JfMUyW3Js7KeX" tvg-chno="23" group-title="famelack (il) [il] [False]" tvg-logo="", Now 14
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:0001 tvg-id="tHJWXIh983bKTp" tvg-chno="23" group-title="famelack (il) [il] [False]" tvg-logo="", Shelanu.TV
+#EXTINF:0001 tvg-id="tHJWXIh983bKTp" tvg-chno="24" group-title="famelack (il) [il] [False]" tvg-logo="", Shelanu.TV
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
-#EXTINF:0001 tvg-id="o0RIg5UE06J2tY" tvg-chno="24" group-title="famelack (il) [il] [False]" tvg-logo="", Yam Tichoni
+#EXTINF:0001 tvg-id="o0RIg5UE06J2tY" tvg-chno="25" group-title="famelack (il) [il] [False]" tvg-logo="", Yam Tichoni
 https://stream.mcquack.net/46/index.m3u8
-#EXTINF:0001 tvg-id="AgNbAmKmAiWR5R" tvg-chno="25" group-title="famelack (il) [il] [False]" tvg-logo="", Yes Movies Action
+#EXTINF:0001 tvg-id="AgNbAmKmAiWR5R" tvg-chno="26" group-title="famelack (il) [il] [False]" tvg-logo="", Yes Movies Action
 https://stream.mcquack.net/380/index.m3u8
-#EXTINF:0001 tvg-id="zUBU1oLKMpdsiQ" tvg-chno="26" group-title="famelack (il) [il] [False]" tvg-logo="", Zoom
+#EXTINF:0001 tvg-id="zUBU1oLKMpdsiQ" tvg-chno="27" group-title="famelack (il) [il] [False]" tvg-logo="", Zoom
 https://stream.mcquack.net/377/index.m3u8

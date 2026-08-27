@@ -6,6 +6,10 @@ https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
 #EXTINF:0001 tvg-id="E2OFYhWuscbmST" tvg-chno="3" group-title="famelack (no) [no] [True]" tvg-logo="", NRK Tegnsprak
 https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8
 #EXTINF:0001 tvg-id="tcPJcj402bdXXm" tvg-chno="4" group-title="famelack (no) [no] [True]" tvg-logo="", NRK1
-https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8
-#EXTINF:0001 tvg-id="e3NUApkCSGAi5K" tvg-chno="5" group-title="famelack (no) [no] [False]" tvg-logo="", TV Ostfold
+https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8
+#EXTINF:0001 tvg-id="3giJwQPcxQpbQT" tvg-chno="5" group-title="famelack (no) [no] [True]" tvg-logo="", NRK2
+https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
+#EXTINF:0001 tvg-id="l135sOnErL9SVx" tvg-chno="6" group-title="famelack (no) [no] [True]" tvg-logo="", NRK3
+https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
+#EXTINF:0001 tvg-id="e3NUApkCSGAi5K" tvg-chno="7" group-title="famelack (no) [no] [False]" tvg-logo="", TV Ostfold
 https://streamnorge.com:8088/hls/tvo.m3u8
