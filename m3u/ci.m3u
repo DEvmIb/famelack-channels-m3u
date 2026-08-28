@@ -5,10 +5,10 @@ https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
 #EXTINF:0001 tvg-id="lk0uWzuq5z3huX" tvg-chno="3" group-title="famelack (ci) [ci] [False]" tvg-logo="", Afro Magic Channel
 https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
-#EXTINF:0001 tvg-id="5Fpx8ElfBBDQAX" tvg-chno="4" group-title="famelack (ci) [ci] [False]" tvg-logo="", Benie TV
+#EXTINF:0001 tvg-id="n4RrCqsrdFtghH" tvg-chno="4" group-title="famelack (ci) [ci] [False]" tvg-logo="", Afroculture TV
+https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
+#EXTINF:0001 tvg-id="5Fpx8ElfBBDQAX" tvg-chno="5" group-title="famelack (ci) [ci] [False]" tvg-logo="", Benie TV
 https://tv.voozmedia.fun/benietv/index.m3u8
-#EXTINF:0001 tvg-id="9pIQ8aGJ6RFrBk" tvg-chno="5" group-title="famelack (ci) [ci] [False]" tvg-logo="", Champion TV
-https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
 #EXTINF:0001 tvg-id="3VXLFsdtTTonDX" tvg-chno="6" group-title="famelack (ci) [ci] [False]" tvg-logo="", Guide Love TV
 https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
 #EXTINF:0001 tvg-id="UtQIu21Wfg54RO" tvg-chno="7" group-title="famelack (ci) [ci] [False]" tvg-logo="", Ivoire Channel
