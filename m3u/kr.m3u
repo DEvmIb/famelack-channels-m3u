@@ -45,8 +45,8 @@ https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:0001 tvg-id="pnA1ESNuQBhdp0" tvg-chno="23" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLAT-DTV
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="jOYpv2cv2xRFLe" tvg-chno="24" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLCT-DTV
-https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:0001 tvg-id="GCDtsdmWOrJKEn" tvg-chno="24" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLCQ-DTV
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="pl6NNNGCvJKobd" tvg-chno="25" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLDH-DTV
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:0001 tvg-id="hI9SMCGhwuM1Tn" tvg-chno="26" group-title="famelack (kr) [kr] [False]" tvg-logo="", HLDP-DTV
