@@ -19,3 +19,5 @@ https://93.184.10.248/JordanSport/index.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
 #EXTINF:0001 tvg-id="30l6X98ALn4Bjb" tvg-chno="10" group-title="famelack (jo) [jo] [False]" tvg-logo="", Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:0001 tvg-id="8JZH2jVeoWilfK" tvg-chno="11" group-title="famelack (jo) [jo] [False]" tvg-logo="", Melody FM
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8

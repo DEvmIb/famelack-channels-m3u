@@ -5,5 +5,3 @@ https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
 https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
 #EXTINF:0001 tvg-id="sAbR7bvxYpt3dh" tvg-chno="3" group-title="famelack (cd) [cd] [False]" tvg-logo="", Lollywood HD TV
 https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
-#EXTINF:0001 tvg-id="C9r0nQTewOjHW3" tvg-chno="4" group-title="famelack (cd) [cd] [False]" tvg-logo="", RL PRO TV
-https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
