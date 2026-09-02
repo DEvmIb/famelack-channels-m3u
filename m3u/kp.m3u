@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="Q9Y56pgC8MY44a" tvg-chno="1" group-title="famelack (kp) [kp] [False]" tvg-logo="", Korean Central Television
-https://stream.intchoson.com/kctv/index.m3u8
+https://kctv.koryofront.org/stream/index.m3u8
+#EXTINF:0001 tvg-id="60IOsWE81tg80S" tvg-chno="2" group-title="famelack (kp) [kp] [False]" tvg-logo="", Ryongnamsan Television
+https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
+#EXTINF:0001 tvg-id="7bdsXT1F21Lj2s" tvg-chno="3" group-title="famelack (kp) [kp] [False]" tvg-logo="", Sports Television
+https://kctv.koryofront.org/stream/sports/index.m3u8

@@ -75,13 +75,11 @@ https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
 #EXTINF:0001 tvg-id="uW9T6p9CIkSP3A" tvg-chno="38" group-title="famelack (iq) [iq] [False]" tvg-logo="", Rudaw TV
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:0001 tvg-id="PhXDu5yXp9uaMZ" tvg-chno="39" group-title="famelack (iq) [iq] [False]" tvg-logo="", Samarra TV
-https://live.bradosti.net/live/samaraweb_playlist.m3u8
-#EXTINF:0001 tvg-id="5tvpIjV4plOKmq" tvg-chno="40" group-title="famelack (iq) [iq] [False]" tvg-logo="", Shams TV
+#EXTINF:0001 tvg-id="5tvpIjV4plOKmq" tvg-chno="39" group-title="famelack (iq) [iq] [False]" tvg-logo="", Shams TV
 https://stream.shams.tv/hls/stream.m3u8
-#EXTINF:0001 tvg-id="KMzVAKGUvyz4eh" tvg-chno="41" group-title="famelack (iq) [iq] [False]" tvg-logo="", Waar TV
+#EXTINF:0001 tvg-id="KMzVAKGUvyz4eh" tvg-chno="40" group-title="famelack (iq) [iq] [False]" tvg-logo="", Waar TV
 https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
-#EXTINF:0001 tvg-id="1BItbbUxYfR9by" tvg-chno="42" group-title="famelack (iq) [iq] [False]" tvg-logo="", Zagros TV
+#EXTINF:0001 tvg-id="1BItbbUxYfR9by" tvg-chno="41" group-title="famelack (iq) [iq] [False]" tvg-logo="", Zagros TV
 https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
-#EXTINF:0001 tvg-id="cM31twBg1gSzK3" tvg-chno="43" group-title="famelack (iq) [iq] [False]" tvg-logo="", Zarok TV Sorani
+#EXTINF:0001 tvg-id="cM31twBg1gSzK3" tvg-chno="42" group-title="famelack (iq) [iq] [False]" tvg-logo="", Zarok TV Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
