@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="k0N3e27ge4nS6v" tvg-chno="1" group-title="famelack (kz) [kz] [False]" tvg-logo="", 31 Kanal
 https://stream.mcquack.net/388/index.m3u8
-#EXTINF:0001 tvg-id="jIgDetReIEdnsC" tvg-chno="2" group-title="famelack (kz) [kz] [False]" tvg-logo="", Alau TV
+#EXTINF:0001 tvg-id="SUz6ZlewrjG9Ml" tvg-chno="2" group-title="famelack (kz) [kz] [False]" tvg-logo="", Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:0001 tvg-id="jIgDetReIEdnsC" tvg-chno="3" group-title="famelack (kz) [kz] [False]" tvg-logo="", Alau TV
 https://otv.wotom.net/alau/stream.m3u8
-#EXTINF:0001 tvg-id="7rBhnvF1cWN6Zb" tvg-chno="3" group-title="famelack (kz) [kz] [False]" tvg-logo="", Astana TV
+#EXTINF:0001 tvg-id="7rBhnvF1cWN6Zb" tvg-chno="4" group-title="famelack (kz) [kz] [False]" tvg-logo="", Astana TV
 https://stream.mcquack.net/28/index.m3u8
-#EXTINF:0001 tvg-id="NsRP1rTNLBH991" tvg-chno="4" group-title="famelack (kz) [kz] [False]" tvg-logo="", Balapan
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:0001 tvg-id="JCokef05ozWI8Y" tvg-chno="5" group-title="famelack (kz) [kz] [False]" tvg-logo="", Balapan International
 https://live-3.otcnet.ru/Balapan/index.m3u8
 #EXTINF:0001 tvg-id="SbrDSLg33mlDZZ" tvg-chno="6" group-title="famelack (kz) [kz] [False]" tvg-logo="", Channel 7 Kazakhstan
@@ -22,7 +22,7 @@ https://stream8.cinerama.uz/1500/playlist.m3u8
 #EXTINF:0001 tvg-id="qDGnaOsmdQnYTU" tvg-chno="11" group-title="famelack (kz) [kz] [False]" tvg-logo="", NTK
 https://stream.mcquack.net/389/index.m3u8
 #EXTINF:0001 tvg-id="PUtkKNBhatXQzk" tvg-chno="12" group-title="famelack (kz) [kz] [False]" tvg-logo="", Qazaqstan
-https://stream.mcquack.net/71/index.m3u8
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTINF:0001 tvg-id="u6Kfd6P0YKGpB4" tvg-chno="13" group-title="famelack (kz) [kz] [False]" tvg-logo="", Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:0001 tvg-id="RlDh4IHVR4WpZw" tvg-chno="14" group-title="famelack (kz) [kz] [True]" tvg-logo="", QazSport

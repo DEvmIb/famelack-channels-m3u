@@ -181,31 +181,33 @@ https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8
 https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8
 #EXTINF:0001 tvg-id="y9se3kSGZxxBBD" tvg-chno="91" group-title="famelack (nl) [nl] [False]" tvg-logo="", Slotstad TV
 https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8
-#EXTINF:0001 tvg-id="dAXeuFzPs6OaT0" tvg-chno="92" group-title="famelack (nl) [nl] [False]" tvg-logo="", StreekTV
+#EXTINF:0001 tvg-id="O0kpowmkTJLDCA" tvg-chno="92" group-title="famelack (nl) [nl] [False]" tvg-logo="", SRC TV
+https://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
+#EXTINF:0001 tvg-id="dAXeuFzPs6OaT0" tvg-chno="93" group-title="famelack (nl) [nl] [False]" tvg-logo="", StreekTV
 https://61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8
-#EXTINF:0001 tvg-id="vO7ItMw9qBUGew" tvg-chno="93" group-title="famelack (nl) [nl] [False]" tvg-logo="", Studio Rheden
+#EXTINF:0001 tvg-id="vO7ItMw9qBUGew" tvg-chno="94" group-title="famelack (nl) [nl] [False]" tvg-logo="", Studio Rheden
 https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
-#EXTINF:0001 tvg-id="sFINVSL7tug2sB" tvg-chno="94" group-title="famelack (nl) [nl] [False]" tvg-logo="", Studio040 TV
+#EXTINF:0001 tvg-id="sFINVSL7tug2sB" tvg-chno="95" group-title="famelack (nl) [nl] [False]" tvg-logo="", Studio040 TV
 https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
-#EXTINF:0001 tvg-id="80Bzo5gghASeEz" tvg-chno="95" group-title="famelack (nl) [nl] [False]" tvg-logo="", TV Ellef
+#EXTINF:0001 tvg-id="80Bzo5gghASeEz" tvg-chno="96" group-title="famelack (nl) [nl] [False]" tvg-logo="", TV Ellef
 https://61ae39677a1ab.streamlock.net/tvellef/tvellef/playlist.m3u8
-#EXTINF:0001 tvg-id="kFgkTaYcE0JGsc" tvg-chno="96" group-title="famelack (nl) [nl] [False]" tvg-logo="", UStad
+#EXTINF:0001 tvg-id="kFgkTaYcE0JGsc" tvg-chno="97" group-title="famelack (nl) [nl] [False]" tvg-logo="", UStad
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
-#EXTINF:0001 tvg-id="i2GpEeoaXxzJ13" tvg-chno="97" group-title="famelack (nl) [nl] [False]" tvg-logo="", Vechtdal TV
+#EXTINF:0001 tvg-id="i2GpEeoaXxzJ13" tvg-chno="98" group-title="famelack (nl) [nl] [False]" tvg-logo="", Vechtdal TV
 https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="8x4Pl6hI5XunaS" tvg-chno="98" group-title="famelack (nl) [nl] [False]" tvg-logo="", Waterbear
+#EXTINF:0001 tvg-id="8x4Pl6hI5XunaS" tvg-chno="99" group-title="famelack (nl) [nl] [False]" tvg-logo="", Waterbear
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
-#EXTINF:0001 tvg-id="zl0ukpBnhgDrtz" tvg-chno="99" group-title="famelack (nl) [nl] [False]" tvg-logo="", WeertFM TV
+#EXTINF:0001 tvg-id="zl0ukpBnhgDrtz" tvg-chno="100" group-title="famelack (nl) [nl] [False]" tvg-logo="", WeertFM TV
 https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="0cyk1CCNCuzPwL" tvg-chno="100" group-title="famelack (nl) [nl] [False]" tvg-logo="", Wicked Tuna
+#EXTINF:0001 tvg-id="0cyk1CCNCuzPwL" tvg-chno="101" group-title="famelack (nl) [nl] [False]" tvg-logo="", Wicked Tuna
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
-#EXTINF:0001 tvg-id="PqPpaJK0geUq0W" tvg-chno="101" group-title="famelack (nl) [nl] [False]" tvg-logo="", WOS
+#EXTINF:0001 tvg-id="PqPpaJK0geUq0W" tvg-chno="102" group-title="famelack (nl) [nl] [False]" tvg-logo="", WOS
 https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="4N4Er0dTF4NsBL" tvg-chno="102" group-title="famelack (nl) [nl] [False]" tvg-logo="", XITE Hits Netherlands
+#EXTINF:0001 tvg-id="4N4Er0dTF4NsBL" tvg-chno="103" group-title="famelack (nl) [nl] [False]" tvg-logo="", XITE Hits Netherlands
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
-#EXTINF:0001 tvg-id="SEl1ifpNBzGggm" tvg-chno="103" group-title="famelack (nl) [nl] [False]" tvg-logo="", XITE Reggae Vibes
+#EXTINF:0001 tvg-id="SEl1ifpNBzGggm" tvg-chno="104" group-title="famelack (nl) [nl] [False]" tvg-logo="", XITE Reggae Vibes
 https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
-#EXTINF:0001 tvg-id="T6K1OzxVu2js0L" tvg-chno="104" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZFM Zoetermeer TV
+#EXTINF:0001 tvg-id="T6K1OzxVu2js0L" tvg-chno="105" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZFM Zoetermeer TV
 https://zfmzoetermeer.nl/live/master.m3u8
-#EXTINF:0001 tvg-id="misQ9uBxRPB1ww" tvg-chno="105" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZO!34
+#EXTINF:0001 tvg-id="misQ9uBxRPB1ww" tvg-chno="106" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZO!34
 https://video.uitzending.tv:19360/zo34/zo34.m3u8
