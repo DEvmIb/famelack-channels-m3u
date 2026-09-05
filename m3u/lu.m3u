@@ -9,5 +9,11 @@ https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
 https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8
 #EXTINF:0001 tvg-id="uOiBx0AcUgb3bN" tvg-chno="5" group-title="famelack (lu) [lu] [False]" tvg-logo="", RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
-#EXTINF:0001 tvg-id="4HFk1EIyyY3Rms" tvg-chno="6" group-title="famelack (lu) [lu] [False]" tvg-logo="", Today Radio
+#EXTINF:0001 tvg-id="04BZ4Im7unCBPu" tvg-chno="6" group-title="famelack (lu) [lu] [False]" tvg-logo="", RTL Tele Letzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0001 tvg-id="VKXdw51jAjLElY" tvg-chno="7" group-title="famelack (lu) [lu] [False]" tvg-logo="", RTL Web Radio TV
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:0001 tvg-id="4bOkAleAYXay7w" tvg-chno="8" group-title="famelack (lu) [lu] [False]" tvg-logo="", RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0001 tvg-id="4HFk1EIyyY3Rms" tvg-chno="9" group-title="famelack (lu) [lu] [False]" tvg-logo="", Today Radio
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8

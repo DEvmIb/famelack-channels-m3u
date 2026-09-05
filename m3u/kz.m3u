@@ -12,7 +12,7 @@ https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv
 #EXTINF:0001 tvg-id="o33GtxEONALntd" tvg-chno="6" group-title="famelack (kz) [kz] [False]" tvg-logo="", Atameken Business
 https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
 #EXTINF:0001 tvg-id="NsRP1rTNLBH991" tvg-chno="7" group-title="famelack (kz) [kz] [False]" tvg-logo="", Balapan
-https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:0001 tvg-id="ZG99eor1F9rnmL" tvg-chno="8" group-title="famelack (kz) [kz] [False]" tvg-logo="", Channel 7
 https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
 #EXTINF:0001 tvg-id="CvHwESTij7IhtA" tvg-chno="9" group-title="famelack (kz) [kz] [False]" tvg-logo="", Jibek Joly
@@ -26,7 +26,7 @@ https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:0001 tvg-id="SD0NAzWeVoCwdJ" tvg-chno="13" group-title="famelack (kz) [kz] [False]" tvg-logo="", Nickelodeon CIS
 https://stream8.cinerama.uz/1500/playlist.m3u8
 #EXTINF:0001 tvg-id="a3tM5au4kJNioz" tvg-chno="14" group-title="famelack (kz) [kz] [False]" tvg-logo="", Novoe televidenie
-https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
+https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:0001 tvg-id="qDGnaOsmdQnYTU" tvg-chno="15" group-title="famelack (kz) [kz] [False]" tvg-logo="", NTK
 https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv
 #EXTINF:0001 tvg-id="PUtkKNBhatXQzk" tvg-chno="16" group-title="famelack (kz) [kz] [False]" tvg-logo="", Qazaqstan

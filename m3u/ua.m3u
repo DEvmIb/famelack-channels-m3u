@@ -49,57 +49,61 @@ https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
 #EXTINF:0001 tvg-id="RCrPTSQMxm28NU" tvg-chno="25" group-title="famelack (ua) [ua] [False]" tvg-logo="", Kus-Kus
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
-#EXTINF:0001 tvg-id="VuNeaocCdf0jve" tvg-chno="26" group-title="famelack (ua) [ua] [False]" tvg-logo="", Mega
+#EXTINF:0001 tvg-id="aTKMVMY4VnZK2B" tvg-chno="26" group-title="famelack (ua) [ua] [False]" tvg-logo="", M1
+https://dtv.vol.net.ua/M1-HD/index.m3u8
+#EXTINF:0001 tvg-id="VuNeaocCdf0jve" tvg-chno="27" group-title="famelack (ua) [ua] [False]" tvg-logo="", Mega
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="n4cYNsGP5quUZZ" tvg-chno="27" group-title="famelack (ua) [ua] [False]" tvg-logo="", Muzvar
+#EXTINF:0001 tvg-id="n4cYNsGP5quUZZ" tvg-chno="28" group-title="famelack (ua) [ua] [False]" tvg-logo="", Muzvar
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="llmTLpa7nLu2lO" tvg-chno="28" group-title="famelack (ua) [ua] [False]" tvg-logo="", NASHE Music
+#EXTINF:0001 tvg-id="llmTLpa7nLu2lO" tvg-chno="29" group-title="famelack (ua) [ua] [False]" tvg-logo="", NASHE Music
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="yuVSQWMuHA1KqE" tvg-chno="29" group-title="famelack (ua) [ua] [False]" tvg-logo="", NTK TV
+#EXTINF:0001 tvg-id="yuVSQWMuHA1KqE" tvg-chno="30" group-title="famelack (ua) [ua] [False]" tvg-logo="", NTK TV
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:0001 tvg-id="oKqpFMnvfZtb0e" tvg-chno="30" group-title="famelack (ua) [ua] [False]" tvg-logo="", NTN
+#EXTINF:0001 tvg-id="oKqpFMnvfZtb0e" tvg-chno="31" group-title="famelack (ua) [ua] [False]" tvg-logo="", NTN
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="IAHNNM2HDRUGA0" tvg-chno="31" group-title="famelack (ua) [ua] [False]" tvg-logo="", Pixel TV
+#EXTINF:0001 tvg-id="IAHNNM2HDRUGA0" tvg-chno="32" group-title="famelack (ua) [ua] [False]" tvg-logo="", Pixel TV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="BbQTAaHxQO2kHl" tvg-chno="32" group-title="famelack (ua) [ua] [False]" tvg-logo="", PTV
+#EXTINF:0001 tvg-id="BbQTAaHxQO2kHl" tvg-chno="33" group-title="famelack (ua) [ua] [False]" tvg-logo="", PTV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="Nm3WREqkCV8Rax" tvg-chno="33" group-title="famelack (ua) [ua] [False]" tvg-logo="", RAZ 3
+#EXTINF:0001 tvg-id="Nm3WREqkCV8Rax" tvg-chno="34" group-title="famelack (ua) [ua] [False]" tvg-logo="", RAZ 3
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180
-#EXTINF:0001 tvg-id="8U4fmHOblgoXqY" tvg-chno="34" group-title="famelack (ua) [ua] [False]" tvg-logo="", RAZ 3 International
+#EXTINF:0001 tvg-id="8U4fmHOblgoXqY" tvg-chno="35" group-title="famelack (ua) [ua] [False]" tvg-logo="", RAZ 3 International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
-#EXTINF:0001 tvg-id="Ow650uw0Y3b6my" tvg-chno="35" group-title="famelack (ua) [ua] [False]" tvg-logo="", Rivne 1
+#EXTINF:0001 tvg-id="Ow650uw0Y3b6my" tvg-chno="36" group-title="famelack (ua) [ua] [False]" tvg-logo="", Rivne 1
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="AJKlRqqS5ctnyc" tvg-chno="36" group-title="famelack (ua) [ua] [False]" tvg-logo="", Rybalka
+#EXTINF:0001 tvg-id="AJKlRqqS5ctnyc" tvg-chno="37" group-title="famelack (ua) [ua] [False]" tvg-logo="", Rybalka
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
-#EXTINF:0001 tvg-id="WUpQwb5AVqMclc" tvg-chno="37" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sfera-TV
+#EXTINF:0001 tvg-id="WUpQwb5AVqMclc" tvg-chno="38" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sfera-TV
 https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="4KSXokD7EvbB2N" tvg-chno="38" group-title="famelack (ua) [ua] [True]" tvg-logo="", Simon
+#EXTINF:0001 tvg-id="4KSXokD7EvbB2N" tvg-chno="39" group-title="famelack (ua) [ua] [True]" tvg-logo="", Simon
 https://hls.simon.ua/live-HD/live/playlist.m3u8
-#EXTINF:0001 tvg-id="fyG9et2B8LrqxV" tvg-chno="39" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sonce+
+#EXTINF:0001 tvg-id="fyG9et2B8LrqxV" tvg-chno="40" group-title="famelack (ua) [ua] [False]" tvg-logo="", Sonce+
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn&master=1103
-#EXTINF:0001 tvg-id="ZacP6GQMQWENup" tvg-chno="40" group-title="famelack (ua) [ua] [False]" tvg-logo="", Suspilne. Kyiv
+#EXTINF:0001 tvg-id="ZacP6GQMQWENup" tvg-chno="41" group-title="famelack (ua) [ua] [False]" tvg-logo="", Suspilne. Kyiv
 https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
-#EXTINF:0001 tvg-id="Pqrkg7U9owFXx2" tvg-chno="41" group-title="famelack (ua) [ua] [False]" tvg-logo="", Telekanal RAI
+#EXTINF:0001 tvg-id="Pqrkg7U9owFXx2" tvg-chno="42" group-title="famelack (ua) [ua] [False]" tvg-logo="", Telekanal RAI
 https://stream.rai.ua/rai/stream.m3u8
-#EXTINF:0001 tvg-id="WcoZqsaKguXix1" tvg-chno="42" group-title="famelack (ua) [ua] [False]" tvg-logo="", TUSO
+#EXTINF:0001 tvg-id="KNtnaXZuhjC6uj" tvg-chno="43" group-title="famelack (ua) [ua] [False]" tvg-logo="", TIS TV
+https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
+#EXTINF:0001 tvg-id="WcoZqsaKguXix1" tvg-chno="44" group-title="famelack (ua) [ua] [False]" tvg-logo="", TUSO
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
-#EXTINF:0001 tvg-id="TSbUr1OhqLkxuT" tvg-chno="43" group-title="famelack (ua) [ua] [False]" tvg-logo="", TVA
+#EXTINF:0001 tvg-id="TSbUr1OhqLkxuT" tvg-chno="45" group-title="famelack (ua) [ua] [False]" tvg-logo="", TVA
 https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="Y0erRqDz4zrYeR" tvg-chno="44" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Explore
+#EXTINF:0001 tvg-id="Y0erRqDz4zrYeR" tvg-chno="46" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Explore
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&master=79
-#EXTINF:0001 tvg-id="PfbaswQwxPL2la" tvg-chno="45" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat History
+#EXTINF:0001 tvg-id="PfbaswQwxPL2la" tvg-chno="47" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat History
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
-#EXTINF:0001 tvg-id="ny7Wt1WBD8NyDP" tvg-chno="46" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Kino
+#EXTINF:0001 tvg-id="ny7Wt1WBD8NyDP" tvg-chno="48" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Kino
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104
-#EXTINF:0001 tvg-id="8S6XWyiADx3IBB" tvg-chno="47" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Kino Action
+#EXTINF:0001 tvg-id="8S6XWyiADx3IBB" tvg-chno="49" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Kino Action
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
-#EXTINF:0001 tvg-id="3KIbg37PQUOdm7" tvg-chno="48" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Kino Comedy
+#EXTINF:0001 tvg-id="3KIbg37PQUOdm7" tvg-chno="50" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Kino Comedy
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
-#EXTINF:0001 tvg-id="DrX3v9SZK4N49f" tvg-chno="49" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Kino World
+#EXTINF:0001 tvg-id="DrX3v9SZK4N49f" tvg-chno="51" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Kino World
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
-#EXTINF:0001 tvg-id="xZQtLilWvREvvM" tvg-chno="50" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Nature
+#EXTINF:0001 tvg-id="xZQtLilWvREvvM" tvg-chno="52" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Nature
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw%3D%3D&master=77
-#EXTINF:0001 tvg-id="ZcTlJjeaCc55j6" tvg-chno="51" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Serial
+#EXTINF:0001 tvg-id="ZcTlJjeaCc55j6" tvg-chno="53" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat Serial
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
-#EXTINF:0001 tvg-id="QObKB9usM9CdhJ" tvg-chno="52" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat True Crime Ukraine
+#EXTINF:0001 tvg-id="QObKB9usM9CdhJ" tvg-chno="54" group-title="famelack (ua) [ua] [False]" tvg-logo="", Viasat True Crime Ukraine
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMjgvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3MDczMDImc3Q9ZzIyOUNTdUZudUd6dm9UbkJNNzJ6dw%3D%3D&master=1091
