@@ -33,9 +33,11 @@ https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b7
 https://live-fi.tvkaista.net/star-channel/live.m3u8
 #EXTINF:0001 tvg-id="xqKdOYRVMSVleX" tvg-chno="17" group-title="famelack (fi) [fi] [False]" tvg-logo="", Taivas TV7
 https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="TpuV7cZ7ley7jL" tvg-chno="18" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle Teema & Fem
+#EXTINF:0001 tvg-id="3kvMeRQNc7yJgV" tvg-chno="18" group-title="famelack (fi) [fi] [False]" tvg-logo="", World of Love Island
+https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="TpuV7cZ7ley7jL" tvg-chno="19" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle Teema & Fem
 https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
-#EXTINF:0001 tvg-id="yckusHOMD6vE3i" tvg-chno="19" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle TV1
+#EXTINF:0001 tvg-id="yckusHOMD6vE3i" tvg-chno="20" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle TV1
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
-#EXTINF:0001 tvg-id="2j4i6yHaNK9dPs" tvg-chno="20" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle TV2
+#EXTINF:0001 tvg-id="2j4i6yHaNK9dPs" tvg-chno="21" group-title="famelack (fi) [fi] [True]" tvg-logo="", Yle TV2
 https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
