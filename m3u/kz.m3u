@@ -2,7 +2,7 @@
 #EXTINF:0001 tvg-id="JN8uOWZZnBWa2O" tvg-chno="1" group-title="famelack (kz) [kz] [False]" tvg-logo="", 24KZ
 https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
 #EXTINF:0001 tvg-id="SUz6ZlewrjG9Ml" tvg-chno="2" group-title="famelack (kz) [kz] [False]" tvg-logo="", Abai TV
-https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 #EXTINF:0001 tvg-id="jIgDetReIEdnsC" tvg-chno="3" group-title="famelack (kz) [kz] [False]" tvg-logo="", Alau TV
 https://otv.wotom.net/alau/stream.m3u8
 #EXTINF:0001 tvg-id="ZEdaOTdRxyURAR" tvg-chno="4" group-title="famelack (kz) [kz] [False]" tvg-logo="", Almaty TV
@@ -26,15 +26,15 @@ https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:0001 tvg-id="SD0NAzWeVoCwdJ" tvg-chno="13" group-title="famelack (kz) [kz] [False]" tvg-logo="", Nickelodeon CIS
 https://stream8.cinerama.uz/1500/playlist.m3u8
 #EXTINF:0001 tvg-id="a3tM5au4kJNioz" tvg-chno="14" group-title="famelack (kz) [kz] [False]" tvg-logo="", Novoe televidenie
-https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
+https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:0001 tvg-id="qDGnaOsmdQnYTU" tvg-chno="15" group-title="famelack (kz) [kz] [False]" tvg-logo="", NTK
 https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv
 #EXTINF:0001 tvg-id="PUtkKNBhatXQzk" tvg-chno="16" group-title="famelack (kz) [kz] [False]" tvg-logo="", Qazaqstan
-https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
 #EXTINF:0001 tvg-id="u6Kfd6P0YKGpB4" tvg-chno="17" group-title="famelack (kz) [kz] [False]" tvg-logo="", Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:0001 tvg-id="RlDh4IHVR4WpZw" tvg-chno="18" group-title="famelack (kz) [kz] [True]" tvg-logo="", QazSport
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
 #EXTINF:0001 tvg-id="UQ2tnaYuDB5seW" tvg-chno="19" group-title="famelack (kz) [kz] [False]" tvg-logo="", Rika TV
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="TomqBXbWstBWEq" tvg-chno="20" group-title="famelack (kz) [kz] [False]" tvg-logo="", Silk Way

@@ -3,3 +3,5 @@
 https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8
 #EXTINF:0001 tvg-id="ODGy5xci7GyHGP" tvg-chno="2" group-title="famelack (kn) [kn] [False]" tvg-logo="", Television Caribbean
 https://live.kingdom-tv.com:3545/stream/play.m3u8
+#EXTINF:0001 tvg-id="uotwBii647jkV2" tvg-chno="3" group-title="famelack (kn) [kn] [False]" tvg-logo="", ZIZ TV
+https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
