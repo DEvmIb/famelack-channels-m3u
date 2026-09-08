@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="bYTvtLA2rlhnbu" tvg-chno="1" group-title="famelack (bq) [bq] [False]" tvg-logo="", Bonaire.tv
-https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
-#EXTINF:0001 tvg-id="zZixQOJakEHiUP" tvg-chno="2" group-title="famelack (bq) [bq] [False]" tvg-logo="", Energia TV
+#EXTINF:0001 tvg-id="zZixQOJakEHiUP" tvg-chno="1" group-title="famelack (bq) [bq] [False]" tvg-logo="", Energia TV
 https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
-#EXTINF:0001 tvg-id="ww7twEESZxWUIN" tvg-chno="3" group-title="famelack (bq) [bq] [False]" tvg-logo="", Live99FM
+#EXTINF:0001 tvg-id="ww7twEESZxWUIN" tvg-chno="2" group-title="famelack (bq) [bq] [False]" tvg-logo="", Live99FM
 https://media.streambrothers.com:1936/8014/8014/playlist.m3u8

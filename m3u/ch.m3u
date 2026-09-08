@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="Eu1GvmnWYa5GBs" tvg-chno="1" group-title="famelack (ch) [ch] [False]" tvg-logo="", 7 Gold
-https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+#EXTINF:0001 tvg-id="2vVci7MeIBudgn" tvg-chno="1" group-title="famelack (ch) [ch] [False]" tvg-logo="", Canal Alpha Jura
+https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 #EXTINF:0001 tvg-id="EDuoxij0nldVBm" tvg-chno="2" group-title="famelack (ch) [ch] [False]" tvg-logo="", Canal Alpha Neuchatel
 https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 #EXTINF:0001 tvg-id="fjYriRacd46Tsw" tvg-chno="3" group-title="famelack (ch) [ch] [False]" tvg-logo="", Carac 1

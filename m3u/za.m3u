@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="iTbSyptSI7ovhK" tvg-chno="1" group-title="famelack (za) [za] [False]" tvg-logo="", 1KZN TV
-https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="im3F3X4RVVERe9" tvg-chno="2" group-title="famelack (za) [za] [False]" tvg-logo="", BOKTV
+#EXTINF:0001 tvg-id="im3F3X4RVVERe9" tvg-chno="1" group-title="famelack (za) [za] [False]" tvg-logo="", BOKTV
 https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+#EXTINF:0001 tvg-id="3qqNu9ZcAbmKFU" tvg-chno="2" group-title="famelack (za) [za] [False]" tvg-logo="", Cape Town TV
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="FGpMp0EUe8V0jg" tvg-chno="3" group-title="famelack (za) [za] [False]" tvg-logo="", Faith Africa
 https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="RnZgNdJPQ7SoXK" tvg-chno="4" group-title="famelack (za) [za] [False]" tvg-logo="", Homebase TV
