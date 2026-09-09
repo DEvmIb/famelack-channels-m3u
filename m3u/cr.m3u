@@ -31,38 +31,38 @@ https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:0001 tvg-id="wXST2Lc3NQDzOF" tvg-chno="16" group-title="famelack (cr) [cr] [False]" tvg-logo="", Coto Brus TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
-#EXTINF:0001 tvg-id="0Bp1uWDwZ9RGmr" tvg-chno="17" group-title="famelack (cr) [cr] [False]" tvg-logo="", Cristo Vision Canal 31
-https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
-#EXTINF:0001 tvg-id="XI0tj0hHgDA4kn" tvg-chno="18" group-title="famelack (cr) [cr] [False]" tvg-logo="", Extra TV 42
+#EXTINF:0001 tvg-id="XI0tj0hHgDA4kn" tvg-chno="17" group-title="famelack (cr) [cr] [False]" tvg-logo="", Extra TV 42
 https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8
-#EXTINF:0001 tvg-id="ejJZfMgOR7K5m8" tvg-chno="19" group-title="famelack (cr) [cr] [False]" tvg-logo="", Extrema Kids TV
+#EXTINF:0001 tvg-id="ejJZfMgOR7K5m8" tvg-chno="18" group-title="famelack (cr) [cr] [False]" tvg-logo="", Extrema Kids TV
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:0001 tvg-id="g2oDIGkwBMwsy6" tvg-chno="20" group-title="famelack (cr) [cr] [False]" tvg-logo="", Extrema TV
+#EXTINF:0001 tvg-id="g2oDIGkwBMwsy6" tvg-chno="19" group-title="famelack (cr) [cr] [False]" tvg-logo="", Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:0001 tvg-id="0qduamfMKf5AXL" tvg-chno="21" group-title="famelack (cr) [cr] [False]" tvg-logo="", GAM TV
+#EXTINF:0001 tvg-id="0qduamfMKf5AXL" tvg-chno="20" group-title="famelack (cr) [cr] [False]" tvg-logo="", GAM TV
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
-#EXTINF:0001 tvg-id="WGsDfHy5YE0QGF" tvg-chno="22" group-title="famelack (cr) [cr] [False]" tvg-logo="", GAMTV.cr
+#EXTINF:0001 tvg-id="WGsDfHy5YE0QGF" tvg-chno="21" group-title="famelack (cr) [cr] [False]" tvg-logo="", GAMTV.cr
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
-#EXTINF:0001 tvg-id="GD6GIT9MV0x6kz" tvg-chno="23" group-title="famelack (cr) [cr] [False]" tvg-logo="", Garabito TV
+#EXTINF:0001 tvg-id="GD6GIT9MV0x6kz" tvg-chno="22" group-title="famelack (cr) [cr] [False]" tvg-logo="", Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-#EXTINF:0001 tvg-id="no0bNa1IOmbWsV" tvg-chno="24" group-title="famelack (cr) [cr] [False]" tvg-logo="", Guatuso TV
+#EXTINF:0001 tvg-id="no0bNa1IOmbWsV" tvg-chno="23" group-title="famelack (cr) [cr] [False]" tvg-logo="", Guatuso TV
 https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
-#EXTINF:0001 tvg-id="puMweHvpz4B7Uc" tvg-chno="25" group-title="famelack (cr) [cr] [False]" tvg-logo="", Impact Channel
+#EXTINF:0001 tvg-id="puMweHvpz4B7Uc" tvg-chno="24" group-title="famelack (cr) [cr] [False]" tvg-logo="", Impact Channel
 https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
-#EXTINF:0001 tvg-id="2TkyCEIMqFLsTQ" tvg-chno="26" group-title="famelack (cr) [cr] [False]" tvg-logo="", IQ Channel
+#EXTINF:0001 tvg-id="2TkyCEIMqFLsTQ" tvg-chno="25" group-title="famelack (cr) [cr] [False]" tvg-logo="", IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:0001 tvg-id="hWONN4ANlWd0XQ" tvg-chno="27" group-title="famelack (cr) [cr] [False]" tvg-logo="", La Potente Radio TV
+#EXTINF:0001 tvg-id="hWONN4ANlWd0XQ" tvg-chno="26" group-title="famelack (cr) [cr] [False]" tvg-logo="", La Potente Radio TV
 https://latamvdo.com:3626/hybrid/play.m3u8
-#EXTINF:0001 tvg-id="L0Xj3EMr6sq9Oz" tvg-chno="28" group-title="famelack (cr) [cr] [False]" tvg-logo="", Los Santos TV
+#EXTINF:0001 tvg-id="L0Xj3EMr6sq9Oz" tvg-chno="27" group-title="famelack (cr) [cr] [False]" tvg-logo="", Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:0001 tvg-id="UTisNlOtHENqTI" tvg-chno="29" group-title="famelack (cr) [cr] [False]" tvg-logo="", Luz Naciente TV
+#EXTINF:0001 tvg-id="UTisNlOtHENqTI" tvg-chno="28" group-title="famelack (cr) [cr] [False]" tvg-logo="", Luz Naciente TV
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
-#EXTINF:0001 tvg-id="L1OBT7Lnf5SKDh" tvg-chno="30" group-title="famelack (cr) [cr] [False]" tvg-logo="", NicoyaTV
+#EXTINF:0001 tvg-id="L1OBT7Lnf5SKDh" tvg-chno="29" group-title="famelack (cr) [cr] [False]" tvg-logo="", NicoyaTV
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-#EXTINF:0001 tvg-id="4hISVyUvSKd79p" tvg-chno="31" group-title="famelack (cr) [cr] [False]" tvg-logo="", Norte Informativo TV
+#EXTINF:0001 tvg-id="4hISVyUvSKd79p" tvg-chno="30" group-title="famelack (cr) [cr] [False]" tvg-logo="", Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:0001 tvg-id="cjWWqp2uLiAYNE" tvg-chno="32" group-title="famelack (cr) [cr] [False]" tvg-logo="", Oldies Hits
+#EXTINF:0001 tvg-id="cjWWqp2uLiAYNE" tvg-chno="31" group-title="famelack (cr) [cr] [False]" tvg-logo="", Oldies Hits
 https://video07.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+#EXTINF:0001 tvg-id="gVTlfz80oD0tzA" tvg-chno="32" group-title="famelack (cr) [cr] [False]" tvg-logo="", Quince UCR
+https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="HYkbd92n6SC6wf" tvg-chno="33" group-title="famelack (cr) [cr] [False]" tvg-logo="", San Jose TV
 https://rtmp.info/sanjosetv/envivo/playlist.m3u8
 #EXTINF:0001 tvg-id="pJed6PGC73uDCa" tvg-chno="34" group-title="famelack (cr) [cr] [False]" tvg-logo="", San Vito Television
