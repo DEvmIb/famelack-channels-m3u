@@ -114,7 +114,7 @@ https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 #EXTINF:0001 tvg-id="V1f6w7hVGBkZca" tvg-chno="57" group-title="famelack (uk) [uk] [True]" tvg-logo="", Ghost Hunters UK
 https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="zwddtNggcoJeiE" tvg-chno="58" group-title="famelack (uk) [uk] [False]" tvg-logo="", GOD TV
-https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
+https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
 #EXTINF:0001 tvg-id="aZ7OPQQXDiuZF3" tvg-chno="59" group-title="famelack (uk) [uk] [False]" tvg-logo="", GREAT! movies UK
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:0001 tvg-id="fROG7Xv2Vlx2Vb" tvg-chno="60" group-title="famelack (uk) [uk] [False]" tvg-logo="", GREAT! romance UK
@@ -251,8 +251,8 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:0001 tvg-id="fOSUi9hkZeTBQ3" tvg-chno="126" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rabbids Invasion
 https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8
-#EXTINF:0001 tvg-id="F2ftHadqxcG2u5" tvg-chno="127" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Drama Movies UK
-https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:0001 tvg-id="c4Swg0nm0Rjn8G" tvg-chno="127" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Action Movies UK
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:0001 tvg-id="jz4YnIQOr3KiI6" tvg-chno="128" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Thrillers UK
 https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
 #EXTINF:0001 tvg-id="uHYtTL2fEDHMX0" tvg-chno="129" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rally.TV FAST+
@@ -372,6 +372,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-sa
 #EXTINF:0001 tvg-id="7TAJrOeAkmgT9J" tvg-chno="186" group-title="famelack (uk) [uk] [False]" tvg-logo="", World Poker Tour UK
 https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
 #EXTINF:0001 tvg-id="B0N3YLVGTZmUxD" tvg-chno="187" group-title="famelack (uk) [uk] [False]" tvg-logo="", World War TV
-https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="AzDpyeeds0QWRB" tvg-chno="188" group-title="famelack (uk) [uk] [False]" tvg-logo="", XITE Hits UK
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
