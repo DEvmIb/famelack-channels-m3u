@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="Cu73Q5k8upl2mU" tvg-chno="1" group-title="famelack (kw) [kw] [False]" tvg-logo="", Ch4Teen
-https://ch14.tv/live/ch4teenclip/playlist.m3u8
+https://ch14.tv/live/ch4teen1/playlist.m3u8
 #EXTINF:0001 tvg-id="NNBXQyMSbrBaYX" tvg-chno="2" group-title="famelack (kw) [kw] [False]" tvg-logo="", Ch4Teen Documentary
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:0001 tvg-id="qmnARgUFZrDat0" tvg-chno="3" group-title="famelack (kw) [kw] [False]" tvg-logo="", KTV 1
