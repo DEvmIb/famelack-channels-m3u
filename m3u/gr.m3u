@@ -29,16 +29,16 @@ https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:0001 tvg-id="kQoJODyIVFBenm" tvg-chno="15" group-title="famelack (gr) [gr] [False]" tvg-logo="", Egnatia TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:0001 tvg-id="cwC9NJaJZp5UMP" tvg-chno="16" group-title="famelack (gr) [gr] [False]" tvg-logo="", Epiloges TV
+#EXTINF:0001 tvg-id="HQxmczuRTCLJHk" tvg-chno="16" group-title="famelack (gr) [gr] [False]" tvg-logo="", Ellinikos FM
+https://rtmp.win:3603/live/ellinikosfmlive.m3u8
+#EXTINF:0001 tvg-id="cwC9NJaJZp5UMP" tvg-chno="17" group-title="famelack (gr) [gr] [False]" tvg-logo="", Epiloges TV
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
-#EXTINF:0001 tvg-id="GI28zdliqFumzw" tvg-chno="17" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT Cosmos
+#EXTINF:0001 tvg-id="GI28zdliqFumzw" tvg-chno="18" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT Cosmos
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
-#EXTINF:0001 tvg-id="lQUaMVorKskNow" tvg-chno="18" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT News
+#EXTINF:0001 tvg-id="lQUaMVorKskNow" tvg-chno="19" group-title="famelack (gr) [gr] [False]" tvg-logo="", ERT News
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
-#EXTINF:0001 tvg-id="9dl7OtlflRXkkz" tvg-chno="19" group-title="famelack (gr) [gr] [False]" tvg-logo="", Euro TV
+#EXTINF:0001 tvg-id="9dl7OtlflRXkkz" tvg-chno="20" group-title="famelack (gr) [gr] [False]" tvg-logo="", Euro TV
 https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
-#EXTINF:0001 tvg-id="rNwXK8U9QtgSSA" tvg-chno="20" group-title="famelack (gr) [gr] [True]" tvg-logo="", Faros TV2
-https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:0001 tvg-id="BBnkN7RuoWZuoo" tvg-chno="21" group-title="famelack (gr) [gr] [False]" tvg-logo="", Gnomi TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:0001 tvg-id="zfdgzXgQZmoAvu" tvg-chno="22" group-title="famelack (gr) [gr] [False]" tvg-logo="", Hellenic Parliament TV

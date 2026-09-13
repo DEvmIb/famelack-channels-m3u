@@ -5,5 +5,7 @@ https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
 https://vdo2.pro-fhi.net:3769/stream/play.m3u8
 #EXTINF:0001 tvg-id="MBKYOzxWLTlns1" tvg-chno="3" group-title="famelack (mq) [mq] [False]" tvg-logo="", Tele Zoukla
 https://vdo.pro-fhi.net:3228/stream/play.m3u8
-#EXTINF:0001 tvg-id="aF0pZrnx8tcjSx" tvg-chno="4" group-title="famelack (mq) [mq] [False]" tvg-logo="", Zitata TV
+#EXTINF:0001 tvg-id="usETpjVP1bzVNN" tvg-chno="4" group-title="famelack (mq) [mq] [False]" tvg-logo="", TV Famille
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+#EXTINF:0001 tvg-id="aF0pZrnx8tcjSx" tvg-chno="5" group-title="famelack (mq) [mq] [False]" tvg-logo="", Zitata TV
 https://live.zitata.tv/direct-hls/playlist.m3u8
