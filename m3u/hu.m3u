@@ -5,10 +5,10 @@ https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="IAuzwfi3ffN5aQ" tvg-chno="3" group-title="famelack (hu) [hu] [False]" tvg-logo="", Alfold TV
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="ZTvTYkAMkRF41z" tvg-chno="4" group-title="famelack (hu) [hu] [False]" tvg-logo="", Bajai TV
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="bjtUkZwN7hFmXK" tvg-chno="5" group-title="famelack (hu) [hu] [False]" tvg-logo="", Balaton TV
+#EXTINF:0001 tvg-id="bjtUkZwN7hFmXK" tvg-chno="4" group-title="famelack (hu) [hu] [False]" tvg-logo="", Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:0001 tvg-id="oh8HdDJ2MJ0IrA" tvg-chno="5" group-title="famelack (hu) [hu] [False]" tvg-logo="", Budapest Europa Televizio
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="7lZXVo773nUBKh" tvg-chno="6" group-title="famelack (hu) [hu] [False]" tvg-logo="", ESTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="Iq86nUR80ay3qv" tvg-chno="7" group-title="famelack (hu) [hu] [False]" tvg-logo="", Euronews Hungarian
@@ -33,21 +33,23 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
 https://stream.moranettv.hu/live/index.m3u8
 #EXTINF:0001 tvg-id="keerWZjLOhWdmx" tvg-chno="17" group-title="famelack (hu) [hu] [False]" tvg-logo="", Oroszlanyi Varosi Televizio
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="vyv7aN2DLRtAEV" tvg-chno="18" group-title="famelack (hu) [hu] [False]" tvg-logo="", Oxygen Music
+#EXTINF:0001 tvg-id="C4WEiFY5k9mJhz" tvg-chno="18" group-title="famelack (hu) [hu] [False]" tvg-logo="", Orszaggyules: OGY plenaris
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:0001 tvg-id="vyv7aN2DLRtAEV" tvg-chno="19" group-title="famelack (hu) [hu] [False]" tvg-logo="", Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:0001 tvg-id="ip8Na0ZwN4kNrg" tvg-chno="19" group-title="famelack (hu) [hu] [False]" tvg-logo="", RTL Gold
+#EXTINF:0001 tvg-id="ip8Na0ZwN4kNrg" tvg-chno="20" group-title="famelack (hu) [hu] [False]" tvg-logo="", RTL Gold
 https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
-#EXTINF:0001 tvg-id="yLfdBafHhlhrgj" tvg-chno="20" group-title="famelack (hu) [hu] [False]" tvg-logo="", SIXO TV
+#EXTINF:0001 tvg-id="yLfdBafHhlhrgj" tvg-chno="21" group-title="famelack (hu) [hu] [False]" tvg-logo="", SIXO TV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="TXVHSWHgllbutZ" tvg-chno="21" group-title="famelack (hu) [hu] [False]" tvg-logo="", Szolnok TV
+#EXTINF:0001 tvg-id="TXVHSWHgllbutZ" tvg-chno="22" group-title="famelack (hu) [hu] [False]" tvg-logo="", Szolnok TV
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="uOI7Fr7hGWDmjp" tvg-chno="22" group-title="famelack (hu) [hu] [False]" tvg-logo="", TelePaks
+#EXTINF:0001 tvg-id="uOI7Fr7hGWDmjp" tvg-chno="23" group-title="famelack (hu) [hu] [False]" tvg-logo="", TelePaks
 https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="V9OoiU0u2pwSNH" tvg-chno="23" group-title="famelack (hu) [hu] [False]" tvg-logo="", TV Keszthely
+#EXTINF:0001 tvg-id="V9OoiU0u2pwSNH" tvg-chno="24" group-title="famelack (hu) [hu] [False]" tvg-logo="", TV Keszthely
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="zm1DJdY6bU4270" tvg-chno="24" group-title="famelack (hu) [hu] [False]" tvg-logo="", Vasarhelyi Televizio
+#EXTINF:0001 tvg-id="zm1DJdY6bU4270" tvg-chno="25" group-title="famelack (hu) [hu] [False]" tvg-logo="", Vasarhelyi Televizio
 https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
-#EXTINF:0001 tvg-id="2SBZd0F52NzMui" tvg-chno="25" group-title="famelack (hu) [hu] [False]" tvg-logo="", XV TV
+#EXTINF:0001 tvg-id="2SBZd0F52NzMui" tvg-chno="26" group-title="famelack (hu) [hu] [False]" tvg-logo="", XV TV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="CV0Wnf3LNtBbuS" tvg-chno="26" group-title="famelack (hu) [hu] [False]" tvg-logo="", Zalaegerszegi TV
+#EXTINF:0001 tvg-id="CV0Wnf3LNtBbuS" tvg-chno="27" group-title="famelack (hu) [hu] [False]" tvg-logo="", Zalaegerszegi TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8

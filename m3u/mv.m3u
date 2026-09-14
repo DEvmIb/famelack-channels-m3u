@@ -3,3 +3,5 @@
 https://lana.psm.mv/live/mtv.m3u8
 #EXTINF:0001 tvg-id="A9wsFdDEQAIayf" tvg-chno="2" group-title="famelack (mv) [mv] [False]" tvg-logo="", MMTV
 https://sendlive.online/hls/mmtv.m3u8
+#EXTINF:0001 tvg-id="VZBxSoe576CfEB" tvg-chno="3" group-title="famelack (mv) [mv] [False]" tvg-logo="", YES
+https://lana.psm.mv/live/yes.m3u8

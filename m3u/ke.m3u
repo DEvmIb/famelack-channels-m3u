@@ -17,3 +17,5 @@ https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
 https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
 #EXTINF:0001 tvg-id="HmimxNpLzs8JkF" tvg-chno="9" group-title="famelack (ke) [ke] [False]" tvg-logo="", Morning Cloud TV
 https://livecdn.live247stream.com/mc/tv/playlist.m3u8
+#EXTINF:0001 tvg-id="xv7XuF3Jqnre1p" tvg-chno="10" group-title="famelack (ke) [ke] [False]" tvg-logo="", YOUNIB Media TV
+https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8

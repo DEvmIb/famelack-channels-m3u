@@ -12,7 +12,7 @@ https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
 #EXTINF:0001 tvg-id="BG3WWAjyFpp31n" tvg-chno="6" group-title="famelack (pk) [pk] [False]" tvg-logo="", ABN News
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 #EXTINF:0001 tvg-id="sF8x4UncscLIdo" tvg-chno="7" group-title="famelack (pk) [pk] [False]" tvg-logo="", Aik News
-https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8
 #EXTINF:0001 tvg-id="snzVRw31EQRlDo" tvg-chno="8" group-title="famelack (pk) [pk] [False]" tvg-logo="", ARY News
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8
 #EXTINF:0001 tvg-id="AdIl1CSIOqCaJ6" tvg-chno="9" group-title="famelack (pk) [pk] [False]" tvg-logo="", Bol Entertainment
@@ -99,9 +99,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 https://cdn.live247stream.com/pmi/tv/playlist.m3u8
 #EXTINF:0001 tvg-id="77LBTTq4JvQf4h" tvg-chno="50" group-title="famelack (pk) [pk] [False]" tvg-logo="", Praise TV
 https://livecdn.live247stream.com/praise/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="eEl9GNsGZ69KhR" tvg-chno="51" group-title="famelack (pk) [pk] [False]" tvg-logo="", PTV Sports
-https://tvsen7.aynascope.net/Sports1/index.m3u8
-#EXTINF:0001 tvg-id="HxH54ypKcC1Xvq" tvg-chno="52" group-title="famelack (pk) [pk] [False]" tvg-logo="", Samaa TV
+#EXTINF:0001 tvg-id="HxH54ypKcC1Xvq" tvg-chno="51" group-title="famelack (pk) [pk] [False]" tvg-logo="", Samaa TV
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
-#EXTINF:0001 tvg-id="oy323hi3qdqwPY" tvg-chno="53" group-title="famelack (pk) [pk] [False]" tvg-logo="", Such TV
+#EXTINF:0001 tvg-id="oy323hi3qdqwPY" tvg-chno="52" group-title="famelack (pk) [pk] [False]" tvg-logo="", Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
