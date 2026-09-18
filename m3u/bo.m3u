@@ -33,12 +33,12 @@ https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 #EXTINF:0001 tvg-id="YIKke4PY7wnkdl" tvg-chno="17" group-title="famelack (bo) [bo] [False]" tvg-logo="", Palenque TV
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
-#EXTINF:0001 tvg-id="ctXKtPRIVgnD2j" tvg-chno="18" group-title="famelack (bo) [bo] [False]" tvg-logo="", Poder de Dios TV
-https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
-#EXTINF:0001 tvg-id="4frDgMPDz0NOom" tvg-chno="19" group-title="famelack (bo) [bo] [False]" tvg-logo="", PTV
+#EXTINF:0001 tvg-id="4frDgMPDz0NOom" tvg-chno="18" group-title="famelack (bo) [bo] [False]" tvg-logo="", PTV
 https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
-#EXTINF:0001 tvg-id="pYqhwxhr9gjeaq" tvg-chno="20" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Centro
+#EXTINF:0001 tvg-id="pYqhwxhr9gjeaq" tvg-chno="19" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Centro
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
+#EXTINF:0001 tvg-id="BnzbysvLZ1mHZ2" tvg-chno="20" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Clasica TV
+https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
 #EXTINF:0001 tvg-id="uMIh7eDq4J69dP" tvg-chno="21" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Kollasuyo
 https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 #EXTINF:0001 tvg-id="1Snebdc8j861KM" tvg-chno="22" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Universitaria San Andres
