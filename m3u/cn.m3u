@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="zRxr2ZAtzWPYCP" tvg-chno="1" group-title="famelack (cn) [cn] [False]" tvg-logo="", Ando TV
 https://play.kankanlive.com/live/1711956137852982.m3u8
-#EXTINF:0001 tvg-id="FLJTgXx5Ik6ljh" tvg-chno="2" group-title="famelack (cn) [cn] [False]" tvg-logo="", Angel TV Chinese
-https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+#EXTINF:0001 tvg-id="uzMnROBDMiNzKY" tvg-chno="2" group-title="famelack (cn) [cn] [False]" tvg-logo="", Anhui TV
+https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 #EXTINF:0001 tvg-id="gcM2WWZ06H1U7r" tvg-chno="3" group-title="famelack (cn) [cn] [True]" tvg-logo="", Baicheng TV
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 #EXTINF:0001 tvg-id="jPny5x45PjO9YA" tvg-chno="4" group-title="famelack (cn) [cn] [False]" tvg-logo="", CCTV-1

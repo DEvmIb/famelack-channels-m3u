@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="ieSH1Df6dmiPew" tvg-chno="1" group-title="famelack (mv) [mv] [False]" tvg-logo="", Channel 13
 https://sunplay-cdn.bitratelabs.com/live/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8_1080p/index.m3u8
-#EXTINF:0001 tvg-id="A9wsFdDEQAIayf" tvg-chno="2" group-title="famelack (mv) [mv] [False]" tvg-logo="", MMTV
+#EXTINF:0001 tvg-id="goNrMuzefDwskd" tvg-chno="2" group-title="famelack (mv) [mv] [False]" tvg-logo="", Maldives TV
+https://lana.psm.mv/live/mtv.m3u8
+#EXTINF:0001 tvg-id="A9wsFdDEQAIayf" tvg-chno="3" group-title="famelack (mv) [mv] [False]" tvg-logo="", MMTV
 https://sendlive.online/hls/mmtv.m3u8
-#EXTINF:0001 tvg-id="tXjtUJ8mVtddPt" tvg-chno="3" group-title="famelack (mv) [mv] [False]" tvg-logo="", NTV
+#EXTINF:0001 tvg-id="tXjtUJ8mVtddPt" tvg-chno="4" group-title="famelack (mv) [mv] [False]" tvg-logo="", NTV
 https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
-#EXTINF:0001 tvg-id="wCtijxLtU3jISy" tvg-chno="4" group-title="famelack (mv) [mv] [False]" tvg-logo="", VTV
+#EXTINF:0001 tvg-id="1EonRCqkUpHOzE" tvg-chno="5" group-title="famelack (mv) [mv] [False]" tvg-logo="", TV Maldives
+https://lana.psm.mv/live/tvm.m3u8
+#EXTINF:0001 tvg-id="wCtijxLtU3jISy" tvg-chno="6" group-title="famelack (mv) [mv] [False]" tvg-logo="", VTV
 https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
-#EXTINF:0001 tvg-id="VZBxSoe576CfEB" tvg-chno="5" group-title="famelack (mv) [mv] [False]" tvg-logo="", YES
+#EXTINF:0001 tvg-id="VZBxSoe576CfEB" tvg-chno="7" group-title="famelack (mv) [mv] [False]" tvg-logo="", YES
 https://lana.psm.mv/live/yes.m3u8

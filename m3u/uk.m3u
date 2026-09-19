@@ -255,12 +255,12 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:0001 tvg-id="fOSUi9hkZeTBQ3" tvg-chno="128" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rabbids Invasion
 https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8
-#EXTINF:0001 tvg-id="6OObHoCz5T6mVt" tvg-chno="129" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Sci-Fi UK
-https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
-#EXTINF:0001 tvg-id="uHYtTL2fEDHMX0" tvg-chno="130" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rally.TV FAST+
+#EXTINF:0001 tvg-id="F2ftHadqxcG2u5" tvg-chno="129" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Drama Movies UK
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:0001 tvg-id="pCghkk05sIwmT1" tvg-chno="130" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Reality UK
+https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
+#EXTINF:0001 tvg-id="uHYtTL2fEDHMX0" tvg-chno="131" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rally.TV FAST+
 https://di4fb7mbsq3nf.cloudfront.net/playlist.m3u8
-#EXTINF:0001 tvg-id="RekrBPbX5KKpZp" tvg-chno="131" group-title="famelack (uk) [uk] [True]" tvg-logo="", Real Crime
-https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="jNN9ef0ljzGJ7E" tvg-chno="132" group-title="famelack (uk) [uk] [False]" tvg-logo="", Real Crime Beta
 https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="VLRmb68T8TU3O9" tvg-chno="133" group-title="famelack (uk) [uk] [False]" tvg-logo="", River Monsters
@@ -374,6 +374,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-sa
 #EXTINF:0001 tvg-id="7TAJrOeAkmgT9J" tvg-chno="187" group-title="famelack (uk) [uk] [False]" tvg-logo="", World Poker Tour UK
 https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
 #EXTINF:0001 tvg-id="B0N3YLVGTZmUxD" tvg-chno="188" group-title="famelack (uk) [uk] [False]" tvg-logo="", World War TV
-https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="AzDpyeeds0QWRB" tvg-chno="189" group-title="famelack (uk) [uk] [False]" tvg-logo="", XITE Hits UK
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
