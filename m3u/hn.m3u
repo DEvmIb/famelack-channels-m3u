@@ -95,5 +95,3 @@ https://s.emisoras.tv:8081/tvcopan/index.m3u8
 https://s.emisoras.tv:8081/tve/index.m3u8
 #EXTINF:0001 tvg-id="68v5jZBiXMRfcB" tvg-chno="48" group-title="famelack (hn) [hn] [False]" tvg-logo="", UNE TV
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
-#EXTINF:0001 tvg-id="5Dr7rNIxY7en3G" tvg-chno="49" group-title="famelack (hn) [hn] [False]" tvg-logo="", Waldivision Internacional
-https://media.streambrothers.com:19360/8308/8308.m3u8
