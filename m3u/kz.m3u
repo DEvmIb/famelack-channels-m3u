@@ -24,7 +24,7 @@ https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
 #EXTINF:0001 tvg-id="qB76xClxVm71Nk" tvg-chno="12" group-title="famelack (kz) [kz] [False]" tvg-logo="", KinoBoevik
 https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
 #EXTINF:0001 tvg-id="3AVsF9F3MmLx0i" tvg-chno="13" group-title="famelack (kz) [kz] [False]" tvg-logo="", KTK
-https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
 #EXTINF:0001 tvg-id="9BFxyMjB6LONXi" tvg-chno="14" group-title="famelack (kz) [kz] [False]" tvg-logo="", Mirovoe kino
 https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
 #EXTINF:0001 tvg-id="5b8XYlH65LRz6N" tvg-chno="15" group-title="famelack (kz) [kz] [False]" tvg-logo="", MTRK

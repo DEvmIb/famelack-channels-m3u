@@ -255,10 +255,10 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:0001 tvg-id="fOSUi9hkZeTBQ3" tvg-chno="128" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rabbids Invasion
 https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8
-#EXTINF:0001 tvg-id="bM1ajyE0MLR0WL" tvg-chno="129" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Family Movies UK
-https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-#EXTINF:0001 tvg-id="6OObHoCz5T6mVt" tvg-chno="130" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Sci-Fi UK
-https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
+#EXTINF:0001 tvg-id="mN7jjbfyCCrHDM" tvg-chno="129" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Romance Movies UK
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+#EXTINF:0001 tvg-id="jz4YnIQOr3KiI6" tvg-chno="130" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Thrillers UK
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
 #EXTINF:0001 tvg-id="uHYtTL2fEDHMX0" tvg-chno="131" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rally.TV FAST+
 https://di4fb7mbsq3nf.cloudfront.net/playlist.m3u8
 #EXTINF:0001 tvg-id="jNN9ef0ljzGJ7E" tvg-chno="132" group-title="famelack (uk) [uk] [False]" tvg-logo="", Real Crime Beta
