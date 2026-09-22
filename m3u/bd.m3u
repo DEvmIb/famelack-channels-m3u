@@ -25,9 +25,11 @@ https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:0001 tvg-id="tzTABG45l31V9t" tvg-chno="13" group-title="famelack (bd) [bd] [False]" tvg-logo="", Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:0001 tvg-id="K8OFg70tOZ5TpR" tvg-chno="14" group-title="famelack (bd) [bd] [False]" tvg-logo="", RTV
-https://tvsen5.aynaott.com/RtvHD/index.m3u8
-#EXTINF:0001 tvg-id="nw7Gl0g9Hyfl04" tvg-chno="15" group-title="famelack (bd) [bd] [False]" tvg-logo="", Rupashi Bangla TV
+#EXTINF:0001 tvg-id="rxGkYuJllm8fkD" tvg-chno="14" group-title="famelack (bd) [bd] [False]" tvg-logo="", Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:0001 tvg-id="K8OFg70tOZ5TpR" tvg-chno="15" group-title="famelack (bd) [bd] [False]" tvg-logo="", RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
+#EXTINF:0001 tvg-id="nw7Gl0g9Hyfl04" tvg-chno="16" group-title="famelack (bd) [bd] [False]" tvg-logo="", Rupashi Bangla TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="J7BmdiABqVkDMa" tvg-chno="16" group-title="famelack (bd) [bd] [False]" tvg-logo="", T Sports
+#EXTINF:0001 tvg-id="J7BmdiABqVkDMa" tvg-chno="17" group-title="famelack (bd) [bd] [False]" tvg-logo="", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8

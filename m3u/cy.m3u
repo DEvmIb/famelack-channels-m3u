@@ -13,7 +13,7 @@ https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
 https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:0001 tvg-id="STwulc3g4syrfQ" tvg-chno="7" group-title="famelack (cy) [cy] [False]" tvg-logo="", Middle East TV
 https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
-#EXTINF:0001 tvg-id="S5FlXLdAewGKz8" tvg-chno="8" group-title="famelack (cy) [cy] [True]" tvg-logo="", Omega Channel
+#EXTINF:0001 tvg-id="S5FlXLdAewGKz8" tvg-chno="8" group-title="famelack (cy) [cy] [False]" tvg-logo="", Omega Channel
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:0001 tvg-id="52grgb3ARacSzX" tvg-chno="9" group-title="famelack (cy) [cy] [False]" tvg-logo="", RIK Sat
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
