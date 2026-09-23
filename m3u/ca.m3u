@@ -45,18 +45,18 @@ https://videostream.jpbgdigital.com/CKPGTV.m3u8
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:0001 tvg-id="v0OeMdvjnnVO4J" tvg-chno="23" group-title="famelack (ca) [ca] [False]" tvg-logo="", Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:0001 tvg-id="NYOzLMHn9DVS1q" tvg-chno="24" group-title="famelack (ca) [ca] [False]" tvg-logo="", Doyel TV
-https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
-#EXTINF:0001 tvg-id="QtZoQSlu8071bX" tvg-chno="25" group-title="famelack (ca) [ca] [False]" tvg-logo="", Eawaz TV
+#EXTINF:0001 tvg-id="QtZoQSlu8071bX" tvg-chno="24" group-title="famelack (ca) [ca] [False]" tvg-logo="", Eawaz TV
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
-#EXTINF:0001 tvg-id="BFpewkLm3lqPGP" tvg-chno="26" group-title="famelack (ca) [ca] [False]" tvg-logo="", Erfan Halgheh TV
+#EXTINF:0001 tvg-id="BFpewkLm3lqPGP" tvg-chno="25" group-title="famelack (ca) [ca] [False]" tvg-logo="", Erfan Halgheh TV
 https://hls.erfanhalgheh.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="sNCSSkAhJ29ovz" tvg-chno="27" group-title="famelack (ca) [ca] [False]" tvg-logo="", EWTN Canada
+#EXTINF:0001 tvg-id="sNCSSkAhJ29ovz" tvg-chno="26" group-title="famelack (ca) [ca] [False]" tvg-logo="", EWTN Canada
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
-#EXTINF:0001 tvg-id="RzzPNaiJrn9Oe1" tvg-chno="28" group-title="famelack (ca) [ca] [False]" tvg-logo="", FEVA TV
+#EXTINF:0001 tvg-id="RzzPNaiJrn9Oe1" tvg-chno="27" group-title="famelack (ca) [ca] [False]" tvg-logo="", FEVA TV
 https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
-#EXTINF:0001 tvg-id="LRBUacm9msNRQ8" tvg-chno="29" group-title="famelack (ca) [ca] [False]" tvg-logo="", Fight Network
-https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
+#EXTINF:0001 tvg-id="LRBUacm9msNRQ8" tvg-chno="28" group-title="famelack (ca) [ca] [False]" tvg-logo="", Fight Network
+https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
+#EXTINF:0001 tvg-id="3PWIwG9FFIlO5Y" tvg-chno="29" group-title="famelack (ca) [ca] [False]" tvg-logo="", Game+
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:0001 tvg-id="N7y193rYKVUHc8" tvg-chno="30" group-title="famelack (ca) [ca] [True]" tvg-logo="", GTN Canada
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 #EXTINF:0001 tvg-id="D9wYQdvH3cwnxL" tvg-chno="31" group-title="famelack (ca) [ca] [False]" tvg-logo="", Gusto TV

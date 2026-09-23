@@ -137,32 +137,32 @@ https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/
 https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8
 #EXTINF:0001 tvg-id="PsqmjTAcyqo2QW" tvg-chno="69" group-title="famelack (fr) [fr] [False]" tvg-logo="", Les Secrets de Nos Régions
 https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="5oNNwRbeufUj8K" tvg-chno="70" group-title="famelack (fr) [fr] [False]" tvg-logo="", Monte Carlo Digital Television
+#EXTINF:0001 tvg-id="rOt2GRHARiewoL" tvg-chno="70" group-title="famelack (fr) [fr] [False]" tvg-logo="", Littoral FM TV
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:0001 tvg-id="5oNNwRbeufUj8K" tvg-chno="71" group-title="famelack (fr) [fr] [False]" tvg-logo="", Monte Carlo Digital Television
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
-#EXTINF:0001 tvg-id="kD5MBV5ey6hKbh" tvg-chno="71" group-title="famelack (fr) [fr] [False]" tvg-logo="", Motus La Chaîne
+#EXTINF:0001 tvg-id="kD5MBV5ey6hKbh" tvg-chno="72" group-title="famelack (fr) [fr] [False]" tvg-logo="", Motus La Chaîne
 https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
-#EXTINF:0001 tvg-id="frxoUV6KIlJwd1" tvg-chno="72" group-title="famelack (fr) [fr] [False]" tvg-logo="", MyTime Movie Network France
+#EXTINF:0001 tvg-id="frxoUV6KIlJwd1" tvg-chno="73" group-title="famelack (fr) [fr] [False]" tvg-logo="", MyTime Movie Network France
 https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="hDKihfnR1gIzAi" tvg-chno="73" group-title="famelack (fr) [fr] [True]" tvg-logo="", MyZen TV
+#EXTINF:0001 tvg-id="hDKihfnR1gIzAi" tvg-chno="74" group-title="famelack (fr) [fr] [True]" tvg-logo="", MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:0001 tvg-id="SbCVyIRCGshv9Z" tvg-chno="74" group-title="famelack (fr) [fr] [False]" tvg-logo="", Nature Time
+#EXTINF:0001 tvg-id="SbCVyIRCGshv9Z" tvg-chno="75" group-title="famelack (fr) [fr] [False]" tvg-logo="", Nature Time
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="UV2K3Inr6FlKvf" tvg-chno="75" group-title="famelack (fr) [fr] [False]" tvg-logo="", P2M TV
+#EXTINF:0001 tvg-id="UV2K3Inr6FlKvf" tvg-chno="76" group-title="famelack (fr) [fr] [False]" tvg-logo="", P2M TV
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
-#EXTINF:0001 tvg-id="EXvskphL1UFUHC" tvg-chno="76" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Junior
+#EXTINF:0001 tvg-id="EXvskphL1UFUHC" tvg-chno="77" group-title="famelack (fr) [fr] [False]" tvg-logo="", Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="6yK7rD2LKikhPv" tvg-chno="77" group-title="famelack (fr) [fr] [False]" tvg-logo="", Puissance TV
+#EXTINF:0001 tvg-id="6yK7rD2LKikhPv" tvg-chno="78" group-title="famelack (fr) [fr] [False]" tvg-logo="", Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-#EXTINF:0001 tvg-id="GBee4ruMbEkHYx" tvg-chno="78" group-title="famelack (fr) [fr] [False]" tvg-logo="", Qui Veut Gagner Des Millions La Chaîne
+#EXTINF:0001 tvg-id="GBee4ruMbEkHYx" tvg-chno="79" group-title="famelack (fr) [fr] [False]" tvg-logo="", Qui Veut Gagner Des Millions La Chaîne
 https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="W8ZhdZg3k4GfrH" tvg-chno="79" group-title="famelack (fr) [fr] [True]" tvg-logo="", Qwest TV
+#EXTINF:0001 tvg-id="W8ZhdZg3k4GfrH" tvg-chno="80" group-title="famelack (fr) [fr] [True]" tvg-logo="", Qwest TV
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
-#EXTINF:0001 tvg-id="PGDjufEBywGkq1" tvg-chno="80" group-title="famelack (fr) [fr] [True]" tvg-logo="", Qwest TV Jazz & Beyond
+#EXTINF:0001 tvg-id="PGDjufEBywGkq1" tvg-chno="81" group-title="famelack (fr) [fr] [True]" tvg-logo="", Qwest TV Jazz & Beyond
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
-#EXTINF:0001 tvg-id="AIirayhr6r6kA6" tvg-chno="81" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Thriller
-https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
-#EXTINF:0001 tvg-id="phice2bsfFKDLs" tvg-chno="82" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Séries Crime
-https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
+#EXTINF:0001 tvg-id="3UupDDnNXaxwcR" tvg-chno="82" group-title="famelack (fr) [fr] [False]" tvg-logo="", Rakuten TV Films Comédie
+https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
 #EXTINF:0001 tvg-id="K1cCEN7WNbjDun" tvg-chno="83" group-title="famelack (fr) [fr] [False]" tvg-logo="", Revry Europe (Frequency backend)
 https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8
 #EXTINF:0001 tvg-id="WRXxoyW4bEOLd9" tvg-chno="84" group-title="famelack (fr) [fr] [False]" tvg-logo="", RMC Story
