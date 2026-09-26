@@ -95,9 +95,5 @@ https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
 #EXTINF:0001 tvg-id="MNXObrhpcNUXdr" tvg-chno="48" group-title="famelack (ec) [ec] [False]" tvg-logo="", TVC
 https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8
-#EXTINF:0001 tvg-id="uhXaKy0zwMPJAb" tvg-chno="49" group-title="famelack (ec) [ec] [False]" tvg-logo="", UNIANDES TV
-https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-#EXTINF:0001 tvg-id="9TUqw93GWA6FwZ" tvg-chno="50" group-title="famelack (ec) [ec] [False]" tvg-logo="", Vos y TV
-https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-#EXTINF:0001 tvg-id="MSQI2c7efDDBKU" tvg-chno="51" group-title="famelack (ec) [ec] [False]" tvg-logo="", Wuan+
+#EXTINF:0001 tvg-id="MSQI2c7efDDBKU" tvg-chno="49" group-title="famelack (ec) [ec] [False]" tvg-logo="", Wuan+
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8

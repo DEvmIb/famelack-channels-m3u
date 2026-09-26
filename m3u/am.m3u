@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="nNFimxQyKo4XVv" tvg-chno="1" group-title="famelack (am) [am] [False]" tvg-logo="", Armenia 1
-https://ifl01eu-new.bozztv.com/am1abr/index.m3u8
+https://dash2.antik.sk/live/test_armenia/playlist.m3u8
 #EXTINF:0001 tvg-id="QtcUq072FGwBxQ" tvg-chno="2" group-title="famelack (am) [am] [False]" tvg-logo="", Armenia 1 Sattelite
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:0001 tvg-id="WYGFKQdrOFbKnq" tvg-chno="3" group-title="famelack (am) [am] [False]" tvg-logo="", Armenia 2
