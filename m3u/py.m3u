@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="zhUhSGilKc6sOP" tvg-chno="1" group-title="famelack (py) [py] [False]" tvg-logo="", AGR FM TV
+#EXTINF:0001 tvg-id="f4J3TEsOIcCxKd" tvg-chno="1" group-title="famelack (py) [py] [False]" tvg-logo="", 4Dmas Noticias TV
+https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+#EXTINF:0001 tvg-id="zhUhSGilKc6sOP" tvg-chno="2" group-title="famelack (py) [py] [False]" tvg-logo="", AGR FM TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
-#EXTINF:0001 tvg-id="c4VJcNzklIX0CI" tvg-chno="2" group-title="famelack (py) [py] [False]" tvg-logo="", Alcance FM PLAY TV
+#EXTINF:0001 tvg-id="c4VJcNzklIX0CI" tvg-chno="3" group-title="famelack (py) [py] [False]" tvg-logo="", Alcance FM PLAY TV
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
-#EXTINF:0001 tvg-id="uGCjnDiIPhWb6B" tvg-chno="3" group-title="famelack (py) [py] [False]" tvg-logo="", Alt Media TV
-https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 #EXTINF:0001 tvg-id="JAreuKNijuO7ug" tvg-chno="4" group-title="famelack (py) [py] [False]" tvg-logo="", Bruno Masi TV
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:0001 tvg-id="iyKm6r3aZi9gVV" tvg-chno="5" group-title="famelack (py) [py] [False]" tvg-logo="", CAD TV
