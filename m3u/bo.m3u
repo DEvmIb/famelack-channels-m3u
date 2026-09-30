@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="KvjjAMUdkPUKh1" tvg-chno="1" group-title="famelack (bo) [bo] [False]" tvg-logo="", Amitel TV
+#EXTINF:0001 tvg-id="C7CqrdYHekA32V" tvg-chno="1" group-title="famelack (bo) [bo] [False]" tvg-logo="", Alegria TV
+https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
+#EXTINF:0001 tvg-id="KvjjAMUdkPUKh1" tvg-chno="2" group-title="famelack (bo) [bo] [False]" tvg-logo="", Amitel TV
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
-#EXTINF:0001 tvg-id="FuTnPCDlGaBjIO" tvg-chno="2" group-title="famelack (bo) [bo] [False]" tvg-logo="", Audiokiss
+#EXTINF:0001 tvg-id="FuTnPCDlGaBjIO" tvg-chno="3" group-title="famelack (bo) [bo] [False]" tvg-logo="", Audiokiss
 https://master.tucableip.com/audiokisstv/index.m3u8
-#EXTINF:0001 tvg-id="w3bpP2FDGFGLPQ" tvg-chno="3" group-title="famelack (bo) [bo] [False]" tvg-logo="", AYNI TV
+#EXTINF:0001 tvg-id="w3bpP2FDGFGLPQ" tvg-chno="4" group-title="famelack (bo) [bo] [False]" tvg-logo="", AYNI TV
 https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
-#EXTINF:0001 tvg-id="PuOdackS09IXBO" tvg-chno="4" group-title="famelack (bo) [bo] [False]" tvg-logo="", Bolivia TV
+#EXTINF:0001 tvg-id="PuOdackS09IXBO" tvg-chno="5" group-title="famelack (bo) [bo] [False]" tvg-logo="", Bolivia TV
 https://hls.tvabierta.net/hls/boliviatv.m3u8
-#EXTINF:0001 tvg-id="2TeFmbSu18GnAQ" tvg-chno="5" group-title="famelack (bo) [bo] [False]" tvg-logo="", Cadena A
+#EXTINF:0001 tvg-id="2TeFmbSu18GnAQ" tvg-chno="6" group-title="famelack (bo) [bo] [False]" tvg-logo="", Cadena A
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-#EXTINF:0001 tvg-id="qAN5sBGpkuc0D2" tvg-chno="6" group-title="famelack (bo) [bo] [False]" tvg-logo="", CEACOM TV
+#EXTINF:0001 tvg-id="qAN5sBGpkuc0D2" tvg-chno="7" group-title="famelack (bo) [bo] [False]" tvg-logo="", CEACOM TV
 https://eu1.servers10.com:8081/ceacom/index.m3u8
-#EXTINF:0001 tvg-id="szKNdNWx1GqWTX" tvg-chno="7" group-title="famelack (bo) [bo] [False]" tvg-logo="", Coral TV
+#EXTINF:0001 tvg-id="szKNdNWx1GqWTX" tvg-chno="8" group-title="famelack (bo) [bo] [False]" tvg-logo="", Coral TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
-#EXTINF:0001 tvg-id="SooUevgpXFkIw6" tvg-chno="8" group-title="famelack (bo) [bo] [False]" tvg-logo="", Delta TV
-https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 #EXTINF:0001 tvg-id="oh20dqyFkVNesT" tvg-chno="9" group-title="famelack (bo) [bo] [False]" tvg-logo="", Dmoda Channel
 https://master.tucableip.com/dmoda/index.m3u8
 #EXTINF:0001 tvg-id="MPRdraxaqhJO4v" tvg-chno="10" group-title="famelack (bo) [bo] [False]" tvg-logo="", EL DEBER
