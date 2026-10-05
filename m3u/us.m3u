@@ -356,7 +356,7 @@ https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
 #EXTINF:0001 tvg-id="gfSMFDCvU4APL3" tvg-chno="178" group-title="famelack (us) [us] [False]" tvg-logo="", Biography The Icons
 https://dkaiai6digij6.cloudfront.net/Lights_Legends_Icons.m3u8
 #EXTINF:0001 tvg-id="JLfNH2O2h1Ue2z" tvg-chno="179" group-title="famelack (us) [us] [False]" tvg-logo="", Biz TV
-https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
 #EXTINF:0001 tvg-id="mqPbPz06M0HExZ" tvg-chno="180" group-title="famelack (us) [us] [False]" tvg-logo="", BizaarTV
 https://d3s08lnvd4zcd7.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886061/master.m3u8
 #EXTINF:0001 tvg-id="DvzfS3eqtrXmMK" tvg-chno="181" group-title="famelack (us) [us] [False]" tvg-logo="", Black Enterprise Streaming Television
@@ -584,7 +584,7 @@ https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8
 #EXTINF:0001 tvg-id="5ymwJKVoGafdCH" tvg-chno="292" group-title="famelack (us) [us] [False]" tvg-logo="", COStv
 https://irctv.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:0001 tvg-id="sm6jSJZU2R13Dv" tvg-chno="293" group-title="famelack (us) [us] [True]" tvg-logo="", Court TV
-https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:0001 tvg-id="26MdQFnvi68n3Z" tvg-chno="294" group-title="famelack (us) [us] [False]" tvg-logo="", Cozy Vibes
 https://d2tyl7oi9wycxs.cloudfront.net/playlist.m3u8
 #EXTINF:0001 tvg-id="SsqgESMsUQIClq" tvg-chno="295" group-title="famelack (us) [us] [False]" tvg-logo="", Craftsy
@@ -1237,192 +1237,192 @@ https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 #EXTINF:0001 tvg-id="ECyw9lmqQ9xfIM" tvg-chno="619" group-title="famelack (us) [us] [False]" tvg-logo="", Love Pets US
 https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
-#EXTINF:0001 tvg-id="29K3gt1fuyfoWN" tvg-chno="620" group-title="famelack (us) [us] [False]" tvg-logo="", Lucky Dog
+#EXTINF:0001 tvg-id="vc83h8nvdBt03n" tvg-chno="620" group-title="famelack (us) [us] [True]" tvg-logo="", Love The Planet English
+https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="29K3gt1fuyfoWN" tvg-chno="621" group-title="famelack (us) [us] [False]" tvg-logo="", Lucky Dog
 https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
-#EXTINF:0001 tvg-id="YttZ7ucpRfecgo" tvg-chno="621" group-title="famelack (us) [us] [True]" tvg-logo="", Luxe Fireplace Vibes
+#EXTINF:0001 tvg-id="YttZ7ucpRfecgo" tvg-chno="622" group-title="famelack (us) [us] [True]" tvg-logo="", Luxe Fireplace Vibes
 https://pb-0yvknepz2ngjh.akamaized.net/playlist.m3u8
-#EXTINF:0001 tvg-id="zSi1ovpu9pEJVa" tvg-chno="622" group-title="famelack (us) [us] [False]" tvg-logo="", Mad Dog and Merrill
+#EXTINF:0001 tvg-id="zSi1ovpu9pEJVa" tvg-chno="623" group-title="famelack (us) [us] [False]" tvg-logo="", Mad Dog and Merrill
 https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
-#EXTINF:0001 tvg-id="2IhVNnNGaDMY0V" tvg-chno="623" group-title="famelack (us) [us] [True]" tvg-logo="", MagellanTV Now
+#EXTINF:0001 tvg-id="2IhVNnNGaDMY0V" tvg-chno="624" group-title="famelack (us) [us] [True]" tvg-logo="", MagellanTV Now
 https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8
-#EXTINF:0001 tvg-id="gbFP1BkGFCq4C6" tvg-chno="624" group-title="famelack (us) [us] [False]" tvg-logo="", Majestad TV
+#EXTINF:0001 tvg-id="gbFP1BkGFCq4C6" tvg-chno="625" group-title="famelack (us) [us] [False]" tvg-logo="", Majestad TV
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
-#EXTINF:0001 tvg-id="Dv8UHyT6S9TbAn" tvg-chno="625" group-title="famelack (us) [us] [False]" tvg-logo="", Maria Vision USA
+#EXTINF:0001 tvg-id="Dv8UHyT6S9TbAn" tvg-chno="626" group-title="famelack (us) [us] [False]" tvg-logo="", Maria Vision USA
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:PALMIAMI/playlist.m3u8
-#EXTINF:0001 tvg-id="oMhytEOw9MFqpR" tvg-chno="626" group-title="famelack (us) [us] [False]" tvg-logo="", Mark Rober TV
+#EXTINF:0001 tvg-id="oMhytEOw9MFqpR" tvg-chno="627" group-title="famelack (us) [us] [False]" tvg-logo="", Mark Rober TV
 https://d217xu4o9hejvm.cloudfront.net/playlist.m3u8
-#EXTINF:0001 tvg-id="S0SQt4uHWW3pJv" tvg-chno="627" group-title="famelack (us) [us] [False]" tvg-logo="", Martin County TV
+#EXTINF:0001 tvg-id="S0SQt4uHWW3pJv" tvg-chno="628" group-title="famelack (us) [us] [False]" tvg-logo="", Martin County TV
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
-#EXTINF:0001 tvg-id="UzKJ8UnXWKNjIO" tvg-chno="628" group-title="famelack (us) [us] [True]" tvg-logo="", Matched Married Meet
+#EXTINF:0001 tvg-id="UzKJ8UnXWKNjIO" tvg-chno="629" group-title="famelack (us) [us] [True]" tvg-logo="", Matched Married Meet
 https://pb-zrn69przatyzi.akamaized.net/Matched_Married_Meet.m3u8
-#EXTINF:0001 tvg-id="abra7PwVsSMlo6" tvg-chno="629" group-title="famelack (us) [us] [False]" tvg-logo="", Mattel Jr.
+#EXTINF:0001 tvg-id="abra7PwVsSMlo6" tvg-chno="630" group-title="famelack (us) [us] [False]" tvg-logo="", Mattel Jr.
 https://dc6v647pwrp79.cloudfront.net/matjr.m3u8
-#EXTINF:0001 tvg-id="4GP05gaKgeZLke" tvg-chno="630" group-title="famelack (us) [us] [False]" tvg-logo="", MBC America
+#EXTINF:0001 tvg-id="4GP05gaKgeZLke" tvg-chno="631" group-title="famelack (us) [us] [False]" tvg-logo="", MBC America
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
-#EXTINF:0001 tvg-id="kDdnzcMq5qo5B2" tvg-chno="631" group-title="famelack (us) [us] [False]" tvg-logo="", MBTV
+#EXTINF:0001 tvg-id="kDdnzcMq5qo5B2" tvg-chno="632" group-title="famelack (us) [us] [False]" tvg-logo="", MBTV
 https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
-#EXTINF:0001 tvg-id="xx7eina1wOQhnp" tvg-chno="632" group-title="famelack (us) [us] [False]" tvg-logo="", MCN6 Arts Channel
+#EXTINF:0001 tvg-id="xx7eina1wOQhnp" tvg-chno="633" group-title="famelack (us) [us] [False]" tvg-logo="", MCN6 Arts Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
-#EXTINF:0001 tvg-id="cWDsecyMzIbsq3" tvg-chno="633" group-title="famelack (us) [us] [False]" tvg-logo="", MCN6 Main Channel
+#EXTINF:0001 tvg-id="cWDsecyMzIbsq3" tvg-chno="634" group-title="famelack (us) [us] [False]" tvg-logo="", MCN6 Main Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
-#EXTINF:0001 tvg-id="DdiVuOolojZUS0" tvg-chno="634" group-title="famelack (us) [us] [False]" tvg-logo="", MCN6 Music Channel
+#EXTINF:0001 tvg-id="DdiVuOolojZUS0" tvg-chno="635" group-title="famelack (us) [us] [False]" tvg-logo="", MCN6 Music Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-#EXTINF:0001 tvg-id="7MQXBjxnMD0U7J" tvg-chno="635" group-title="famelack (us) [us] [False]" tvg-logo="", MeatEater
+#EXTINF:0001 tvg-id="7MQXBjxnMD0U7J" tvg-chno="636" group-title="famelack (us) [us] [False]" tvg-logo="", MeatEater
 https://d7hbn1ntae5ib.cloudfront.net/playlist.m3u8
-#EXTINF:0001 tvg-id="h2XzDudhqixkMg" tvg-chno="636" group-title="famelack (us) [us] [False]" tvg-logo="", Mediaset Italia USA
+#EXTINF:0001 tvg-id="h2XzDudhqixkMg" tvg-chno="637" group-title="famelack (us) [us] [False]" tvg-logo="", Mediaset Italia USA
 https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
-#EXTINF:0001 tvg-id="nEqFZyL0LQbL2K" tvg-chno="637" group-title="famelack (us) [us] [False]" tvg-logo="", Merit Street
+#EXTINF:0001 tvg-id="nEqFZyL0LQbL2K" tvg-chno="638" group-title="famelack (us) [us] [False]" tvg-logo="", Merit Street
 https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
-#EXTINF:0001 tvg-id="iKWwtXoSIYPCGC" tvg-chno="638" group-title="famelack (us) [us] [False]" tvg-logo="", Metaleitor TV
+#EXTINF:0001 tvg-id="iKWwtXoSIYPCGC" tvg-chno="639" group-title="famelack (us) [us] [False]" tvg-logo="", Metaleitor TV
 https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
-#EXTINF:0001 tvg-id="vzbETCfzbTdACv" tvg-chno="639" group-title="famelack (us) [us] [False]" tvg-logo="", Midnight Pulp
+#EXTINF:0001 tvg-id="vzbETCfzbTdACv" tvg-chno="640" group-title="famelack (us) [us] [False]" tvg-logo="", Midnight Pulp
 https://d18l78mi5ujmqr.cloudfront.net/playlist.m3u8
-#EXTINF:0001 tvg-id="CpK4TFMhb92Pjh" tvg-chno="640" group-title="famelack (us) [us] [False]" tvg-logo="", Military Heroes
+#EXTINF:0001 tvg-id="CpK4TFMhb92Pjh" tvg-chno="641" group-title="famelack (us) [us] [False]" tvg-logo="", Military Heroes
 https://d25lps4m0jar17.cloudfront.net/Military_Heroes.m3u8
-#EXTINF:0001 tvg-id="P90KFS2djhOcL6" tvg-chno="641" group-title="famelack (us) [us] [True]" tvg-logo="", Million Dollar Dream Home
+#EXTINF:0001 tvg-id="P90KFS2djhOcL6" tvg-chno="642" group-title="famelack (us) [us] [True]" tvg-logo="", Million Dollar Dream Home
 https://pb-tc6lcocnesxgi.akamaized.net/playlist.m3u8
-#EXTINF:0001 tvg-id="y05LQuSFKF39v3" tvg-chno="642" group-title="famelack (us) [us] [False]" tvg-logo="", Million Dollar Listing Vault
+#EXTINF:0001 tvg-id="y05LQuSFKF39v3" tvg-chno="643" group-title="famelack (us) [us] [False]" tvg-logo="", Million Dollar Listing Vault
 https://xumo-xumoent-ch838-coy7x.fast.nbcuni.com/live/master.m3u8
-#EXTINF:0001 tvg-id="qFWLwd1tSnBSY6" tvg-chno="643" group-title="famelack (us) [us] [False]" tvg-logo="", Ministerio La Voz De Un Remanente TV
+#EXTINF:0001 tvg-id="qFWLwd1tSnBSY6" tvg-chno="644" group-title="famelack (us) [us] [False]" tvg-logo="", Ministerio La Voz De Un Remanente TV
 https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8
-#EXTINF:0001 tvg-id="JObJ0aF9KgX8zY" tvg-chno="644" group-title="famelack (us) [us] [True]" tvg-logo="", Miramax Channel
+#EXTINF:0001 tvg-id="JObJ0aF9KgX8zY" tvg-chno="645" group-title="famelack (us) [us] [True]" tvg-logo="", Miramax Channel
 https://pb-w5d3w3kisxahy.akamaized.net/playlist.m3u8
-#EXTINF:0001 tvg-id="K9NktdljijxsEw" tvg-chno="645" group-title="famelack (us) [us] [False]" tvg-logo="", Mission TV
+#EXTINF:0001 tvg-id="K9NktdljijxsEw" tvg-chno="646" group-title="famelack (us) [us] [False]" tvg-logo="", Mission TV
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
-#EXTINF:0001 tvg-id="trjvtLbixg6iUs" tvg-chno="646" group-title="famelack (us) [us] [True]" tvg-logo="", MLB
+#EXTINF:0001 tvg-id="trjvtLbixg6iUs" tvg-chno="647" group-title="famelack (us) [us] [True]" tvg-logo="", MLB
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-#EXTINF:0001 tvg-id="uDCTATBZA7YvEl" tvg-chno="647" group-title="famelack (us) [us] [True]" tvg-logo="", Modern Marvels Presented by History
+#EXTINF:0001 tvg-id="uDCTATBZA7YvEl" tvg-chno="648" group-title="famelack (us) [us] [True]" tvg-logo="", Modern Marvels Presented by History
 https://pb-m89wlp8flmjzf.akamaized.net/v1/aenetworks_modernmarvels_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:0001 tvg-id="8fvSjB2rnR7Cs2" tvg-chno="648" group-title="famelack (us) [us] [False]" tvg-logo="", Mohabat TV
+#EXTINF:0001 tvg-id="8fvSjB2rnR7Cs2" tvg-chno="649" group-title="famelack (us) [us] [False]" tvg-logo="", Mohabat TV
 https://mohabathls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="ZPgJUziKYvsqXI" tvg-chno="649" group-title="famelack (us) [us] [False]" tvg-logo="", Monroe Community Media Education Channel
+#EXTINF:0001 tvg-id="ZPgJUziKYvsqXI" tvg-chno="650" group-title="famelack (us) [us] [False]" tvg-logo="", Monroe Community Media Education Channel
 https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
-#EXTINF:0001 tvg-id="dCrG82tgzH1Wqn" tvg-chno="650" group-title="famelack (us) [us] [False]" tvg-logo="", Monroe Community Media Public Access Channel
+#EXTINF:0001 tvg-id="dCrG82tgzH1Wqn" tvg-chno="651" group-title="famelack (us) [us] [False]" tvg-logo="", Monroe Community Media Public Access Channel
 https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:0001 tvg-id="htfvD77W7qLUSn" tvg-chno="651" group-title="famelack (us) [us] [False]" tvg-logo="", Monroe County TV
+#EXTINF:0001 tvg-id="htfvD77W7qLUSn" tvg-chno="652" group-title="famelack (us) [us] [False]" tvg-logo="", Monroe County TV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
-#EXTINF:0001 tvg-id="jillhqIhJizuSM" tvg-chno="652" group-title="famelack (us) [us] [False]" tvg-logo="", Montgomery Channel
+#EXTINF:0001 tvg-id="jillhqIhJizuSM" tvg-chno="653" group-title="famelack (us) [us] [False]" tvg-logo="", Montgomery Channel
 https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8
-#EXTINF:0001 tvg-id="7mtTA8eK3inaop" tvg-chno="653" group-title="famelack (us) [us] [False]" tvg-logo="", MotoGP Channel
+#EXTINF:0001 tvg-id="7mtTA8eK3inaop" tvg-chno="654" group-title="famelack (us) [us] [False]" tvg-logo="", MotoGP Channel
 https://d1kqz1q7knpsue.cloudfront.net/MotoGP.m3u8
-#EXTINF:0001 tvg-id="EeJAuyfn4r4ata" tvg-chno="654" group-title="famelack (us) [us] [True]" tvg-logo="", Mountain Men
+#EXTINF:0001 tvg-id="EeJAuyfn4r4ata" tvg-chno="655" group-title="famelack (us) [us] [True]" tvg-logo="", Mountain Men
 https://pb-tc97nokxg85ph.akamaized.net/Mountain_Men.m3u8
-#EXTINF:0001 tvg-id="6VfdM1XJEcjloD" tvg-chno="655" group-title="famelack (us) [us] [False]" tvg-logo="", Movies! KPVM-LD
+#EXTINF:0001 tvg-id="6VfdM1XJEcjloD" tvg-chno="656" group-title="famelack (us) [us] [False]" tvg-logo="", Movies! KPVM-LD
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
-#EXTINF:0001 tvg-id="Bp0NPXMkwMRSoG" tvg-chno="656" group-title="famelack (us) [us] [True]" tvg-logo="", MovieSphere by Lionsgate
+#EXTINF:0001 tvg-id="Bp0NPXMkwMRSoG" tvg-chno="657" group-title="famelack (us) [us] [True]" tvg-logo="", MovieSphere by Lionsgate
 https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
-#EXTINF:0001 tvg-id="aJydGxLpusj8KQ" tvg-chno="657" group-title="famelack (us) [us] [False]" tvg-logo="", Mr. Beast
+#EXTINF:0001 tvg-id="aJydGxLpusj8KQ" tvg-chno="658" group-title="famelack (us) [us] [False]" tvg-logo="", Mr. Beast
 https://aegis-cloudfront-1.tubi.video/cf8b86e9-932a-4454-99c5-32169b6a330f/playlist.m3u8
-#EXTINF:0001 tvg-id="pBoGD1pTQXtRXZ" tvg-chno="658" group-title="famelack (us) [us] [False]" tvg-logo="", MrBeast
+#EXTINF:0001 tvg-id="pBoGD1pTQXtRXZ" tvg-chno="659" group-title="famelack (us) [us] [False]" tvg-logo="", MrBeast
 https://d1uoaa28av70en.cloudfront.net/playlist.m3u8
-#EXTINF:0001 tvg-id="aDHBreqhCjAc3h" tvg-chno="659" group-title="famelack (us) [us] [False]" tvg-logo="", MRVTV Channel 44
+#EXTINF:0001 tvg-id="aDHBreqhCjAc3h" tvg-chno="660" group-title="famelack (us) [us] [False]" tvg-logo="", MRVTV Channel 44
 https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="1PP0lSSKfc8ZP2" tvg-chno="660" group-title="famelack (us) [us] [False]" tvg-logo="", MRVTV Channel 45
+#EXTINF:0001 tvg-id="1PP0lSSKfc8ZP2" tvg-chno="661" group-title="famelack (us) [us] [False]" tvg-logo="", MRVTV Channel 45
 https://livestream.telvue.com/madrivervalleytv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="eD7pY7pmACLEBN" tvg-chno="661" group-title="famelack (us) [us] [False]" tvg-logo="", MSG SportsZone
+#EXTINF:0001 tvg-id="eD7pY7pmACLEBN" tvg-chno="662" group-title="famelack (us) [us] [False]" tvg-logo="", MSG SportsZone
 https://d2a31kzot4f8t3.cloudfront.net/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:0001 tvg-id="h7fVQ1Zz52mYAQ" tvg-chno="662" group-title="famelack (us) [us] [False]" tvg-logo="", MTC
+#EXTINF:0001 tvg-id="h7fVQ1Zz52mYAQ" tvg-chno="663" group-title="famelack (us) [us] [False]" tvg-logo="", MTC
 https://mtchls.wns.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="9pWgUOLbE5LECP" tvg-chno="663" group-title="famelack (us) [us] [False]" tvg-logo="", Murder She Wrote
+#EXTINF:0001 tvg-id="9pWgUOLbE5LECP" tvg-chno="664" group-title="famelack (us) [us] [False]" tvg-logo="", Murder She Wrote
 https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8
-#EXTINF:0001 tvg-id="KMeaFYyExwJxtY" tvg-chno="664" group-title="famelack (us) [us] [False]" tvg-logo="", Muslim Network TV
+#EXTINF:0001 tvg-id="KMeaFYyExwJxtY" tvg-chno="665" group-title="famelack (us) [us] [False]" tvg-logo="", Muslim Network TV
 https://afghantv.app/hls2/muslimnetwork/index.m3u8
-#EXTINF:0001 tvg-id="nu7CiAL6sGtGUy" tvg-chno="665" group-title="famelack (us) [us] [False]" tvg-logo="", MVMT of Culture
+#EXTINF:0001 tvg-id="nu7CiAL6sGtGUy" tvg-chno="666" group-title="famelack (us) [us] [False]" tvg-logo="", MVMT of Culture
 https://d2kwqe56yti97f.cloudfront.net/scheduler/scheduleMaster/490.m3u8
-#EXTINF:0001 tvg-id="2VS5DXOP0Q3QRa" tvg-chno="666" group-title="famelack (us) [us] [False]" tvg-logo="", My Money
+#EXTINF:0001 tvg-id="2VS5DXOP0Q3QRa" tvg-chno="667" group-title="famelack (us) [us] [False]" tvg-logo="", My Money
 https://d3bqd6nz14unwy.cloudfront.net/scheduler/scheduleMaster/468.m3u8
-#EXTINF:0001 tvg-id="OCE0TntyDC7spG" tvg-chno="667" group-title="famelack (us) [us] [False]" tvg-logo="", Mysteries Xplored
+#EXTINF:0001 tvg-id="OCE0TntyDC7spG" tvg-chno="668" group-title="famelack (us) [us] [False]" tvg-logo="", Mysteries Xplored
 https://dwqz6akge0ila.cloudfront.net/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:0001 tvg-id="D0c4Jvigf5dKNp" tvg-chno="668" group-title="famelack (us) [us] [True]" tvg-logo="", Mystery Science Theater 3000
+#EXTINF:0001 tvg-id="D0c4Jvigf5dKNp" tvg-chno="669" group-title="famelack (us) [us] [True]" tvg-logo="", Mystery Science Theater 3000
 https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8
-#EXTINF:0001 tvg-id="dsB3T5PdHI29GO" tvg-chno="669" group-title="famelack (us) [us] [False]" tvg-logo="", Mystery Science Theater 3000
+#EXTINF:0001 tvg-id="dsB3T5PdHI29GO" tvg-chno="670" group-title="famelack (us) [us] [False]" tvg-logo="", Mystery Science Theater 3000
 https://mst3k-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="ZjOvUH6J5YHTQw" tvg-chno="670" group-title="famelack (us) [us] [True]" tvg-logo="", Mythical 24/7
+#EXTINF:0001 tvg-id="ZjOvUH6J5YHTQw" tvg-chno="671" group-title="famelack (us) [us] [True]" tvg-logo="", Mythical 24/7
 https://pb-dq7godyssgjuz.akamaized.net/Mythical247.m3u8
-#EXTINF:0001 tvg-id="VsE7ydvbu6o7hE" tvg-chno="671" group-title="famelack (us) [us] [False]" tvg-logo="", Naruto US
+#EXTINF:0001 tvg-id="VsE7ydvbu6o7hE" tvg-chno="672" group-title="famelack (us) [us] [False]" tvg-logo="", Naruto US
 https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
-#EXTINF:0001 tvg-id="zsYBZPEwGXciBr" tvg-chno="672" group-title="famelack (us) [us] [True]" tvg-logo="", Nascar
+#EXTINF:0001 tvg-id="zsYBZPEwGXciBr" tvg-chno="673" group-title="famelack (us) [us] [True]" tvg-logo="", Nascar
 https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playlist.m3u8
-#EXTINF:0001 tvg-id="aml1OEV4otjL9H" tvg-chno="673" group-title="famelack (us) [us] [False]" tvg-logo="", NASCAR Channel
+#EXTINF:0001 tvg-id="aml1OEV4otjL9H" tvg-chno="674" group-title="famelack (us) [us] [False]" tvg-logo="", NASCAR Channel
 https://dzz957bqk62e8.cloudfront.net/NASCAR.m3u8
-#EXTINF:0001 tvg-id="Iy5zo4h0sUhH2S" tvg-chno="674" group-title="famelack (us) [us] [True]" tvg-logo="", Nash Bridges
+#EXTINF:0001 tvg-id="Iy5zo4h0sUhH2S" tvg-chno="675" group-title="famelack (us) [us] [True]" tvg-logo="", Nash Bridges
 https://aegis-cloudfront-1.tubi.video/07f838db-e5bc-47c9-b2b8-6d7037b06b9b/playlist.m3u8
-#EXTINF:0001 tvg-id="RnFrGKKVa14zlp" tvg-chno="675" group-title="famelack (us) [us] [False]" tvg-logo="", Nashua ETV
+#EXTINF:0001 tvg-id="RnFrGKKVa14zlp" tvg-chno="676" group-title="famelack (us) [us] [False]" tvg-logo="", Nashua ETV
 https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="J90fLlMOnbjdRr" tvg-chno="676" group-title="famelack (us) [us] [False]" tvg-logo="", NAT TV
+#EXTINF:0001 tvg-id="J90fLlMOnbjdRr" tvg-chno="677" group-title="famelack (us) [us] [False]" tvg-logo="", NAT TV
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="1juHBAKtJpASKF" tvg-chno="677" group-title="famelack (us) [us] [False]" tvg-logo="", Natick Education Channel
+#EXTINF:0001 tvg-id="1juHBAKtJpASKF" tvg-chno="678" group-title="famelack (us) [us] [False]" tvg-logo="", Natick Education Channel
 https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="G91NOrrqX23WUi" tvg-chno="678" group-title="famelack (us) [us] [False]" tvg-logo="", Natick Government Channel
+#EXTINF:0001 tvg-id="G91NOrrqX23WUi" tvg-chno="679" group-title="famelack (us) [us] [False]" tvg-logo="", Natick Government Channel
 https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="rs0GRPeH08tnwb" tvg-chno="679" group-title="famelack (us) [us] [False]" tvg-logo="", Natick Public Access Channel
+#EXTINF:0001 tvg-id="rs0GRPeH08tnwb" tvg-chno="680" group-title="famelack (us) [us] [False]" tvg-logo="", Natick Public Access Channel
 https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="AM2hS4Stlu3mtC" tvg-chno="680" group-title="famelack (us) [us] [True]" tvg-logo="", National Lampoon
+#EXTINF:0001 tvg-id="AM2hS4Stlu3mtC" tvg-chno="681" group-title="famelack (us) [us] [True]" tvg-logo="", National Lampoon
 https://pb-4l6m6c7pca5dy.akamaized.net/playlist.m3u8
-#EXTINF:0001 tvg-id="TBbF9C6trEZQUO" tvg-chno="681" group-title="famelack (us) [us] [False]" tvg-logo="", NBA FAST Channel
+#EXTINF:0001 tvg-id="TBbF9C6trEZQUO" tvg-chno="682" group-title="famelack (us) [us] [False]" tvg-logo="", NBA FAST Channel
 https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
-#EXTINF:0001 tvg-id="RcmUVMpfqvK186" tvg-chno="682" group-title="famelack (us) [us] [True]" tvg-logo="", NBA TV
+#EXTINF:0001 tvg-id="RcmUVMpfqvK186" tvg-chno="683" group-title="famelack (us) [us] [True]" tvg-logo="", NBA TV
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="PHxb5StZotsrCS" tvg-chno="683" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 3 Sacramento CA (KCRA)
+#EXTINF:0001 tvg-id="PHxb5StZotsrCS" tvg-chno="684" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 3 Sacramento CA (KCRA)
 https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
-#EXTINF:0001 tvg-id="DMrRmzFqLxTLkg" tvg-chno="684" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 4 Albuquerque NM (KOB)
+#EXTINF:0001 tvg-id="DMrRmzFqLxTLkg" tvg-chno="685" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 4 Albuquerque NM (KOB)
 https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="3AFkD1POzZrsPp" tvg-chno="685" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 4 Milwaukee WI (WTMJ)
+#EXTINF:0001 tvg-id="3AFkD1POzZrsPp" tvg-chno="686" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 4 Milwaukee WI (WTMJ)
 https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
-#EXTINF:0001 tvg-id="xYWM9Dw4RLe2uB" tvg-chno="686" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 5 Chicago Live News
+#EXTINF:0001 tvg-id="xYWM9Dw4RLe2uB" tvg-chno="687" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 5 Chicago Live News
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
-#EXTINF:0001 tvg-id="SwnFzi3VcoW7MC" tvg-chno="687" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 6 Santa Barbara CA (KSBY)
+#EXTINF:0001 tvg-id="SwnFzi3VcoW7MC" tvg-chno="688" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 6 Santa Barbara CA (KSBY)
 https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
-#EXTINF:0001 tvg-id="EIxvE7oDo00Jf1" tvg-chno="688" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 8 Lancaster PA (WGAL)
+#EXTINF:0001 tvg-id="EIxvE7oDo00Jf1" tvg-chno="689" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 8 Lancaster PA (WGAL)
 https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8
-#EXTINF:0001 tvg-id="hDyH1pn3N8aJkv" tvg-chno="689" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 8 Salinas CA (KSBW)
+#EXTINF:0001 tvg-id="hDyH1pn3N8aJkv" tvg-chno="690" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 8 Salinas CA (KSBW)
 https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
-#EXTINF:0001 tvg-id="CsZoW5Ke4NRop0" tvg-chno="690" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 9 Steubenville OH (WTOV)
+#EXTINF:0001 tvg-id="CsZoW5Ke4NRop0" tvg-chno="691" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 9 Steubenville OH (WTOV)
 https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
-#EXTINF:0001 tvg-id="ciN9aJQEiXpv1v" tvg-chno="691" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 10 Providence MA
+#EXTINF:0001 tvg-id="ciN9aJQEiXpv1v" tvg-chno="692" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 10 Providence MA
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
-#EXTINF:0001 tvg-id="vKmaWVvh5vA23E" tvg-chno="692" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 10 Rochester NY (WHEC)
+#EXTINF:0001 tvg-id="vKmaWVvh5vA23E" tvg-chno="693" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 10 Rochester NY (WHEC)
 https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="dKlAoJSdPIzl7C" tvg-chno="693" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 11 Baltimore MD (WBAL)
+#EXTINF:0001 tvg-id="dKlAoJSdPIzl7C" tvg-chno="694" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 11 Baltimore MD (WBAL)
 https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8
-#EXTINF:0001 tvg-id="6Q8CKkxs2lXxnq" tvg-chno="694" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 12 Winston-Salem NC (WXII)
+#EXTINF:0001 tvg-id="6Q8CKkxs2lXxnq" tvg-chno="695" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 12 Winston-Salem NC (WXII)
 https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
-#EXTINF:0001 tvg-id="agaenRkdGMNF49" tvg-chno="695" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 13 Albany NY (WNYT)
+#EXTINF:0001 tvg-id="agaenRkdGMNF49" tvg-chno="696" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 13 Albany NY (WNYT)
 https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="aAaqzG8OIiD1kS" tvg-chno="696" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 26 Green Bay WI (WGBA)
+#EXTINF:0001 tvg-id="aAaqzG8OIiD1kS" tvg-chno="697" group-title="famelack (us) [us] [False]" tvg-logo="", NBC 26 Green Bay WI (WGBA)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-#EXTINF:0001 tvg-id="R86uP8qDB7VPXU" tvg-chno="697" group-title="famelack (us) [us] [False]" tvg-logo="", NBC Chicago News
+#EXTINF:0001 tvg-id="R86uP8qDB7VPXU" tvg-chno="698" group-title="famelack (us) [us] [False]" tvg-logo="", NBC Chicago News
 https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="446xsIHgo8ylMC" tvg-chno="698" group-title="famelack (us) [us] [False]" tvg-logo="", NBC Comedy Vault
+#EXTINF:0001 tvg-id="446xsIHgo8ylMC" tvg-chno="699" group-title="famelack (us) [us] [False]" tvg-logo="", NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
-#EXTINF:0001 tvg-id="LSoGDBr7qw33OY" tvg-chno="699" group-title="famelack (us) [us] [False]" tvg-logo="", NBC LX Home
+#EXTINF:0001 tvg-id="LSoGDBr7qw33OY" tvg-chno="700" group-title="famelack (us) [us] [False]" tvg-logo="", NBC LX Home
 https://dn7vkzd5khpp3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jnz0hbnuaajo2/b3d9d2ee-94c1-4de2-bb46-b1ed009f4f30/4.m3u8
-#EXTINF:0001 tvg-id="dJMkkD23mkPd9f" tvg-chno="700" group-title="famelack (us) [us] [True]" tvg-logo="", NBC News NOW
+#EXTINF:0001 tvg-id="dJMkkD23mkPd9f" tvg-chno="701" group-title="famelack (us) [us] [True]" tvg-logo="", NBC News NOW
 https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/master.m3u8
-#EXTINF:0001 tvg-id="mgCBsRrwyHVP1v" tvg-chno="701" group-title="famelack (us) [us] [False]" tvg-logo="", NBC Sports NOW
+#EXTINF:0001 tvg-id="mgCBsRrwyHVP1v" tvg-chno="702" group-title="famelack (us) [us] [False]" tvg-logo="", NBC Sports NOW
 https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
-#EXTINF:0001 tvg-id="1cMUm2YnhrYVgK" tvg-chno="702" group-title="famelack (us) [us] [False]" tvg-logo="", NBC West (San Diego)
+#EXTINF:0001 tvg-id="1cMUm2YnhrYVgK" tvg-chno="703" group-title="famelack (us) [us] [False]" tvg-logo="", NBC West (San Diego)
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
-#EXTINF:0001 tvg-id="Nym192LS730UQa" tvg-chno="703" group-title="famelack (us) [us] [False]" tvg-logo="", NBCLX
+#EXTINF:0001 tvg-id="Nym192LS730UQa" tvg-chno="704" group-title="famelack (us) [us] [False]" tvg-logo="", NBCLX
 https://dn7vkzd5khpp3.cloudfront.net/master.m3u8
-#EXTINF:0001 tvg-id="4UbtPpTgSZeVDb" tvg-chno="704" group-title="famelack (us) [us] [False]" tvg-logo="", NBCU Telemundo Florida
+#EXTINF:0001 tvg-id="4UbtPpTgSZeVDb" tvg-chno="705" group-title="famelack (us) [us] [False]" tvg-logo="", NBCU Telemundo Florida
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="7TupfrLQrMp6oY" tvg-chno="705" group-title="famelack (us) [us] [False]" tvg-logo="", NBCU Telemundo North East
+#EXTINF:0001 tvg-id="7TupfrLQrMp6oY" tvg-chno="706" group-title="famelack (us) [us] [False]" tvg-logo="", NBCU Telemundo North East
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="uO4udH1Lrq08b1" tvg-chno="706" group-title="famelack (us) [us] [False]" tvg-logo="", NBCU Telemundo Texas
+#EXTINF:0001 tvg-id="uO4udH1Lrq08b1" tvg-chno="707" group-title="famelack (us) [us] [False]" tvg-logo="", NBCU Telemundo Texas
 https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="adqqugO3sGaM4B" tvg-chno="707" group-title="famelack (us) [us] [False]" tvg-logo="", NBCU Telemundo West
+#EXTINF:0001 tvg-id="adqqugO3sGaM4B" tvg-chno="708" group-title="famelack (us) [us] [False]" tvg-logo="", NBCU Telemundo West
 https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="R9ZMdsUMPYPTON" tvg-chno="708" group-title="famelack (us) [us] [False]" tvg-logo="", NCTV79
+#EXTINF:0001 tvg-id="R9ZMdsUMPYPTON" tvg-chno="709" group-title="famelack (us) [us] [False]" tvg-logo="", NCTV79
 https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="leWgfh6XDv14BX" tvg-chno="709" group-title="famelack (us) [us] [False]" tvg-logo="", NEW K-POP
-https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus
-#EXTINF:0001 tvg-id="UdDdokFxt0qifA" tvg-chno="710" group-title="famelack (us) [us] [False]" tvg-logo="", NEW K.MOVIES
+#EXTINF:0001 tvg-id="leWgfh6XDv14BX" tvg-chno="710" group-title="famelack (us) [us] [False]" tvg-logo="", NEW K-POP
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
+#EXTINF:0001 tvg-id="UdDdokFxt0qifA" tvg-chno="711" group-title="famelack (us) [us] [False]" tvg-logo="", NEW K.MOVIES
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
-#EXTINF:0001 tvg-id="yJ6qb835TTUKh1" tvg-chno="711" group-title="famelack (us) [us] [True]" tvg-logo="", News12 Bronx
+#EXTINF:0001 tvg-id="yJ6qb835TTUKh1" tvg-chno="712" group-title="famelack (us) [us] [True]" tvg-logo="", News12 Bronx
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
-#EXTINF:0001 tvg-id="EmHOTWEORpvSsZ" tvg-chno="712" group-title="famelack (us) [us] [True]" tvg-logo="", News12 Brooklyn
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
 #EXTINF:0001 tvg-id="EtiKHivASIxm20" tvg-chno="713" group-title="famelack (us) [us] [True]" tvg-logo="", News12 Conneticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
 #EXTINF:0001 tvg-id="kStaIms86sY53l" tvg-chno="714" group-title="famelack (us) [us] [True]" tvg-logo="", News12 Hudson Valley
@@ -1474,7 +1474,7 @@ https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b6
 #EXTINF:0001 tvg-id="e6vVftJ1IvJN45" tvg-chno="737" group-title="famelack (us) [us] [False]" tvg-logo="", NowMedia Television Spanish
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
 #EXTINF:0001 tvg-id="ZemN0Bg2YQpIyA" tvg-chno="738" group-title="famelack (us) [us] [False]" tvg-logo="", NRBTV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15811
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="eAmYV5ZWCBUrvO" tvg-chno="739" group-title="famelack (us) [us] [False]" tvg-logo="", NTD TV China
 https://live.ntdtv.com/cnlive900/playlist.m3u8
 #EXTINF:0001 tvg-id="IMbvVsGCyxCD1h" tvg-chno="740" group-title="famelack (us) [us] [False]" tvg-logo="", NTD TV East
@@ -1910,7 +1910,7 @@ https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="yDQJs9BoIlNN2k" tvg-chno="955" group-title="famelack (us) [us] [True]" tvg-logo="", Tastemade Home
 https://amg00047-tastemade-amg00047c2-cineverse-us-1357.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadehome-cineverseus/playlist.m3u8
 #EXTINF:0001 tvg-id="YllG7rP25m7zOt" tvg-chno="956" group-title="famelack (us) [us] [True]" tvg-logo="", Tastemade Travel
-https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
+https://tm-tmtar-xumo.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="hAcFI08ZNbAHCM" tvg-chno="957" group-title="famelack (us) [us] [True]" tvg-logo="", Tastemade US
 https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8
 #EXTINF:0001 tvg-id="APbUyl1xqd0rB4" tvg-chno="958" group-title="famelack (us) [us] [False]" tvg-logo="", TBN Armenia
@@ -2321,181 +2321,179 @@ https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 #EXTINF:0001 tvg-id="9nNo4knwmUpXBD" tvg-chno="1161" group-title="famelack (us) [us] [False]" tvg-logo="", WFMZ Dorney Park Camera
 https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8
-#EXTINF:0001 tvg-id="kpjvqmDQnkWn7e" tvg-chno="1162" group-title="famelack (us) [us] [False]" tvg-logo="", WFMZ Traffic
-https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
-#EXTINF:0001 tvg-id="g8he4VwvnzNi6M" tvg-chno="1163" group-title="famelack (us) [us] [False]" tvg-logo="", WFTX News Fort Myers FL
+#EXTINF:0001 tvg-id="g8he4VwvnzNi6M" tvg-chno="1162" group-title="famelack (us) [us] [False]" tvg-logo="", WFTX News Fort Myers FL
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
-#EXTINF:0001 tvg-id="f362lhVzSXGMJe" tvg-chno="1164" group-title="famelack (us) [us] [True]" tvg-logo="", WFUT-DT1
+#EXTINF:0001 tvg-id="f362lhVzSXGMJe" tvg-chno="1163" group-title="famelack (us) [us] [True]" tvg-logo="", WFUT-DT1
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
-#EXTINF:0001 tvg-id="dfqMGJsXUTK2qA" tvg-chno="1165" group-title="famelack (us) [us] [False]" tvg-logo="", WFXT-DT2
+#EXTINF:0001 tvg-id="dfqMGJsXUTK2qA" tvg-chno="1164" group-title="famelack (us) [us] [False]" tvg-logo="", WFXT-DT2
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
-#EXTINF:0001 tvg-id="xdZBjE9z4xDqbS" tvg-chno="1166" group-title="famelack (us) [us] [False]" tvg-logo="", WGGS-DT2
+#EXTINF:0001 tvg-id="xdZBjE9z4xDqbS" tvg-chno="1165" group-title="famelack (us) [us] [False]" tvg-logo="", WGGS-DT2
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
-#EXTINF:0001 tvg-id="CUJ0FKd1DkCCdG" tvg-chno="1167" group-title="famelack (us) [us] [False]" tvg-logo="", WGGS-TV 16.1
+#EXTINF:0001 tvg-id="CUJ0FKd1DkCCdG" tvg-chno="1166" group-title="famelack (us) [us] [False]" tvg-logo="", WGGS-TV 16.1
 https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8
-#EXTINF:0001 tvg-id="fu1ZU0kXvh5sXr" tvg-chno="1168" group-title="famelack (us) [us] [False]" tvg-logo="", WGTV-DT3
+#EXTINF:0001 tvg-id="fu1ZU0kXvh5sXr" tvg-chno="1167" group-title="famelack (us) [us] [False]" tvg-logo="", WGTV-DT3
 https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
-#EXTINF:0001 tvg-id="rnb9Kvah2uPXsj" tvg-chno="1169" group-title="famelack (us) [us] [False]" tvg-logo="", WHBQ-DT1
+#EXTINF:0001 tvg-id="rnb9Kvah2uPXsj" tvg-chno="1168" group-title="famelack (us) [us] [False]" tvg-logo="", WHBQ-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
-#EXTINF:0001 tvg-id="cnehCW1ZGS944a" tvg-chno="1170" group-title="famelack (us) [us] [False]" tvg-logo="", WHIO-DT1
+#EXTINF:0001 tvg-id="cnehCW1ZGS944a" tvg-chno="1169" group-title="famelack (us) [us] [False]" tvg-logo="", WHIO-DT1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
-#EXTINF:0001 tvg-id="t5Y9oy8AgTrRk5" tvg-chno="1171" group-title="famelack (us) [us] [False]" tvg-logo="", Whiplash
+#EXTINF:0001 tvg-id="t5Y9oy8AgTrRk5" tvg-chno="1170" group-title="famelack (us) [us] [False]" tvg-logo="", Whiplash
 https://cdn.whiplash.cc/whiplash/index.m3u8
-#EXTINF:0001 tvg-id="UutI4EHEMbjGu9" tvg-chno="1172" group-title="famelack (us) [us] [False]" tvg-logo="", Whiplash Cinema
+#EXTINF:0001 tvg-id="UutI4EHEMbjGu9" tvg-chno="1171" group-title="famelack (us) [us] [False]" tvg-logo="", Whiplash Cinema
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
-#EXTINF:0001 tvg-id="nzwivAMUY75Smr" tvg-chno="1173" group-title="famelack (us) [us] [False]" tvg-logo="", Whiplash II
+#EXTINF:0001 tvg-id="nzwivAMUY75Smr" tvg-chno="1172" group-title="famelack (us) [us] [False]" tvg-logo="", Whiplash II
 https://cdn.whiplash.cc/whiplash-2/index.m3u8
-#EXTINF:0001 tvg-id="FJlDMHSCowwEMh" tvg-chno="1174" group-title="famelack (us) [us] [False]" tvg-logo="", White Plains Community Media
+#EXTINF:0001 tvg-id="FJlDMHSCowwEMh" tvg-chno="1173" group-title="famelack (us) [us] [False]" tvg-logo="", White Plains Community Media
 https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
-#EXTINF:0001 tvg-id="4buMOCUtF6v5yR" tvg-chno="1175" group-title="famelack (us) [us] [False]" tvg-logo="", WHOH-TV
+#EXTINF:0001 tvg-id="4buMOCUtF6v5yR" tvg-chno="1174" group-title="famelack (us) [us] [False]" tvg-logo="", WHOH-TV
 https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:0001 tvg-id="BXn7pND7UrjzCO" tvg-chno="1176" group-title="famelack (us) [us] [False]" tvg-logo="", WHPS Detroit
+#EXTINF:0001 tvg-id="BXn7pND7UrjzCO" tvg-chno="1175" group-title="famelack (us) [us] [False]" tvg-logo="", WHPS Detroit
 https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
-#EXTINF:0001 tvg-id="kNn8QKGmWQW9iZ" tvg-chno="1177" group-title="famelack (us) [us] [False]" tvg-logo="", Wild Nature
+#EXTINF:0001 tvg-id="kNn8QKGmWQW9iZ" tvg-chno="1176" group-title="famelack (us) [us] [False]" tvg-logo="", Wild Nature
 https://dhiy0zcig7ty1.cloudfront.net/scheduler/scheduleMaster/491.m3u8
-#EXTINF:0001 tvg-id="30vZYoMsTfF8DB" tvg-chno="1178" group-title="famelack (us) [us] [False]" tvg-logo="", Wild TV
+#EXTINF:0001 tvg-id="30vZYoMsTfF8DB" tvg-chno="1177" group-title="famelack (us) [us] [False]" tvg-logo="", Wild TV
 https://a-cdn.klowdtv.com/live3/wildtv_720p/playlist.m3u8
-#EXTINF:0001 tvg-id="P39HTorTLRCAt5" tvg-chno="1179" group-title="famelack (us) [us] [True]" tvg-logo="", Wild West TV
+#EXTINF:0001 tvg-id="P39HTorTLRCAt5" tvg-chno="1178" group-title="famelack (us) [us] [True]" tvg-logo="", Wild West TV
 https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
-#EXTINF:0001 tvg-id="d0G4zB6FBlCOOM" tvg-chno="1180" group-title="famelack (us) [us] [True]" tvg-logo="", Willow Sports
+#EXTINF:0001 tvg-id="d0G4zB6FBlCOOM" tvg-chno="1179" group-title="famelack (us) [us] [True]" tvg-logo="", Willow Sports
 https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
-#EXTINF:0001 tvg-id="YvpUszTyJZwmVY" tvg-chno="1181" group-title="famelack (us) [us] [False]" tvg-logo="", Window TV
+#EXTINF:0001 tvg-id="YvpUszTyJZwmVY" tvg-chno="1180" group-title="famelack (us) [us] [False]" tvg-logo="", Window TV
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
-#EXTINF:0001 tvg-id="aT4DeMpRR6RB6D" tvg-chno="1182" group-title="famelack (us) [us] [False]" tvg-logo="", Wine Watches & Whiskey
+#EXTINF:0001 tvg-id="aT4DeMpRR6RB6D" tvg-chno="1181" group-title="famelack (us) [us] [False]" tvg-logo="", Wine Watches & Whiskey
 https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8
-#EXTINF:0001 tvg-id="NNpVYT19v3p1EM" tvg-chno="1183" group-title="famelack (us) [us] [False]" tvg-logo="", Winter Vibes
+#EXTINF:0001 tvg-id="NNpVYT19v3p1EM" tvg-chno="1182" group-title="famelack (us) [us] [False]" tvg-logo="", Winter Vibes
 https://d11iakikomyd5e.cloudfront.net/playlist.m3u8
-#EXTINF:0001 tvg-id="D9R8Q9k4OT66XF" tvg-chno="1184" group-title="famelack (us) [us] [False]" tvg-logo="", Wipeout Xtra
+#EXTINF:0001 tvg-id="D9R8Q9k4OT66XF" tvg-chno="1183" group-title="famelack (us) [us] [False]" tvg-logo="", Wipeout Xtra
 https://aegis-cloudfront-1.tubi.video/e0a81cae-d483-46f9-aaa1-d0b87faa13cf/playlist.m3u8
-#EXTINF:0001 tvg-id="TwpZIeH6NeCcvk" tvg-chno="1185" group-title="famelack (us) [us] [False]" tvg-logo="", WITI-DT1
+#EXTINF:0001 tvg-id="TwpZIeH6NeCcvk" tvg-chno="1184" group-title="famelack (us) [us] [False]" tvg-logo="", WITI-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
-#EXTINF:0001 tvg-id="tVOuVXYoww6CFw" tvg-chno="1186" group-title="famelack (us) [us] [False]" tvg-logo="", Witness to Justice
+#EXTINF:0001 tvg-id="tVOuVXYoww6CFw" tvg-chno="1185" group-title="famelack (us) [us] [False]" tvg-logo="", Witness to Justice
 https://dxwldsv8fdzik.cloudfront.net/v1/aenetworks_witnesstojustice_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:0001 tvg-id="8RaHUFMKmLz7Nc" tvg-chno="1187" group-title="famelack (us) [us] [False]" tvg-logo="", WJAX-DT1
+#EXTINF:0001 tvg-id="8RaHUFMKmLz7Nc" tvg-chno="1186" group-title="famelack (us) [us] [False]" tvg-logo="", WJAX-DT1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
-#EXTINF:0001 tvg-id="QBoMcVuM4X4Nht" tvg-chno="1188" group-title="famelack (us) [us] [False]" tvg-logo="", WJBK-DT1
+#EXTINF:0001 tvg-id="QBoMcVuM4X4Nht" tvg-chno="1187" group-title="famelack (us) [us] [False]" tvg-logo="", WJBK-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
-#EXTINF:0001 tvg-id="ynghENNfds1fy6" tvg-chno="1189" group-title="famelack (us) [us] [False]" tvg-logo="", WJXT News4JAX (Jacksonville FL)
+#EXTINF:0001 tvg-id="ynghENNfds1fy6" tvg-chno="1188" group-title="famelack (us) [us] [False]" tvg-logo="", WJXT News4JAX (Jacksonville FL)
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
-#EXTINF:0001 tvg-id="utikPKT8agEDAK" tvg-chno="1190" group-title="famelack (us) [us] [False]" tvg-logo="", WLMB
+#EXTINF:0001 tvg-id="utikPKT8agEDAK" tvg-chno="1189" group-title="famelack (us) [us] [False]" tvg-logo="", WLMB
 https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
-#EXTINF:0001 tvg-id="kGM1rvoUE6CBeB" tvg-chno="1191" group-title="famelack (us) [us] [True]" tvg-logo="", WLTV-DT1
+#EXTINF:0001 tvg-id="kGM1rvoUE6CBeB" tvg-chno="1190" group-title="famelack (us) [us] [True]" tvg-logo="", WLTV-DT1
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
-#EXTINF:0001 tvg-id="S3Y9mkxn86Ic6g" tvg-chno="1192" group-title="famelack (us) [us] [False]" tvg-logo="", WMGT-TV News (Macon GA)
+#EXTINF:0001 tvg-id="S3Y9mkxn86Ic6g" tvg-chno="1191" group-title="famelack (us) [us] [False]" tvg-logo="", WMGT-TV News (Macon GA)
 https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
-#EXTINF:0001 tvg-id="KyijjOw27q3q6c" tvg-chno="1193" group-title="famelack (us) [us] [False]" tvg-logo="", WMPT-DT2 (PBS Create)
+#EXTINF:0001 tvg-id="KyijjOw27q3q6c" tvg-chno="1192" group-title="famelack (us) [us] [False]" tvg-logo="", WMPT-DT2 (PBS Create)
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:0001 tvg-id="orXH7nEsBAmfPA" tvg-chno="1194" group-title="famelack (us) [us] [False]" tvg-logo="", WNBC-DT1
+#EXTINF:0001 tvg-id="orXH7nEsBAmfPA" tvg-chno="1193" group-title="famelack (us) [us] [False]" tvg-logo="", WNBC-DT1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
-#EXTINF:0001 tvg-id="gCknevsDMxIZA0" tvg-chno="1195" group-title="famelack (us) [us] [False]" tvg-logo="", WNYW-DT1
+#EXTINF:0001 tvg-id="gCknevsDMxIZA0" tvg-chno="1194" group-title="famelack (us) [us] [False]" tvg-logo="", WNYW-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-#EXTINF:0001 tvg-id="dDSHGpZc2eYBdK" tvg-chno="1196" group-title="famelack (us) [us] [False]" tvg-logo="", Women's Sports Network
+#EXTINF:0001 tvg-id="dDSHGpZc2eYBdK" tvg-chno="1195" group-title="famelack (us) [us] [False]" tvg-logo="", Women's Sports Network
 https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8
-#EXTINF:0001 tvg-id="UPWLXwfzXbRgpH" tvg-chno="1197" group-title="famelack (us) [us] [False]" tvg-logo="", World Channel
+#EXTINF:0001 tvg-id="UPWLXwfzXbRgpH" tvg-chno="1196" group-title="famelack (us) [us] [False]" tvg-logo="", World Channel
 https://world.lls.pbs.org/index.m3u8
-#EXTINF:0001 tvg-id="SVeNmaldSIwAox" tvg-chno="1198" group-title="famelack (us) [us] [False]" tvg-logo="", World Harvest TV
+#EXTINF:0001 tvg-id="SVeNmaldSIwAox" tvg-chno="1197" group-title="famelack (us) [us] [False]" tvg-logo="", World Harvest TV
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="Io7xRK2WVkGiOM" tvg-chno="1199" group-title="famelack (us) [us] [True]" tvg-logo="", World Poker Tour US
+#EXTINF:0001 tvg-id="Io7xRK2WVkGiOM" tvg-chno="1198" group-title="famelack (us) [us] [True]" tvg-logo="", World Poker Tour US
 https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
-#EXTINF:0001 tvg-id="A6eg8xEPVoGZ6F" tvg-chno="1200" group-title="famelack (us) [us] [True]" tvg-logo="", World’s Most Evil Killers
+#EXTINF:0001 tvg-id="A6eg8xEPVoGZ6F" tvg-chno="1199" group-title="famelack (us) [us] [True]" tvg-logo="", World’s Most Evil Killers
 https://pb-b62f663v8jteu.akamaized.net/Worlds_Most_Evil_Killers.m3u8
-#EXTINF:0001 tvg-id="NhTCqVJfwNwg9R" tvg-chno="1201" group-title="famelack (us) [us] [False]" tvg-logo="", WOX TV
+#EXTINF:0001 tvg-id="NhTCqVJfwNwg9R" tvg-chno="1200" group-title="famelack (us) [us] [False]" tvg-logo="", WOX TV
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
-#EXTINF:0001 tvg-id="pvxpjJZ1DkpUbg" tvg-chno="1202" group-title="famelack (us) [us] [False]" tvg-logo="", WPS-TV
+#EXTINF:0001 tvg-id="pvxpjJZ1DkpUbg" tvg-chno="1201" group-title="famelack (us) [us] [False]" tvg-logo="", WPS-TV
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
-#EXTINF:0001 tvg-id="m4ADVQvpQSZebF" tvg-chno="1203" group-title="famelack (us) [us] [False]" tvg-logo="", WPTV News West Palm Beach FL
+#EXTINF:0001 tvg-id="m4ADVQvpQSZebF" tvg-chno="1202" group-title="famelack (us) [us] [False]" tvg-logo="", WPTV News West Palm Beach FL
 https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
-#EXTINF:0001 tvg-id="CtinP8ZlYX9avI" tvg-chno="1204" group-title="famelack (us) [us] [False]" tvg-logo="", WPXI-DT1
+#EXTINF:0001 tvg-id="CtinP8ZlYX9avI" tvg-chno="1203" group-title="famelack (us) [us] [False]" tvg-logo="", WPXI-DT1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
-#EXTINF:0001 tvg-id="0xmvMJG6w9GzX8" tvg-chno="1205" group-title="famelack (us) [us] [False]" tvg-logo="", WRC-DT1
+#EXTINF:0001 tvg-id="0xmvMJG6w9GzX8" tvg-chno="1204" group-title="famelack (us) [us] [False]" tvg-logo="", WRC-DT1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
-#EXTINF:0001 tvg-id="HQUKH3CwXdtxIc" tvg-chno="1206" group-title="famelack (us) [us] [False]" tvg-logo="", WSB-DT1
+#EXTINF:0001 tvg-id="HQUKH3CwXdtxIc" tvg-chno="1205" group-title="famelack (us) [us] [False]" tvg-logo="", WSB-DT1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
-#EXTINF:0001 tvg-id="5avMcUYESV0klS" tvg-chno="1207" group-title="famelack (us) [us] [False]" tvg-logo="", WSBS-DT1
+#EXTINF:0001 tvg-id="5avMcUYESV0klS" tvg-chno="1206" group-title="famelack (us) [us] [False]" tvg-logo="", WSBS-DT1
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
-#EXTINF:0001 tvg-id="WT1ozss99BdPH0" tvg-chno="1208" group-title="famelack (us) [us] [False]" tvg-logo="", WSLF-LD 35.1
+#EXTINF:0001 tvg-id="WT1ozss99BdPH0" tvg-chno="1207" group-title="famelack (us) [us] [False]" tvg-logo="", WSLF-LD 35.1
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
-#EXTINF:0001 tvg-id="27gO8OUgo1sBUx" tvg-chno="1209" group-title="famelack (us) [us] [True]" tvg-logo="", WSOC Now
+#EXTINF:0001 tvg-id="27gO8OUgo1sBUx" tvg-chno="1208" group-title="famelack (us) [us] [True]" tvg-logo="", WSOC Now
 https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
-#EXTINF:0001 tvg-id="l2GvZeEZ1iJw5E" tvg-chno="1210" group-title="famelack (us) [us] [True]" tvg-logo="", WSOC-DT1
+#EXTINF:0001 tvg-id="l2GvZeEZ1iJw5E" tvg-chno="1209" group-title="famelack (us) [us] [True]" tvg-logo="", WSOC-DT1
 https://aegis-cloudfront-1.tubi.video/d864a20b-85bb-41bc-8fbe-6c9d8a88a32d/playlist.m3u8
-#EXTINF:0001 tvg-id="CV1HFy4ju0AqkI" tvg-chno="1211" group-title="famelack (us) [us] [False]" tvg-logo="", WTMO-CD 31.1
+#EXTINF:0001 tvg-id="CV1HFy4ju0AqkI" tvg-chno="1210" group-title="famelack (us) [us] [False]" tvg-logo="", WTMO-CD 31.1
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
-#EXTINF:0001 tvg-id="hSI4wmjB7FFMQa" tvg-chno="1212" group-title="famelack (us) [us] [False]" tvg-logo="", WTTG-DT1
+#EXTINF:0001 tvg-id="hSI4wmjB7FFMQa" tvg-chno="1211" group-title="famelack (us) [us] [False]" tvg-logo="", WTTG-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
-#EXTINF:0001 tvg-id="zNuZh7u5Yuqhgp" tvg-chno="1213" group-title="famelack (us) [us] [False]" tvg-logo="", WTVJ-DT1
+#EXTINF:0001 tvg-id="zNuZh7u5Yuqhgp" tvg-chno="1212" group-title="famelack (us) [us] [False]" tvg-logo="", WTVJ-DT1
 https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
-#EXTINF:0001 tvg-id="bBVO85OvWMycQq" tvg-chno="1214" group-title="famelack (us) [us] [False]" tvg-logo="", WTVQ ABC 36 News (Lexington KY)
+#EXTINF:0001 tvg-id="bBVO85OvWMycQq" tvg-chno="1213" group-title="famelack (us) [us] [False]" tvg-logo="", WTVQ ABC 36 News (Lexington KY)
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
-#EXTINF:0001 tvg-id="j157xe0Xu8E2VG" tvg-chno="1215" group-title="famelack (us) [us] [False]" tvg-logo="", WTVT-DT1
+#EXTINF:0001 tvg-id="j157xe0Xu8E2VG" tvg-chno="1214" group-title="famelack (us) [us] [False]" tvg-logo="", WTVT-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
-#EXTINF:0001 tvg-id="0A6GR8My6P0kDE" tvg-chno="1216" group-title="famelack (us) [us] [False]" tvg-logo="", WTXF-DT1
+#EXTINF:0001 tvg-id="0A6GR8My6P0kDE" tvg-chno="1215" group-title="famelack (us) [us] [False]" tvg-logo="", WTXF-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
-#EXTINF:0001 tvg-id="HnZ8KW961HfueY" tvg-chno="1217" group-title="famelack (us) [us] [False]" tvg-logo="", Wu Tang Collection
+#EXTINF:0001 tvg-id="HnZ8KW961HfueY" tvg-chno="1216" group-title="famelack (us) [us] [False]" tvg-logo="", Wu Tang Collection
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
-#EXTINF:0001 tvg-id="SnEhGqfvzySKDk" tvg-chno="1218" group-title="famelack (us) [us] [False]" tvg-logo="", WVCU-LP
+#EXTINF:0001 tvg-id="SnEhGqfvzySKDk" tvg-chno="1217" group-title="famelack (us) [us] [False]" tvg-logo="", WVCU-LP
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
-#EXTINF:0001 tvg-id="Wg7tH4zzOm8GqL" tvg-chno="1219" group-title="famelack (us) [us] [False]" tvg-logo="", WVIT-DT1
+#EXTINF:0001 tvg-id="Wg7tH4zzOm8GqL" tvg-chno="1218" group-title="famelack (us) [us] [False]" tvg-logo="", WVIT-DT1
 https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
-#EXTINF:0001 tvg-id="uJOmwkL0O1vIji" tvg-chno="1220" group-title="famelack (us) [us] [False]" tvg-logo="", WVVH-CD 18.1
+#EXTINF:0001 tvg-id="uJOmwkL0O1vIji" tvg-chno="1219" group-title="famelack (us) [us] [False]" tvg-logo="", WVVH-CD 18.1
 https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8
-#EXTINF:0001 tvg-id="XdwnADDH56ASYG" tvg-chno="1221" group-title="famelack (us) [us] [False]" tvg-logo="", WWE Superstar Central
+#EXTINF:0001 tvg-id="XdwnADDH56ASYG" tvg-chno="1220" group-title="famelack (us) [us] [False]" tvg-logo="", WWE Superstar Central
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
-#EXTINF:0001 tvg-id="lMMgpiTfPRceeL" tvg-chno="1222" group-title="famelack (us) [us] [False]" tvg-logo="", WWON-TV Channel 48
+#EXTINF:0001 tvg-id="lMMgpiTfPRceeL" tvg-chno="1221" group-title="famelack (us) [us] [False]" tvg-logo="", WWON-TV Channel 48
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
-#EXTINF:0001 tvg-id="pHi6w7Hfji0tTj" tvg-chno="1223" group-title="famelack (us) [us] [False]" tvg-logo="", WXTV-DT1
+#EXTINF:0001 tvg-id="pHi6w7Hfji0tTj" tvg-chno="1222" group-title="famelack (us) [us] [False]" tvg-logo="", WXTV-DT1
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
-#EXTINF:0001 tvg-id="Rhe7NGHs2lSviG" tvg-chno="1224" group-title="famelack (us) [us] [False]" tvg-logo="", WXXV-TV News (Biloxi MS)
+#EXTINF:0001 tvg-id="Rhe7NGHs2lSviG" tvg-chno="1223" group-title="famelack (us) [us] [False]" tvg-logo="", WXXV-TV News (Biloxi MS)
 https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
-#EXTINF:0001 tvg-id="NjLXxXYT6cdq05" tvg-chno="1225" group-title="famelack (us) [us] [False]" tvg-logo="", XFC TV
+#EXTINF:0001 tvg-id="NjLXxXYT6cdq05" tvg-chno="1224" group-title="famelack (us) [us] [False]" tvg-logo="", XFC TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247
-#EXTINF:0001 tvg-id="aFiAezU23iJ9j8" tvg-chno="1226" group-title="famelack (us) [us] [False]" tvg-logo="", XITE 80s Flashback
+#EXTINF:0001 tvg-id="aFiAezU23iJ9j8" tvg-chno="1225" group-title="famelack (us) [us] [False]" tvg-logo="", XITE 80s Flashback
 https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
-#EXTINF:0001 tvg-id="WuVh2mfRifOUP1" tvg-chno="1227" group-title="famelack (us) [us] [False]" tvg-logo="", XITE 90's Throwback
+#EXTINF:0001 tvg-id="WuVh2mfRifOUP1" tvg-chno="1226" group-title="famelack (us) [us] [False]" tvg-logo="", XITE 90's Throwback
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
-#EXTINF:0001 tvg-id="5Jk6hJApUbv5Aq" tvg-chno="1228" group-title="famelack (us) [us] [False]" tvg-logo="", XITE 90s Throwback
+#EXTINF:0001 tvg-id="5Jk6hJApUbv5Aq" tvg-chno="1227" group-title="famelack (us) [us] [False]" tvg-logo="", XITE 90s Throwback
 https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
-#EXTINF:0001 tvg-id="F9Ox1CfaRW0T4t" tvg-chno="1229" group-title="famelack (us) [us] [False]" tvg-logo="", XITE Celebrates
+#EXTINF:0001 tvg-id="F9Ox1CfaRW0T4t" tvg-chno="1228" group-title="famelack (us) [us] [False]" tvg-logo="", XITE Celebrates
 https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
-#EXTINF:0001 tvg-id="xmkiWyq00SXkg6" tvg-chno="1230" group-title="famelack (us) [us] [False]" tvg-logo="", XITE Christian Hits
+#EXTINF:0001 tvg-id="xmkiWyq00SXkg6" tvg-chno="1229" group-title="famelack (us) [us] [False]" tvg-logo="", XITE Christian Hits
 https://d2tuyivcrvbj81.cloudfront.net/XITE_Christian_Hits.m3u8
-#EXTINF:0001 tvg-id="JNcgbpuMgresxr" tvg-chno="1231" group-title="famelack (us) [us] [True]" tvg-logo="", XITE Classic Country
+#EXTINF:0001 tvg-id="JNcgbpuMgresxr" tvg-chno="1230" group-title="famelack (us) [us] [True]" tvg-logo="", XITE Classic Country
 https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
-#EXTINF:0001 tvg-id="6HC8iTl10rKym6" tvg-chno="1232" group-title="famelack (us) [us] [True]" tvg-logo="", XITE Country Today
+#EXTINF:0001 tvg-id="6HC8iTl10rKym6" tvg-chno="1231" group-title="famelack (us) [us] [True]" tvg-logo="", XITE Country Today
 https://pb-5itqeen09owrs.akamaized.net/XITE_Country_Today.m3u8
-#EXTINF:0001 tvg-id="mIIU3o2J8gN8UL" tvg-chno="1233" group-title="famelack (us) [us] [False]" tvg-logo="", XITE Just Chill
+#EXTINF:0001 tvg-id="mIIU3o2J8gN8UL" tvg-chno="1232" group-title="famelack (us) [us] [False]" tvg-logo="", XITE Just Chill
 https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
-#EXTINF:0001 tvg-id="2qfIZHWq1X2El7" tvg-chno="1234" group-title="famelack (us) [us] [False]" tvg-logo="", XITE Nuevo Latino
+#EXTINF:0001 tvg-id="2qfIZHWq1X2El7" tvg-chno="1233" group-title="famelack (us) [us] [False]" tvg-logo="", XITE Nuevo Latino
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-#EXTINF:0001 tvg-id="OQgMIBFnpKHzNU" tvg-chno="1235" group-title="famelack (us) [us] [True]" tvg-logo="", XITE R&B Classic Jams
+#EXTINF:0001 tvg-id="OQgMIBFnpKHzNU" tvg-chno="1234" group-title="famelack (us) [us] [True]" tvg-logo="", XITE R&B Classic Jams
 https://pb-bakywpoa0kn1n.akamaized.net/XITE_RnB_Classic_Jams.m3u8
-#EXTINF:0001 tvg-id="OGd71LsRIctQtK" tvg-chno="1236" group-title="famelack (us) [us] [True]" tvg-logo="", XITE Rock x Metal US
+#EXTINF:0001 tvg-id="OGd71LsRIctQtK" tvg-chno="1235" group-title="famelack (us) [us] [True]" tvg-logo="", XITE Rock x Metal US
 https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="kxIDxj1bfR8Ii1" tvg-chno="1237" group-title="famelack (us) [us] [False]" tvg-logo="", XITE Siempre Latino
+#EXTINF:0001 tvg-id="kxIDxj1bfR8Ii1" tvg-chno="1236" group-title="famelack (us) [us] [False]" tvg-logo="", XITE Siempre Latino
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
-#EXTINF:0001 tvg-id="mlYGFmcfU8XZ1f" tvg-chno="1238" group-title="famelack (us) [us] [False]" tvg-logo="", Xplore TV
+#EXTINF:0001 tvg-id="mlYGFmcfU8XZ1f" tvg-chno="1237" group-title="famelack (us) [us] [False]" tvg-logo="", Xplore TV
 https://aegis-cloudfront-1.tubi.video/4cfc30dc-1431-46b6-aea7-89a2e7d35823/playlist.m3u8
-#EXTINF:0001 tvg-id="ofazP0ZT911Zqk" tvg-chno="1239" group-title="famelack (us) [us] [False]" tvg-logo="", Xtreme Outdoor Presented by HISTORY
+#EXTINF:0001 tvg-id="ofazP0ZT911Zqk" tvg-chno="1238" group-title="famelack (us) [us] [False]" tvg-logo="", Xtreme Outdoor Presented by HISTORY
 https://dxagbr7yc4m1d.cloudfront.net/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:0001 tvg-id="b4Usnwe7Qsd37O" tvg-chno="1240" group-title="famelack (us) [us] [True]" tvg-logo="", Yahoo! Finance
+#EXTINF:0001 tvg-id="b4Usnwe7Qsd37O" tvg-chno="1239" group-title="famelack (us) [us] [True]" tvg-logo="", Yahoo! Finance
 https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="Rao7NfJWtoDzqG" tvg-chno="1241" group-title="famelack (us) [us] [False]" tvg-logo="", Yahoo! Sports Network
+#EXTINF:0001 tvg-id="Rao7NfJWtoDzqG" tvg-chno="1240" group-title="famelack (us) [us] [False]" tvg-logo="", Yahoo! Sports Network
 https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
-#EXTINF:0001 tvg-id="mAWCWxuOurkpj4" tvg-chno="1242" group-title="famelack (us) [us] [False]" tvg-logo="", YouDotGov
+#EXTINF:0001 tvg-id="mAWCWxuOurkpj4" tvg-chno="1241" group-title="famelack (us) [us] [False]" tvg-logo="", YouDotGov
 https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
-#EXTINF:0001 tvg-id="jyUO9WPZC2Q5GO" tvg-chno="1243" group-title="famelack (us) [us] [True]" tvg-logo="", Young Hollywood
+#EXTINF:0001 tvg-id="jyUO9WPZC2Q5GO" tvg-chno="1242" group-title="famelack (us) [us] [True]" tvg-logo="", Young Hollywood
 https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
-#EXTINF:0001 tvg-id="jeH5zlJCVuFWQ0" tvg-chno="1244" group-title="famelack (us) [us] [False]" tvg-logo="", YTA TV
+#EXTINF:0001 tvg-id="jeH5zlJCVuFWQ0" tvg-chno="1243" group-title="famelack (us) [us] [False]" tvg-logo="", YTA TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16767
-#EXTINF:0001 tvg-id="1pTOFnPJCFs4Na" tvg-chno="1245" group-title="famelack (us) [us] [False]" tvg-logo="", Yu-Gi-Oh!
+#EXTINF:0001 tvg-id="1pTOFnPJCFs4Na" tvg-chno="1244" group-title="famelack (us) [us] [False]" tvg-logo="", Yu-Gi-Oh!
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
-#EXTINF:0001 tvg-id="fXsdQWEbr7JGKR" tvg-chno="1246" group-title="famelack (us) [us] [False]" tvg-logo="", Yu-Gi-Oh! en espanol
+#EXTINF:0001 tvg-id="fXsdQWEbr7JGKR" tvg-chno="1245" group-title="famelack (us) [us] [False]" tvg-logo="", Yu-Gi-Oh! en espanol
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
-#EXTINF:0001 tvg-id="898ph5e04yTbmM" tvg-chno="1247" group-title="famelack (us) [us] [False]" tvg-logo="", Yuma Channel 72
+#EXTINF:0001 tvg-id="898ph5e04yTbmM" tvg-chno="1246" group-title="famelack (us) [us] [False]" tvg-logo="", Yuma Channel 72
 https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="yyhJA8joubrs7E" tvg-chno="1248" group-title="famelack (us) [us] [False]" tvg-logo="", Yuma Channel 73
+#EXTINF:0001 tvg-id="yyhJA8joubrs7E" tvg-chno="1247" group-title="famelack (us) [us] [False]" tvg-logo="", Yuma Channel 73
 https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="SCBLYe0CLSFVgw" tvg-chno="1249" group-title="famelack (us) [us] [False]" tvg-logo="", Z Nation
+#EXTINF:0001 tvg-id="SCBLYe0CLSFVgw" tvg-chno="1248" group-title="famelack (us) [us] [False]" tvg-logo="", Z Nation
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
-#EXTINF:0001 tvg-id="bEdyRY8i3WVmT7" tvg-chno="1250" group-title="famelack (us) [us] [False]" tvg-logo="", Zarin TV
+#EXTINF:0001 tvg-id="bEdyRY8i3WVmT7" tvg-chno="1249" group-title="famelack (us) [us] [False]" tvg-logo="", Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
