@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="wOuKcaJXWEMKNa" tvg-chno="1" group-title="famelack (uy) [uy] [False]" tvg-logo="", UCL
+#EXTINF:0001 tvg-id="R3tfe3EU9e9tEc" tvg-chno="1" group-title="famelack (uy) [uy] [False]" tvg-logo="", Canal Mas
+https://canalmasuruguay.com/hls/master-abr.m3u8
+#EXTINF:0001 tvg-id="wOuKcaJXWEMKNa" tvg-chno="2" group-title="famelack (uy) [uy] [False]" tvg-logo="", UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8

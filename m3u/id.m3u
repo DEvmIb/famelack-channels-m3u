@@ -23,66 +23,66 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:0001 tvg-id="csTsVz553duuxV" tvg-chno="12" group-title="famelack (id) [id] [False]" tvg-logo="", Caruban TV
 https://stream.carubantv.id/hls/0/stream.m3u8
-#EXTINF:0001 tvg-id="ksjOnBMCR8R7y0" tvg-chno="13" group-title="famelack (id) [id] [False]" tvg-logo="", Dhamma TV
+#EXTINF:0001 tvg-id="vd1yZSp74MjEYU" tvg-chno="13" group-title="famelack (id) [id] [True]" tvg-logo="", DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:0001 tvg-id="ksjOnBMCR8R7y0" tvg-chno="14" group-title="famelack (id) [id] [False]" tvg-logo="", Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:0001 tvg-id="baEpAaJEKajwBU" tvg-chno="14" group-title="famelack (id) [id] [False]" tvg-logo="", Dhoho TV
+#EXTINF:0001 tvg-id="baEpAaJEKajwBU" tvg-chno="15" group-title="famelack (id) [id] [False]" tvg-logo="", Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="hyCTO5BIpsuj6K" tvg-chno="15" group-title="famelack (id) [id] [False]" tvg-logo="", DMI TV
+#EXTINF:0001 tvg-id="hyCTO5BIpsuj6K" tvg-chno="16" group-title="famelack (id) [id] [False]" tvg-logo="", DMI TV
 https://tvstreamcast.com/tawaftv.m3u8
-#EXTINF:0001 tvg-id="QsUhnT0pi51wcj" tvg-chno="16" group-title="famelack (id) [id] [False]" tvg-logo="", Duta TV
+#EXTINF:0001 tvg-id="QsUhnT0pi51wcj" tvg-chno="17" group-title="famelack (id) [id] [False]" tvg-logo="", Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="U2wJ3BI8Zw3hJZ" tvg-chno="17" group-title="famelack (id) [id] [False]" tvg-logo="", E International Asia
+#EXTINF:0001 tvg-id="U2wJ3BI8Zw3hJZ" tvg-chno="18" group-title="famelack (id) [id] [False]" tvg-logo="", E International Asia
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
-#EXTINF:0001 tvg-id="2IWnSWLY0ULkRO" tvg-chno="18" group-title="famelack (id) [id] [False]" tvg-logo="", E International Europe
+#EXTINF:0001 tvg-id="2IWnSWLY0ULkRO" tvg-chno="19" group-title="famelack (id) [id] [False]" tvg-logo="", E International Europe
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8
-#EXTINF:0001 tvg-id="Eg0R1qmDu85lEs" tvg-chno="19" group-title="famelack (id) [id] [False]" tvg-logo="", Efarina TV
+#EXTINF:0001 tvg-id="Eg0R1qmDu85lEs" tvg-chno="20" group-title="famelack (id) [id] [False]" tvg-logo="", Efarina TV
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
-#EXTINF:0001 tvg-id="swg1noloxNDS5D" tvg-chno="20" group-title="famelack (id) [id] [False]" tvg-logo="", Ficom Channel
+#EXTINF:0001 tvg-id="swg1noloxNDS5D" tvg-chno="21" group-title="famelack (id) [id] [False]" tvg-logo="", Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
-#EXTINF:0001 tvg-id="LISekcgicAyOGd" tvg-chno="21" group-title="famelack (id) [id] [False]" tvg-logo="", Garuda TV
+#EXTINF:0001 tvg-id="LISekcgicAyOGd" tvg-chno="22" group-title="famelack (id) [id] [False]" tvg-logo="", Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:0001 tvg-id="ZJini95ORzUQDh" tvg-chno="22" group-title="famelack (id) [id] [False]" tvg-logo="", Groovia Kanal
+#EXTINF:0001 tvg-id="ZJini95ORzUQDh" tvg-chno="23" group-title="famelack (id) [id] [False]" tvg-logo="", Groovia Kanal
 https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
-#EXTINF:0001 tvg-id="VB5Y2IgDFOp8I1" tvg-chno="23" group-title="famelack (id) [id] [False]" tvg-logo="", Groovia Kids
+#EXTINF:0001 tvg-id="VB5Y2IgDFOp8I1" tvg-chno="24" group-title="famelack (id) [id] [False]" tvg-logo="", Groovia Kids
 https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
-#EXTINF:0001 tvg-id="Hae4Rh59QFhZLW" tvg-chno="24" group-title="famelack (id) [id] [False]" tvg-logo="", I Am Channel
+#EXTINF:0001 tvg-id="Hae4Rh59QFhZLW" tvg-chno="25" group-title="famelack (id) [id] [False]" tvg-logo="", I Am Channel
 https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
-#EXTINF:0001 tvg-id="4XTEtIon4adh6d" tvg-chno="25" group-title="famelack (id) [id] [False]" tvg-logo="", Indonesiana.TV
+#EXTINF:0001 tvg-id="4XTEtIon4adh6d" tvg-chno="26" group-title="famelack (id) [id] [False]" tvg-logo="", Indonesiana.TV
 https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:0001 tvg-id="AwWVoTg8nnvs2w" tvg-chno="26" group-title="famelack (id) [id] [False]" tvg-logo="", Jambi TV
+#EXTINF:0001 tvg-id="AwWVoTg8nnvs2w" tvg-chno="27" group-title="famelack (id) [id] [False]" tvg-logo="", Jambi TV
 https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
-#EXTINF:0001 tvg-id="oSWD42bHwHKlIE" tvg-chno="27" group-title="famelack (id) [id] [False]" tvg-logo="", Jogja TV
+#EXTINF:0001 tvg-id="oSWD42bHwHKlIE" tvg-chno="28" group-title="famelack (id) [id] [False]" tvg-logo="", Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:0001 tvg-id="0xr9dDKplwszmy" tvg-chno="28" group-title="famelack (id) [id] [False]" tvg-logo="", Kids TV
+#EXTINF:0001 tvg-id="0xr9dDKplwszmy" tvg-chno="29" group-title="famelack (id) [id] [False]" tvg-logo="", Kids TV
 https://origin5.mediacdn.ru/live/kidstv/index.m3u8
-#EXTINF:0001 tvg-id="Ootv8lcMdtj5Da" tvg-chno="29" group-title="famelack (id) [id] [False]" tvg-logo="", Kilisuci TV
+#EXTINF:0001 tvg-id="Ootv8lcMdtj5Da" tvg-chno="30" group-title="famelack (id) [id] [False]" tvg-logo="", Kilisuci TV
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
-#EXTINF:0001 tvg-id="0KL7HXYYAtsJlk" tvg-chno="30" group-title="famelack (id) [id] [False]" tvg-logo="", Lingkar TV
+#EXTINF:0001 tvg-id="0KL7HXYYAtsJlk" tvg-chno="31" group-title="famelack (id) [id] [False]" tvg-logo="", Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:0001 tvg-id="76VjihbmJOrWcW" tvg-chno="31" group-title="famelack (id) [id] [False]" tvg-logo="", Madani TV
+#EXTINF:0001 tvg-id="76VjihbmJOrWcW" tvg-chno="32" group-title="famelack (id) [id] [False]" tvg-logo="", Madani TV
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="ImH0HN1MdNlCn0" tvg-chno="32" group-title="famelack (id) [id] [False]" tvg-logo="", Madu TV
+#EXTINF:0001 tvg-id="ImH0HN1MdNlCn0" tvg-chno="33" group-title="famelack (id) [id] [False]" tvg-logo="", Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:0001 tvg-id="ayjkn7ZDTaMfjh" tvg-chno="33" group-title="famelack (id) [id] [True]" tvg-logo="", Magna Channel
+#EXTINF:0001 tvg-id="ayjkn7ZDTaMfjh" tvg-chno="34" group-title="famelack (id) [id] [True]" tvg-logo="", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="6Oy6l4nSQLXeVV" tvg-chno="34" group-title="famelack (id) [id] [False]" tvg-logo="", Matrix TV Yogyakarta
+#EXTINF:0001 tvg-id="6Oy6l4nSQLXeVV" tvg-chno="35" group-title="famelack (id) [id] [False]" tvg-logo="", Matrix TV Yogyakarta
 https://stream.matrixtv.id/hls/0/stream.m3u8
-#EXTINF:0001 tvg-id="NTyXj8xoKlplvb" tvg-chno="35" group-title="famelack (id) [id] [False]" tvg-logo="", Metro TV
+#EXTINF:0001 tvg-id="NTyXj8xoKlplvb" tvg-chno="36" group-title="famelack (id) [id] [False]" tvg-logo="", Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="VYzPIJkb2iBgYd" tvg-chno="36" group-title="famelack (id) [id] [False]" tvg-logo="", MGSTV
+#EXTINF:0001 tvg-id="VYzPIJkb2iBgYd" tvg-chno="37" group-title="famelack (id) [id] [False]" tvg-logo="", MGSTV
 https://mgstv.siar.us/live/mgstv.m3u8
-#EXTINF:0001 tvg-id="AL5enZ9zRbuM0T" tvg-chno="37" group-title="famelack (id) [id] [False]" tvg-logo="", MQTV
+#EXTINF:0001 tvg-id="AL5enZ9zRbuM0T" tvg-chno="38" group-title="famelack (id) [id] [False]" tvg-logo="", MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-#EXTINF:0001 tvg-id="L5BvWuf8rlqBr4" tvg-chno="38" group-title="famelack (id) [id] [False]" tvg-logo="", Music Information Channel
+#EXTINF:0001 tvg-id="L5BvWuf8rlqBr4" tvg-chno="39" group-title="famelack (id) [id] [False]" tvg-logo="", Music Information Channel
 https://mic.siar.us/mic/live/mic.m3u8
-#EXTINF:0001 tvg-id="ZAMsD9HhaPz9Bn" tvg-chno="39" group-title="famelack (id) [id] [True]" tvg-logo="", Nusantara TV
+#EXTINF:0001 tvg-id="ZAMsD9HhaPz9Bn" tvg-chno="40" group-title="famelack (id) [id] [True]" tvg-logo="", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:0001 tvg-id="WBUDfuwdrsRZbo" tvg-chno="40" group-title="famelack (id) [id] [False]" tvg-logo="", PKTV
+#EXTINF:0001 tvg-id="WBUDfuwdrsRZbo" tvg-chno="41" group-title="famelack (id) [id] [False]" tvg-logo="", PKTV
 https://streaming.id18.tunnel.my.id/hls/stream.m3u8
-#EXTINF:0001 tvg-id="ggkBalQqNc86oy" tvg-chno="41" group-title="famelack (id) [id] [False]" tvg-logo="", Puja TV Aceh
+#EXTINF:0001 tvg-id="ggkBalQqNc86oy" tvg-chno="42" group-title="famelack (id) [id] [False]" tvg-logo="", Puja TV Aceh
 https://pujatv.siar.us/live/pujatv.m3u8
-#EXTINF:0001 tvg-id="Ha2zWLoq5d13uY" tvg-chno="42" group-title="famelack (id) [id] [False]" tvg-logo="", Radar Lampung TV
-https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:0001 tvg-id="3v2UZx2WqrnRDM" tvg-chno="43" group-title="famelack (id) [id] [False]" tvg-logo="", Radar Tasikmalaya TV
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTINF:0001 tvg-id="VC5E0MneSZlKkr" tvg-chno="44" group-title="famelack (id) [id] [True]" tvg-logo="", Rajawali TV
