@@ -17,9 +17,13 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="tZZIrq25t0jwoj" tvg-chno="9" group-title="famelack (by) [by] [False]" tvg-logo="", Radio Mir
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="iVRQOIdUpv5uQH" tvg-chno="10" group-title="famelack (by) [by] [False]" tvg-logo="", STV
+#EXTINF:0001 tvg-id="X52MQmppYpmBGG" tvg-chno="10" group-title="famelack (by) [by] [False]" tvg-logo="", Sport TV
+https://media1.skifnet.by/sporttv/index.m3u8
+#EXTINF:0001 tvg-id="iVRQOIdUpv5uQH" tvg-chno="11" group-title="famelack (by) [by] [False]" tvg-logo="", STV
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:0001 tvg-id="wc4nIXAZtGUFZ9" tvg-chno="11" group-title="famelack (by) [by] [False]" tvg-logo="", TNT4 International
+#EXTINF:0001 tvg-id="wc4nIXAZtGUFZ9" tvg-chno="12" group-title="famelack (by) [by] [False]" tvg-logo="", TNT4 International
 https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
-#EXTINF:0001 tvg-id="qXDjb50le3QgvB" tvg-chno="12" group-title="famelack (by) [by] [False]" tvg-logo="", Vitebsk
+#EXTINF:0001 tvg-id="qXDjb50le3QgvB" tvg-chno="13" group-title="famelack (by) [by] [False]" tvg-logo="", Vitebsk
 https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
+#EXTINF:0001 tvg-id="VPw9H4sE13a0ma" tvg-chno="14" group-title="famelack (by) [by] [False]" tvg-logo="", VoyenTV
+https://media1.skifnet.by/voentv/index.m3u8

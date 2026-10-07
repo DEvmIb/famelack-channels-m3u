@@ -11,7 +11,7 @@ https://stream.iptvservice.eu/hls/balatontv.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:0001 tvg-id="7lZXVo773nUBKh" tvg-chno="6" group-title="famelack (hu) [hu] [False]" tvg-logo="", ESTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
-#EXTINF:0001 tvg-id="Iq86nUR80ay3qv" tvg-chno="7" group-title="famelack (hu) [hu] [False]" tvg-logo="", Euronews Hungarian
+#EXTINF:0001 tvg-id="F8W8ZnEWFqrysS" tvg-chno="7" group-title="famelack (hu) [hu] [False]" tvg-logo="", Euronews Hungarian
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 #EXTINF:0001 tvg-id="kxhdttjwNYioi6" tvg-chno="8" group-title="famelack (hu) [hu] [False]" tvg-logo="", EWTN/Bonum TV
 https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
