@@ -35,7 +35,5 @@ https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8
 #EXTINF:0001 tvg-id="2gkarGO4fauZPH" tvg-chno="18" group-title="famelack (ph) [ph] [False]" tvg-logo="", SMNI
 https://stream.kdlc.click/hls/0/stream.m3u8
-#EXTINF:0001 tvg-id="wTn8t48jb6lXBN" tvg-chno="19" group-title="famelack (ph) [ph] [False]" tvg-logo="", Star Television
-https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8
-#EXTINF:0001 tvg-id="25KpPpidlrPZ8K" tvg-chno="20" group-title="famelack (ph) [ph] [False]" tvg-logo="", Star TV Philippines
+#EXTINF:0001 tvg-id="25KpPpidlrPZ8K" tvg-chno="19" group-title="famelack (ph) [ph] [False]" tvg-logo="", Star TV Philippines
 https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8
