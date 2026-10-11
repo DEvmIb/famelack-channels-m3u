@@ -37,32 +37,32 @@ https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:0001 tvg-id="QgJCPkx1daMycI" tvg-chno="19" group-title="famelack (ua) [ua] [False]" tvg-logo="", FREEDOM
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:0001 tvg-id="e9rrXwLSK5cgba" tvg-chno="20" group-title="famelack (ua) [ua] [False]" tvg-logo="", Inter+
+#EXTINF:0001 tvg-id="QoGBfp2S5Hqmo0" tvg-chno="20" group-title="famelack (ua) [ua] [False]" tvg-logo="", Happy Radio TV
+https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:0001 tvg-id="e9rrXwLSK5cgba" tvg-chno="21" group-title="famelack (ua) [ua] [False]" tvg-logo="", Inter+
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="Rg0feSG7xyITpH" tvg-chno="21" group-title="famelack (ua) [ua] [False]" tvg-logo="", Islandia
+#EXTINF:0001 tvg-id="Rg0feSG7xyITpH" tvg-chno="22" group-title="famelack (ua) [ua] [False]" tvg-logo="", Islandia
 https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="2ijBxrnqlhILuI" tvg-chno="22" group-title="famelack (ua) [ua] [False]" tvg-logo="", ITV
+#EXTINF:0001 tvg-id="2ijBxrnqlhILuI" tvg-chno="23" group-title="famelack (ua) [ua] [False]" tvg-logo="", ITV
 https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
-#EXTINF:0001 tvg-id="WoGHZ2NiobEniJ" tvg-chno="23" group-title="famelack (ua) [ua] [False]" tvg-logo="", Izmail TV
+#EXTINF:0001 tvg-id="WoGHZ2NiobEniJ" tvg-chno="24" group-title="famelack (ua) [ua] [False]" tvg-logo="", Izmail TV
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
-#EXTINF:0001 tvg-id="mqffvBQ8XNfThQ" tvg-chno="24" group-title="famelack (ua) [ua] [False]" tvg-logo="", K2
+#EXTINF:0001 tvg-id="mqffvBQ8XNfThQ" tvg-chno="25" group-title="famelack (ua) [ua] [False]" tvg-logo="", K2
 https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="RCrPTSQMxm28NU" tvg-chno="25" group-title="famelack (ua) [ua] [False]" tvg-logo="", Kus-Kus
+#EXTINF:0001 tvg-id="RCrPTSQMxm28NU" tvg-chno="26" group-title="famelack (ua) [ua] [False]" tvg-logo="", Kus-Kus
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
-#EXTINF:0001 tvg-id="VuNeaocCdf0jve" tvg-chno="26" group-title="famelack (ua) [ua] [False]" tvg-logo="", Mega
+#EXTINF:0001 tvg-id="VuNeaocCdf0jve" tvg-chno="27" group-title="famelack (ua) [ua] [False]" tvg-logo="", Mega
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="n4cYNsGP5quUZZ" tvg-chno="27" group-title="famelack (ua) [ua] [False]" tvg-logo="", Muzvar
+#EXTINF:0001 tvg-id="n4cYNsGP5quUZZ" tvg-chno="28" group-title="famelack (ua) [ua] [False]" tvg-logo="", Muzvar
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="llmTLpa7nLu2lO" tvg-chno="28" group-title="famelack (ua) [ua] [False]" tvg-logo="", NASHE Music
+#EXTINF:0001 tvg-id="llmTLpa7nLu2lO" tvg-chno="29" group-title="famelack (ua) [ua] [False]" tvg-logo="", NASHE Music
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="yuVSQWMuHA1KqE" tvg-chno="29" group-title="famelack (ua) [ua] [False]" tvg-logo="", NTK TV
+#EXTINF:0001 tvg-id="yuVSQWMuHA1KqE" tvg-chno="30" group-title="famelack (ua) [ua] [False]" tvg-logo="", NTK TV
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:0001 tvg-id="oKqpFMnvfZtb0e" tvg-chno="30" group-title="famelack (ua) [ua] [False]" tvg-logo="", NTN
+#EXTINF:0001 tvg-id="oKqpFMnvfZtb0e" tvg-chno="31" group-title="famelack (ua) [ua] [False]" tvg-logo="", NTN
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="IAHNNM2HDRUGA0" tvg-chno="31" group-title="famelack (ua) [ua] [False]" tvg-logo="", Pixel TV
+#EXTINF:0001 tvg-id="IAHNNM2HDRUGA0" tvg-chno="32" group-title="famelack (ua) [ua] [False]" tvg-logo="", Pixel TV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
-#EXTINF:0001 tvg-id="BbQTAaHxQO2kHl" tvg-chno="32" group-title="famelack (ua) [ua] [False]" tvg-logo="", PTV
-https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:0001 tvg-id="6s6gtsiN1GEpMO" tvg-chno="33" group-title="famelack (ua) [ua] [False]" tvg-logo="", Rada TV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
 #EXTINF:0001 tvg-id="Nm3WREqkCV8Rax" tvg-chno="34" group-title="famelack (ua) [ua] [False]" tvg-logo="", RAZ 3

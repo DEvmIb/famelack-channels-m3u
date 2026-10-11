@@ -87,17 +87,15 @@ https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
 #EXTINF:0001 tvg-id="hIYVsCz4uowIXU" tvg-chno="44" group-title="famelack (pk) [pk] [False]" tvg-logo="", Paighan TV
 https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8
-#EXTINF:0001 tvg-id="SgbKpnUMcIpXd6" tvg-chno="45" group-title="famelack (pk) [pk] [False]" tvg-logo="", Peace TV Urdu
-https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
-#EXTINF:0001 tvg-id="zzEkf9yZmrhUaA" tvg-chno="46" group-title="famelack (pk) [pk] [False]" tvg-logo="", PK Sports
+#EXTINF:0001 tvg-id="zzEkf9yZmrhUaA" tvg-chno="45" group-title="famelack (pk) [pk] [False]" tvg-logo="", PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
-#EXTINF:0001 tvg-id="qYVU4HXVDlQp2P" tvg-chno="47" group-title="famelack (pk) [pk] [False]" tvg-logo="", PMI TV
+#EXTINF:0001 tvg-id="qYVU4HXVDlQp2P" tvg-chno="46" group-title="famelack (pk) [pk] [False]" tvg-logo="", PMI TV
 https://cdn.live247stream.com/pmi/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="77LBTTq4JvQf4h" tvg-chno="48" group-title="famelack (pk) [pk] [False]" tvg-logo="", Praise TV
+#EXTINF:0001 tvg-id="77LBTTq4JvQf4h" tvg-chno="47" group-title="famelack (pk) [pk] [False]" tvg-logo="", Praise TV
 https://livecdn.live247stream.com/praise/tv/playlist.m3u8
-#EXTINF:0001 tvg-id="HxH54ypKcC1Xvq" tvg-chno="49" group-title="famelack (pk) [pk] [False]" tvg-logo="", Samaa TV
+#EXTINF:0001 tvg-id="HxH54ypKcC1Xvq" tvg-chno="48" group-title="famelack (pk) [pk] [False]" tvg-logo="", Samaa TV
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
-#EXTINF:0001 tvg-id="oy323hi3qdqwPY" tvg-chno="50" group-title="famelack (pk) [pk] [False]" tvg-logo="", Such TV
+#EXTINF:0001 tvg-id="oy323hi3qdqwPY" tvg-chno="49" group-title="famelack (pk) [pk] [False]" tvg-logo="", Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
-#EXTINF:0001 tvg-id="LBVPGHScrFCXER" tvg-chno="51" group-title="famelack (pk) [pk] [False]" tvg-logo="", Zindagi TV
+#EXTINF:0001 tvg-id="LBVPGHScrFCXER" tvg-chno="50" group-title="famelack (pk) [pk] [False]" tvg-logo="", Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
