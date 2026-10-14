@@ -93,5 +93,7 @@ https://cdn.live247stream.com/pmi/tv/playlist.m3u8
 https://livecdn.live247stream.com/praise/tv/playlist.m3u8
 #EXTINF:0001 tvg-id="HxH54ypKcC1Xvq" tvg-chno="47" group-title="famelack (pk) [pk] [False]" tvg-logo="", Samaa TV
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
-#EXTINF:0001 tvg-id="LBVPGHScrFCXER" tvg-chno="48" group-title="famelack (pk) [pk] [False]" tvg-logo="", Zindagi TV
+#EXTINF:0001 tvg-id="oy323hi3qdqwPY" tvg-chno="48" group-title="famelack (pk) [pk] [False]" tvg-logo="", Such TV
+https://video.primexsports.com/suchnews/live/playlist.m3u8
+#EXTINF:0001 tvg-id="LBVPGHScrFCXER" tvg-chno="49" group-title="famelack (pk) [pk] [False]" tvg-logo="", Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
