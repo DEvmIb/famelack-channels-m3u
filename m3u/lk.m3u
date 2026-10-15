@@ -5,9 +5,13 @@ https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:0001 tvg-id="aPS8EfkYXWdlK5" tvg-chno="3" group-title="famelack (lk) [lk] [False]" tvg-logo="", Jaya TV
 https://live.jayatv.lk/hls/stream.m3u8
-#EXTINF:0001 tvg-id="0SpTszSqlrEPzD" tvg-chno="4" group-title="famelack (lk) [lk] [False]" tvg-logo="", Shakthi TV
+#EXTINF:0001 tvg-id="0MA7G0qiGWKeoT" tvg-chno="4" group-title="famelack (lk) [lk] [False]" tvg-logo="", Rupavahini
+https://rpn.bozztv.com/slrclive/slrc/slrclive/index.m3u8
+#EXTINF:0001 tvg-id="0SpTszSqlrEPzD" tvg-chno="5" group-title="famelack (lk) [lk] [False]" tvg-logo="", Shakthi TV
 https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
-#EXTINF:0001 tvg-id="YEo5pMJhqTVYEQ" tvg-chno="5" group-title="famelack (lk) [lk] [False]" tvg-logo="", Talent TV
+#EXTINF:0001 tvg-id="93ImfKCer0mJxB" tvg-chno="6" group-title="famelack (lk) [lk] [False]" tvg-logo="", Siyatha TV
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+#EXTINF:0001 tvg-id="YEo5pMJhqTVYEQ" tvg-chno="7" group-title="famelack (lk) [lk] [False]" tvg-logo="", Talent TV
 https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8
-#EXTINF:0001 tvg-id="OxKKq3S3gJT9m8" tvg-chno="6" group-title="famelack (lk) [lk] [False]" tvg-logo="", Verbum TV
+#EXTINF:0001 tvg-id="OxKKq3S3gJT9m8" tvg-chno="8" group-title="famelack (lk) [lk] [False]" tvg-logo="", Verbum TV
 https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8

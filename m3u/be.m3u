@@ -37,13 +37,5 @@ https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
 #EXTINF:0001 tvg-id="NdxuQBJhHdBU21" tvg-chno="19" group-title="famelack (be) [be] [False]" tvg-logo="", TV Lux
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
-#EXTINF:0001 tvg-id="HFEsuaSD006wQt" tvg-chno="20" group-title="famelack (be) [be] [False]" tvg-logo="", VTM
-https://lb.iptvnetwork.net/ls28/10033/playlist.m3u8
-#EXTINF:0001 tvg-id="G7vGH57S2IPiCR" tvg-chno="21" group-title="famelack (be) [be] [False]" tvg-logo="", VTM 2
-https://lb.iptvnetwork.net/ls28/10035/playlist.m3u8
-#EXTINF:0001 tvg-id="geNXgaeBUxouWx" tvg-chno="22" group-title="famelack (be) [be] [False]" tvg-logo="", VTM 3
-https://lb.iptvnetwork.net/ls28/10037/playlist.m3u8
-#EXTINF:0001 tvg-id="BGCjItIjJzh0lx" tvg-chno="23" group-title="famelack (be) [be] [False]" tvg-logo="", VTM 4
-https://lb.iptvnetwork.net/ls28/10038/playlist.m3u8
-#EXTINF:0001 tvg-id="QMKdJTMZUTheYK" tvg-chno="24" group-title="famelack (be) [be] [False]" tvg-logo="", WTV
+#EXTINF:0001 tvg-id="QMKdJTMZUTheYK" tvg-chno="20" group-title="famelack (be) [be] [False]" tvg-logo="", WTV
 https://wtvlive.b-cdn.net/playlist.m3u8
