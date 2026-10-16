@@ -5,8 +5,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 https://freem3u.xyz/api/live/play.m3u8?vid=215
 #EXTINF:0001 tvg-id="n5a2vy0RLNr42v" tvg-chno="3" group-title="famelack (vn) [vn] [False]" tvg-logo="", Can Tho TV
 https://live.canthotv.vn/live/tv/chunklist.m3u8
-#EXTINF:0001 tvg-id="w9iKnoeRBQ99pR" tvg-chno="4" group-title="famelack (vn) [vn] [False]" tvg-logo="", Can Tho TV 2
-https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
+#EXTINF:0001 tvg-id="9mkVX2EDgu3ZHf" tvg-chno="4" group-title="famelack (vn) [vn] [False]" tvg-logo="", Can Tho TV 3
+https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:0001 tvg-id="Sk5ADelRPJvLlV" tvg-chno="5" group-title="famelack (vn) [vn] [False]" tvg-logo="", Cao Bang TV
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 #EXTINF:0001 tvg-id="aHLC2ZM9DagUy4" tvg-chno="6" group-title="famelack (vn) [vn] [False]" tvg-logo="", Dak Lak TV

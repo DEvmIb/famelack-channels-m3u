@@ -21,28 +21,28 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:0001 tvg-id="t77vURUv4tfKdi" tvg-chno="11" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 9 Cosespu
 https://video2.lhdserver.es/canal9cosespu/live.m3u8
-#EXTINF:0001 tvg-id="s64BgUfTafeYF2" tvg-chno="12" group-title="famelack (co) [co] [False]" tvg-logo="", Canal 14 Codazzi
-https://eu1.servers10.com:8081/8056/index.m3u8
-#EXTINF:0001 tvg-id="pxpERTjTLU5biZ" tvg-chno="13" group-title="famelack (co) [co] [False]" tvg-logo="", Canal CHD
+#EXTINF:0001 tvg-id="pxpERTjTLU5biZ" tvg-chno="12" group-title="famelack (co) [co] [False]" tvg-logo="", Canal CHD
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-#EXTINF:0001 tvg-id="btEJDr7vMTEkmk" tvg-chno="14" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Cine Dios
+#EXTINF:0001 tvg-id="btEJDr7vMTEkmk" tvg-chno="13" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
-#EXTINF:0001 tvg-id="nZ3VlBbXU9SC9N" tvg-chno="15" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Institucional
+#EXTINF:0001 tvg-id="nZ3VlBbXU9SC9N" tvg-chno="14" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:0001 tvg-id="nygDUxp3RgEFzv" tvg-chno="16" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Mas Television
+#EXTINF:0001 tvg-id="nygDUxp3RgEFzv" tvg-chno="15" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Mas Television
 https://movil.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:0001 tvg-id="QA1x5OQRH7UVPJ" tvg-chno="17" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Nets
+#EXTINF:0001 tvg-id="QA1x5OQRH7UVPJ" tvg-chno="16" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Nets
 https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:0001 tvg-id="HolomefezhLkUD" tvg-chno="18" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Oracion Con Son
+#EXTINF:0001 tvg-id="HolomefezhLkUD" tvg-chno="17" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Oracion Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
-#EXTINF:0001 tvg-id="rbVGB4gc6vGSpJ" tvg-chno="19" group-title="famelack (co) [co] [False]" tvg-logo="", Canal PyC
+#EXTINF:0001 tvg-id="rbVGB4gc6vGSpJ" tvg-chno="18" group-title="famelack (co) [co] [False]" tvg-logo="", Canal PyC
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-#EXTINF:0001 tvg-id="pTxoOzbrB9RhS5" tvg-chno="20" group-title="famelack (co) [co] [False]" tvg-logo="", Canal RCN
+#EXTINF:0001 tvg-id="pTxoOzbrB9RhS5" tvg-chno="19" group-title="famelack (co) [co] [False]" tvg-logo="", Canal RCN
 https://barinaslive1.boldmss.com/RCN/RCN.isml/RCN.m3u8
-#EXTINF:0001 tvg-id="KjfXoBdjtuGuIn" tvg-chno="21" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Telefamilia
+#EXTINF:0001 tvg-id="KjfXoBdjtuGuIn" tvg-chno="20" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Telefamilia
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-#EXTINF:0001 tvg-id="IQeHwKhnf3rNNm" tvg-chno="22" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Telesantiago
+#EXTINF:0001 tvg-id="IQeHwKhnf3rNNm" tvg-chno="21" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Telesantiago
 https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
+#EXTINF:0001 tvg-id="8wch0b4bAAxnPo" tvg-chno="22" group-title="famelack (co) [co] [False]" tvg-logo="", Canal Womtv
+https://live.amelbatv.co:81/womtvlive/index.m3u8
 #EXTINF:0001 tvg-id="A9tPf7Rzt5ngpc" tvg-chno="23" group-title="famelack (co) [co] [False]" tvg-logo="", Canica TV
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 #EXTINF:0001 tvg-id="FGFsYk2A3OACLA" tvg-chno="24" group-title="famelack (co) [co] [False]" tvg-logo="", Caracol Internacional
