@@ -35,22 +35,22 @@ https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8
 https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
 #EXTINF:0001 tvg-id="UWOKSE73g6jYRt" tvg-chno="18" group-title="famelack (bo) [bo] [False]" tvg-logo="", KSCE Vida Cristiana
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
-#EXTINF:0001 tvg-id="ctXKtPRIVgnD2j" tvg-chno="19" group-title="famelack (bo) [bo] [False]" tvg-logo="", Poder de Dios TV
+#EXTINF:0001 tvg-id="YIKke4PY7wnkdl" tvg-chno="19" group-title="famelack (bo) [bo] [False]" tvg-logo="", Palenque TV
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
+#EXTINF:0001 tvg-id="ctXKtPRIVgnD2j" tvg-chno="20" group-title="famelack (bo) [bo] [False]" tvg-logo="", Poder de Dios TV
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
-#EXTINF:0001 tvg-id="4frDgMPDz0NOom" tvg-chno="20" group-title="famelack (bo) [bo] [False]" tvg-logo="", PTV
+#EXTINF:0001 tvg-id="4frDgMPDz0NOom" tvg-chno="21" group-title="famelack (bo) [bo] [False]" tvg-logo="", PTV
 https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
-#EXTINF:0001 tvg-id="pYqhwxhr9gjeaq" tvg-chno="21" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Centro
+#EXTINF:0001 tvg-id="pYqhwxhr9gjeaq" tvg-chno="22" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Centro
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
-#EXTINF:0001 tvg-id="BnzbysvLZ1mHZ2" tvg-chno="22" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Clasica TV
+#EXTINF:0001 tvg-id="BnzbysvLZ1mHZ2" tvg-chno="23" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Clasica TV
 https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
-#EXTINF:0001 tvg-id="uMIh7eDq4J69dP" tvg-chno="23" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Kollasuyo
+#EXTINF:0001 tvg-id="uMIh7eDq4J69dP" tvg-chno="24" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Kollasuyo
 https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
-#EXTINF:0001 tvg-id="OPWUaOk2V7zsOP" tvg-chno="24" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Mega TV Amazonia
+#EXTINF:0001 tvg-id="OPWUaOk2V7zsOP" tvg-chno="25" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Mega TV Amazonia
 https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
-#EXTINF:0001 tvg-id="1Snebdc8j861KM" tvg-chno="25" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Universitaria San Andres
+#EXTINF:0001 tvg-id="1Snebdc8j861KM" tvg-chno="26" group-title="famelack (bo) [bo] [False]" tvg-logo="", Radio Universitaria San Andres
 https://edge.enhdtv.com/8054/index.m3u8
-#EXTINF:0001 tvg-id="jesOsAnSntYFJW" tvg-chno="26" group-title="famelack (bo) [bo] [False]" tvg-logo="", Red America TV
-https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTINF:0001 tvg-id="hzi4nlNP3J2X8P" tvg-chno="27" group-title="famelack (bo) [bo] [False]" tvg-logo="", Red CCTV
 https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:0001 tvg-id="crhuDV1URlafW7" tvg-chno="28" group-title="famelack (bo) [bo] [False]" tvg-logo="", Red Rubi
@@ -85,17 +85,13 @@ https://edge.enhdtv.com/8026/index.m3u8
 https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:0001 tvg-id="igJmo5J6YhgXmV" tvg-chno="43" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unifranz
 https://edge.enhdtv.com/8192/index.m3u8
-#EXTINF:0001 tvg-id="kQUVVUVnaO3mAj" tvg-chno="44" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unitel Cochabamba
-https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8
-#EXTINF:0001 tvg-id="N0kSUvzkeZXdmq" tvg-chno="45" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unitel La Paz
+#EXTINF:0001 tvg-id="N0kSUvzkeZXdmq" tvg-chno="44" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unitel La Paz
 https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
-#EXTINF:0001 tvg-id="8XmRascOPMJDcT" tvg-chno="46" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unitel Santa Cruz
-https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
-#EXTINF:0001 tvg-id="9u6WNgsEYDn11w" tvg-chno="47" group-title="famelack (bo) [bo] [False]" tvg-logo="", Univalle Television
+#EXTINF:0001 tvg-id="9u6WNgsEYDn11w" tvg-chno="45" group-title="famelack (bo) [bo] [False]" tvg-logo="", Univalle Television
 https://master.tucableip.com/univalletv/playlist.m3u8
-#EXTINF:0001 tvg-id="GMFO5ANQ5nEa2e" tvg-chno="48" group-title="famelack (bo) [bo] [False]" tvg-logo="", UPEA TV
+#EXTINF:0001 tvg-id="GMFO5ANQ5nEa2e" tvg-chno="46" group-title="famelack (bo) [bo] [False]" tvg-logo="", UPEA TV
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-#EXTINF:0001 tvg-id="uLnAaMvBQP6gl2" tvg-chno="49" group-title="famelack (bo) [bo] [False]" tvg-logo="", Vos TV
+#EXTINF:0001 tvg-id="uLnAaMvBQP6gl2" tvg-chno="47" group-title="famelack (bo) [bo] [False]" tvg-logo="", Vos TV
 https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
-#EXTINF:0001 tvg-id="99nnCKryI6XnTb" tvg-chno="50" group-title="famelack (bo) [bo] [False]" tvg-logo="", Zuraca TV
+#EXTINF:0001 tvg-id="99nnCKryI6XnTb" tvg-chno="48" group-title="famelack (bo) [bo] [False]" tvg-logo="", Zuraca TV
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
