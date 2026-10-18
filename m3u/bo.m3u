@@ -55,12 +55,12 @@ https://edge.enhdtv.com/8054/index.m3u8
 https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:0001 tvg-id="crhuDV1URlafW7" tvg-chno="28" group-title="famelack (bo) [bo] [False]" tvg-logo="", Red Rubi
 https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
-#EXTINF:0001 tvg-id="F3BYfjJnpkzbsO" tvg-chno="29" group-title="famelack (bo) [bo] [False]" tvg-logo="", Red Uno
+#EXTINF:0001 tvg-id="yLB43ge13jrHoP" tvg-chno="29" group-title="famelack (bo) [bo] [False]" tvg-logo="", Red TV Shop
+https://master.tucableip.com/redtvshop/index.m3u8
+#EXTINF:0001 tvg-id="F3BYfjJnpkzbsO" tvg-chno="30" group-title="famelack (bo) [bo] [False]" tvg-logo="", Red Uno
 https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
-#EXTINF:0001 tvg-id="izfFH8RnAwm70u" tvg-chno="30" group-title="famelack (bo) [bo] [True]" tvg-logo="", RTP
+#EXTINF:0001 tvg-id="izfFH8RnAwm70u" tvg-chno="31" group-title="famelack (bo) [bo] [True]" tvg-logo="", RTP
 https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:0001 tvg-id="za6KpDi86ZZAJu" tvg-chno="31" group-title="famelack (bo) [bo] [False]" tvg-logo="", SPC Canal 15
-https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
 #EXTINF:0001 tvg-id="jo5rZWZDxVWDCK" tvg-chno="32" group-title="famelack (bo) [bo] [False]" tvg-logo="", Sucremanta TV
 https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
 #EXTINF:0001 tvg-id="87xKAUIruoYGZK" tvg-chno="33" group-title="famelack (bo) [bo] [False]" tvg-logo="", TDT Multimedia
@@ -85,8 +85,8 @@ https://edge.enhdtv.com/8026/index.m3u8
 https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:0001 tvg-id="igJmo5J6YhgXmV" tvg-chno="43" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unifranz
 https://edge.enhdtv.com/8192/index.m3u8
-#EXTINF:0001 tvg-id="N0kSUvzkeZXdmq" tvg-chno="44" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unitel La Paz
-https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
+#EXTINF:0001 tvg-id="8XmRascOPMJDcT" tvg-chno="44" group-title="famelack (bo) [bo] [False]" tvg-logo="", Unitel Santa Cruz
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 #EXTINF:0001 tvg-id="9u6WNgsEYDn11w" tvg-chno="45" group-title="famelack (bo) [bo] [False]" tvg-logo="", Univalle Television
 https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:0001 tvg-id="GMFO5ANQ5nEa2e" tvg-chno="46" group-title="famelack (bo) [bo] [False]" tvg-logo="", UPEA TV
