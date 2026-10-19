@@ -29,5 +29,3 @@ https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
 #EXTINF:0001 tvg-id="MYbhEZtWxMLBpp" tvg-chno="15" group-title="famelack (kz) [kz] [True]" tvg-logo="", Silk Way Cinema
 https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
-#EXTINF:0001 tvg-id="HKWXuzT38k7GF2" tvg-chno="16" group-title="famelack (kz) [kz] [False]" tvg-logo="", TDK 42
-https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8

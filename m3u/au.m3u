@@ -67,20 +67,20 @@ https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-k
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:0001 tvg-id="JHI3rKfCgi71TJ" tvg-chno="34" group-title="famelack (au) [au] [False]" tvg-logo="", News24
 https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
-#EXTINF:0001 tvg-id="siYSLI1pawS79B" tvg-chno="35" group-title="famelack (au) [au] [False]" tvg-logo="", PBS History
-https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="aEA9HCmAFla92u" tvg-chno="36" group-title="famelack (au) [au] [False]" tvg-logo="", PBS Science
-https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="x7UrDCBQovwcLc" tvg-chno="37" group-title="famelack (au) [au] [False]" tvg-logo="", Project Runway
-https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="RaAuUrd4DsoNBL" tvg-chno="38" group-title="famelack (au) [au] [False]" tvg-logo="", Pulse
-https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
-#EXTINF:0001 tvg-id="fvNkowRq1Ju3bY" tvg-chno="39" group-title="famelack (au) [au] [False]" tvg-logo="", Rai Italia Australia
-https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
-#EXTINF:0001 tvg-id="t3FRxzQWFcum3k" tvg-chno="40" group-title="famelack (au) [au] [False]" tvg-logo="", RCM
-https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8
-#EXTINF:0001 tvg-id="ETqvT5LgWgnMQa" tvg-chno="41" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra
+#EXTINF:0001 tvg-id="bBB6H09NGRVkHi" tvg-chno="35" group-title="famelack (au) [au] [False]" tvg-logo="", News24 World
 https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
+#EXTINF:0001 tvg-id="siYSLI1pawS79B" tvg-chno="36" group-title="famelack (au) [au] [False]" tvg-logo="", PBS History
+https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8
+#EXTINF:0001 tvg-id="aEA9HCmAFla92u" tvg-chno="37" group-title="famelack (au) [au] [False]" tvg-logo="", PBS Science
+https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="x7UrDCBQovwcLc" tvg-chno="38" group-title="famelack (au) [au] [False]" tvg-logo="", Project Runway
+https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0001 tvg-id="RaAuUrd4DsoNBL" tvg-chno="39" group-title="famelack (au) [au] [False]" tvg-logo="", Pulse
+https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
+#EXTINF:0001 tvg-id="fvNkowRq1Ju3bY" tvg-chno="40" group-title="famelack (au) [au] [False]" tvg-logo="", Rai Italia Australia
+https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
+#EXTINF:0001 tvg-id="t3FRxzQWFcum3k" tvg-chno="41" group-title="famelack (au) [au] [False]" tvg-logo="", RCM
+https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8
 #EXTINF:0001 tvg-id="86AfUT4ix8tXB4" tvg-chno="42" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:0001 tvg-id="XhdBZ8hLIsYvg1" tvg-chno="43" group-title="famelack (au) [au] [False]" tvg-logo="", Sky News Extra 2

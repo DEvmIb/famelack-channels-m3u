@@ -21,29 +21,11 @@ https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 #EXTINF:0001 tvg-id="WhmO3Ns2GASpVE" tvg-chno="11" group-title="famelack (qa) [qa] [False]" tvg-logo="", Al Rayyan TV
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="9IFqWFas19TpyP" tvg-chno="12" group-title="famelack (qa) [qa] [False]" tvg-logo="", beIN Sports 1 MENA
-https://primetv.cc.cd/beinfhd11/tracks-v1a1/mono.tbin.m3u8
-#EXTINF:0001 tvg-id="XOMy3RHPEjefQf" tvg-chno="13" group-title="famelack (qa) [qa] [False]" tvg-logo="", beIN Sports 2 MENA
-https://primetv.cc.cd/beinfhd22/index.m3u8
-#EXTINF:0001 tvg-id="P1fP1rwjCDEOOl" tvg-chno="14" group-title="famelack (qa) [qa] [False]" tvg-logo="", beIN Sports 3 MENA
-https://primetv.cc.cd/beinfhd33/index.m3u8
-#EXTINF:0001 tvg-id="auUlqGzfbW0sFf" tvg-chno="15" group-title="famelack (qa) [qa] [False]" tvg-logo="", beIN Sports 4 MENA
-https://primetv.cc.cd/beinfhd44/tracks-v1a1/mono.tbin.m3u8
-#EXTINF:0001 tvg-id="ZWDunXQWK9uiBV" tvg-chno="16" group-title="famelack (qa) [qa] [False]" tvg-logo="", beIN Sports 5 MENA
-https://primetv.cc.cd/beinfhd55/tracks-v1a1/mono.tbin.m3u8
-#EXTINF:0001 tvg-id="0ywDwwGIueAJ8z" tvg-chno="17" group-title="famelack (qa) [qa] [False]" tvg-logo="", beIN Sports 6 MENA
-https://primetv.cc.cd/beinfhd66/index.m3u8
-#EXTINF:0001 tvg-id="FXr8zSlnYCYTeI" tvg-chno="18" group-title="famelack (qa) [qa] [False]" tvg-logo="", beIN Sports 7 MENA
-https://primetv.cc.cd/beinfhd77/index.m3u8
-#EXTINF:0001 tvg-id="5Q3OIzNGOlRGG4" tvg-chno="19" group-title="famelack (qa) [qa] [False]" tvg-logo="", beIN Sports 8 MENA
-https://primetv.cc.cd/beinfhd88/index.m3u8
-#EXTINF:0001 tvg-id="98fCEQiCrc1JlS" tvg-chno="20" group-title="famelack (qa) [qa] [False]" tvg-logo="", beIN Sports 9 MENA
-https://primetv.cc.cd/beinfhd99/tracks-v1a1/mono.tbin.m3u8
-#EXTINF:0001 tvg-id="sCYZ4Box9Vsqsi" tvg-chno="21" group-title="famelack (qa) [qa] [False]" tvg-logo="", Qatar Television
+#EXTINF:0001 tvg-id="sCYZ4Box9Vsqsi" tvg-chno="12" group-title="famelack (qa) [qa] [False]" tvg-logo="", Qatar Television
 https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
-#EXTINF:0001 tvg-id="nRS5DLp96YBtfJ" tvg-chno="22" group-title="famelack (qa) [qa] [False]" tvg-logo="", Qatar Television 2
+#EXTINF:0001 tvg-id="nRS5DLp96YBtfJ" tvg-chno="13" group-title="famelack (qa) [qa] [False]" tvg-logo="", Qatar Television 2
 https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
-#EXTINF:0001 tvg-id="NomK7G7r84yUBH" tvg-chno="23" group-title="famelack (qa) [qa] [False]" tvg-logo="", Qatar TV The Holy Quran
+#EXTINF:0001 tvg-id="NomK7G7r84yUBH" tvg-chno="14" group-title="famelack (qa) [qa] [False]" tvg-logo="", Qatar TV The Holy Quran
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
-#EXTINF:0001 tvg-id="1ivzt9CdjGwK6L" tvg-chno="24" group-title="famelack (qa) [qa] [False]" tvg-logo="", QBC
+#EXTINF:0001 tvg-id="1ivzt9CdjGwK6L" tvg-chno="15" group-title="famelack (qa) [qa] [False]" tvg-logo="", QBC
 https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8
