@@ -199,7 +199,5 @@ https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 #EXTINF:0001 tvg-id="SEl1ifpNBzGggm" tvg-chno="100" group-title="famelack (nl) [nl] [False]" tvg-logo="", XITE Reggae Vibes
 https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
-#EXTINF:0001 tvg-id="T6K1OzxVu2js0L" tvg-chno="101" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZFM Zoetermeer TV
-https://zfmzoetermeer.nl/live/master.m3u8
-#EXTINF:0001 tvg-id="misQ9uBxRPB1ww" tvg-chno="102" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZO!34
+#EXTINF:0001 tvg-id="misQ9uBxRPB1ww" tvg-chno="101" group-title="famelack (nl) [nl] [False]" tvg-logo="", ZO!34
 https://video.uitzending.tv:19360/zo34/zo34.m3u8

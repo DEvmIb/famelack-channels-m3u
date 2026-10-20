@@ -3,12 +3,12 @@
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:0001 tvg-id="GyD5jgzfEEiUYG" tvg-chno="2" group-title="famelack (ph) [ph] [False]" tvg-logo="", Asia Flix TV
 https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8
-#EXTINF:0001 tvg-id="XP5bT3gL9RGIRP" tvg-chno="3" group-title="famelack (ph) [ph] [False]" tvg-logo="", Bigscreen TV
-https://bigscreentv.itunerworldwide.workers.dev/master.live.m3u8
-#EXTINF:0001 tvg-id="jJ5KY3frn8Mets" tvg-chno="4" group-title="famelack (ph) [ph] [True]" tvg-logo="", Bilyonaryo News Channel
+#EXTINF:0001 tvg-id="jJ5KY3frn8Mets" tvg-chno="3" group-title="famelack (ph) [ph] [True]" tvg-logo="", Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
-#EXTINF:0001 tvg-id="xO426KlalATtSy" tvg-chno="5" group-title="famelack (ph) [ph] [False]" tvg-logo="", Dream TV Philippines
+#EXTINF:0001 tvg-id="xO426KlalATtSy" tvg-chno="4" group-title="famelack (ph) [ph] [False]" tvg-logo="", Dream TV Philippines
 https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8
+#EXTINF:0001 tvg-id="KutUbScYEcqvqz" tvg-chno="5" group-title="famelack (ph) [ph] [False]" tvg-logo="", Durian TV
+https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8
 #EXTINF:0001 tvg-id="9PIhXT4JQnRopv" tvg-chno="6" group-title="famelack (ph) [ph] [False]" tvg-logo="", Hope Channel Philippines
 https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
 #EXTINF:0001 tvg-id="5ylmup4ChZMQ5g" tvg-chno="7" group-title="famelack (ph) [ph] [False]" tvg-logo="", Hype TV
