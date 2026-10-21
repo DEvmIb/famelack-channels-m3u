@@ -19,8 +19,8 @@ https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
 https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 #EXTINF:0001 tvg-id="fxoiDSXZnOUswM" tvg-chno="10" group-title="famelack (pr) [pr] [False]" tvg-logo="", Paraiso TV
 https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
-#EXTINF:0001 tvg-id="LNGJVkOrgPhVTB" tvg-chno="11" group-title="famelack (pr) [pr] [False]" tvg-logo="", Salvacion TV
-https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
+#EXTINF:0001 tvg-id="6GzzyU1r6GXxb2" tvg-chno="11" group-title="famelack (pr) [pr] [False]" tvg-logo="", Pura Palabra
+https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 #EXTINF:0001 tvg-id="mus49kJTQfTCmk" tvg-chno="12" group-title="famelack (pr) [pr] [False]" tvg-logo="", Telenorte
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 #EXTINF:0001 tvg-id="WRhrhAcp8QVCZv" tvg-chno="13" group-title="famelack (pr) [pr] [False]" tvg-logo="", TeleOnce

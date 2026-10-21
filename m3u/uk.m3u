@@ -219,44 +219,44 @@ https://tvsen7.aynascope.net/nicklodean/index.m3u8
 https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0001 tvg-id="LfWutn3icfqkaF" tvg-chno="110" group-title="famelack (uk) [uk] [True]" tvg-logo="", Nolly Africa
 https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvlatam/playlist.m3u8
-#EXTINF:0001 tvg-id="jayXIuE2ZTPuwx" tvg-chno="111" group-title="famelack (uk) [uk] [False]" tvg-logo="", Now 70s
+#EXTINF:0001 tvg-id="dghMmTzwXBJf5R" tvg-chno="111" group-title="famelack (uk) [uk] [False]" tvg-logo="", Noor TV
+https://sscsott.com/srt/noortvuk/index.m3u8
+#EXTINF:0001 tvg-id="jayXIuE2ZTPuwx" tvg-chno="112" group-title="famelack (uk) [uk] [False]" tvg-logo="", Now 70s
 https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="FScdOzHjKziX4k" tvg-chno="112" group-title="famelack (uk) [uk] [False]" tvg-logo="", Now 80s
+#EXTINF:0001 tvg-id="FScdOzHjKziX4k" tvg-chno="113" group-title="famelack (uk) [uk] [False]" tvg-logo="", Now 80s
 https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="oBJ9pdj1O58kzY" tvg-chno="113" group-title="famelack (uk) [uk] [False]" tvg-logo="", NOW Rock
+#EXTINF:0001 tvg-id="oBJ9pdj1O58kzY" tvg-chno="114" group-title="famelack (uk) [uk] [False]" tvg-logo="", NOW Rock
 https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="tC8c3F84BXvXxm" tvg-chno="114" group-title="famelack (uk) [uk] [False]" tvg-logo="", NTD TV English UK
+#EXTINF:0001 tvg-id="tC8c3F84BXvXxm" tvg-chno="115" group-title="famelack (uk) [uk] [False]" tvg-logo="", NTD TV English UK
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
-#EXTINF:0001 tvg-id="1A9pQWKNokfhPn" tvg-chno="115" group-title="famelack (uk) [uk] [False]" tvg-logo="", Panjab TV
+#EXTINF:0001 tvg-id="1A9pQWKNokfhPn" tvg-chno="116" group-title="famelack (uk) [uk] [False]" tvg-logo="", Panjab TV
 https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
-#EXTINF:0001 tvg-id="vn06FvH2YYfXBj" tvg-chno="116" group-title="famelack (uk) [uk] [True]" tvg-logo="", PICK Monkey Rescue
+#EXTINF:0001 tvg-id="vn06FvH2YYfXBj" tvg-chno="117" group-title="famelack (uk) [uk] [True]" tvg-logo="", PICK Monkey Rescue
 https://d3cm8xyrjwa22p.cloudfront.net/30504/88896037/hls/master.m3u8?ads.xumo_channelId=88896037
-#EXTINF:0001 tvg-id="QZEAJeeTLKu6D6" tvg-chno="117" group-title="famelack (uk) [uk] [False]" tvg-logo="", Pocoyo
+#EXTINF:0001 tvg-id="QZEAJeeTLKu6D6" tvg-chno="118" group-title="famelack (uk) [uk] [False]" tvg-logo="", Pocoyo
 https://d16ecq77cfclte.cloudfront.net/Pocoyo_GB.m3u8
-#EXTINF:0001 tvg-id="VMMcAyj7wVbzbA" tvg-chno="118" group-title="famelack (uk) [uk] [False]" tvg-logo="", Pointless UK
+#EXTINF:0001 tvg-id="VMMcAyj7wVbzbA" tvg-chno="119" group-title="famelack (uk) [uk] [False]" tvg-logo="", Pointless UK
 https://dvqpty1sb3rry.cloudfront.net/PointlessUKPoweredbyBanijay_GB.m3u8
-#EXTINF:0001 tvg-id="scDZ3wRq1kFeHG" tvg-chno="119" group-title="famelack (uk) [uk] [False]" tvg-logo="", Pokémon
+#EXTINF:0001 tvg-id="scDZ3wRq1kFeHG" tvg-chno="120" group-title="famelack (uk) [uk] [False]" tvg-logo="", Pokémon
 https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8
-#EXTINF:0001 tvg-id="v69UzxTpxlGJCh" tvg-chno="120" group-title="famelack (uk) [uk] [True]" tvg-logo="", Pop
+#EXTINF:0001 tvg-id="v69UzxTpxlGJCh" tvg-chno="121" group-title="famelack (uk) [uk] [True]" tvg-logo="", Pop
 https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
-#EXTINF:0001 tvg-id="6mEQRrMBqTxNoW" tvg-chno="121" group-title="famelack (uk) [uk] [True]" tvg-logo="", Pop Up
+#EXTINF:0001 tvg-id="6mEQRrMBqTxNoW" tvg-chno="122" group-title="famelack (uk) [uk] [True]" tvg-logo="", Pop Up
 https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
-#EXTINF:0001 tvg-id="tTQU3p0AwIUNhr" tvg-chno="122" group-title="famelack (uk) [uk] [False]" tvg-logo="", Project Runway
+#EXTINF:0001 tvg-id="tTQU3p0AwIUNhr" tvg-chno="123" group-title="famelack (uk) [uk] [False]" tvg-logo="", Project Runway
 https://d2zkt0rpioct1v.cloudfront.net/ProjectRunway_GB.m3u8
-#EXTINF:0001 tvg-id="fcjpPoY9XptPjK" tvg-chno="123" group-title="famelack (uk) [uk] [False]" tvg-logo="", QVC
+#EXTINF:0001 tvg-id="fcjpPoY9XptPjK" tvg-chno="124" group-title="famelack (uk) [uk] [False]" tvg-logo="", QVC
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
-#EXTINF:0001 tvg-id="oETlnLpYEDyNKk" tvg-chno="124" group-title="famelack (uk) [uk] [False]" tvg-logo="", QVC Beauty
+#EXTINF:0001 tvg-id="oETlnLpYEDyNKk" tvg-chno="125" group-title="famelack (uk) [uk] [False]" tvg-logo="", QVC Beauty
 https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
-#EXTINF:0001 tvg-id="fjSGlqw7i730Sx" tvg-chno="125" group-title="famelack (uk) [uk] [False]" tvg-logo="", QVC Extra
+#EXTINF:0001 tvg-id="fjSGlqw7i730Sx" tvg-chno="126" group-title="famelack (uk) [uk] [False]" tvg-logo="", QVC Extra
 https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
-#EXTINF:0001 tvg-id="9pJLwysdUgUtW3" tvg-chno="126" group-title="famelack (uk) [uk] [False]" tvg-logo="", QVC Style
+#EXTINF:0001 tvg-id="9pJLwysdUgUtW3" tvg-chno="127" group-title="famelack (uk) [uk] [False]" tvg-logo="", QVC Style
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
-#EXTINF:0001 tvg-id="fOSUi9hkZeTBQ3" tvg-chno="127" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rabbids Invasion
+#EXTINF:0001 tvg-id="fOSUi9hkZeTBQ3" tvg-chno="128" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rabbids Invasion
 https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8
-#EXTINF:0001 tvg-id="c4Swg0nm0Rjn8G" tvg-chno="128" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Action Movies UK
-https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:0001 tvg-id="F2ftHadqxcG2u5" tvg-chno="129" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Drama Movies UK
-https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:0001 tvg-id="6OObHoCz5T6mVt" tvg-chno="129" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rakuten TV Sci-Fi UK
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
 #EXTINF:0001 tvg-id="uHYtTL2fEDHMX0" tvg-chno="130" group-title="famelack (uk) [uk] [False]" tvg-logo="", Rally.TV FAST+
 https://di4fb7mbsq3nf.cloudfront.net/playlist.m3u8
 #EXTINF:0001 tvg-id="jNN9ef0ljzGJ7E" tvg-chno="131" group-title="famelack (uk) [uk] [False]" tvg-logo="", Real Crime Beta
