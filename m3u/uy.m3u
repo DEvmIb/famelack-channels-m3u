@@ -1,5 +1,15 @@
 #EXTM3U
-#EXTINF:0001 tvg-id="R3tfe3EU9e9tEc" tvg-chno="1" group-title="famelack (uy) [uy] [False]" tvg-logo="", Canal Mas
+#EXTINF:0001 tvg-id="JzWuJRhbU4cnog" tvg-chno="1" group-title="famelack (uy) [uy] [False]" tvg-logo="", Canal ALMA
+https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
+#EXTINF:0001 tvg-id="R3tfe3EU9e9tEc" tvg-chno="2" group-title="famelack (uy) [uy] [False]" tvg-logo="", Canal Mas
 https://canalmasuruguay.com/hls/master-abr.m3u8
-#EXTINF:0001 tvg-id="wOuKcaJXWEMKNa" tvg-chno="2" group-title="famelack (uy) [uy] [False]" tvg-logo="", UCL
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:0001 tvg-id="TyxS0DwDeprIWG" tvg-chno="3" group-title="famelack (uy) [uy] [False]" tvg-logo="", Canal Once Plus
+https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8
+#EXTINF:0001 tvg-id="uHViOo5d39xnRQ" tvg-chno="4" group-title="famelack (uy) [uy] [False]" tvg-logo="", Desde El Sur TV
+https://stmv.gmpro.top/surtv/surtv/playlist.m3u8
+#EXTINF:0001 tvg-id="ZE3E78Hpvb2vIk" tvg-chno="5" group-title="famelack (uy) [uy] [False]" tvg-logo="", La Elegida Television
+https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
+#EXTINF:0001 tvg-id="kgpmgnzA2u489W" tvg-chno="6" group-title="famelack (uy) [uy] [False]" tvg-logo="", Mision Vida TV
+https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
+#EXTINF:0001 tvg-id="wlcwrEcunpbD52" tvg-chno="7" group-title="famelack (uy) [uy] [False]" tvg-logo="", TV Universal Uruguay
+https://stream.universal.org.uy/hls/0/stream.m3u8
