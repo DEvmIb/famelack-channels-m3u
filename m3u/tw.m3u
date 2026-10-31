@@ -11,7 +11,9 @@ https://live.streamingfast.net/osmflivech1.m3u8
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:0001 tvg-id="K6PBg1O0tE6Nhg" tvg-chno="6" group-title="famelack (tw) [tw] [False]" tvg-logo="", Taiwan Indigenous TV
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:0001 tvg-id="TZcxXECkF1ykYY" tvg-chno="7" group-title="famelack (tw) [tw] [False]" tvg-logo="", TTV News
+#EXTINF:0001 tvg-id="rfAcNyQ0z3dfWV" tvg-chno="7" group-title="famelack (tw) [tw] [False]" tvg-logo="", Taiwan Plus TV
+https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
+#EXTINF:0001 tvg-id="TZcxXECkF1ykYY" tvg-chno="8" group-title="famelack (tw) [tw] [False]" tvg-logo="", TTV News
 https://live.wcetv.com/hls/master-ttvnews.m3u8
-#EXTINF:0001 tvg-id="0Dll7iEE7yiI7N" tvg-chno="8" group-title="famelack (tw) [tw] [False]" tvg-logo="", WXTV
+#EXTINF:0001 tvg-id="0Dll7iEE7yiI7N" tvg-chno="9" group-title="famelack (tw) [tw] [False]" tvg-logo="", WXTV
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8

@@ -35,16 +35,16 @@ https://ktvlive.online/stream/hls/ch1.m3u8
 https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:0001 tvg-id="62oTY1cpZiXnL5" tvg-chno="18" group-title="famelack (iq) [iq] [False]" tvg-logo="", AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:0001 tvg-id="I677KvGkPDPSil" tvg-chno="19" group-title="famelack (iq) [iq] [False]" tvg-logo="", Avar TV
+#EXTINF:0001 tvg-id="IUX8TFnb9XiEJu" tvg-chno="19" group-title="famelack (iq) [iq] [False]" tvg-logo="", AVA Media
+https://ava002.xyz/upload/images/1080.m3u8
+#EXTINF:0001 tvg-id="I677KvGkPDPSil" tvg-chno="20" group-title="famelack (iq) [iq] [False]" tvg-logo="", Avar TV
 https://avr.host247.net/live/AvarTv/playlist.m3u8
-#EXTINF:0001 tvg-id="bBdVVt0cpWEQfg" tvg-chno="20" group-title="famelack (iq) [iq] [False]" tvg-logo="", BeitolAbbas TV Channel
+#EXTINF:0001 tvg-id="bBdVVt0cpWEQfg" tvg-chno="21" group-title="famelack (iq) [iq] [False]" tvg-logo="", BeitolAbbas TV Channel
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
-#EXTINF:0001 tvg-id="wvAfxSiJHCHWj1" tvg-chno="21" group-title="famelack (iq) [iq] [False]" tvg-logo="", Channel8
+#EXTINF:0001 tvg-id="wvAfxSiJHCHWj1" tvg-chno="22" group-title="famelack (iq) [iq] [False]" tvg-logo="", Channel8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:0001 tvg-id="MIpBDCxySOyKyM" tvg-chno="22" group-title="famelack (iq) [iq] [False]" tvg-logo="", Dijlah TV
+#EXTINF:0001 tvg-id="MIpBDCxySOyKyM" tvg-chno="23" group-title="famelack (iq) [iq] [False]" tvg-logo="", Dijlah TV
 https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:0001 tvg-id="umvB9tV3Rb1OXe" tvg-chno="23" group-title="famelack (iq) [iq] [False]" tvg-logo="", EmanTv
-https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:0001 tvg-id="HF0s5qptKRRfON" tvg-chno="24" group-title="famelack (iq) [iq] [False]" tvg-logo="", FarmodaTV
 https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 #EXTINF:0001 tvg-id="5F2s1uM9md4N38" tvg-chno="25" group-title="famelack (iq) [iq] [False]" tvg-logo="", I News
