@@ -1,58 +1,58 @@
 #EXTM3U
 #EXTINF:0001 tvg-id="Eu1GvmnWYa5GBs" tvg-chno="1" group-title="famelack (it) [it] [False]" tvg-logo="", 7 Gold
 https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
-#EXTINF:0001 tvg-id="yngiaKgtaE21WQ" tvg-chno="2" group-title="famelack (it) [it] [False]" tvg-logo="", 7 RadioVisione
-https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
-#EXTINF:0001 tvg-id="y8m70SURUPmxze" tvg-chno="3" group-title="famelack (it) [it] [False]" tvg-logo="", 12 TV Parma
+#EXTINF:0001 tvg-id="y8m70SURUPmxze" tvg-chno="2" group-title="famelack (it) [it] [False]" tvg-logo="", 12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="cZgEqGkrohLvpi" tvg-chno="4" group-title="famelack (it) [it] [False]" tvg-logo="", 50 Canale
+#EXTINF:0001 tvg-id="cZgEqGkrohLvpi" tvg-chno="3" group-title="famelack (it) [it] [False]" tvg-logo="", 50 Canale
 https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
-#EXTINF:0001 tvg-id="XwatyYfDCBPOZF" tvg-chno="5" group-title="famelack (it) [it] [True]" tvg-logo="", 51 Radio TV
+#EXTINF:0001 tvg-id="XwatyYfDCBPOZF" tvg-chno="4" group-title="famelack (it) [it] [True]" tvg-logo="", 51 Radio TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:0001 tvg-id="UnocQxyrv9YNqn" tvg-chno="6" group-title="famelack (it) [it] [False]" tvg-logo="", 70-80 TV
+#EXTINF:0001 tvg-id="UnocQxyrv9YNqn" tvg-chno="5" group-title="famelack (it) [it] [False]" tvg-logo="", 70-80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:0001 tvg-id="9A1htfCEwiLjFs" tvg-chno="7" group-title="famelack (it) [it] [False]" tvg-logo="", 111 TV
+#EXTINF:0001 tvg-id="9A1htfCEwiLjFs" tvg-chno="6" group-title="famelack (it) [it] [False]" tvg-logo="", 111 TV
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
-#EXTINF:0001 tvg-id="QAWNpXBSxe4wt2" tvg-chno="8" group-title="famelack (it) [it] [False]" tvg-logo="", A2i TV
+#EXTINF:0001 tvg-id="QAWNpXBSxe4wt2" tvg-chno="7" group-title="famelack (it) [it] [False]" tvg-logo="", A2i TV
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:0001 tvg-id="AxkHU8DJYXqb2o" tvg-chno="9" group-title="famelack (it) [it] [False]" tvg-logo="", ACI Sport TV
+#EXTINF:0001 tvg-id="AxkHU8DJYXqb2o" tvg-chno="8" group-title="famelack (it) [it] [False]" tvg-logo="", ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:0001 tvg-id="1nAsZx7oCuohp2" tvg-chno="10" group-title="famelack (it) [it] [False]" tvg-logo="", AltoAdige TV
+#EXTINF:0001 tvg-id="1nAsZx7oCuohp2" tvg-chno="9" group-title="famelack (it) [it] [False]" tvg-logo="", AltoAdige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="2d4cOi3xUrRR5k" tvg-chno="11" group-title="famelack (it) [it] [False]" tvg-logo="", Antenna 2 TV
+#EXTINF:0001 tvg-id="2d4cOi3xUrRR5k" tvg-chno="10" group-title="famelack (it) [it] [False]" tvg-logo="", Antenna 2 TV
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="qVg6FeIeH4mzo2" tvg-chno="12" group-title="famelack (it) [it] [False]" tvg-logo="", Aurora Arte
+#EXTINF:0001 tvg-id="qVg6FeIeH4mzo2" tvg-chno="11" group-title="famelack (it) [it] [False]" tvg-logo="", Aurora Arte
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
-#EXTINF:0001 tvg-id="Q5wo3yTwHN0sFx" tvg-chno="13" group-title="famelack (it) [it] [False]" tvg-logo="", Azzurra TV
+#EXTINF:0001 tvg-id="Q5wo3yTwHN0sFx" tvg-chno="12" group-title="famelack (it) [it] [False]" tvg-logo="", Azzurra TV
 https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
-#EXTINF:0001 tvg-id="iLdAAV2yITxzBn" tvg-chno="14" group-title="famelack (it) [it] [False]" tvg-logo="", BBC Drama Italy
+#EXTINF:0001 tvg-id="iLdAAV2yITxzBn" tvg-chno="13" group-title="famelack (it) [it] [False]" tvg-logo="", BBC Drama Italy
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="opQlGPPRIgPreO" tvg-chno="15" group-title="famelack (it) [it] [False]" tvg-logo="", BBC Top Gear Italy
+#EXTINF:0001 tvg-id="opQlGPPRIgPreO" tvg-chno="14" group-title="famelack (it) [it] [False]" tvg-logo="", BBC Top Gear Italy
 https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0001 tvg-id="aDSSb0MXYf6HZV" tvg-chno="16" group-title="famelack (it) [it] [False]" tvg-logo="", BeJoy.kids
+#EXTINF:0001 tvg-id="aDSSb0MXYf6HZV" tvg-chno="15" group-title="famelack (it) [it] [False]" tvg-logo="", BeJoy.kids
 https://stream.paroledivita.org/bejoy.m3u8
-#EXTINF:0001 tvg-id="dIt1b8LUM0hcHN" tvg-chno="17" group-title="famelack (it) [it] [False]" tvg-logo="", Bergamo TV
+#EXTINF:0001 tvg-id="dIt1b8LUM0hcHN" tvg-chno="16" group-title="famelack (it) [it] [False]" tvg-logo="", Bergamo TV
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
-#EXTINF:0001 tvg-id="C2iSEG6ol5I30Q" tvg-chno="18" group-title="famelack (it) [it] [False]" tvg-logo="", Boing
+#EXTINF:0001 tvg-id="C2iSEG6ol5I30Q" tvg-chno="17" group-title="famelack (it) [it] [False]" tvg-logo="", Boing
 https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
-#EXTINF:0001 tvg-id="oiQBfbefcaDjm2" tvg-chno="19" group-title="famelack (it) [it] [False]" tvg-logo="", Bom Channel
+#EXTINF:0001 tvg-id="oiQBfbefcaDjm2" tvg-chno="18" group-title="famelack (it) [it] [False]" tvg-logo="", Bom Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
-#EXTINF:0001 tvg-id="enn4H4qkUlzoNX" tvg-chno="20" group-title="famelack (it) [it] [False]" tvg-logo="", CafeTV24
+#EXTINF:0001 tvg-id="enn4H4qkUlzoNX" tvg-chno="19" group-title="famelack (it) [it] [False]" tvg-logo="", CafeTV24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:0001 tvg-id="YuBy0QEyEVrO0O" tvg-chno="21" group-title="famelack (it) [it] [False]" tvg-logo="", Calabria TV
+#EXTINF:0001 tvg-id="YuBy0QEyEVrO0O" tvg-chno="20" group-title="famelack (it) [it] [False]" tvg-logo="", Calabria TV
 https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
-#EXTINF:0001 tvg-id="UTKM2yB8tUj85p" tvg-chno="22" group-title="famelack (it) [it] [False]" tvg-logo="", Camera dei Deputati
+#EXTINF:0001 tvg-id="UTKM2yB8tUj85p" tvg-chno="21" group-title="famelack (it) [it] [False]" tvg-logo="", Camera dei Deputati
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTINF:0001 tvg-id="JiP5cLnzC72htv" tvg-chno="23" group-title="famelack (it) [it] [False]" tvg-logo="", Canale 2 Altamura
+#EXTINF:0001 tvg-id="JiP5cLnzC72htv" tvg-chno="22" group-title="famelack (it) [it] [False]" tvg-logo="", Canale 2 Altamura
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:0001 tvg-id="5HdR8I0ojOAnOH" tvg-chno="24" group-title="famelack (it) [it] [True]" tvg-logo="", Canale 5
+#EXTINF:0001 tvg-id="5HdR8I0ojOAnOH" tvg-chno="23" group-title="famelack (it) [it] [True]" tvg-logo="", Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
-#EXTINF:0001 tvg-id="k6G3LVSwIgLHNR" tvg-chno="25" group-title="famelack (it) [it] [False]" tvg-logo="", Cartoonito
+#EXTINF:0001 tvg-id="k6G3LVSwIgLHNR" tvg-chno="24" group-title="famelack (it) [it] [False]" tvg-logo="", Cartoonito
 https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
-#EXTINF:0001 tvg-id="6vEqILZs7Cm2wA" tvg-chno="26" group-title="famelack (it) [it] [True]" tvg-logo="", Cine34
+#EXTINF:0001 tvg-id="6vEqILZs7Cm2wA" tvg-chno="25" group-title="famelack (it) [it] [True]" tvg-logo="", Cine34
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
-#EXTINF:0001 tvg-id="vrlS9LYggqZr3W" tvg-chno="27" group-title="famelack (it) [it] [True]" tvg-logo="", Class CNBC
+#EXTINF:0001 tvg-id="vrlS9LYggqZr3W" tvg-chno="26" group-title="famelack (it) [it] [True]" tvg-logo="", Class CNBC
 https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
+#EXTINF:0001 tvg-id="F36d923PmJXiTz" tvg-chno="27" group-title="famelack (it) [it] [False]" tvg-logo="", Class TV Moda
+https://www.dailymotion.com/cdn/live/video/x98rt88.m3u8?sec=3FZxZQeceI08NWbQwAxAKdpdnH8gYPtFSg2hr2m8v11-0gQsz2FldP--C6DTACA-
 #EXTINF:0001 tvg-id="zY8UN9MRRHxEYy" tvg-chno="28" group-title="famelack (it) [it] [False]" tvg-logo="", Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:0001 tvg-id="hZp7qm64VGZ6aj" tvg-chno="29" group-title="famelack (it) [it] [False]" tvg-logo="", Cusano Italia TV
@@ -245,30 +245,30 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
 #EXTINF:0001 tvg-id="fupP8X3YpWBo3I" tvg-chno="123" group-title="famelack (it) [it] [False]" tvg-logo="", Rai World Premium
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
-#EXTINF:0001 tvg-id="rW6tKgiQ7jM4rF" tvg-chno="124" group-title="famelack (it) [it] [False]" tvg-logo="", Rakuten TV Comedy Movies Italy
-https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
-#EXTINF:0001 tvg-id="7UK6GTwohWhEMF" tvg-chno="125" group-title="famelack (it) [it] [False]" tvg-logo="", Rakuten TV Family Movies Italy
-https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
-#EXTINF:0001 tvg-id="oURW9nLoHQEwxm" tvg-chno="126" group-title="famelack (it) [it] [False]" tvg-logo="", Rakuten TV Sci-Fi Italy
+#EXTINF:0001 tvg-id="YfU8ScWMpQTPUo" tvg-chno="124" group-title="famelack (it) [it] [False]" tvg-logo="", Rakuten TV Romance Movies Italy
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
+#EXTINF:0001 tvg-id="oURW9nLoHQEwxm" tvg-chno="125" group-title="famelack (it) [it] [False]" tvg-logo="", Rakuten TV Sci-Fi Italy
 https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
-#EXTINF:0001 tvg-id="Dc2UvpAt3aRjGd" tvg-chno="127" group-title="famelack (it) [it] [False]" tvg-logo="", Rakuten TV Top Movies Italy
+#EXTINF:0001 tvg-id="Dc2UvpAt3aRjGd" tvg-chno="126" group-title="famelack (it) [it] [False]" tvg-logo="", Rakuten TV Top Movies Italy
 https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:0001 tvg-id="BiaE6FLHkK4W70" tvg-chno="128" group-title="famelack (it) [it] [False]" tvg-logo="", Real Time
+#EXTINF:0001 tvg-id="BiaE6FLHkK4W70" tvg-chno="127" group-title="famelack (it) [it] [False]" tvg-logo="", Real Time
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
-#EXTINF:0001 tvg-id="mwaE9Of5KjZvBf" tvg-chno="129" group-title="famelack (it) [it] [False]" tvg-logo="", ReggioTV
+#EXTINF:0001 tvg-id="mwaE9Of5KjZvBf" tvg-chno="128" group-title="famelack (it) [it] [False]" tvg-logo="", ReggioTV
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
-#EXTINF:0001 tvg-id="E5GXmKOVJA9sSR" tvg-chno="130" group-title="famelack (it) [it] [False]" tvg-logo="", Rete 8
+#EXTINF:0001 tvg-id="E5GXmKOVJA9sSR" tvg-chno="129" group-title="famelack (it) [it] [False]" tvg-logo="", Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
-#EXTINF:0001 tvg-id="uKcz1DD55WZ1MI" tvg-chno="131" group-title="famelack (it) [it] [False]" tvg-logo="", Rete 55
+#EXTINF:0001 tvg-id="uKcz1DD55WZ1MI" tvg-chno="130" group-title="famelack (it) [it] [False]" tvg-logo="", Rete 55
 https://live1.giocabet.tv/stream/6/index.m3u8
-#EXTINF:0001 tvg-id="QvdvQfwSEIHtyg" tvg-chno="132" group-title="famelack (it) [it] [False]" tvg-logo="", Rete Biella TV
+#EXTINF:0001 tvg-id="QvdvQfwSEIHtyg" tvg-chno="131" group-title="famelack (it) [it] [False]" tvg-logo="", Rete Biella TV
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
-#EXTINF:0001 tvg-id="NjWedgmgQT0ySg" tvg-chno="133" group-title="famelack (it) [it] [False]" tvg-logo="", Rete Oro
+#EXTINF:0001 tvg-id="NjWedgmgQT0ySg" tvg-chno="132" group-title="famelack (it) [it] [False]" tvg-logo="", Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
-#EXTINF:0001 tvg-id="EtxTw9IfoXWpQL" tvg-chno="134" group-title="famelack (it) [it] [False]" tvg-logo="", Rete TV Italia
+#EXTINF:0001 tvg-id="EtxTw9IfoXWpQL" tvg-chno="133" group-title="famelack (it) [it] [False]" tvg-logo="", Rete TV Italia
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
-#EXTINF:0001 tvg-id="an7DSIcVXpjRFU" tvg-chno="135" group-title="famelack (it) [it] [False]" tvg-logo="", Romantica TV
+#EXTINF:0001 tvg-id="an7DSIcVXpjRFU" tvg-chno="134" group-title="famelack (it) [it] [False]" tvg-logo="", Romantica TV
 https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8
+#EXTINF:0001 tvg-id="yr5JBg5lH2xLw3" tvg-chno="135" group-title="famelack (it) [it] [False]" tvg-logo="", RTC Telecalabria
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
 #EXTINF:0001 tvg-id="hWbm2rTjszNer8" tvg-chno="136" group-title="famelack (it) [it] [False]" tvg-logo="", RTL 102.5 Best
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 #EXTINF:0001 tvg-id="q13Nh0WAuMBUK5" tvg-chno="137" group-title="famelack (it) [it] [False]" tvg-logo="", RTL 102.5 Bro&Sis
