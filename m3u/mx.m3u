@@ -95,24 +95,24 @@ https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="eg1gONSWrKSqw4" tvg-chno="48" group-title="famelack (mx) [mx] [False]" tvg-logo="", PSN
 https://srspsn.live/live/livestream.m3u8
-#EXTINF:0001 tvg-id="rGCqu82AwJbUrk" tvg-chno="49" group-title="famelack (mx) [mx] [False]" tvg-logo="", PSN Canal 45.2
-https://srspsn2.live/live/livestream.m3u8
-#EXTINF:0001 tvg-id="DTP0PlieY1RyjA" tvg-chno="50" group-title="famelack (mx) [mx] [False]" tvg-logo="", RCG TV
+#EXTINF:0001 tvg-id="DTP0PlieY1RyjA" tvg-chno="49" group-title="famelack (mx) [mx] [False]" tvg-logo="", RCG TV
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:0001 tvg-id="NUNEvvcYt2iZOI" tvg-chno="51" group-title="famelack (mx) [mx] [False]" tvg-logo="", RTQ Queretaro
+#EXTINF:0001 tvg-id="NUNEvvcYt2iZOI" tvg-chno="50" group-title="famelack (mx) [mx] [False]" tvg-logo="", RTQ Queretaro
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
-#EXTINF:0001 tvg-id="UQFSkPCl4JMKWc" tvg-chno="52" group-title="famelack (mx) [mx] [False]" tvg-logo="", SET Televisión Canal 26.1
+#EXTINF:0001 tvg-id="UQFSkPCl4JMKWc" tvg-chno="51" group-title="famelack (mx) [mx] [False]" tvg-logo="", SET Televisión Canal 26.1
 https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
-#EXTINF:0001 tvg-id="inKpcU1CFpY4af" tvg-chno="53" group-title="famelack (mx) [mx] [False]" tvg-logo="", SIPSE TV 8.1
+#EXTINF:0001 tvg-id="inKpcU1CFpY4af" tvg-chno="52" group-title="famelack (mx) [mx] [False]" tvg-logo="", SIPSE TV 8.1
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
-#EXTINF:0001 tvg-id="bqZG2nHHXJFyOO" tvg-chno="54" group-title="famelack (mx) [mx] [False]" tvg-logo="", SIPSE TVCUN 8.1
+#EXTINF:0001 tvg-id="bqZG2nHHXJFyOO" tvg-chno="53" group-title="famelack (mx) [mx] [False]" tvg-logo="", SIPSE TVCUN 8.1
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-#EXTINF:0001 tvg-id="zMvnkO0BSIigRy" tvg-chno="55" group-title="famelack (mx) [mx] [False]" tvg-logo="", Sistema Michoacano de TV
+#EXTINF:0001 tvg-id="zMvnkO0BSIigRy" tvg-chno="54" group-title="famelack (mx) [mx] [False]" tvg-logo="", Sistema Michoacano de TV
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:0001 tvg-id="c0t3w9rs29fRKj" tvg-chno="56" group-title="famelack (mx) [mx] [False]" tvg-logo="", Tele UV
+#EXTINF:0001 tvg-id="c0t3w9rs29fRKj" tvg-chno="55" group-title="famelack (mx) [mx] [False]" tvg-logo="", Tele UV
 https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-#EXTINF:0001 tvg-id="arUwONnDyiIo6o" tvg-chno="57" group-title="famelack (mx) [mx] [True]" tvg-logo="", Tele Yucatan
+#EXTINF:0001 tvg-id="arUwONnDyiIo6o" tvg-chno="56" group-title="famelack (mx) [mx] [True]" tvg-logo="", Tele Yucatan
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+#EXTINF:0001 tvg-id="RQdKojhpW5FTMJ" tvg-chno="57" group-title="famelack (mx) [mx] [False]" tvg-logo="", TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:0001 tvg-id="KqwTXd2D9Yt1Mj" tvg-chno="58" group-title="famelack (mx) [mx] [False]" tvg-logo="", Telemax (XEWH-TDT)
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:0001 tvg-id="CV0J6mHYbHQoth" tvg-chno="59" group-title="famelack (mx) [mx] [False]" tvg-logo="", Teleplay Sureste
