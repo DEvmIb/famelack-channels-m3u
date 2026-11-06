@@ -239,21 +239,19 @@ https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=9852
 #EXTINF:0001 tvg-id="2gvbHx7OrU70G2" tvg-chno="120" group-title="famelack (fr) [fr] [False]" tvg-logo="", TV5MONDE Chefs
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
-#EXTINF:0001 tvg-id="zN9p9PFYpIjE0W" tvg-chno="121" group-title="famelack (fr) [fr] [True]" tvg-logo="", TV5Monde Europe
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
-#EXTINF:0001 tvg-id="1knGFXXt1Z1tXg" tvg-chno="122" group-title="famelack (fr) [fr] [False]" tvg-logo="", TV7 Colmar
+#EXTINF:0001 tvg-id="1knGFXXt1Z1tXg" tvg-chno="121" group-title="famelack (fr) [fr] [False]" tvg-logo="", TV7 Colmar
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:0001 tvg-id="Aza21fcjQwmAgZ" tvg-chno="123" group-title="famelack (fr) [fr] [False]" tvg-logo="", Vevo Hip-Hop et RnB
+#EXTINF:0001 tvg-id="Aza21fcjQwmAgZ" tvg-chno="122" group-title="famelack (fr) [fr] [False]" tvg-logo="", Vevo Hip-Hop et RnB
 https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
-#EXTINF:0001 tvg-id="4iaZvz0DlRN5Ya" tvg-chno="124" group-title="famelack (fr) [fr] [False]" tvg-logo="", ViaMatele
+#EXTINF:0001 tvg-id="4iaZvz0DlRN5Ya" tvg-chno="123" group-title="famelack (fr) [fr] [False]" tvg-logo="", ViaMatele
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-#EXTINF:0001 tvg-id="Vfl8587p5Rbn09" tvg-chno="125" group-title="famelack (fr) [fr] [False]" tvg-logo="", viaTelePaese
+#EXTINF:0001 tvg-id="Vfl8587p5Rbn09" tvg-chno="124" group-title="famelack (fr) [fr] [False]" tvg-logo="", viaTelePaese
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
-#EXTINF:0001 tvg-id="SbiWPbW9abVIyM" tvg-chno="126" group-title="famelack (fr) [fr] [False]" tvg-logo="", Vosges TV
+#EXTINF:0001 tvg-id="SbiWPbW9abVIyM" tvg-chno="125" group-title="famelack (fr) [fr] [False]" tvg-logo="", Vosges TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:0001 tvg-id="8MY8QweXbIf30Y" tvg-chno="127" group-title="famelack (fr) [fr] [False]" tvg-logo="", Wasabi la chaîne anime
+#EXTINF:0001 tvg-id="8MY8QweXbIf30Y" tvg-chno="126" group-title="famelack (fr) [fr] [False]" tvg-logo="", Wasabi la chaîne anime
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
-#EXTINF:0001 tvg-id="T8DRD6kDPp2FBt" tvg-chno="128" group-title="famelack (fr) [fr] [False]" tvg-logo="", Y'a Que La Vérité Qui Compte La Chaîne
+#EXTINF:0001 tvg-id="T8DRD6kDPp2FBt" tvg-chno="127" group-title="famelack (fr) [fr] [False]" tvg-logo="", Y'a Que La Vérité Qui Compte La Chaîne
 https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8
-#EXTINF:0001 tvg-id="glNPCf2RbwoWmt" tvg-chno="129" group-title="famelack (fr) [fr] [False]" tvg-logo="", zenith
+#EXTINF:0001 tvg-id="glNPCf2RbwoWmt" tvg-chno="128" group-title="famelack (fr) [fr] [False]" tvg-logo="", zenith
 https://live.azenagroup.com/zenith/index.ll.m3u8
