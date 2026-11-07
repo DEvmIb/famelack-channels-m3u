@@ -4,7 +4,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:0001 tvg-id="uXMcPHTew9graP" tvg-chno="2" group-title="famelack (bd) [bd] [False]" tvg-logo="", Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="G2NosoJRDb3Bwq" tvg-chno="3" group-title="famelack (bd) [bd] [False]" tvg-logo="", Duronto TV
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+https://livetv.shamon-cable.net:8443/Duronto/index.m3u8
 #EXTINF:0001 tvg-id="KFm0NDZdja9VIZ" tvg-chno="4" group-title="famelack (bd) [bd] [False]" tvg-logo="", Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:0001 tvg-id="29x0D5l70jxbBR" tvg-chno="5" group-title="famelack (bd) [bd] [False]" tvg-logo="", Green TV
@@ -27,3 +27,5 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:0001 tvg-id="K8OFg70tOZ5TpR" tvg-chno="14" group-title="famelack (bd) [bd] [False]" tvg-logo="", RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
+#EXTINF:0001 tvg-id="nw7Gl0g9Hyfl04" tvg-chno="15" group-title="famelack (bd) [bd] [False]" tvg-logo="", Rupashi Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
