@@ -34,7 +34,7 @@ https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="knoFkqODtHFsAU" tvg-chno="17" group-title="famelack (fi) [fi] [False]" tvg-logo="", Onni TV
 https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
 #EXTINF:0001 tvg-id="Sey5sFeH4sTPhh" tvg-chno="18" group-title="famelack (fi) [fi] [False]" tvg-logo="", STAR Channel
-https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv
+https://live-fi.tvkaista.net/star-channel/live.m3u8
 #EXTINF:0001 tvg-id="xqKdOYRVMSVleX" tvg-chno="19" group-title="famelack (fi) [fi] [False]" tvg-logo="", Taivas TV7
 https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
 #EXTINF:0001 tvg-id="3kvMeRQNc7yJgV" tvg-chno="20" group-title="famelack (fi) [fi] [False]" tvg-logo="", World of Love Island
