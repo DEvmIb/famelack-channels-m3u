@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="a5Vz5oauvbtAer" tvg-chno="1" group-title="famelack (bw) [bw] [False]" tvg-logo="", BTV 1
+https://delivery.broadsmart-streaming.co.za/btv1/index.m3u8
+#EXTINF:0001 tvg-id="tl4dcwwqZ8QDFr" tvg-chno="2" group-title="famelack (bw) [bw] [False]" tvg-logo="", BTV News
+https://delivery.broadsmart-streaming.co.za/btvnews/index.m3u8
